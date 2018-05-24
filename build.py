@@ -59,7 +59,7 @@ def generate():
 def manifest(schedules):
     data = []
     for schedule in schedules:
-        data.append({"date": schedule, "url": "https://github.com/" + os.environ['TRAVIS_REPO_SLUG'] + "/raw/master" + schedule})
+        data.append({"updated": int(time.time()), "date": schedule, "url": "https://github.com/" + os.environ['TRAVIS_REPO_SLUG'] + "/raw/master/" + schedule})
     result = {"data": data}
     print('Writing to manifest')
     file = open('master/manifest', 'w+')
