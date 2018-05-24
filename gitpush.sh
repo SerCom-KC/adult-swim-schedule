@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+
 cd master
 if [ -n "$(git status --porcelain)" ]; then
     echo -e \\033[32mChanges detected, configuring git\\033[0m
