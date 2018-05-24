@@ -34,7 +34,7 @@ you should start from [https://github.com/SerCom-KC/adult-swim-schedule/raw/mast
 ### actual schedule
 please note that the schedule starts at night and ends at morning of the next day.
 
-`date` same as above
+`date` same as above  
 `data` list of shows  
 - `show` title of the show
 - `episode` name of the episode, (hopefully) with "a/an/the" in place
