@@ -1,0 +1,22 @@
+language: python
+python:
+  - "3.6"
+
+branches:
+  except:
+    - master
+
+before_install:
+  - ./gitclone.sh
+
+install:
+  - pip3 install requests
+  - pip3 install datetime
+  - pip3 install lxml
+  - pip3 install pytz
+
+script:
+  - ./build.py
+
+after_success:
+  - ./gitpush.sh
