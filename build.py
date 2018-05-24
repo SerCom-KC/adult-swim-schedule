@@ -24,6 +24,7 @@ def generate():
     today = datetime.now(pytz.timezone('US/Eastern'))
     day = int(today.strftime('%d').lstrip('0'))
     month = today.date().month
+    schedules = []
     while True:
         url = 'https://www.adultswim.com/adultswimdynsched/asXml/' + str(day) + '.EST.xml'
         print('Fetching ' + url)
@@ -39,6 +40,7 @@ def generate():
             airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%m/%d/%Y %H:%M'))
             if airtime_dt.date().month < month:
                 print('\033[32mSchedule generation completed successfully!\033[0m')
+                manifest(schedules)
                 return 0
             airtime = int(airtime_dt.timestamp())
             as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
@@ -48,10 +50,22 @@ def generate():
         file = open('master/' + date, 'w+')
         file.write(json.dumps(result))
         file.close()
+        schedules.append(date)
         day += 1
         if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
             day = 1
             month = month + 1 if month != 12 else 1
+
+def manifest(schedules):
+    data = []
+    for schedule in schedules:
+        data.append({"date": schedule, "url": "https://github.com/" + os.environ['TRAVIS_REPO_SLUG'] + "/raw/master" + schedule})
+    result = {"data": data}
+    print('Writing to manifest')
+    file = open('master/manifest', 'w+')
+    file.write(json.dumps(result))
+    file.close()
+    print('\033[32mManifest generation completed successfully!\033[0m')
 
 if __name__ == "__main__":
     generate()
