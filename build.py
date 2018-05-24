@@ -40,7 +40,7 @@ def generate():
             if airtime_dt.date().month < month:
                 print('\033[32mSchedule generation completed successfully!\033[0m')
                 return 0
-            airtime = int(time.mktime(airtime_dt.timetuple()))
+            airtime = int(airtime_dt.timestamp())
             as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
             as_shows.append(as_show)
         result = {"date": date, "data": as_shows}
