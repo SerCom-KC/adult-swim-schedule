@@ -12,7 +12,7 @@ since the [original one](https://swimpedia.net/oldsched/) is under manual update
 \* as long as github allows us to do so
 
 ## but yours is not a human-readable web page!
-i know, i know... i'll need some time before i can make that happen.  
+who said that? it's right [there](https://adultswim.sercomkc.org).  
 
 ## fine... but source?
 [code](https://github.com/SerCom-KC/adult-swim-schedule/tree/source)!
