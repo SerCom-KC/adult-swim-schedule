@@ -28,7 +28,7 @@ you should start from [https://github.com/SerCom-KC/adult-swim-schedule/raw/mast
 ### manifest
 `updated` time of generation in unix timestamp  
 `data` list of generated schedules  
-- `date` schedule time in YYYY-MM-DD format
+- `date` schedule time in `YYYY-MM-DD` format
 - `url` this is where you should go next
 
 ### actual schedule
@@ -44,7 +44,8 @@ please note that the schedule starts at night and ends at morning of the next da
 want more? impossible. that's already everything from official sources - at least, the known part of it.
 
 ## disclaimer
-in no way affilliated with adult swim, cartoon network or it's parent companies or subsidiaries. schedule data is pulled from official xml sources and is correct at time of publication.
+in no way affilliated with adult swim, cartoon network or it's parent companies or subsidiaries. schedule data is pulled from official xml sources and is correct at time of publication.  
+**please do not contact any [adult swim] employee on social media regarding any schedule information listed here. treat any future schedule information as a placeholder until an official announcement is made.**
 
 ## license (for everything except schedule data)
 ```
