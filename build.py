@@ -65,13 +65,18 @@ def getDoW(str):
     elif str == '7':
         return 'Sunday'
 
-def fixName(name):
+def fixName(name, force_the=False):
+    fixed_names = []
     for title in name.split('/'):
         fixed = re.sub(r'(.*?) $', 'The \\1', title)
         fixed = re.sub(r'(.*?), The$', 'The \\1', fixed)
-        fixed = re.sub(r'(.*?), An$', 'An \\1', fixed)
-        fixed = re.sub(r'(.*?), A$', 'A \\1', fixed)
-        name = name.replace(title, fixed)
+        if force_the and not fixed.startswith('The '):
+            fixed = 'The ' + fixed
+        else:
+            fixed = re.sub(r'(.*?), An$', 'An \\1', fixed)
+            fixed = re.sub(r'(.*?), A$', 'A \\1', fixed)
+        fixed_names.append(fixed)
+    name = '/'.join(fixed_names)
     return name.replace('/', '; ')
 
 def generate():
