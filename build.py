@@ -4,7 +4,7 @@
 import requests
 import time
 import os
-from datetime import datetime
+from datetime import datetime, date
 from lxml import etree
 import pytz
 import re
@@ -13,41 +13,41 @@ from calendar import monthrange
 
 def getDate(month, day):
     if month == '01':
-        date = 'January'
+        date_str = 'January'
     elif month == '02':
-        date = 'February'
+        date_str = 'February'
     elif month == '03':
-        date = 'March'
+        date_str = 'March'
     elif month == '04':
-        date = 'April'
+        date_str = 'April'
     elif month == '05':
-        date = 'May'
+        date_str = 'May'
     elif month == '06':
-        date = 'June'
+        date_str = 'June'
     elif month == '07':
-        date = 'July'
+        date_str = 'July'
     elif month == '08':
-        date = 'August'
+        date_str = 'August'
     elif month == '09':
-        date = 'September'
+        date_str = 'September'
     elif month == '10':
-        date = 'October'
+        date_str = 'October'
     elif month == '11':
-        date = 'November'
+        date_str = 'November'
     elif month == '12':
-        date = 'December'
-    date += ' ' + day.lstrip('0')
+        date_str = 'December'
+    date_str += ' ' + day.lstrip('0')
     if int(day) >= 11 and int(day) <= 13:
-        date += 'th'
+        date_str += 'th'
     elif day.endswith('1'):
-        date += 'st'
+        date_str += 'st'
     elif day.endswith('2'):
-        date += 'nd'
+        date_str += 'nd'
     elif day.endswith('3'):
-        date += 'rd'
+        date_str += 'rd'
     else:
-        date += 'th'
-    return date
+        date_str += 'th'
+    return date_str
 
 def getDoW(str):
     if str == '1':
@@ -80,8 +80,6 @@ def fixName(name, force_the=False):
     return name.replace('/', '; ')
 
 def generate():
-    global html_schedule
-    global html_nav
     s = requests.Session()
     today = datetime.now(pytz.timezone('US/Eastern'))
     day = int(today.strftime('%d').lstrip('0'))
@@ -96,13 +94,8 @@ def generate():
             print('\033[32mSchedule generation completed successfully!\033[0m')
             manifest(schedules)
             return 0
-        date = date_split[2] + '-' + date_split[0] + '-' + date_split[1]
+        date_str = date_split[2] + '-' + date_split[0] + '-' + date_split[1]
         as_shows = []
-        html_schedule += '<div class="tab-pane fade" id="day' + str(day) + '">'
-        html_nav += '<li><a data-toggle="pill" href="#day' + str(day) + '">' + getDoW(allshows[0].xpath('@weekday')[0]) + ', ' + getDate(date_split[0], date_split[1]) + '</a></li>'
-        if allshows[0].xpath('@weekday')[0] == '6':
-            html_schedule += '<div class="alert alert-danger"><h4>Important:</h4><p>Please <b>do not</b> contact any Adult Swim employee on social media regarding any schedule information this page provides. <br>Treat any future Toonami schedule information as a placeholder until an official announcement is made.</p></div>'
-        html_schedule += '<table class="table table-striped table-hover "><tbody>'
         for show in allshows:
             title = fixName(show.xpath('@title')[0])
             episodeName = fixName(show.xpath('@episodeName')[0])
@@ -112,14 +105,12 @@ def generate():
             airtime = int(airtime_dt.timestamp())
             as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
             as_shows.append(as_show)
-            html_schedule += '<tr><td class="col-md-1 text-right vert-align"><b>' + show.xpath('@time')[0].replace('.', '').replace(' ', '') + '</b></td><td>' + title + '<br><small>"' + episodeName + '"</small></td><td class="col-md-2 vert-align">' + rating + '</td>'
-        html_schedule += '</tbody></table></div>'
-        result = {"date": date, "data": as_shows}
-        print('Writing schedule of ' + date + ' to file')
-        file = open('master/' + date, 'w+')
+        result = {"date": date_str, "data": as_shows}
+        print('Writing schedule of ' + date_str + ' to file')
+        file = open('master/' + date_str, 'w+')
         file.write(json.dumps(result))
         file.close()
-        schedules.append(date)
+        schedules.append(date_str)
         day += 1
         if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
             day = 1
@@ -137,8 +128,27 @@ def manifest(schedules):
     print('\033[32mManifest generation completed successfully!\033[0m')
 
 def webpage():
-    global html_schedule
-    global html_nav
+    file = open('master/manifest', 'r')
+    schedules = json.loads(file.read())["data"]
+    file.close()
+    html_schedule = ''
+    html_nav = ''
+    for schedule in schedules:
+        date_split = schedule["date"].split('-')
+        date_d = date(int(date_split[0]), int(date_split[1]), int(date_split[2]))
+        html_schedule += '<div class="tab-pane fade" id="day' + str(date_d.day) + '">'
+        html_nav += '<li><a data-toggle="pill" href="#day' + str(date_d.day) + '">' + getDoW(str(date_d.isoweekday())) + ', ' + getDate(date_split[1], date_split[2]) + '</a></li>'
+        if date_d.isoweekday() == 6:
+            html_schedule += '<div class="alert alert-danger"><h4>Important:</h4><p>Please <b>do not</b> contact any Adult Swim employee on social media regarding any schedule information this page provides. <br>Treat any future Toonami schedule information as a placeholder until an official announcement is made.</p></div>'
+        html_schedule += '<table class="table table-striped table-hover "><tbody>'
+        file = open('master/' + schedule["date"], 'r')
+        shows = json.loads(file.read())["data"]
+        file.close()
+        for index, show in enumerate(shows):
+            time_dt = datetime.fromtimestamp(show['airtime']).astimezone(pytz.timezone('US/Eastern'))
+            time_str = str(int(time_dt.strftime('%I'))) + time_dt.strftime(':%M%p')
+            html_schedule += '<tr><td class="col-md-1 text-right vert-align"><b>' + time_str + '</b></td><td>' + show['show'] + '<br><small>"' + show['episode'] + '"</small></td><td class="col-md-2 vert-align">' + show['rating'] + '</td>'
+        html_schedule += '</tbody></table></div>'
     html = '<!DOCTYPE html><html><head><link rel="stylesheet" href="./bootstrap_min.css" media="screen"><script src="./jquery-3.2.1.min.js" type="text/javascript"></script><script src="./bootstrap.min.js" type="text/javascript"></script><title>yet another better [adult swim] schedule</title></head><div class="container"><div class="page-header" id="banner"><h1>yet another better [adult swim] schedule</h1><p class="lead">Wanna seeee into the future? // Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + ' <img src="https://travis-ci.org/' + os.environ['TRAVIS_REPO_SLUG'] + '.svg?branch=' + os.environ['TRAVIS_BRANCH'] + '" alt="Build Status" /></p></div><div class="row"><div class="col-lg-3 col-md-4 col-sm-5"><ul class="nav nav-pills nav-stacked">'
     html += html_nav
     html += '</ul></div><div class="col-lg-9 col-md-8 col-sm-7 "><div id="schedule" class="tab-content">'
@@ -149,9 +159,5 @@ def webpage():
     file.close()
 
 if __name__ == "__main__":
-    global html_schedule
-    global html_nav
-    html_schedule = ''
-    html_nav = ''
     generate()
     webpage()
