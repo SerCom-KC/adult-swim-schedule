@@ -133,7 +133,7 @@ def webpage():
     file.close()
     html_schedule = ''
     html_nav = ''
-    html_gridtop = '<tr><td style="width: 75px; text-align: center; vertical-align: middle">TIME</td>'
+    html_gridtop = '<tr><td style="width: 90px; text-align: center; vertical-align: middle">TIME</td>'
     html_gridtimeslots = {
         "8:00PM": [], "8:15PM": [], "8:30PM": [], "8:45PM": [], 
         "9:00PM": [], "9:15PM": [], "9:30PM": [], "9:45PM": [], 
@@ -176,7 +176,7 @@ def webpage():
     html += '<table class="table table-striped table-hover " style="width: ' + str((len(schedules) + 1) * 150) + 'px"><tbody>'
     html += html_gridtop
     for timeslot, shows in html_gridtimeslots.items():
-        html += '<tr><td style="width: 75px; text-align: center; vertical-align: middle; font-weight: bold">' + timeslot.replace('AM', ' AM').replace('PM', ' PM') + '</td>'
+        html += '<tr><td style="width: 90px; text-align: center; vertical-align: middle; font-weight: bold">' + timeslot.replace('AM', ' AM').replace('PM', ' PM') + '</td>'
         for show in shows:
             html += '<td style="width: 150px; text-align: center; vertical-align: middle" rowspan=' + str(int(show["duration"] / 900)) + ' title="' + show["episode"] + '">' + show["show"] + '</td>'
     html += '</tbody></table></div>'
