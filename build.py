@@ -133,7 +133,7 @@ def webpage():
     file.close()
     html_schedule = ''
     html_nav = ''
-    html_gridtop = '<tr><td style="width: 150px; text-align: center; vertical-align: middle; font-weight: bold">TIME</td>'
+    html_gridtop = '<tr><td style="width: 75px; text-align: center; vertical-align: middle">TIME</td>'
     html_gridtimeslots = {
         "8:00PM": [], "8:15PM": [], "8:30PM": [], "8:45PM": [], 
         "9:00PM": [], "9:15PM": [], "9:30PM": [], "9:45PM": [], 
@@ -151,7 +151,7 @@ def webpage():
         date_d = date(int(date_split[0]), int(date_split[1]), int(date_split[2]))
         html_schedule += '<div class="tab-pane fade" id="day' + str(date_d.day) + '">'
         html_nav += '<li><a data-toggle="pill" href="#day' + str(date_d.day) + '">' + getDoW(str(date_d.isoweekday())) + ', ' + getDate(date_split[1], date_split[2]) + '</a></li>'
-        html_gridtop += '<td style="width: 150px; text-align: center; vertical-align: middle; font-weight: bold">' + getDoW(str(date_d.isoweekday())).upper() + ' ' + str(date_d.month) + '/' + str(date_d.day) + '</td>'
+        html_gridtop += '<td style="width: 150px; text-align: center; vertical-align: middle">' + getDoW(str(date_d.isoweekday())).upper() + ' ' + str(date_d.month) + '/' + str(date_d.day) + '</td>'
         if date_d.isoweekday() == 6:
             html_schedule += '<div class="alert alert-danger"><h4>Important:</h4><p>Please <b>do not</b> contact any Adult Swim employee on social media regarding any schedule information this page provides. <br>Treat any future Toonami schedule information as a placeholder until an official announcement is made.</p></div>'
         html_schedule += '<table class="table table-striped table-hover "><tbody>'
@@ -176,7 +176,7 @@ def webpage():
     html += '<table class="table table-striped table-hover " style="width: ' + str((len(schedules) + 1) * 150) + 'px"><tbody>'
     html += html_gridtop
     for timeslot, shows in html_gridtimeslots.items():
-        html += '<tr><td style="width: 150px; text-align: center; vertical-align: middle">' + timeslot + '</td>'
+        html += '<tr><td style="width: 75px; text-align: center; vertical-align: middle; font-weight: bold">' + timeslot.replace('AM', ' AM').replace('PM', ' PM') + '</td>'
         for show in shows:
             html += '<td style="width: 150px; text-align: center; vertical-align: middle" rowspan=' + str(int(show["duration"] / 900)) + ' title="' + show["episode"] + '">' + show["show"] + '</td>'
     html += '</tbody></table></div>'
