@@ -82,6 +82,7 @@ def fixName(name, force_the=False):
 def generate():
     global html_schedule
     global html_nav
+    s = requests.Session()
     today = datetime.now(pytz.timezone('US/Eastern'))
     day = int(today.strftime('%d').lstrip('0'))
     month = today.date().month
@@ -89,7 +90,7 @@ def generate():
     while True:
         url = 'https://www.adultswim.com/adultswimdynsched/asXml/' + str(day) + '.EST.xml'
         print('Fetching ' + url)
-        allshows = etree.XML(requests.get(url, timeout=10).content).xpath('//allshows/show')
+        allshows = etree.XML(s.get(url, timeout=3).content).xpath('//allshows/show')
         date_split = allshows[0].xpath('@date')[0].split('/')
         if int(date_split[0]) < month:
             print('\033[32mSchedule generation completed successfully!\033[0m')
