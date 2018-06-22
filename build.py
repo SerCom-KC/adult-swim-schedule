@@ -9,7 +9,6 @@ from lxml import etree
 import pytz
 import re
 import json
-from calendar import monthrange
 
 def getDate(month, day):
     if month == '01':
@@ -111,10 +110,8 @@ def generate():
         file.write(json.dumps(result))
         file.close()
         schedules.append(date_str)
-        day += 1
-        if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
-            day = 1
-            month = month + 1 if month != 12 else 1
+        month = airtime_dt.date().month
+        day = airtime_dt.date().day
 
 def manifest(schedules):
     data = []
