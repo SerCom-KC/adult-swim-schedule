@@ -143,6 +143,7 @@ def webpage():
         "4:00AM": [], "4:15AM": [], "4:30AM": [], "4:45AM": [], 
         "5:00AM": [], "5:15AM": [], "5:30AM": [], "5:45AM": [], 
     }
+    html_grid = True
     for schedule in schedules:
         date_split = schedule["date"].split('-')
         date_d = date(int(date_split[0]), int(date_split[1]), int(date_split[2]))
@@ -159,24 +160,31 @@ def webpage():
             time_dt = datetime.fromtimestamp(show['airtime']).astimezone(pytz.timezone('US/Eastern'))
             time_str = str(int(time_dt.strftime('%I'))) + time_dt.strftime(':%M%p')
             html_schedule += '<tr><td class="col-md-1 text-right vert-align"><b>' + time_str + '</b></td><td>' + show['show'] + '<br><small>"' + show['episode'] + '"</small></td><td class="col-md-2 vert-align">' + show['rating'] + '</td>'
-            if show == shows[-1]:
-                html_gridtimeslots[time_str].append({"show": show['show'], "episode": show['episode'], "color": None, "duration": int(time_dt.replace(hour=6, minute=0).timestamp()) - show['airtime']})
-            else:
-                html_gridtimeslots[time_str].append({"show": show['show'], "episode": show['episode'], "color": None, "duration": shows[index+1]['airtime'] - show['airtime']})
+            if not html_grid:
+                continue
+            try:
+                if show == shows[-1]:
+                    html_gridtimeslots[time_str].append({"show": show['show'], "episode": show['episode'], "color": None, "duration": int(time_dt.replace(hour=6, minute=0).timestamp()) - show['airtime']})
+                else:
+                    html_gridtimeslots[time_str].append({"show": show['show'], "episode": show['episode'], "color": None, "duration": shows[index+1]['airtime'] - show['airtime']})
+            except KeyError:
+                html_grid = False
+                continue
         html_schedule += '</tbody></table></div>'
     html = '<!DOCTYPE html><html><head><link rel="stylesheet" href="./bootstrap_min.css" media="screen"><script src="./jquery-3.2.1.min.js" type="text/javascript"></script><script src="./bootstrap.min.js" type="text/javascript"></script><title>yet another better [adult swim] schedule</title></head><div class="container"><div class="page-header" id="banner"><h1>yet another better [adult swim] schedule</h1><p class="lead">Wanna seeee into the future? // Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + ' <img src="https://travis-ci.org/' + os.environ['TRAVIS_REPO_SLUG'] + '.svg?branch=' + os.environ['TRAVIS_BRANCH'] + '" alt="Build Status" /></p></div><div class="row"><div class="col-lg-3 col-md-4 col-sm-5"><ul class="nav nav-pills nav-stacked">'
     html_nav += '<li><a data-toggle="pill" href="#grid">Grid (Experimental)</a></li>'
     html += html_nav
     html += '</ul></div><div class="col-lg-9 col-md-8 col-sm-7 "><div id="schedule" class="tab-content">'
     html += html_schedule
-    html += '<div class="tab-pane fade" id="grid" style="overflow-x: auto">'
-    html += '<table class="table table-striped table-hover " style="width: ' + str((len(schedules) + 1) * 150) + 'px"><tbody>'
-    html += html_gridtop
-    for timeslot, shows in html_gridtimeslots.items():
-        html += '<tr><td style="width: 90px; text-align: center; vertical-align: middle; font-weight: bold">' + timeslot.replace('AM', ' AM').replace('PM', ' PM') + '</td>'
-        for show in shows:
-            html += '<td style="width: 150px; text-align: center; vertical-align: middle" rowspan=' + str(int(show["duration"] / 900)) + ' title="' + show["episode"] + '">' + show["show"] + '</td>'
-    html += '</tbody></table></div>'
+    if html_grid:
+        html += '<div class="tab-pane fade" id="grid" style="overflow-x: auto">'
+        html += '<table class="table table-striped table-hover " style="width: ' + str((len(schedules) + 1) * 150) + 'px"><tbody>'
+        html += html_gridtop
+        for timeslot, shows in html_gridtimeslots.items():
+            html += '<tr><td style="width: 90px; text-align: center; vertical-align: middle; font-weight: bold">' + timeslot.replace('AM', ' AM').replace('PM', ' PM') + '</td>'
+            for show in shows:
+                html += '<td style="width: 150px; text-align: center; vertical-align: middle" rowspan=' + str(int(show["duration"] / 900)) + ' title="' + show["episode"] + '">' + show["show"] + '</td>'
+        html += '</tbody></table></div>'
     html += '</div></div></div><footer class="page-footer"><div class="row"><div class="col-lg-12"><p><a href="http://swimpedia.net/oldsched/" rel="nofollow">originally</a> created by <a href="http://twitter.com/jessfromabove" rel="nofollow">someone</a> using a little bit of <a href="http://getbootstrap.com" rel="nofollow">this</a> and a little bit of <a href="https://jquery.com/" rel="nofollow">that</a> on a bored halloween evening. colours by <a href="https://bootswatch.com/" rel="nofollow">tom</a>. </p><p>adapted by <a href="https://github.com/SerCom-KC" rel="nofollow">someone else</a> using a little bit of <a href="https://www.python.org/" rel="nofollow">this</a> and a little bit of <a href="https://travis-ci.org/" rel="nofollow">that</a> on a bored-but-not-halloween evening. source code available at <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '" rel="nofollow">somewhere</a>. </p><p>bots? go <a href="./manifest" rel="nofollow">here</a>. still can\'t read it? ask your owner to read <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '/blob/master/README.md#im-a-developer-how-to-use-this-api-like-thing-then" rel="nofollow">this</a>. </p><p>something weird happened? report it <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '/issues/new" rel="nofollow">here</a>. </p><p>in no way affilliated with adult swim, cartoon network or it\'s parent companies or subsidiaries. schedule data is pulled from official xml sources and is correct at time of publication.</p><p>shout outs /r/adultswim, /r/toonami, /co/, toonamiarsenal, bumpworthy and myspleen. </p></div></div></footer></div></html>'
     file = open('master/index.html', 'w+')
     file.write(html)
