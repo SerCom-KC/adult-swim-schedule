@@ -85,7 +85,7 @@ def generate():
     month = today.date().month
     schedules = []
     while True:
-        url = 'https://www.adultswim.com/adultswimdynsched/asXml/' + str(day) + '.EST.xml'
+        url = 'https://www.cartoonnetwork.com/cnschedule/asXml/' + str(day) + '.EST.xml'
         print('Fetching ' + url)
         allshows = etree.XML(s.get(url, timeout=3).content).xpath('//allshows/show')
         date_split = allshows[0].xpath('@date')[0].split('/')
