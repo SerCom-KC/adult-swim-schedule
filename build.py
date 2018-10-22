@@ -111,7 +111,13 @@ def generate():
         file.close()
         schedules.append(date_str)
         month = airtime_dt.date().month
-        day = airtime_dt.date().day
+        if day == airtime_dt.date().day: # In case of an incomplete schedule like https://web.archive.org/web/20181022041358id_/https://www.cartoonnetwork.com/cnschedule/asXml/3.EST.xml
+            day += 1
+            if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
+                day = 1
+                month = month + 1 if month != 12 else 1
+        else:
+            day = airtime_dt.date().day
 
 def manifest(schedules):
     data = []
