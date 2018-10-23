@@ -85,6 +85,37 @@ def generate():
     day = int(today.strftime('%d').lstrip('0'))
     month = today.date().month
     schedules = []
+
+    # JSON schedule
+    json_days = 7
+    json_index = 0
+    url = "https://www.adultswim.com/api/schedule/onair"
+    print('Fetching ' + url)
+    for json_day in range(1, json_days + 1):
+        json_resp = s.get(url, params={"days": json_day}, timeout=5).json()
+        as_shows = []
+        if json_resp["status"] == "ok":
+            data = json_resp["data"]
+            airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(data[json_index]["datetime"], '"%Y-%m-%dT%H:%M:%S-04:00'))
+            date_str = airtime_dt.strftime("%Y-%m-%d")
+            for json_index in range(json_index, json_resp["count"]):
+                item = data[json_index]
+                title = item["showTitle"]
+                episodeName = item["episodeTitle"]
+                rating = item["rating"]
+                airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(item["datetime"], '"%Y-%m-%dT%H:%M:%S-04:00'))
+                airtime = int(airtime_dt.timestamp())
+                as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
+                as_shows.append(as_show)
+            result = {"date": date_str, "data": as_shows}
+            print('Writing schedule of ' + date_str + ' to file')
+            file = open('master/' + date_str, 'w+')
+            file.write(json.dumps(result))
+            file.close()
+        schedules.append(date_str)
+        json_index = json_resp["count"]
+
+    # XML schedule
     while True:
         url = 'https://www.cartoonnetwork.com/cnschedule/asXml/' + str(day) + '.EST.xml'
         print('Fetching ' + url)
