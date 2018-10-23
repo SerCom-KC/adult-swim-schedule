@@ -97,12 +97,16 @@ def generate():
         if json_resp["status"] == "ok":
             data = json_resp["data"]
             airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(data[json_index]["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
-            date_str = airtime_dt.strftime("%Y-%m-%d")
+            if airtime_dt.date().day != day:
+                datepre_dt = airtime_dt - timedelta(days=1)
+                date_str = datepre_dt.strftime("%Y-%m-%d")
+            else:
+                date_str = airtime_dt.strftime("%Y-%m-%d")
             for json_index in range(json_index, json_resp["count"]):
                 item = data[json_index]
                 title = item["showTitle"]
                 episodeName = item["episodeTitle"]
-                rating = item["rating"]
+                rating = item["rating"].replace(" ", "")
                 airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(item["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
                 airtime = int(airtime_dt.timestamp())
                 as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
@@ -114,8 +118,11 @@ def generate():
             file.close()
         schedules.append(date_str)
         json_index = json_resp["count"]
+        day += 1
+        if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
+            day = 1
+            month = month + 1 if month != 12 else 1
 
-    day += json_days
     # XML schedule
     while True:
         url = 'https://www.cartoonnetwork.com/cnschedule/asXml/' + str(day) + '.EST.xml'
