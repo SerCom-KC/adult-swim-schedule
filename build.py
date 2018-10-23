@@ -4,7 +4,7 @@
 import requests
 import time
 import os
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 from lxml import etree
 import pytz
 import re
@@ -96,7 +96,7 @@ def generate():
             return 0
         if int(date_split[1]) != day: # In case of an incomplete schedule like https://web.archive.org/web/20181023005338id_/https://www.cartoonnetwork.com/cnschedule/asXml/27.EST.xml
             datepre_str = allshows[0].xpath('@date')[0] + ' ' + allshows[0].xpath('@military')[0]
-            datepre_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%m/%d/%Y %H:%M')) - datetime.timedelta(days=1)
+            datepre_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%m/%d/%Y %H:%M')) - timedelta(days=1)
             date_str = datepre_dt.strftime("%Y-%m-%d")
         else:
             date_str = date_split[2] + '-' + date_split[0] + '-' + date_split[1]
