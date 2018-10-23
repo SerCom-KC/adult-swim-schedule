@@ -111,20 +111,20 @@ def generate():
                 airtime = int(airtime_dt.timestamp())
                 as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
                 as_shows.append(as_show)
+            if day == airtime_dt.date().day:
+                day += 1
+                if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
+                    day = 1
+                    month = month + 1 if month != 12 else 1
+            else:
+                day = airtime_dt.date().day
             result = {"date": date_str, "data": as_shows}
             print('Writing schedule of %s to file' % (date_str))
             file = open('master/' + date_str, 'w+')
             file.write(json.dumps(result))
             file.close()
-        schedules.append(date_str)
-        json_index = json_resp["count"]
-        if day == airtime_dt.date().day:
-            day += 1
-            if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
-                day = 1
-                month = month + 1 if month != 12 else 1
-        else:
-            day = airtime_dt.date().day
+            schedules.append(date_str)
+            json_index = json_resp["count"]
 
     # XML schedule
     while True:
@@ -152,13 +152,6 @@ def generate():
             airtime = int(airtime_dt.timestamp())
             as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
             as_shows.append(as_show)
-        result = {"date": date_str, "data": as_shows}
-        print('Writing schedule of %s to file' % (date_str))
-        file = open('master/' + date_str, 'w+')
-        file.write(json.dumps(result))
-        file.close()
-        schedules.append(date_str)
-        month = airtime_dt.date().month
         if day == airtime_dt.date().day: # In case of an incomplete schedule like https://web.archive.org/web/20181022041358id_/https://www.cartoonnetwork.com/cnschedule/asXml/3.EST.xml
             day += 1
             if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
@@ -166,6 +159,13 @@ def generate():
                 month = month + 1 if month != 12 else 1
         else:
             day = airtime_dt.date().day
+        result = {"date": date_str, "data": as_shows}
+        print('Writing schedule of %s to file' % (date_str))
+        file = open('master/' + date_str, 'w+')
+        file.write(json.dumps(result))
+        file.close()
+        schedules.append(date_str)
+        month = airtime_dt.date().month
 
 def manifest(schedules):
     data = []
@@ -212,7 +212,7 @@ def webpage():
         file.close()
         for index, show in enumerate(shows):
             time_dt = datetime.fromtimestamp(show['airtime']).astimezone(pytz.timezone('US/Eastern'))
-            time_str = str(int(time_dt.strftime('%I'))) + time_dt.strftime(':%M%p')
+            time_str = str(int(time_dt.strftime('%I'))) + time_dt.strftime(':%M') + time_dt.strftime('%p').lower()
             html_schedule += '<tr><td class="col-md-1 text-right vert-align"><b>' + time_str + '</b></td><td>' + show['show'] + '<br><small>"' + show['episode'] + '"</small></td><td class="col-md-2 vert-align">' + show['rating'] + '</td>'
             if not html_grid:
                 continue
