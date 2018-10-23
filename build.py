@@ -87,44 +87,44 @@ def generate():
     schedules = []
 
     # JSON schedule
-    json_days = 7
-    json_index = 0
-    url = "https://www.adultswim.com/api/schedule/onair"
-    for json_day in range(1, json_days + 1):
-        print('Fetching %s?days=%s' % (url, json_day))
-        json_resp = s.get(url, params={"days": json_day}, timeout=5).json()
-        as_shows = []
-        if json_resp["status"] == "ok":
-            data = json_resp["data"]
-            airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(data[json_index]["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
-            if airtime_dt.date().day != day:
-                datepre_dt = airtime_dt - timedelta(days=1)
-                date_str = datepre_dt.strftime("%Y-%m-%d")
-            else:
-                date_str = airtime_dt.strftime("%Y-%m-%d")
-            for json_index in range(json_index, json_resp["count"]):
-                item = data[json_index]
-                title = item["showTitle"]
-                episodeName = item["episodeTitle"]
-                rating = item["rating"].replace(" ", "")
-                airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(item["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
-                airtime = int(airtime_dt.timestamp())
-                as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
-                as_shows.append(as_show)
-            if day == airtime_dt.date().day:
-                day += 1
-                if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
-                    day = 1
-                    month = month + 1 if month != 12 else 1
-            else:
-                day = airtime_dt.date().day
-            result = {"date": date_str, "data": as_shows}
-            print('Writing schedule of %s to file' % (date_str))
-            file = open('master/' + date_str, 'w+')
-            file.write(json.dumps(result))
-            file.close()
-            schedules.append(date_str)
-            json_index = json_resp["count"]
+    #json_days = 7
+    #json_index = 0
+    #url = "https://www.adultswim.com/api/schedule/onair"
+    #for json_day in range(1, json_days + 1):
+        #print('Fetching %s?days=%s' % (url, json_day))
+        #json_resp = s.get(url, params={"days": json_day}, timeout=5).json()
+        #as_shows = []
+        #if json_resp["status"] == "ok":
+            #data = json_resp["data"]
+            #airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(data[json_index]["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
+            #if airtime_dt.date().day != day:
+                #datepre_dt = airtime_dt - timedelta(days=1)
+                #date_str = datepre_dt.strftime("%Y-%m-%d")
+            #else:
+                #date_str = airtime_dt.strftime("%Y-%m-%d")
+            #for json_index in range(json_index, json_resp["count"]):
+                #item = data[json_index]
+                #title = item["showTitle"]
+                #episodeName = item["episodeTitle"]
+                #rating = item["rating"].replace(" ", "")
+                #airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(item["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
+                #airtime = int(airtime_dt.timestamp())
+                #as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
+                #as_shows.append(as_show)
+            #if day == airtime_dt.date().day:
+                #day += 1
+                #if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
+                    #day = 1
+                    #month = month + 1 if month != 12 else 1
+            #else:
+                #day = airtime_dt.date().day
+            #result = {"date": date_str, "data": as_shows}
+            #print('Writing schedule of %s to file' % (date_str))
+            #file = open('master/' + date_str, 'w+')
+            #file.write(json.dumps(result))
+            #file.close()
+            #schedules.append(date_str)
+            #json_index = json_resp["count"]
 
     # XML schedule
     while True:
