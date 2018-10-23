@@ -90,8 +90,8 @@ def generate():
     json_days = 7
     json_index = 0
     url = "https://www.adultswim.com/api/schedule/onair"
-    print('Fetching ' + url)
     for json_day in range(1, json_days + 1):
+        print('Fetching %s?days=%s' % (url, json_day))
         json_resp = s.get(url, params={"days": json_day}, timeout=5).json()
         as_shows = []
         if json_resp["status"] == "ok":
@@ -112,21 +112,24 @@ def generate():
                 as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
                 as_shows.append(as_show)
             result = {"date": date_str, "data": as_shows}
-            print('Writing schedule of ' + date_str + ' to file')
+            print('Writing schedule of %s to file' % (date_str))
             file = open('master/' + date_str, 'w+')
             file.write(json.dumps(result))
             file.close()
         schedules.append(date_str)
         json_index = json_resp["count"]
-        day += 1
-        if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
-            day = 1
-            month = month + 1 if month != 12 else 1
+        if day == airtime_dt.date().day:
+            day += 1
+            if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
+                day = 1
+                month = month + 1 if month != 12 else 1
+        else:
+            day = airtime_dt.date().day
 
     # XML schedule
     while True:
         url = 'https://www.cartoonnetwork.com/cnschedule/asXml/' + str(day) + '.EST.xml'
-        print('Fetching ' + url)
+        print('Fetching %s' % (url))
         allshows = etree.XML(s.get(url, timeout=3).content).xpath('//allshows/show')
         date_split = allshows[0].xpath('@date')[0].split('/')
         if int(date_split[0]) < month:
@@ -150,7 +153,7 @@ def generate():
             as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
             as_shows.append(as_show)
         result = {"date": date_str, "data": as_shows}
-        print('Writing schedule of ' + date_str + ' to file')
+        print('Writing schedule of %s to file' % (date_str))
         file = open('master/' + date_str, 'w+')
         file.write(json.dumps(result))
         file.close()
@@ -236,7 +239,7 @@ def webpage():
             for show in shows:
                 html += '<td style="width: 150px; text-align: center; vertical-align: middle" rowspan=' + str(int(show["duration"] / 900)) + ' title="' + show["episode"] + '">' + show["show"] + '</td>'
         html += '</tbody></table></div>'
-    html += '</div></div></div><footer class="page-footer"><div class="row"><div class="col-lg-12"><p><a href="http://swimpedia.net/oldsched/" rel="nofollow">originally</a> created by <a href="http://twitter.com/jessfromabove" rel="nofollow">someone</a> using a little bit of <a href="http://getbootstrap.com" rel="nofollow">this</a> and a little bit of <a href="https://jquery.com/" rel="nofollow">that</a> on a bored halloween evening. colours by <a href="https://bootswatch.com/" rel="nofollow">tom</a>. </p><p>adapted by <a href="https://github.com/SerCom-KC" rel="nofollow">someone else</a> using a little bit of <a href="https://www.python.org/" rel="nofollow">this</a> and a little bit of <a href="https://travis-ci.org/" rel="nofollow">that</a> on a bored-but-not-halloween evening. source code available at <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '" rel="nofollow">somewhere</a>. </p><p>bots? go <a href="./manifest" rel="nofollow">here</a>. still can\'t read it? ask your owner to read <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '/blob/master/README.md#im-a-developer-how-to-use-this-api-like-thing-then" rel="nofollow">this</a>. </p><p>something weird happened? report it <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '/issues/new" rel="nofollow">here</a>. </p><p>in no way affilliated with adult swim, cartoon network or it\'s parent companies or subsidiaries. schedule data is pulled from official xml sources and is correct at time of publication.</p><p>shout outs /r/adultswim, /r/toonami, /co/, toonamiarsenal, bumpworthy and myspleen. </p></div></div></footer></div></html>'
+    html += '</div></div></div><footer class="page-footer"><div class="row"><div class="col-lg-12"><p><a href="http://swimpedia.net/oldsched/" rel="nofollow">originally</a> created by <a href="http://twitter.com/jessfromabove" rel="nofollow">someone</a> using a little bit of <a href="http://getbootstrap.com" rel="nofollow">this</a> and a little bit of <a href="https://jquery.com/" rel="nofollow">that</a> on a bored halloween evening. colours by <a href="https://bootswatch.com/" rel="nofollow">tom</a>. </p><p>adapted by <a href="https://github.com/SerCom-KC" rel="nofollow">someone else</a> using a little bit of <a href="https://www.python.org/" rel="nofollow">this</a> and a little bit of <a href="https://travis-ci.org/" rel="nofollow">that</a> on a bored-but-not-halloween evening. source code available at <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '" rel="nofollow">somewhere</a>. </p><p>bots? go <a href="./manifest" rel="nofollow">here</a>. still can\'t read it? ask your owner to read <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '/blob/master/README.md#im-a-developer-how-to-use-this-api-like-thing-then" rel="nofollow">this</a>. </p><p>something weird happened? report it <a href="https://github.com/' + os.environ['TRAVIS_REPO_SLUG'] + '/issues/new" rel="nofollow">here</a>. </p><p>in no way affilliated with adult swim, cartoon network or it\'s parent companies or subsidiaries. schedule data is pulled from official json and/or xml sources and is correct at time of publication.</p><p>shout outs /r/adultswim, /r/toonami, /co/, toonamiarsenal, bumpworthy and myspleen. </p></div></div></footer></div></html>'
     file = open('master/index.html', 'w+')
     file.write(html)
     file.close()
