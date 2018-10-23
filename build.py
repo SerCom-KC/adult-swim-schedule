@@ -115,6 +115,7 @@ def generate():
         schedules.append(date_str)
         json_index = json_resp["count"]
 
+    day += json_days
     # XML schedule
     while True:
         url = 'https://www.cartoonnetwork.com/cnschedule/asXml/' + str(day) + '.EST.xml'
