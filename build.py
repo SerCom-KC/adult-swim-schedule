@@ -96,14 +96,14 @@ def generate():
         as_shows = []
         if json_resp["status"] == "ok":
             data = json_resp["data"]
-            airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(data[json_index]["datetime"], '"%Y-%m-%dT%H:%M:%S-04:00'))
+            airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(data[json_index]["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
             date_str = airtime_dt.strftime("%Y-%m-%d")
             for json_index in range(json_index, json_resp["count"]):
                 item = data[json_index]
                 title = item["showTitle"]
                 episodeName = item["episodeTitle"]
                 rating = item["rating"]
-                airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(item["datetime"], '"%Y-%m-%dT%H:%M:%S-04:00'))
+                airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(item["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
                 airtime = int(airtime_dt.timestamp())
                 as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
                 as_shows.append(as_show)
