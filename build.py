@@ -132,7 +132,7 @@ def generate():
         print('Fetching %s' % (url))
         allshows = etree.XML(s.get(url, timeout=3).content).xpath('//allshows/show')
         date_split = allshows[0].xpath('@date')[0].split('/')
-        if int(date_split[0]) < month:
+        if int(date_split[0]) < month or (int(date_split[0]) == 12 and month == 1):
             print('\033[32mSchedule generation completed successfully!\033[0m')
             manifest(schedules)
             return 0
