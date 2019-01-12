@@ -87,44 +87,38 @@ def generate():
     schedules = []
 
     # JSON schedule
-    #json_days = 7
-    #json_index = 0
-    #url = "https://www.adultswim.com/api/schedule/onair"
-    #for json_day in range(1, json_days + 1):
-        #print('Fetching %s?days=%s' % (url, json_day))
-        #json_resp = s.get(url, params={"days": json_day}, timeout=5).json()
-        #as_shows = []
-        #if json_resp["status"] == "ok":
-            #data = json_resp["data"]
-            #airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(data[json_index]["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
-            #if airtime_dt.date().day != day:
-                #datepre_dt = airtime_dt - timedelta(days=1)
-                #date_str = datepre_dt.strftime("%Y-%m-%d")
-            #else:
-                #date_str = airtime_dt.strftime("%Y-%m-%d")
-            #for json_index in range(json_index, json_resp["count"]):
-                #item = data[json_index]
-                #title = item["showTitle"]
-                #episodeName = item["episodeTitle"]
-                #rating = item["rating"].replace(" ", "")
-                #airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(item["datetime"], '%Y-%m-%dT%H:%M:%S-04:00'))
-                #airtime = int(airtime_dt.timestamp())
-                #as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
-                #as_shows.append(as_show)
-            #if day == airtime_dt.date().day:
-                #day += 1
-                #if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
-                    #day = 1
-                    #month = month + 1 if month != 12 else 1
-            #else:
-                #day = airtime_dt.date().day
-            #result = {"date": date_str, "data": as_shows}
-            #print('Writing schedule of %s to file' % (date_str))
-            #file = open('master/' + date_str, 'w+')
-            #file.write(json.dumps(result))
-            #file.close()
-            #schedules.append(date_str)
-            #json_index = json_resp["count"]
+    json_days_limit = 30
+    url = "https://www.adultswim.com/api/schedule/onair"
+    json_days = 1
+    json_prev = {"status": "ok", "count": 0, "timestamp": 0, "data": []}
+    while json_days <= json_days_limit:
+        print("Fetching %s?days=%s" % (url, json_days))
+        json_curr = s.get(url, params={"days": json_days}, timeout=5).json()
+        if json_curr["status"] != "ok": break
+        if json_curr["count"] == json_prev["count"]: break
+        json_showings = [showing for showing in json_curr["data"] if showing not in json_prev["data"]]
+        as_shows = []
+        for json_showing in json_showings:
+            title = json_showing["showTitle"].strip()
+            episodeName = json_showing["episodeTitle"]
+            rating = json_showing["rating"].replace(" ", "")
+            airtime_dt = pytz.timezone("US/Eastern").localize(datetime.strptime(json_showing["datetime"][:19], '%Y-%m-%dT%H:%M:%S'))
+            airtime = int(airtime_dt.timestamp())
+            as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
+            as_shows.append(as_show)
+        date_str = json_showings[0]["datetime"][:10]
+        result = {"date": date_str, "data": as_shows}
+        print('Writing schedule of %s to file' % (date_str))
+        file = open('master/' + date_str, 'w+')
+        file.write(json.dumps(result))
+        file.close()
+        schedules.append(date_str)
+        json_days += 1
+        json_prev = json_curr
+
+    day = airtime_dt.date().day
+    month = airtime_dt.date().month
+    json_date_str = date_str
 
     # XML schedule
     while True:
@@ -159,12 +153,13 @@ def generate():
                 month = month + 1 if month != 12 else 1
         else:
             day = airtime_dt.date().day
-        result = {"date": date_str, "data": as_shows}
-        print('Writing schedule of %s to file' % (date_str))
-        file = open('master/' + date_str, 'w+')
-        file.write(json.dumps(result))
-        file.close()
-        schedules.append(date_str)
+        if date_str != json_date_str:
+            result = {"date": date_str, "data": as_shows}
+            print('Writing schedule of %s to file' % (date_str))
+            file = open('master/' + date_str, 'w+')
+            file.write(json.dumps(result))
+            file.close()
+            schedules.append(date_str)
         month = airtime_dt.date().month
 
 def manifest(schedules):
