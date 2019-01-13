@@ -101,7 +101,10 @@ def generate():
         for json_showing in json_showings:
             title = json_showing["showTitle"].strip()
             episodeName = json_showing["episodeTitle"]
-            rating = json_showing["rating"].replace(" ", "")
+            if "rating" in json_showing:
+                rating = json_showing["rating"].replace(" ", "")
+            else: # https://web.archive.org/web/20190113153055id_/https://www.adultswim.com/api/schedule/onair?days=7 (Dragon Ball Super - The Evil Emperor Returns! A Reception from Mysterious Assassins?! at 11pm on Jan 19)
+                rating = ""
             airtime_dt = pytz.timezone("US/Eastern").localize(datetime.strptime(json_showing["datetime"][:19], '%Y-%m-%dT%H:%M:%S'))
             airtime = int(airtime_dt.timestamp())
             as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
