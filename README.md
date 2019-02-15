@@ -1,5 +1,6 @@
-# yet another better [adult swim] schedule
-wanna seeee into the future?
+# yet another better \[adult swim\] schedule
+~~wanna seeee into the future?~~  
+since jan 4, 2019 both cartoon network and \[adult swim\] no longer maintain the good old xml schedule. zannen.
 
 ## travis ci status
 [![Build Status](https://travis-ci.org/SerCom-KC/adult-swim-schedule.svg?branch=source)](https://travis-ci.org/SerCom-KC/adult-swim-schedule)  
