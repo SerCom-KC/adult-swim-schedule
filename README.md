@@ -1,4 +1,4 @@
-# yet another better \[adult swim\] schedule
+# yet another normal \[adult swim\] schedule
 ~~wanna seeee into the future?~~  
 since jan 4, 2019 both cartoon network and \[adult swim\] no longer maintain the good old xml schedule. zannen.
 
