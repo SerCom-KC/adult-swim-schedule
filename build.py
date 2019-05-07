@@ -120,51 +120,9 @@ def generate():
         json_days += 1
         json_prev = json_curr
 
-    day = airtime_dt.date().day
-    month = airtime_dt.date().month
-    json_date_str = date_str
-
-    # XML schedule
-    while True:
-        url = 'https://www.cartoonnetwork.com/cnschedule/asXml/' + str(day) + '.EST.xml'
-        print('Fetching %s' % (url))
-        allshows = etree.XML(s.get(url, timeout=3).content).xpath('//allshows/show')
-        date_split = allshows[0].xpath('@date')[0].split('/')
-        if int(date_split[0]) < month or int(date_split[2]) < year:
-            print('\033[32mSchedule generation completed successfully!\033[0m')
-            manifest(schedules)
-            return 0
-        if int(date_split[1]) != day: # In case of an incomplete schedule like https://web.archive.org/web/20181023005338id_/https://www.cartoonnetwork.com/cnschedule/asXml/27.EST.xml
-            datepre_str = allshows[0].xpath('@date')[0] + ' ' + allshows[0].xpath('@military')[0]
-            datepre_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(datepre_str, '%m/%d/%Y %H:%M')) - timedelta(days=1)
-            date_str = datepre_dt.strftime("%Y-%m-%d")
-        else:
-            date_str = date_split[2] + '-' + date_split[0] + '-' + date_split[1]
-        as_shows = []
-        for show in allshows:
-            title = fixName(show.xpath('@title')[0])
-            episodeName = fixName(show.xpath('@episodeName')[0])
-            rating = show.xpath('@rating')[0]
-            airtime_str = show.xpath('@date')[0] + ' ' + show.xpath('@military')[0]
-            airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%m/%d/%Y %H:%M'))
-            airtime = int(airtime_dt.timestamp())
-            as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
-            as_shows.append(as_show)
-        if day == airtime_dt.date().day: # In case of an incomplete schedule like https://web.archive.org/web/20181022041358id_/https://www.cartoonnetwork.com/cnschedule/asXml/3.EST.xml
-            day += 1
-            if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
-                day = 1
-                month = month + 1 if month != 12 else 1
-        else:
-            day = airtime_dt.date().day
-        if date_str != json_date_str:
-            result = {"date": date_str, "data": as_shows}
-            print('Writing schedule of %s to file' % (date_str))
-            file = open('master/' + date_str, 'w+')
-            file.write(json.dumps(result))
-            file.close()
-            schedules.append(date_str)
-        month = airtime_dt.date().month
+    print('\033[32mSchedule generation completed successfully!\033[0m')
+    manifest(schedules)
+    return 0
 
 def manifest(schedules):
     data = []
@@ -224,7 +182,7 @@ def webpage():
                 html_grid = False
                 continue
         html_schedule += '</tbody></table></div>'
-    html = '<!DOCTYPE html><html><head><link rel="stylesheet" href="./bootstrap_min.css" media="screen"><script src="./jquery-3.2.1.min.js" type="text/javascript"></script><script src="./bootstrap.min.js" type="text/javascript"></script><title>yet another normal [adult swim] schedule</title></head><div class="container"><div class="page-header" id="banner"><h1>yet another normal [adult swim] schedule</h1><p class="lead">There are no "future" // Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + ' <img src="https://travis-ci.org/' + os.environ['TRAVIS_REPO_SLUG'] + '.svg?branch=' + os.environ['TRAVIS_BRANCH'] + '" alt="Build Status" /></p></div><div class="row"><div class="col-lg-3 col-md-4 col-sm-5"><ul class="nav nav-pills nav-stacked">'
+    html = '<!DOCTYPE html><html><head><link rel="stylesheet" href="./bootstrap_min.css" media="screen"><script src="./jquery-3.2.1.min.js" type="text/javascript"></script><script src="./bootstrap.min.js" type="text/javascript"></script><title>yet another normal [adult swim] schedule</title></head><div class="container"><div class="page-header" id="banner"><h1>yet another normal [adult swim] schedule</h1><p class="lead">There is no "future" // Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + ' <img src="https://travis-ci.org/' + os.environ['TRAVIS_REPO_SLUG'] + '.svg?branch=' + os.environ['TRAVIS_BRANCH'] + '" alt="Build Status" /></p></div><div class="row"><div class="col-lg-3 col-md-4 col-sm-5"><ul class="nav nav-pills nav-stacked">'
     html_nav += '<li><a data-toggle="pill" href="#grid">Grid (Experimental)</a></li>'
     html += html_nav
     html += '</ul></div><div class="col-lg-9 col-md-8 col-sm-7 "><div id="schedule" class="tab-content">'
