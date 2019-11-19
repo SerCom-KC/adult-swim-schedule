@@ -94,7 +94,12 @@ def generate():
     json_prev = {"status": "ok", "count": 0, "timestamp": 0, "data": []}
     while json_days <= json_days_limit:
         print("Fetching %s?days=%s" % (url, json_days))
-        json_curr = s.get(url, params={"days": json_days}, timeout=5).json()
+        while True:
+            try:
+                json_curr = s.get(url, params={"days": json_days}, timeout=30).json()
+                break
+            except Exception:
+                continue
         if json_curr["status"] != "ok": break
         if json_curr["count"] == json_prev["count"]: break
         json_showings = [showing for showing in json_curr["data"] if showing not in json_prev["data"]]
