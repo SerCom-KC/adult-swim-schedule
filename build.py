@@ -105,7 +105,7 @@ def generate():
         date_str = json_showing["date"][:10]
         if date_str not in as_schedules:
             as_schedules[date_str] = [as_show]
-        else if as_show not in as_schedules[date_str]:
+        elif as_show not in as_schedules[date_str]:
             as_schedules[date_str].append(as_show)
 
     for date_str in as_schedules.keys():
