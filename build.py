@@ -4,12 +4,10 @@
 import requests
 import time
 import os
-from datetime import datetime, date, timedelta
-from lxml import etree
+from datetime import datetime
 import pytz
 import re
 import json
-from calendar import monthrange
 
 def getDate(month, day):
     if month == '01':
@@ -81,10 +79,6 @@ def fixName(name, force_the=False):
 
 def generate():
     s = requests.Session()
-    today = datetime.now(pytz.timezone('US/Eastern'))
-    day = int(today.strftime('%d').lstrip('0'))
-    month = today.date().month
-    year = today.date().year
     schedules = []
 
     # JSON schedule
