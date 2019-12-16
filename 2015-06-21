@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-21T21:00:00-04:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-21T21:30:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-21T22:00:00-04:00",
+        "episodeTitle": "Buck, Wild",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-21T22:30:00-04:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-21T23:00:00-04:00",
+        "episodeTitle": "Valentine's Day in Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-21T23:30:00-04:00",
+        "episodeTitle": "Best Face Forward",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T00:00:00-04:00",
+        "episodeTitle": "Mouth Quest",
+        "rating": "TV-MA L",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T00:15:00-04:00",
+        "episodeTitle": "Schmickler83!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T00:30:00-04:00",
+        "episodeTitle": "Foul Ball",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T00:45:00-04:00",
+        "episodeTitle": "Heavyweight Champion of the Moon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T01:00:00-04:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T01:30:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T02:00:00-04:00",
+        "episodeTitle": "Buck, Wild",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T02:30:00-04:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T03:00:00-04:00",
+        "episodeTitle": "Valentine's Day in Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T03:30:00-04:00",
+        "episodeTitle": "Best Face Forward",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T04:00:00-04:00",
+        "episodeTitle": "Mouth Quest",
+        "rating": "TV-MA L",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T04:15:00-04:00",
+        "episodeTitle": "Schmickler83!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T04:30:00-04:00",
+        "episodeTitle": "Foul Ball",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T04:45:00-04:00",
+        "episodeTitle": "Heavyweight Champion of the Moon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T05:00:00-04:00",
+        "episodeTitle": "Bill Gathers Moss",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-21T00:00:00-04:00",
+        "datetime": "2015-06-22T05:30:00-04:00",
+        "episodeTitle": "When Joseph Met Lori & Made Out",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

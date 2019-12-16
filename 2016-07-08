@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-08T21:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-08T21:30:00-04:00",
+        "episodeTitle": "Stan's Best Friend",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-08T22:00:00-04:00",
+        "episodeTitle": "Brothers and Sisters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-08T22:30:00-04:00",
+        "episodeTitle": "The Big Bang Theory",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-08T23:00:00-04:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-08T23:30:00-04:00",
+        "episodeTitle": "A River Runs Through Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T00:00:00-04:00",
+        "episodeTitle": "The Butterfly Effect",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T00:15:00-04:00",
+        "episodeTitle": "Words",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T00:30:00-04:00",
+        "episodeTitle": "2-And-A-Half-Star Wars Out of Five",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T00:45:00-04:00",
+        "episodeTitle": "Family Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T01:00:00-04:00",
+        "episodeTitle": "Scott Porter & Brutus",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T01:15:00-04:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T01:30:00-04:00",
+        "episodeTitle": "Brothers and Sisters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T02:00:00-04:00",
+        "episodeTitle": "The Big Bang Theory",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T02:30:00-04:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T03:00:00-04:00",
+        "episodeTitle": "A River Runs Through Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T03:30:00-04:00",
+        "episodeTitle": "The Butterfly Effect",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T03:45:00-04:00",
+        "episodeTitle": "Words",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T04:00:00-04:00",
+        "episodeTitle": "Icelandic Ultrablue",
+        "rating": "TV-MA ",
+        "seasonNumber": 0,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T04:15:00-04:00",
+        "episodeTitle": "Death",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T04:30:00-04:00",
+        "episodeTitle": "Stan's Best Friend",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T05:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-08T00:00:00-04:00",
+        "datetime": "2016-07-09T05:30:00-04:00",
+        "episodeTitle": "An Officer and a Gentle Boy",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-02-28T21:00:00-05:00",
+        "episodeTitle": "Of Ice and Men",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-02-28T21:30:00-05:00",
+        "episodeTitle": "Irregarding Steve",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-02-28T22:00:00-05:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-02-28T22:30:00-05:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-02-28T23:00:00-05:00",
+        "episodeTitle": "Blind Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-02-28T23:30:00-05:00",
+        "episodeTitle": "Don't Make Me Over",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T00:00:00-05:00",
+        "episodeTitle": "Catch Me If You Kangaroo Jack",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T00:15:00-05:00",
+        "episodeTitle": "Beastmaster and Commander",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T00:30:00-05:00",
+        "episodeTitle": "Sirens",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T00:45:00-05:00",
+        "episodeTitle": "Couples Skate",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T01:00:00-05:00",
+        "episodeTitle": "Brandi Glanville",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T01:15:00-05:00",
+        "episodeTitle": "Cahill",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T01:30:00-05:00",
+        "episodeTitle": "Of Ice and Men",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T02:00:00-05:00",
+        "episodeTitle": "Irregarding Steve",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T02:30:00-05:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T03:00:00-05:00",
+        "episodeTitle": "Blind Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T03:30:00-05:00",
+        "episodeTitle": "Don't Make Me Over",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T04:00:00-05:00",
+        "episodeTitle": "\"American Band Standoff\" or \"The Godfather of Soooul Train\" or \"Get On Your Goodfellas\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T04:30:00-05:00",
+        "episodeTitle": "Brandi Glanville",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T04:45:00-05:00",
+        "episodeTitle": "Cahill",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T05:00:00-05:00",
+        "episodeTitle": "Skip Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-02-28T00:00:00-05:00",
+        "datetime": "2017-03-01T05:30:00-05:00",
+        "episodeTitle": "De-Kahnstructing Henry",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

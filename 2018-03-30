@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-30T21:00:00-04:00",
+        "episodeTitle": "American Prankster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-30T21:30:00-04:00",
+        "episodeTitle": "A Nice Night for a Drive",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-30T22:00:00-04:00",
+        "episodeTitle": "Casino Normale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-30T22:30:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-30T23:00:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-30T23:30:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T00:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T00:30:00-04:00",
+        "episodeTitle": "Collateral Damage in Gang Turf War",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T00:45:00-04:00",
+        "episodeTitle": "Eviscerated Post-Coital by Six Foot Mantis",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T01:00:00-04:00",
+        "episodeTitle": "Dolph Lundgren",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T01:15:00-04:00",
+        "episodeTitle": "Tennis",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T01:30:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T02:00:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T02:30:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T03:00:00-04:00",
+        "episodeTitle": "A Nice Night for a Drive",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T03:30:00-04:00",
+        "episodeTitle": "Casino Normale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 3/30/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 3/30/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T04:30:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T05:00:00-04:00",
+        "episodeTitle": "American Prankster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-30T00:00:00-04:00",
+        "datetime": "2018-03-31T05:30:00-04:00",
+        "episodeTitle": "The Good Buck",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

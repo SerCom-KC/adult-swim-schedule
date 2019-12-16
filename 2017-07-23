@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-23T21:00:00-04:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-23T21:30:00-04:00",
+        "episodeTitle": "Standard Deviation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-23T22:00:00-04:00",
+        "episodeTitle": "Papa Has a Rollin' Son",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-23T22:30:00-04:00",
+        "episodeTitle": "Guy, Robot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-23T23:00:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-23T23:30:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T00:00:00-04:00",
+        "episodeTitle": "Trouble on the Bayou",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T00:15:00-04:00",
+        "episodeTitle": "Lunacy",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T00:30:00-04:00",
+        "episodeTitle": "Batman Forever 21",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T00:45:00-04:00",
+        "episodeTitle": "The Hobbit: There and Bennigan's",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T01:00:00-04:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T01:30:00-04:00",
+        "episodeTitle": "Standard Deviation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T02:00:00-04:00",
+        "episodeTitle": "Papa Has a Rollin' Son",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T02:30:00-04:00",
+        "episodeTitle": "Guy, Robot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T03:00:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T03:30:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T04:00:00-04:00",
+        "episodeTitle": "Trouble on the Bayou",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T04:15:00-04:00",
+        "episodeTitle": "Lunacy",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T04:30:00-04:00",
+        "episodeTitle": "Batman Forever 21",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T04:45:00-04:00",
+        "episodeTitle": "The Hobbit: There and Bennigan's",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T05:00:00-04:00",
+        "episodeTitle": "Pretty, Pretty Dresses",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-07-23T00:00:00-04:00",
+        "datetime": "2017-07-24T05:30:00-04:00",
+        "episodeTitle": "A Fire Fighting We Will Go",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

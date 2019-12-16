@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-27T21:00:00-04:00",
+        "episodeTitle": "Manger Baby Einstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-27T21:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-27T22:00:00-04:00",
+        "episodeTitle": "The People Vs. Martin Sugar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-27T22:30:00-04:00",
+        "episodeTitle": "Fartbreak Hotel",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-27T23:00:00-04:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-27T23:30:00-04:00",
+        "episodeTitle": "Forget Me Not",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T00:00:00-04:00",
+        "episodeTitle": "Noidstrom Rack",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T00:15:00-04:00",
+        "episodeTitle": "Stone Cold Steve Cold Stone",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T00:30:00-04:00",
+        "episodeTitle": "Love Mummy",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T00:45:00-04:00",
+        "episodeTitle": "Family Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T01:00:00-04:00",
+        "episodeTitle": "Ghosts",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T01:15:00-04:00",
+        "episodeTitle": "Prankklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T01:30:00-04:00",
+        "episodeTitle": "The People Vs. Martin Sugar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T02:00:00-04:00",
+        "episodeTitle": "Fartbreak Hotel",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T02:30:00-04:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T03:00:00-04:00",
+        "episodeTitle": "Forget Me Not",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T03:30:00-04:00",
+        "episodeTitle": "Noidstrom Rack",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T03:45:00-04:00",
+        "episodeTitle": "Stone Cold Steve Cold Stone",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T04:00:00-04:00",
+        "episodeTitle": "Conflict",
+        "rating": "TV-14 L",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T04:15:00-04:00",
+        "episodeTitle": "Space",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T04:30:00-04:00",
+        "episodeTitle": "Ghosts",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T04:45:00-04:00",
+        "episodeTitle": "Prankklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T05:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-27T00:00:00-04:00",
+        "datetime": "2015-10-28T05:30:00-04:00",
+        "episodeTitle": "Manger Baby Einstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

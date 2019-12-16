@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-21T21:00:00-04:00",
+        "episodeTitle": "'Til Deaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-21T21:30:00-04:00",
+        "episodeTitle": "School Lies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-21T22:00:00-04:00",
+        "episodeTitle": "An Indecent Thanksgiving Proposal",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-21T22:30:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-21T23:00:00-04:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-21T23:30:00-04:00",
+        "episodeTitle": "I Take Thee, Quagmire",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T00:00:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T00:30:00-04:00",
+        "episodeTitle": "They Took My Thumbs",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T00:45:00-04:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T01:00:00-04:00",
+        "episodeTitle": "Joe Pera Lights Up the Night With You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T01:15:00-04:00",
+        "episodeTitle": "Joe Pera Talks To You About The Rat Wars of Alberta, Canada, 1950 - Present Day",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T01:30:00-04:00",
+        "episodeTitle": "An Indecent Thanksgiving Proposal",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T02:00:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T02:30:00-04:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T03:00:00-04:00",
+        "episodeTitle": "I Take Thee, Quagmire",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T03:30:00-04:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T04:00:00-04:00",
+        "episodeTitle": "Dayworld",
+        "rating": "TV-PG S",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T04:15:00-04:00",
+        "episodeTitle": "Frank Pierre Presents: Pierre Resort & Casino",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T04:30:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T05:00:00-04:00",
+        "episodeTitle": "'Til Deaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-21T00:00:00-04:00",
+        "datetime": "2018-06-22T05:30:00-04:00",
+        "episodeTitle": "Bad News Bill",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

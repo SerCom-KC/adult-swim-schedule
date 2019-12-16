@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-19T21:00:00-04:00",
+        "episodeTitle": "Four Wave Intersection",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-19T21:30:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-19T22:00:00-04:00",
+        "episodeTitle": "Another Bad Thanksgiving",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-19T22:30:00-04:00",
+        "episodeTitle": "The Boring Identity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-19T23:00:00-04:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-19T23:30:00-04:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T00:00:00-04:00",
+        "episodeTitle": "Piccolo's Assault! Android 20 and the Twisted Future!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T00:30:00-04:00",
+        "episodeTitle": "The Mystery Hidden in Lake Yasogami",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 426092,
+        "showTitle": "Dimension W"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T01:00:00-04:00",
+        "episodeTitle": "Sex and Spirit",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T01:30:00-04:00",
+        "episodeTitle": "The Disorder Diaries",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T02:00:00-04:00",
+        "episodeTitle": "Breaking the Crystal Style",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T02:30:00-04:00",
+        "episodeTitle": "The Joy of Seeing People! The Gentleman Skeleton's True Identity",
+        "rating": "TV-PG D",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T03:00:00-04:00",
+        "episodeTitle": "Incomplete",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T03:30:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T04:00:00-04:00",
+        "episodeTitle": "Another Bad Thanksgiving",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T04:30:00-04:00",
+        "episodeTitle": "The Boring Identity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T05:00:00-04:00",
+        "episodeTitle": "The Powder Puff Boys",
+        "rating": "TV-PG D",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-03-19T00:00:00-04:00",
+        "datetime": "2016-03-20T05:30:00-04:00",
+        "episodeTitle": "Four Wave Intersection",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

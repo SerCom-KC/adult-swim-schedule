@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-14T21:00:00-04:00",
+        "episodeTitle": "Tearjerker",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-14T21:30:00-04:00",
+        "episodeTitle": "Oedipal Panties",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-14T22:00:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-14T22:30:00-04:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-14T23:00:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-14T23:30:00-04:00",
+        "episodeTitle": "Untitled Griffin Family History",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T00:00:00-04:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T00:15:00-04:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T00:30:00-04:00",
+        "episodeTitle": "Freedomland",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T01:00:00-04:00",
+        "episodeTitle": "Eggball",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T01:15:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T01:30:00-04:00",
+        "episodeTitle": "Tearjerker",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T02:00:00-04:00",
+        "episodeTitle": "Oedipal Panties",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T02:30:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T03:00:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T03:30:00-04:00",
+        "episodeTitle": "Untitled Griffin Family History",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T04:00:00-04:00",
+        "episodeTitle": "Assembly Line Yeah - 3/6/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T04:15:00-04:00",
+        "episodeTitle": "Ring of Fire",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344844,
+        "showTitle": "Assy McGee"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T04:30:00-04:00",
+        "episodeTitle": "Eggball",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T04:45:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T05:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-03-14T00:00:00-04:00",
+        "datetime": "2017-03-15T05:30:00-04:00",
+        "episodeTitle": "A Beer Can Named Desire",
+        "rating": "TV-PG D",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

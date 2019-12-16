@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-06T21:00:00-04:00",
+        "episodeTitle": "Ain't Nothin' But Mutton Bustin'",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-06T21:30:00-04:00",
+        "episodeTitle": "Roger Passes the Bar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-06T22:00:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-06T22:30:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-06T23:00:00-04:00",
+        "episodeTitle": "Welcome Back, Carter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-06T23:30:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T00:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T00:30:00-04:00",
+        "episodeTitle": "The Ramblings of Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T00:45:00-04:00",
+        "episodeTitle": "Cannot Be Erased, So Sorry",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T01:00:00-04:00",
+        "episodeTitle": "Greener Pastor",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T01:15:00-04:00",
+        "episodeTitle": "Sirens",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T01:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T02:00:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T02:30:00-04:00",
+        "episodeTitle": "Welcome Back, Carter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T03:00:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T03:30:00-04:00",
+        "episodeTitle": "A Boy Named Michael",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T04:00:00-04:00",
+        "episodeTitle": "Lesser of Two Evils",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T04:15:00-04:00",
+        "episodeTitle": "Planes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T04:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T05:00:00-04:00",
+        "episodeTitle": "Born Again Virgin Christmas Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T05:15:00-04:00",
+        "episodeTitle": "G.I. Gogurt",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-06T00:00:00-04:00",
+        "datetime": "2018-08-07T05:30:00-04:00",
+        "episodeTitle": "Ain't Nothin' But Mutton Bustin'",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-16T21:00:00-04:00",
+        "episodeTitle": "The Blue and the Gray and the Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-16T21:30:00-04:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-16T22:00:00-04:00",
+        "episodeTitle": "Buck, Wild",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-16T22:30:00-04:00",
+        "episodeTitle": "My Affair Lady",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-16T23:00:00-04:00",
+        "episodeTitle": "Stewie Is Enceinte",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-16T23:30:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T00:00:00-04:00",
+        "episodeTitle": "Chipotle Miserables",
+        "rating": "TV-MA DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T00:15:00-04:00",
+        "episodeTitle": "The Deep End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T00:30:00-04:00",
+        "episodeTitle": "Heavyweight Champion of the Moon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T00:45:00-04:00",
+        "episodeTitle": "Bart Oats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T01:00:00-04:00",
+        "episodeTitle": "Prom Face/Off",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T01:15:00-04:00",
+        "episodeTitle": "Praying",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T01:30:00-04:00",
+        "episodeTitle": "Stewie Is Enceinte",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T02:00:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T02:30:00-04:00",
+        "episodeTitle": "Buck, Wild",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T03:00:00-04:00",
+        "episodeTitle": "My Affair Lady",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T03:30:00-04:00",
+        "episodeTitle": "Chipotle Miserables",
+        "rating": "TV-MA DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T03:45:00-04:00",
+        "episodeTitle": "The Deep End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T04:00:00-04:00",
+        "episodeTitle": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T04:15:00-04:00",
+        "episodeTitle": "Road Trip",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T04:30:00-04:00",
+        "episodeTitle": "Prom Face/Off",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T04:45:00-04:00",
+        "episodeTitle": "Praying",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T05:00:00-04:00",
+        "episodeTitle": "The Blue and the Gray and the Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-16T00:00:00-04:00",
+        "datetime": "2015-03-17T05:30:00-04:00",
+        "episodeTitle": "Little Horrors of Shop",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

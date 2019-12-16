@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-28T21:00:00-04:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-28T21:30:00-04:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-28T22:00:00-04:00",
+        "episodeTitle": "Best Burger",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-28T22:30:00-04:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-28T23:00:00-04:00",
+        "episodeTitle": "Fighting Irish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-28T23:30:00-04:00",
+        "episodeTitle": "Take My Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T00:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T00:30:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T00:45:00-04:00",
+        "episodeTitle": "Squaw Bury Shortcake",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T01:00:00-04:00",
+        "episodeTitle": "Giant Foam Dickhat Trouble",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T01:15:00-04:00",
+        "episodeTitle": "Foul Ball",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T01:30:00-04:00",
+        "episodeTitle": "Best Burger",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T02:00:00-04:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T02:30:00-04:00",
+        "episodeTitle": "Fighting Irish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T03:00:00-04:00",
+        "episodeTitle": "Take My Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T03:30:00-04:00",
+        "episodeTitle": "Stan of Arabia Part 2",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T04:00:00-04:00",
+        "episodeTitle": "Band Together",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T04:15:00-04:00",
+        "episodeTitle": "The Tree-Huger Bomber",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T04:30:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T04:45:00-04:00",
+        "episodeTitle": "Squaw Bury Shortcake",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T05:00:00-04:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-28T00:00:00-04:00",
+        "datetime": "2017-06-29T05:30:00-04:00",
+        "episodeTitle": "Life: A Loser's Manual",
+        "rating": "TV-PG LS",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

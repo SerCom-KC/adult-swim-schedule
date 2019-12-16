@@ -1,0 +1,254 @@
+[
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T21:00:00-04:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T21:30:00-04:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T22:00:00-04:00",
+        "episodeTitle": "Love, Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T22:15:00-04:00",
+        "episodeTitle": "Two Weeks Without Food",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T22:30:00-04:00",
+        "episodeTitle": "Kidney Car",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T22:45:00-04:00",
+        "episodeTitle": "Frat Aliens",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T23:00:00-04:00",
+        "episodeTitle": "Prolly for the Best",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T23:15:00-04:00",
+        "episodeTitle": "Keep It Moving",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-03T23:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T00:00:00-04:00",
+        "episodeTitle": "The Flip",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T00:15:00-04:00",
+        "episodeTitle": "The Poor Horsemen of the Apocalypse",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T00:30:00-04:00",
+        "episodeTitle": "Howie Mandel; Malaysia Pargo",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T00:45:00-04:00",
+        "episodeTitle": "Tichina Arnold; Steve Schirrpa",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T01:00:00-04:00",
+        "episodeTitle": "Foxcroft Academy for Boys",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T01:15:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T01:30:00-04:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T02:00:00-04:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T02:30:00-04:00",
+        "episodeTitle": "Love, Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T02:45:00-04:00",
+        "episodeTitle": "Two Weeks Without Food",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T03:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T03:30:00-04:00",
+        "episodeTitle": "The Flip",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T03:45:00-04:00",
+        "episodeTitle": "The Poor Horsemen of the Apocalypse",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T04:00:00-04:00",
+        "episodeTitle": "FishCenter - 5/3/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T04:15:00-04:00",
+        "episodeTitle": "Williams Street Swap Shop - 5/2/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 425592,
+        "showTitle": "Williams Street Swap Shop"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T04:30:00-04:00",
+        "episodeTitle": "Prolly for the Best",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T04:45:00-04:00",
+        "episodeTitle": "Keep It Moving",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T05:00:00-04:00",
+        "episodeTitle": "May the Best Stan Win",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-03T00:00:00-04:00",
+        "datetime": "2019-05-04T05:30:00-04:00",
+        "episodeTitle": "Return of the Bling",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

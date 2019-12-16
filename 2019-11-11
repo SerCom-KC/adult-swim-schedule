@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-11T21:00:00-05:00",
+        "episodeTitle": "License to Till",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-11T21:30:00-05:00",
+        "episodeTitle": "Jenny Fromdabloc",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-11T22:00:00-05:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-11T22:30:00-05:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-11T23:00:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-11T23:30:00-05:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T00:00:00-05:00",
+        "episodeTitle": "Edge of Tomorty: Rick Die Rickpeat",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T00:30:00-05:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T00:45:00-05:00",
+        "episodeTitle": "Cops and Robbers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T01:00:00-05:00",
+        "episodeTitle": "Going Downklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T01:15:00-05:00",
+        "episodeTitle": "Dethdinner",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T01:30:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T02:00:00-05:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T02:30:00-05:00",
+        "episodeTitle": "License to Till",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T03:00:00-05:00",
+        "episodeTitle": "Jenny Fromdabloc",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T03:30:00-05:00",
+        "episodeTitle": "Edge of Tomorty: Rick Die Rickpeat",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T04:00:00-05:00",
+        "episodeTitle": "Groaning Amore",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T04:15:00-05:00",
+        "episodeTitle": "Going Normal",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T04:30:00-05:00",
+        "episodeTitle": "Going Downklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T04:45:00-05:00",
+        "episodeTitle": "Dethdinner",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T05:00:00-05:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-11T00:00:00-05:00",
+        "datetime": "2019-11-12T05:30:00-05:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

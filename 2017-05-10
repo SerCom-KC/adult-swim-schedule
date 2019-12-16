@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-10T21:00:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-10T21:30:00-04:00",
+        "episodeTitle": "Casino Normale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-10T22:00:00-04:00",
+        "episodeTitle": "XCIX",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-10T22:30:00-04:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-10T23:00:00-04:00",
+        "episodeTitle": "The Peter Principal",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-10T23:30:00-04:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T00:00:00-04:00",
+        "episodeTitle": "Greece is the Word",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T00:15:00-04:00",
+        "episodeTitle": "The Invasion of the Katrinas",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T00:45:00-04:00",
+        "episodeTitle": "Fry Legs",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T01:00:00-04:00",
+        "episodeTitle": "Granite Caverns",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T01:15:00-04:00",
+        "episodeTitle": "The Tree-Huger Bomber",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T01:30:00-04:00",
+        "episodeTitle": "American Stepdad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T02:00:00-04:00",
+        "episodeTitle": "Casino Normale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T02:30:00-04:00",
+        "episodeTitle": "XCIX",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T03:00:00-04:00",
+        "episodeTitle": "The Peter Principal",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T03:30:00-04:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 5/08/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T04:15:00-04:00",
+        "episodeTitle": "Frankfurters, Allman Brothers, Death, Frankfurters",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T04:30:00-04:00",
+        "episodeTitle": "The Invasion of the Katrinas",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T05:00:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-10T00:00:00-04:00",
+        "datetime": "2017-05-11T05:30:00-04:00",
+        "episodeTitle": "Talking Shop",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

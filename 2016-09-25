@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-25T21:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-25T21:30:00-04:00",
+        "episodeTitle": "Kiss Kiss, Cam Cam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-25T22:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-25T22:30:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-25T23:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-25T23:30:00-04:00",
+        "episodeTitle": "Southern Pride and Prejudice",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-25T23:45:00-04:00",
+        "episodeTitle": "For Knowles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T00:00:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T00:30:00-04:00",
+        "episodeTitle": "Last Night on Charlie Rose",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T00:45:00-04:00",
+        "episodeTitle": "Old Man of the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T01:00:00-04:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T01:30:00-04:00",
+        "episodeTitle": "Kiss Kiss, Cam Cam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T02:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T02:30:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T03:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T03:30:00-04:00",
+        "episodeTitle": "Southern Pride and Prejudice",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T03:45:00-04:00",
+        "episodeTitle": "For Knowles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T04:00:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T04:30:00-04:00",
+        "episodeTitle": "Last Night on Charlie Rose",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T04:45:00-04:00",
+        "episodeTitle": "Old Man of the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T05:00:00-04:00",
+        "episodeTitle": "To Sirloin With Love",
+        "rating": "TV-PG ",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-09-25T00:00:00-04:00",
+        "datetime": "2016-09-26T05:30:00-04:00",
+        "episodeTitle": "The Honeymooners",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

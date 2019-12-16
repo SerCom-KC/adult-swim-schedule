@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-28T21:00:00-04:00",
+        "episodeTitle": "Just Another Manic Kahn-Day",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-28T21:30:00-04:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-28T22:00:00-04:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-28T22:30:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-28T23:00:00-04:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-28T23:30:00-04:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T00:00:00-04:00",
+        "episodeTitle": "Bionic Cow",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T00:15:00-04:00",
+        "episodeTitle": "Monstourage",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T00:30:00-04:00",
+        "episodeTitle": "A Sober Sunday",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T00:45:00-04:00",
+        "episodeTitle": "Rebel With a Claus",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T01:00:00-04:00",
+        "episodeTitle": "Multiple Meat",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T01:15:00-04:00",
+        "episodeTitle": "Your Vibe Attracts Your Tribe",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 430612,
+        "showTitle": "Million Dollar Extreme presents: WORLD PEACE"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T01:30:00-04:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T02:00:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T02:30:00-04:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T03:00:00-04:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T03:30:00-04:00",
+        "episodeTitle": "Bionic Cow",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T03:45:00-04:00",
+        "episodeTitle": "Monstourage",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T04:00:00-04:00",
+        "episodeTitle": "Death",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T04:15:00-04:00",
+        "episodeTitle": "Dildo Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T04:30:00-04:00",
+        "episodeTitle": "Multiple Meat",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T04:45:00-04:00",
+        "episodeTitle": "Your Vibe Attracts Your Tribe",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 430612,
+        "showTitle": "Million Dollar Extreme presents: WORLD PEACE"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T05:00:00-04:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-28T00:00:00-04:00",
+        "datetime": "2016-09-29T05:30:00-04:00",
+        "episodeTitle": "Just Another Manic Kahn-Day",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

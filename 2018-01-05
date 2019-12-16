@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-05T21:00:00-05:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-05T21:30:00-05:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-05T22:00:00-05:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-05T22:30:00-05:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-05T23:00:00-05:00",
+        "episodeTitle": "North by North Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-05T23:30:00-05:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T00:00:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T00:30:00-05:00",
+        "episodeTitle": "The Deep End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T00:45:00-05:00",
+        "episodeTitle": "S&M Present",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T01:00:00-05:00",
+        "episodeTitle": "Sundays",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T01:15:00-05:00",
+        "episodeTitle": "Nature",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T01:30:00-05:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T02:00:00-05:00",
+        "episodeTitle": "North by North Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T02:30:00-05:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T03:00:00-05:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T03:30:00-05:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T04:00:00-05:00",
+        "episodeTitle": "As Seen on Adult Swim - 1/5/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T04:15:00-05:00",
+        "episodeTitle": "FishCenter - 1/5/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T04:30:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T05:00:00-05:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-01-05T00:00:00-05:00",
+        "datetime": "2018-01-06T05:30:00-05:00",
+        "episodeTitle": "Born Again on the 4th of July",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

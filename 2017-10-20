@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-20T21:00:00-04:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-20T21:30:00-04:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-20T22:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-20T22:30:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-20T23:00:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-20T23:30:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T00:00:00-04:00",
+        "episodeTitle": "Ban on the Fun",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T00:15:00-04:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T00:30:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T00:45:00-04:00",
+        "episodeTitle": "Bible Fruit",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T01:00:00-04:00",
+        "episodeTitle": "\"Just Beat It\" or \"Jackson Five Across Yo' Eyes\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T01:30:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T02:00:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T02:30:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T03:00:00-04:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T03:30:00-04:00",
+        "episodeTitle": "Roger Passes the Bar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 10/20/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 10/12/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T04:30:00-04:00",
+        "episodeTitle": "\"Just Beat It\" or \"Jackson Five Across Yo' Eyes\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T05:00:00-04:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-20T00:00:00-04:00",
+        "datetime": "2017-10-21T05:30:00-04:00",
+        "episodeTitle": "Dale Be Not Proud",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

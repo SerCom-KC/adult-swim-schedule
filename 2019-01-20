@@ -1,0 +1,236 @@
+[
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-20T21:00:00-05:00",
+        "episodeTitle": "Mite Tyson",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-20T21:15:00-05:00",
+        "episodeTitle": "A River Runs Through It into a Heart of Darkness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-20T21:30:00-05:00",
+        "episodeTitle": "Cheer Up Sleepy Gene",
+        "rating": "TV-PG LS",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-20T22:00:00-05:00",
+        "episodeTitle": "Shell Game",
+        "rating": "TV-14 DL",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-20T22:30:00-05:00",
+        "episodeTitle": "Guy, Robot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-20T23:00:00-05:00",
+        "episodeTitle": "Peter, Chris, & Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-20T23:30:00-05:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T00:00:00-05:00",
+        "episodeTitle": "Tigtone and the Wine Crisis",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T00:15:00-05:00",
+        "episodeTitle": "Tigtone and Those Elemental Kings",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T00:30:00-05:00",
+        "episodeTitle": "Tow and Shell",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T00:45:00-05:00",
+        "episodeTitle": "Fowl Flow",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T01:00:00-05:00",
+        "episodeTitle": "Can't Touch This",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T01:15:00-05:00",
+        "episodeTitle": "What Happens in Randy, Stays in Randy",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T01:30:00-05:00",
+        "episodeTitle": "Cheer Up Sleepy Gene",
+        "rating": "TV-PG LS",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T02:00:00-05:00",
+        "episodeTitle": "Guy, Robot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T02:30:00-05:00",
+        "episodeTitle": "Peter, Chris, & Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T03:00:00-05:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T03:30:00-05:00",
+        "episodeTitle": "Tigtone and the Wine Crisis",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T03:45:00-05:00",
+        "episodeTitle": "Tigtone and Those Elemental Kings",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T04:00:00-05:00",
+        "episodeTitle": "Tow and Shell",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T04:15:00-05:00",
+        "episodeTitle": "Fowl Flow",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T04:30:00-05:00",
+        "episodeTitle": "Can't Touch This",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T04:45:00-05:00",
+        "episodeTitle": "What Happens in Randy, Stays in Randy",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T05:00:00-05:00",
+        "episodeTitle": "Shoyu Weenie",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T05:15:00-05:00",
+        "episodeTitle": "The Dabba Don",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2019-01-20T00:00:00-05:00",
+        "datetime": "2019-01-21T05:30:00-05:00",
+        "episodeTitle": "Definite Possible Murder",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-01T21:00:00-05:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-01T21:30:00-05:00",
+        "episodeTitle": "42-Year-Old Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-01T22:00:00-05:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-01T22:30:00-05:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-01T23:00:00-05:00",
+        "episodeTitle": "Run, Chris, Run",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-01T23:30:00-05:00",
+        "episodeTitle": "Road to India",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T00:00:00-05:00",
+        "episodeTitle": "In Bed Surrounded by Loved Ones",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T00:15:00-05:00",
+        "episodeTitle": "Choked on Multi-Colored Scarves",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T00:30:00-05:00",
+        "episodeTitle": "Rabbot",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T00:45:00-05:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T01:00:00-05:00",
+        "episodeTitle": "The Opposition",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T01:15:00-05:00",
+        "episodeTitle": "Offensiveness",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T01:30:00-05:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T02:00:00-05:00",
+        "episodeTitle": "Run, Chris, Run",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T02:30:00-05:00",
+        "episodeTitle": "Road to India",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T03:00:00-05:00",
+        "episodeTitle": "42-Year-Old Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T03:30:00-05:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T04:00:00-05:00",
+        "episodeTitle": "As Seen on Adult Swim - 12/1/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T04:15:00-05:00",
+        "episodeTitle": "Development Meeting - 11/9/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T04:30:00-05:00",
+        "episodeTitle": "Rabbot",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T04:45:00-05:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T05:00:00-05:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-01T00:00:00-05:00",
+        "datetime": "2017-12-02T05:30:00-05:00",
+        "episodeTitle": "Bill, Bulk and the Body Buddies",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

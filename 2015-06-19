@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-19T21:00:00-04:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-19T21:30:00-04:00",
+        "episodeTitle": "The Wide World Of The Cleveland Show",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-19T22:00:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-19T22:30:00-04:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-19T23:00:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-19T23:30:00-04:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T00:00:00-04:00",
+        "episodeTitle": "Kick Me",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T00:15:00-04:00",
+        "episodeTitle": "The Birthday Party that was Neither",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T00:30:00-04:00",
+        "episodeTitle": "Rick Fox",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T00:45:00-04:00",
+        "episodeTitle": "Relationships",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T01:00:00-04:00",
+        "episodeTitle": "Episode 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T01:15:00-04:00",
+        "episodeTitle": "Creeps",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T01:30:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T02:00:00-04:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T02:30:00-04:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T03:00:00-04:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T03:30:00-04:00",
+        "episodeTitle": "Kick Me",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T03:45:00-04:00",
+        "episodeTitle": "The Birthday Party that was Neither",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T04:00:00-04:00",
+        "episodeTitle": "Mastodon: Asleep in the Deep",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 419712,
+        "showTitle": "Mastodon: Asleep in the Deep"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T04:15:00-04:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T04:30:00-04:00",
+        "episodeTitle": "Episode 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T04:45:00-04:00",
+        "episodeTitle": "Creeps",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T05:00:00-04:00",
+        "episodeTitle": "The Wide World Of The Cleveland Show",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-19T00:00:00-04:00",
+        "datetime": "2015-06-20T05:30:00-04:00",
+        "episodeTitle": "Uh-Oh Canada",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

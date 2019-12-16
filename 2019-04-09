@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-09T21:00:00-04:00",
+        "episodeTitle": "Bush Comes to Dinner",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-09T21:30:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-09T22:00:00-04:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-09T22:30:00-04:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-09T23:00:00-04:00",
+        "episodeTitle": "Fore Father",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-09T23:30:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T00:00:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T00:15:00-04:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T00:30:00-04:00",
+        "episodeTitle": "The Tiniest Princess",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T00:45:00-04:00",
+        "episodeTitle": "Asses To Ashes, Sluts To Dust",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T01:00:00-04:00",
+        "episodeTitle": "Wingmen",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T01:30:00-04:00",
+        "episodeTitle": "The Best Christmas Story Never Told",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T02:00:00-04:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T02:30:00-04:00",
+        "episodeTitle": "Fore Father",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T03:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T03:30:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T03:45:00-04:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T04:00:00-04:00",
+        "episodeTitle": "Razor's Edge",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T04:15:00-04:00",
+        "episodeTitle": "Pedigree",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T04:30:00-04:00",
+        "episodeTitle": "Wingmen",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T05:00:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-09T00:00:00-04:00",
+        "datetime": "2019-04-10T05:30:00-04:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

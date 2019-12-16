@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-23T21:00:00-04:00",
+        "episodeTitle": "The Frond Files",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-23T21:30:00-04:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-23T22:00:00-04:00",
+        "episodeTitle": "License to Till",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-23T22:30:00-04:00",
+        "episodeTitle": "Jenny Fromdabloc",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-23T23:00:00-04:00",
+        "episodeTitle": "Dammit Janet",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-23T23:30:00-04:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T00:00:00-04:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T00:15:00-04:00",
+        "episodeTitle": "Eaten by Cats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T00:30:00-04:00",
+        "episodeTitle": "Super Hero",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T00:45:00-04:00",
+        "episodeTitle": "Terminus Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T01:00:00-04:00",
+        "episodeTitle": "Parent's Day",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T01:30:00-04:00",
+        "episodeTitle": "Dammit Janet",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T02:00:00-04:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T02:30:00-04:00",
+        "episodeTitle": "The Frond Files",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T03:00:00-04:00",
+        "episodeTitle": "Jenny Fromdabloc",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T03:30:00-04:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T03:45:00-04:00",
+        "episodeTitle": "Eaten by Cats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T04:00:00-04:00",
+        "episodeTitle": "Attitude",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T04:15:00-04:00",
+        "episodeTitle": "Booger Haze",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T04:30:00-04:00",
+        "episodeTitle": "Parent's Day",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T05:00:00-04:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-23T00:00:00-04:00",
+        "datetime": "2015-06-24T05:30:00-04:00",
+        "episodeTitle": "Peggy's Headache",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

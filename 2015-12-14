@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-14T21:00:00-05:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-14T21:30:00-05:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-14T22:00:00-05:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-14T22:30:00-05:00",
+        "episodeTitle": "Big Stan on Campus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-14T23:00:00-05:00",
+        "episodeTitle": "Brokeback Swanson",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-14T23:30:00-05:00",
+        "episodeTitle": "Roasted Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T00:00:00-05:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T00:15:00-05:00",
+        "episodeTitle": "The Munnery",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T00:30:00-05:00",
+        "episodeTitle": "Universal Re-Monster",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T00:45:00-05:00",
+        "episodeTitle": "Armageddon It On!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T01:00:00-05:00",
+        "episodeTitle": "Hotchick",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T01:15:00-05:00",
+        "episodeTitle": "Dethfashion",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T01:30:00-05:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T02:00:00-05:00",
+        "episodeTitle": "Big Stan on Campus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T02:30:00-05:00",
+        "episodeTitle": "Brokeback Swanson",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T03:00:00-05:00",
+        "episodeTitle": "Roasted Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T03:30:00-05:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T03:45:00-05:00",
+        "episodeTitle": "The Munnery",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T04:00:00-05:00",
+        "episodeTitle": "What Life D-D-Doth",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T04:15:00-05:00",
+        "episodeTitle": "The Debate Part 2",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T04:30:00-05:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T05:00:00-05:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-14T00:00:00-05:00",
+        "datetime": "2015-12-15T05:30:00-05:00",
+        "episodeTitle": "What Makes Bobby Run?",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-25T21:00:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-25T21:30:00-05:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-25T22:00:00-05:00",
+        "episodeTitle": "Pro Tiki/Con Tiki",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-25T22:30:00-05:00",
+        "episodeTitle": "Bye Bye Boo Boo",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-25T23:00:00-05:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-25T23:30:00-05:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T00:00:00-05:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T00:30:00-05:00",
+        "episodeTitle": "Panthropologie",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T00:45:00-05:00",
+        "episodeTitle": "Catdog on a Stick",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T01:00:00-05:00",
+        "episodeTitle": "Numb",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T01:15:00-05:00",
+        "episodeTitle": "Animals",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T01:30:00-05:00",
+        "episodeTitle": "Pro Tiki/Con Tiki",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T02:00:00-05:00",
+        "episodeTitle": "Bye Bye Boo Boo",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T02:30:00-05:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T03:00:00-05:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T03:30:00-05:00",
+        "episodeTitle": "DeLorean Story-An",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T04:00:00-05:00",
+        "episodeTitle": "Fried Green Tomatoes",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T04:30:00-05:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T05:00:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-25T00:00:00-05:00",
+        "datetime": "2017-12-26T05:30:00-05:00",
+        "episodeTitle": "Dia-Bill-Ic Shock",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

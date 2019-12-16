@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-07T21:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-07T21:30:00-04:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-07T22:00:00-04:00",
+        "episodeTitle": "Emission Impossible",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-07T22:30:00-04:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-07T23:00:00-04:00",
+        "episodeTitle": "The Approaching Wall! A Hopeful Final Barrier!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-07T23:30:00-04:00",
+        "episodeTitle": "The Only Me I Know",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 458892,
+        "showTitle": "gen:LOCK"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T00:00:00-04:00",
+        "episodeTitle": "Weapons of Science",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 459432,
+        "showTitle": "Dr. Stone"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T00:30:00-04:00",
+        "episodeTitle": "The Investigation of the 1st Commences",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458812,
+        "showTitle": "Fire Force"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T01:00:00-04:00",
+        "episodeTitle": "The Supreme Recette",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T01:30:00-04:00",
+        "episodeTitle": "Yami and Vangeance",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T02:00:00-04:00",
+        "episodeTitle": "The Figure I Want to Be",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T02:30:00-04:00",
+        "episodeTitle": "The First and Last Opponent",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T03:00:00-04:00",
+        "episodeTitle": "Red Mobile Suit",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 457753,
+        "showTitle": "Mobile Suit Gundam the Origin: Advent of the Red Comet"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T03:30:00-04:00",
+        "episodeTitle": "The Bow, The Princess, and the Terrorist",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 457432,
+        "showTitle": "Lupin the 3rd Part 5"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T04:00:00-04:00",
+        "episodeTitle": "RUSH!",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T04:30:00-04:00",
+        "episodeTitle": "Combaticus",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T04:45:00-04:00",
+        "episodeTitle": "Lunacy",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T05:00:00-04:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T05:15:00-04:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-09-07T00:00:00-04:00",
+        "datetime": "2019-09-08T05:30:00-04:00",
+        "episodeTitle": "Stow-A-Way",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

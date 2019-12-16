@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-30T21:00:00-04:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-30T21:30:00-04:00",
+        "episodeTitle": "Roots",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-30T22:00:00-04:00",
+        "episodeTitle": "Peternormal Activity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-30T22:30:00-04:00",
+        "episodeTitle": "Peter, Chris, & Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-30T23:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-30T23:30:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T00:00:00-04:00",
+        "episodeTitle": "DavidsonCare",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T00:15:00-04:00",
+        "episodeTitle": "Dinner Party",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T00:30:00-04:00",
+        "episodeTitle": "Chipotle Miserables",
+        "rating": "TV-MA DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T00:45:00-04:00",
+        "episodeTitle": "Garbage Sushi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T01:00:00-04:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T01:30:00-04:00",
+        "episodeTitle": "Roots",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T02:00:00-04:00",
+        "episodeTitle": "Peternormal Activity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T02:30:00-04:00",
+        "episodeTitle": "Peter, Chris, & Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T03:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T03:30:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T04:00:00-04:00",
+        "episodeTitle": "DavidsonCare",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T04:15:00-04:00",
+        "episodeTitle": "Dinner Party",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T04:30:00-04:00",
+        "episodeTitle": "Chipotle Miserables",
+        "rating": "TV-MA DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T04:45:00-04:00",
+        "episodeTitle": "Garbage Sushi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T05:00:00-04:00",
+        "episodeTitle": "Love Hurts and So Does Art",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-07-30T00:00:00-04:00",
+        "datetime": "2017-07-31T05:30:00-04:00",
+        "episodeTitle": "Hank's Cowboy Movie",
+        "rating": "TV-PG D",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

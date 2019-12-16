@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-28T21:00:00-04:00",
+        "episodeTitle": "Wheels & the Legman and the Case of Grandpa's Key",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-28T21:30:00-04:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-28T22:00:00-04:00",
+        "episodeTitle": "The Cook, the Steve, the Gayle, & Her Lover",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-28T22:30:00-04:00",
+        "episodeTitle": "Long John Peter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-28T23:00:00-04:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-28T23:30:00-04:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T00:00:00-04:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T00:15:00-04:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T00:30:00-04:00",
+        "episodeTitle": "Trucked Up!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T00:45:00-04:00",
+        "episodeTitle": "Rusty and Tammi Sitting in a Tree, B-A-S-T-A-R-D",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T01:00:00-04:00",
+        "episodeTitle": "It's Goin' Down",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T01:30:00-04:00",
+        "episodeTitle": "Stanny Tendergrass",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T02:00:00-04:00",
+        "episodeTitle": "Long John Peter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T02:30:00-04:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T03:00:00-04:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T03:30:00-04:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T03:45:00-04:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T04:00:00-04:00",
+        "episodeTitle": "Robots",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T04:15:00-04:00",
+        "episodeTitle": "Worship",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T04:30:00-04:00",
+        "episodeTitle": "It's Goin' Down",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T05:00:00-04:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-28T00:00:00-04:00",
+        "datetime": "2019-05-29T05:30:00-04:00",
+        "episodeTitle": "The Cook, the Steve, the Gayle, & Her Lover",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

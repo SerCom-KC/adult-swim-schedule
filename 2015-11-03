@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-03T21:00:00-05:00",
+        "episodeTitle": "Just Another Manic Kahn-Day",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-03T21:30:00-05:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-03T22:00:00-05:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-03T22:30:00-05:00",
+        "episodeTitle": "School Lies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-03T23:00:00-05:00",
+        "episodeTitle": "Family Guy Viewer Mail #2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-03T23:30:00-05:00",
+        "episodeTitle": "Internal Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T00:00:00-05:00",
+        "episodeTitle": "Junk in the Trunk",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T00:15:00-05:00",
+        "episodeTitle": "Nutcracker Sweet",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T00:30:00-05:00",
+        "episodeTitle": "Bus of the Undead",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T00:45:00-05:00",
+        "episodeTitle": "Butt Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T01:00:00-05:00",
+        "episodeTitle": "Stingstress",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T01:15:00-05:00",
+        "episodeTitle": "Dethvanity",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T01:30:00-05:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T02:00:00-05:00",
+        "episodeTitle": "School Lies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T02:30:00-05:00",
+        "episodeTitle": "Family Guy Viewer Mail #2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T03:00:00-05:00",
+        "episodeTitle": "Internal Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T03:30:00-05:00",
+        "episodeTitle": "Junk in the Trunk",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T03:45:00-05:00",
+        "episodeTitle": "Nutcracker Sweet",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T04:00:00-05:00",
+        "episodeTitle": "Chief Beef Loco",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T04:15:00-05:00",
+        "episodeTitle": "Meet Awesome X",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T04:30:00-05:00",
+        "episodeTitle": "Stingstress",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T04:45:00-05:00",
+        "episodeTitle": "Dethvanity",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T05:00:00-05:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-03T00:00:00-05:00",
+        "datetime": "2015-11-04T05:30:00-05:00",
+        "episodeTitle": "Just Another Manic Kahn-Day",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

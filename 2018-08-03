@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-03T21:00:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-03T21:30:00-04:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-03T22:00:00-04:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-03T22:30:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-03T23:00:00-04:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-03T23:30:00-04:00",
+        "episodeTitle": "Quagmire's Dad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T00:00:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T00:30:00-04:00",
+        "episodeTitle": "Red Means Stop",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T01:00:00-04:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T01:15:00-04:00",
+        "episodeTitle": "Jesse Williams; Jillian Michaels",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T01:30:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T02:00:00-04:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T02:30:00-04:00",
+        "episodeTitle": "Quagmire's Dad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T03:00:00-04:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T03:30:00-04:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 8/3/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 8/3/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T04:30:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T05:00:00-04:00",
+        "episodeTitle": "Choked on a Bottle Cap",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T05:15:00-04:00",
+        "episodeTitle": "Immortal",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-03T00:00:00-04:00",
+        "datetime": "2018-08-04T05:30:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-12T21:00:00-04:00",
+        "episodeTitle": "The Brown Knight",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-12T21:30:00-04:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-12T22:00:00-04:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-12T22:30:00-04:00",
+        "episodeTitle": "Bigfat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-12T23:00:00-04:00",
+        "episodeTitle": "Total Recall",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-12T23:30:00-04:00",
+        "episodeTitle": "Super Birthday Snake",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-12T23:45:00-04:00",
+        "episodeTitle": "Hand Banana",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T00:00:00-04:00",
+        "episodeTitle": "The Hairy Bus",
+        "rating": "TV-MA ",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T00:15:00-04:00",
+        "episodeTitle": "Psyklone and the Thin Twins",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T00:30:00-04:00",
+        "episodeTitle": "Loose Tooth",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T00:45:00-04:00",
+        "episodeTitle": "A River Runs Through It into a Heart of Darkness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T01:00:00-04:00",
+        "episodeTitle": "The Brown Knight",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T01:30:00-04:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T02:00:00-04:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T02:30:00-04:00",
+        "episodeTitle": "Bigfat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T03:00:00-04:00",
+        "episodeTitle": "Total Recall",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T03:30:00-04:00",
+        "episodeTitle": "Super Birthday Snake",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T03:45:00-04:00",
+        "episodeTitle": "Hand Banana",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T04:00:00-04:00",
+        "episodeTitle": "The Hairy Bus",
+        "rating": "TV-MA ",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T04:15:00-04:00",
+        "episodeTitle": "Psyklone and the Thin Twins",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T04:30:00-04:00",
+        "episodeTitle": "Loose Tooth",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T04:45:00-04:00",
+        "episodeTitle": "A River Runs Through It into a Heart of Darkness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T05:00:00-04:00",
+        "episodeTitle": "Movin' On Up",
+        "rating": "TV-PG LS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-07-12T00:00:00-04:00",
+        "datetime": "2015-07-13T05:30:00-04:00",
+        "episodeTitle": "Bill of Sales",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

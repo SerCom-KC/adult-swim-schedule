@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-09T21:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-09T21:30:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-09T22:00:00-04:00",
+        "episodeTitle": "North by North Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-09T22:30:00-04:00",
+        "episodeTitle": "Showdown! The Miraculous Power of Unyielding Warriors",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-09T23:00:00-04:00",
+        "episodeTitle": "Peace Returns! A Time of Rest for the Warriors!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-09T23:30:00-04:00",
+        "episodeTitle": "What I Can Do for Now",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T00:00:00-04:00",
+        "episodeTitle": "Freebie Honey",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 447434,
+        "showTitle": "FLCL: Progressive"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T00:30:00-04:00",
+        "episodeTitle": "The Guardian of Hell, Pet Shop Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T01:00:00-04:00",
+        "episodeTitle": "Infiltration x and x Selection",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T01:30:00-04:00",
+        "episodeTitle": "Adversity",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T02:00:00-04:00",
+        "episodeTitle": "Declaration of War",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T02:30:00-04:00",
+        "episodeTitle": "The Big Fish is Huge, Baby",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T03:00:00-04:00",
+        "episodeTitle": "Jamming With Edward",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T03:30:00-04:00",
+        "episodeTitle": "The Fake Fantasista",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T04:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T04:30:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T05:00:00-04:00",
+        "episodeTitle": "Dia-Bill-Ic Shock",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-06-09T00:00:00-04:00",
+        "datetime": "2018-06-10T05:30:00-04:00",
+        "episodeTitle": "Earthy Girls Are Easy",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

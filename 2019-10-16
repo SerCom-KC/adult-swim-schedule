@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-16T21:00:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-16T21:30:00-04:00",
+        "episodeTitle": "Stan's Night Out",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-16T22:00:00-04:00",
+        "episodeTitle": "The Silence of the Louise",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-16T22:30:00-04:00",
+        "episodeTitle": "Sit Me Baby One More Time",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-16T23:00:00-04:00",
+        "episodeTitle": "Play It Again, Brian",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-16T23:30:00-04:00",
+        "episodeTitle": "The Former Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T00:00:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T00:30:00-04:00",
+        "episodeTitle": "Brain Download",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T00:45:00-04:00",
+        "episodeTitle": "Momma's Boy",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T01:00:00-04:00",
+        "episodeTitle": "Meatzone",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T01:15:00-04:00",
+        "episodeTitle": "Super Trivia",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T01:30:00-04:00",
+        "episodeTitle": "Play It Again, Brian",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T02:00:00-04:00",
+        "episodeTitle": "The Former Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T02:30:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T03:00:00-04:00",
+        "episodeTitle": "Stan's Night Out",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T03:30:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T04:00:00-04:00",
+        "episodeTitle": "The DeArranged Marriage",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T04:15:00-04:00",
+        "episodeTitle": "Bloodcorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T04:30:00-04:00",
+        "episodeTitle": "Meatzone",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T04:45:00-04:00",
+        "episodeTitle": "Super Trivia",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T05:00:00-04:00",
+        "episodeTitle": "The Silence of the Louise",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-16T00:00:00-04:00",
+        "datetime": "2019-10-17T05:30:00-04:00",
+        "episodeTitle": "Sit Me Baby One More Time",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

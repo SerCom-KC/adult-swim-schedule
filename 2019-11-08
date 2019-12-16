@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-08T21:00:00-05:00",
+        "episodeTitle": "School Lies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-08T21:30:00-05:00",
+        "episodeTitle": "License to Till",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-08T22:00:00-05:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-08T22:30:00-05:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-08T23:00:00-05:00",
+        "episodeTitle": "Extra Large Medium",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-08T23:30:00-05:00",
+        "episodeTitle": "Go, Stewie, Go!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T00:00:00-05:00",
+        "episodeTitle": "Hair Tudi",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T00:30:00-05:00",
+        "episodeTitle": "J-Mo",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T00:45:00-05:00",
+        "episodeTitle": "Evangelos",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T01:00:00-05:00",
+        "episodeTitle": "The Yung and the Restless",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T01:15:00-05:00",
+        "episodeTitle": "A Mystery in Little Italy",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T01:30:00-05:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T02:00:00-05:00",
+        "episodeTitle": "Extra Large Medium",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T02:30:00-05:00",
+        "episodeTitle": "Go, Stewie, Go!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T03:00:00-05:00",
+        "episodeTitle": "School Lies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T03:30:00-05:00",
+        "episodeTitle": "Hair Tudi",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T04:00:00-05:00",
+        "episodeTitle": "Bloodfeast - 11/08/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449332,
+        "showTitle": "Bloodfeast"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T04:15:00-05:00",
+        "episodeTitle": "As Seen On Adult Swim - 11/08/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T04:30:00-05:00",
+        "episodeTitle": "J-Mo",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T04:45:00-05:00",
+        "episodeTitle": "Evangelos",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T05:00:00-05:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-08T00:00:00-05:00",
+        "datetime": "2019-11-09T05:30:00-05:00",
+        "episodeTitle": "XXXVIII",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 3,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

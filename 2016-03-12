@@ -1,0 +1,153 @@
+[
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-12T21:00:00-05:00",
+        "episodeTitle": "The Passion of Dauterive",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-12T21:30:00-05:00",
+        "episodeTitle": "Brown History Month",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-12T22:00:00-05:00",
+        "episodeTitle": "Cleveland's Angels",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-12T22:30:00-05:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-12T23:00:00-05:00",
+        "episodeTitle": "Foreign Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-12T23:30:00-05:00",
+        "episodeTitle": "Lottery Fever",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T00:00:00-05:00",
+        "episodeTitle": "No Victory for Android 19! Enter Super Vegeta!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T00:30:00-05:00",
+        "episodeTitle": "Chase the Numbers",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 426092,
+        "showTitle": "Dimension W"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T01:00:00-05:00",
+        "episodeTitle": "Crime and Punishment",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T01:30:00-05:00",
+        "episodeTitle": "Gamblers and Gallantry",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T03:00:00-04:00",
+        "episodeTitle": "",
+        "showID": 375774,
+        "showTitle": "Daylight Savings Time Adjustment - Spring"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T03:00:00-04:00",
+        "episodeTitle": "The Four-Corner Sealing Barrier",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T03:30:00-04:00",
+        "episodeTitle": "The Mysterious Skeleton Floating Through the Fog! Venture into the Devil's Sea!",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T04:00:00-04:00",
+        "episodeTitle": "Far from the Madding Crowd",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T04:30:00-04:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T05:00:00-04:00",
+        "episodeTitle": "Glen Peggy Glen Ross",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-03-12T00:00:00-05:00",
+        "datetime": "2016-03-13T05:30:00-04:00",
+        "episodeTitle": "The Passion of Dauterive",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

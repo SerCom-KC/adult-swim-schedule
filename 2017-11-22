@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-22T21:00:00-05:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-22T21:30:00-05:00",
+        "episodeTitle": "Black Mystery Month",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-22T22:00:00-05:00",
+        "episodeTitle": "An Indecent Thanksgiving Proposal",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-22T22:30:00-05:00",
+        "episodeTitle": "Turkey in a Can",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-22T23:00:00-05:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-22T23:30:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T00:00:00-05:00",
+        "episodeTitle": "The Departy Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T00:15:00-05:00",
+        "episodeTitle": "Some Like It Hitman",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T00:30:00-05:00",
+        "episodeTitle": "IAMAPOD",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T00:45:00-05:00",
+        "episodeTitle": "Snow Daddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T01:00:00-05:00",
+        "episodeTitle": "Blind Faith",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T01:15:00-05:00",
+        "episodeTitle": "Loyalty",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T01:30:00-05:00",
+        "episodeTitle": "An Indecent Thanksgiving Proposal",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T02:00:00-05:00",
+        "episodeTitle": "Turkey in a Can",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T02:30:00-05:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T03:00:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T03:30:00-05:00",
+        "episodeTitle": "A.T. the Abusive Terrestrial",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T04:00:00-05:00",
+        "episodeTitle": "Earth",
+        "rating": "TV-PG ",
+        "seasonNumber": 7,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T04:15:00-05:00",
+        "episodeTitle": "Liquid",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T04:30:00-05:00",
+        "episodeTitle": "IAMAPOD",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T04:45:00-05:00",
+        "episodeTitle": "Snow Daddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T05:00:00-05:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-11-22T00:00:00-05:00",
+        "datetime": "2017-11-23T05:30:00-05:00",
+        "episodeTitle": "Spin the Choice",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

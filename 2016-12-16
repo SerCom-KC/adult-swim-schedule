@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-16T21:00:00-05:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-16T21:30:00-05:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-16T22:00:00-05:00",
+        "episodeTitle": "American Stepdad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-16T22:30:00-05:00",
+        "episodeTitle": "Why Can't We Be Friends",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-16T23:00:00-05:00",
+        "episodeTitle": "Leggo My Meg-O",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-16T23:30:00-05:00",
+        "episodeTitle": "Tea Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T00:00:00-05:00",
+        "episodeTitle": "Torture",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T00:15:00-05:00",
+        "episodeTitle": "The Leak",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T00:30:00-05:00",
+        "episodeTitle": "The Okaleechee Dam Jam",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T00:45:00-05:00",
+        "episodeTitle": "Pile M For Murder",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T01:00:00-05:00",
+        "episodeTitle": "Hoppy Bunny",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T01:15:00-05:00",
+        "episodeTitle": "For Aretha",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T01:30:00-05:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T02:00:00-05:00",
+        "episodeTitle": "Leggo My Meg-O",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T02:30:00-05:00",
+        "episodeTitle": "Tea Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T03:00:00-05:00",
+        "episodeTitle": "Why Can't We Be Friends",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T03:30:00-05:00",
+        "episodeTitle": "Torture",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T03:45:00-05:00",
+        "episodeTitle": "The Leak",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T04:00:00-05:00",
+        "episodeTitle": "The Salad Mixxxer",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T04:15:00-05:00",
+        "episodeTitle": "Fartcopter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T04:30:00-05:00",
+        "episodeTitle": "Hoppy Bunny",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T04:45:00-05:00",
+        "episodeTitle": "For Aretha",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T05:00:00-05:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-16T00:00:00-05:00",
+        "datetime": "2016-12-17T05:30:00-05:00",
+        "episodeTitle": "Megalo Dale",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

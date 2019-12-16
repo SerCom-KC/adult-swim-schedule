@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-01T21:00:00-04:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-01T21:30:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-01T22:00:00-04:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-01T22:30:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-01T23:00:00-04:00",
+        "episodeTitle": "The Courtship of Stewie's Father",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-01T23:30:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T00:00:00-04:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T00:15:00-04:00",
+        "episodeTitle": "In a DVD Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T00:30:00-04:00",
+        "episodeTitle": "Mud Days And Cornfused",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T00:45:00-04:00",
+        "episodeTitle": "Krystal, Light",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T01:00:00-04:00",
+        "episodeTitle": "Chapter 4A: Break Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T01:30:00-04:00",
+        "episodeTitle": "G-String Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T02:00:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T02:30:00-04:00",
+        "episodeTitle": "The Courtship of Stewie's Father",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T03:00:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T03:30:00-04:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T03:45:00-04:00",
+        "episodeTitle": "In a DVD Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T04:00:00-04:00",
+        "episodeTitle": "The Suplex Duplex Complex",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T04:15:00-04:00",
+        "episodeTitle": "Check It Out! with Scott Clam",
+        "rating": "TV-G ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T04:30:00-04:00",
+        "episodeTitle": "Chapter 4A: Break Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T05:00:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-01T00:00:00-04:00",
+        "datetime": "2019-05-02T05:30:00-04:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

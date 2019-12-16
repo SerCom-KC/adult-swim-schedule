@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-11T21:00:00-04:00",
+        "episodeTitle": "The Wide World Of The Cleveland Show",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-11T21:30:00-04:00",
+        "episodeTitle": "N.S.A. (No Snoops Allowed)",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-11T22:00:00-04:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-11T22:30:00-04:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-11T23:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-11T23:30:00-04:00",
+        "episodeTitle": "Trackwood Race-ist",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-11T23:45:00-04:00",
+        "episodeTitle": "For Charlize",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T00:00:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T00:30:00-04:00",
+        "episodeTitle": "Ty-Stunned",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T00:45:00-04:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T01:00:00-04:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T01:30:00-04:00",
+        "episodeTitle": "N.S.A. (No Snoops Allowed)",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T02:00:00-04:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T02:30:00-04:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T03:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T03:30:00-04:00",
+        "episodeTitle": "Trackwood Race-ist",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T03:45:00-04:00",
+        "episodeTitle": "For Charlize",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T04:00:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T04:30:00-04:00",
+        "episodeTitle": "Ty-Stunned",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T04:45:00-04:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T05:00:00-04:00",
+        "episodeTitle": "Life: A Loser's Manual",
+        "rating": "TV-PG LS",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-09-11T00:00:00-04:00",
+        "datetime": "2016-09-12T05:30:00-04:00",
+        "episodeTitle": "Dia-Bill-Ic Shock",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

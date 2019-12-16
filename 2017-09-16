@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-16T21:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-16T21:30:00-04:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-16T22:00:00-04:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-16T22:30:00-04:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-16T23:00:00-04:00",
+        "episodeTitle": "Surprise, 6th Universe! This Is Super Saiyan Goku!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-16T23:30:00-04:00",
+        "episodeTitle": "A Time of Trials! Lay Hold of Legendary Powers!",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T00:00:00-04:00",
+        "episodeTitle": "Strength",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T00:30:00-04:00",
+        "episodeTitle": "Last Rain",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 437892,
+        "showTitle": "Tokyo Ghoul"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T01:00:00-04:00",
+        "episodeTitle": "Strategy x and x Scheme",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T01:30:00-04:00",
+        "episodeTitle": "The Dream of Italy Part 1",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T02:00:00-04:00",
+        "episodeTitle": "Origin of Pain",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T02:30:00-04:00",
+        "episodeTitle": "When the Hot Ice Melts",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T03:00:00-04:00",
+        "episodeTitle": "Stray Dog Strut",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T03:30:00-04:00",
+        "episodeTitle": "The Hunters",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T04:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T04:30:00-04:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T05:00:00-04:00",
+        "episodeTitle": "The Substitute Spanish Prisoner",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-09-16T00:00:00-04:00",
+        "datetime": "2017-09-17T05:30:00-04:00",
+        "episodeTitle": "Unfortunate Son",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-28T21:00:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-28T21:30:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-28T22:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-28T22:30:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-28T23:00:00-04:00",
+        "episodeTitle": "North by North Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-28T23:30:00-04:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T00:00:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T00:15:00-04:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T00:30:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T00:45:00-04:00",
+        "episodeTitle": "Dumber Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T01:00:00-04:00",
+        "episodeTitle": "Armageddon It On!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T01:15:00-04:00",
+        "episodeTitle": "The Blessed Union",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T01:30:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T02:00:00-04:00",
+        "episodeTitle": "North by North Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T02:30:00-04:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T03:00:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T03:30:00-04:00",
+        "episodeTitle": "Office Spaceman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 7/28/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 7/26/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T04:30:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T04:45:00-04:00",
+        "episodeTitle": "Dumber Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T05:00:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-28T00:00:00-04:00",
+        "datetime": "2017-07-29T05:30:00-04:00",
+        "episodeTitle": "Sleight of Hank",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

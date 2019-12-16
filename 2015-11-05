@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-05T21:00:00-05:00",
+        "episodeTitle": "Peggy's Headache",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-05T21:30:00-05:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-05T22:00:00-05:00",
+        "episodeTitle": "Home Wrecker",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-05T22:30:00-05:00",
+        "episodeTitle": "Flirting With Disaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-05T23:00:00-05:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-05T23:30:00-05:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T00:00:00-05:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T00:15:00-05:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T00:30:00-05:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T00:45:00-05:00",
+        "episodeTitle": "Swayze Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T01:00:00-05:00",
+        "episodeTitle": "Uh-Oh, It's Magic",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T01:15:00-05:00",
+        "episodeTitle": "Dethdinner",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T01:30:00-05:00",
+        "episodeTitle": "Home Wrecker",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T02:00:00-05:00",
+        "episodeTitle": "Flirting With Disaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T02:30:00-05:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T03:00:00-05:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T03:30:00-05:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T03:45:00-05:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T04:00:00-05:00",
+        "episodeTitle": "The 6th Teat of Good Intentions",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T04:15:00-05:00",
+        "episodeTitle": "XPO",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T04:30:00-05:00",
+        "episodeTitle": "Uh-Oh, It's Magic",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T04:45:00-05:00",
+        "episodeTitle": "Dethdinner",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T05:00:00-05:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-05T00:00:00-05:00",
+        "datetime": "2015-11-06T05:30:00-05:00",
+        "episodeTitle": "Peggy's Headache",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

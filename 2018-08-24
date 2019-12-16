@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-24T21:00:00-04:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-24T21:30:00-04:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-24T22:00:00-04:00",
+        "episodeTitle": "The Dentist's Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-24T22:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-24T23:00:00-04:00",
+        "episodeTitle": "Tom Tucker: The Man and His Dream",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-24T23:30:00-04:00",
+        "episodeTitle": "Be Careful What You Fish For",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T00:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T00:30:00-04:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T00:45:00-04:00",
+        "episodeTitle": "Hurtled from a Helicopter into a Speeding Train",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T01:00:00-04:00",
+        "episodeTitle": "Shoyu Weenie",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T01:15:00-04:00",
+        "episodeTitle": "2-And-A-Half-Star Wars Out of Five",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T01:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T02:00:00-04:00",
+        "episodeTitle": "Tom Tucker: The Man and His Dream",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T02:30:00-04:00",
+        "episodeTitle": "Be Careful What You Fish For",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T03:00:00-04:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T03:30:00-04:00",
+        "episodeTitle": "The Dentist's Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T04:00:00-04:00",
+        "episodeTitle": "FishCenter - 8/24/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T04:15:00-04:00",
+        "episodeTitle": "Bloodfeast - 8/23/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449332,
+        "showTitle": "Bloodfeast"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T04:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T05:00:00-04:00",
+        "episodeTitle": "Hopefully Salt",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T05:15:00-04:00",
+        "episodeTitle": "Food",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-24T00:00:00-04:00",
+        "datetime": "2018-08-25T05:30:00-04:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

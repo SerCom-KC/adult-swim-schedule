@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-04T21:00:00-04:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-04T21:30:00-04:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-04T22:00:00-04:00",
+        "episodeTitle": "Tearjerker",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-04T22:30:00-04:00",
+        "episodeTitle": "Oedipal Panties",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-04T23:00:00-04:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-04T23:30:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T00:00:00-04:00",
+        "episodeTitle": "President Hu Forbids it",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T00:15:00-04:00",
+        "episodeTitle": "Due to Constraints of Time and Budget",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T00:30:00-04:00",
+        "episodeTitle": "Kidney Car",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T00:45:00-04:00",
+        "episodeTitle": "The Need for Weed",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T01:00:00-04:00",
+        "episodeTitle": "Showdown at Cremation Creek Part 1",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T01:30:00-04:00",
+        "episodeTitle": "Tearjerker",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T02:00:00-04:00",
+        "episodeTitle": "Oedipal Panties",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T02:30:00-04:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T03:00:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T03:30:00-04:00",
+        "episodeTitle": "President Hu Forbids it",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T03:45:00-04:00",
+        "episodeTitle": "Due to Constraints of Time and Budget",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T04:00:00-04:00",
+        "episodeTitle": "Live at the Necropolis: Lords of Synth",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T04:15:00-04:00",
+        "episodeTitle": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T04:30:00-04:00",
+        "episodeTitle": "Two for Tina",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T05:00:00-04:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-04T00:00:00-04:00",
+        "datetime": "2016-05-05T05:30:00-04:00",
+        "episodeTitle": "Love Hurts and So Does Art",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

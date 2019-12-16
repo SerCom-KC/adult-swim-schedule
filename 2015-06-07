@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-07T21:00:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-07T21:30:00-04:00",
+        "episodeTitle": "Frapp Attack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-07T22:00:00-04:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-07T22:30:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-07T23:00:00-04:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-07T23:30:00-04:00",
+        "episodeTitle": "Gummie World",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T00:00:00-04:00",
+        "episodeTitle": "Big Bro",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T00:15:00-04:00",
+        "episodeTitle": "Take Life by the Horns",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T00:30:00-04:00",
+        "episodeTitle": "The End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T00:45:00-04:00",
+        "episodeTitle": "Tommy's Big Job",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T01:00:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T01:30:00-04:00",
+        "episodeTitle": "Frapp Attack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T02:00:00-04:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T02:30:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T03:00:00-04:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T03:30:00-04:00",
+        "episodeTitle": "Gummie World",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T04:00:00-04:00",
+        "episodeTitle": "Big Bro",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T04:15:00-04:00",
+        "episodeTitle": "Take Life by the Horns",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T04:30:00-04:00",
+        "episodeTitle": "The End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T04:45:00-04:00",
+        "episodeTitle": "Tommy's Big Job",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T05:00:00-04:00",
+        "episodeTitle": "Pour Some Sugar on Kahn",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-07T00:00:00-04:00",
+        "datetime": "2015-06-08T05:30:00-04:00",
+        "episodeTitle": "Six Characters in Search of a House",
+        "rating": "TV-PG L",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

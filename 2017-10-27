@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-27T21:00:00-04:00",
+        "episodeTitle": "It's the Great Pancake, Junior Brown",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-27T21:30:00-04:00",
+        "episodeTitle": "Manhattan Magical Murder Mystery Tour",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-27T22:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-27T22:30:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-27T23:00:00-04:00",
+        "episodeTitle": "No Country Club for Old Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-27T23:30:00-04:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T00:00:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T00:15:00-04:00",
+        "episodeTitle": "Operation Rich in Spirit",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T00:30:00-04:00",
+        "episodeTitle": "Unholy Matrimony",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T00:45:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T01:00:00-04:00",
+        "episodeTitle": "Too Many Cooks",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T01:15:00-04:00",
+        "episodeTitle": "Unedited Footage of a Bear",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T01:30:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T02:00:00-04:00",
+        "episodeTitle": "No Country Club for Old Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T02:30:00-04:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T03:00:00-04:00",
+        "episodeTitle": "Manhattan Magical Murder Mystery Tour",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T03:30:00-04:00",
+        "episodeTitle": "A Star Is Reborn",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 10/27/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T04:15:00-04:00",
+        "episodeTitle": "Bloodfeast - 10/27/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T04:30:00-04:00",
+        "episodeTitle": "Too Many Cooks",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T04:45:00-04:00",
+        "episodeTitle": "Unedited Footage of a Bear",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T05:00:00-04:00",
+        "episodeTitle": "It's the Great Pancake, Junior Brown",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-27T00:00:00-04:00",
+        "datetime": "2017-10-28T05:30:00-04:00",
+        "episodeTitle": "A Rover Runs Through It",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

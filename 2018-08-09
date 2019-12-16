@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-09T21:00:00-04:00",
+        "episodeTitle": "A Short Story and a Tall Tale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-09T21:30:00-04:00",
+        "episodeTitle": "Now and Gwen",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-09T22:00:00-04:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-09T22:30:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-09T23:00:00-04:00",
+        "episodeTitle": "New Kidney in Town",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-09T23:30:00-04:00",
+        "episodeTitle": "And I'm Joyce Kinney",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T00:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T00:30:00-04:00",
+        "episodeTitle": "Saving Private Gigli",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T00:45:00-04:00",
+        "episodeTitle": "Terms of Endaredevil",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T01:00:00-04:00",
+        "episodeTitle": "The Knights of the Noble Order of the Mystic Turquoise Goblet",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T01:15:00-04:00",
+        "episodeTitle": "Hoppy Bunny",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T01:30:00-04:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T02:00:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T02:30:00-04:00",
+        "episodeTitle": "New Kidney in Town",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T03:00:00-04:00",
+        "episodeTitle": "And I'm Joyce Kinney",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T03:30:00-04:00",
+        "episodeTitle": "Big Stan on Campus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T04:00:00-04:00",
+        "episodeTitle": "Desert Caravan",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T04:15:00-04:00",
+        "episodeTitle": "Horse",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T04:30:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T05:00:00-04:00",
+        "episodeTitle": "El Skeletorito",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T05:15:00-04:00",
+        "episodeTitle": "Snarfer Image",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-09T00:00:00-04:00",
+        "datetime": "2018-08-10T05:30:00-04:00",
+        "episodeTitle": "A Short Story and a Tall Tale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-18T21:00:00-04:00",
+        "episodeTitle": "Large Brother, Where Fart Thou?",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-18T21:30:00-04:00",
+        "episodeTitle": "Ex Machtina",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-18T22:00:00-04:00",
+        "episodeTitle": "8 Simple Rules for Buying My Teenage Daughter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-18T22:30:00-04:00",
+        "episodeTitle": "Breaking Out Is Hard to Do",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-18T23:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-18T23:30:00-04:00",
+        "episodeTitle": "School Me Once",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T00:00:00-04:00",
+        "episodeTitle": "The Unbearable Heatness of Fire",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T00:15:00-04:00",
+        "episodeTitle": "Tuscaloosa Dumpling",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T00:30:00-04:00",
+        "episodeTitle": "Stan the Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T00:45:00-04:00",
+        "episodeTitle": "Gary Bunda: Demon Killer",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T01:00:00-04:00",
+        "episodeTitle": "American Dream Factory",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T01:30:00-04:00",
+        "episodeTitle": "A.T. the Abusive Terrestrial",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T02:00:00-04:00",
+        "episodeTitle": "Large Brother, Where Fart Thou?",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T02:30:00-04:00",
+        "episodeTitle": "Ex Machtina",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T03:00:00-04:00",
+        "episodeTitle": "8 Simple Rules for Buying My Teenage Daughter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T03:30:00-04:00",
+        "episodeTitle": "Breaking Out Is Hard to Do",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T04:00:00-04:00",
+        "episodeTitle": "No Waterworld",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T04:15:00-04:00",
+        "episodeTitle": "Meet Killface",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T04:30:00-04:00",
+        "episodeTitle": "Stan the Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T04:45:00-04:00",
+        "episodeTitle": "Gary Bunda: Demon Killer",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T05:00:00-04:00",
+        "episodeTitle": "The Godfather of the Bride II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T05:15:00-04:00",
+        "episodeTitle": "Casablankman II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-18T00:00:00-04:00",
+        "datetime": "2019-09-19T05:30:00-04:00",
+        "episodeTitle": "XXVI",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 2,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

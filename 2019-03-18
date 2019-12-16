@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-18T21:00:00-04:00",
+        "episodeTitle": "Dope and Faith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-18T21:30:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-18T22:00:00-04:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-18T22:30:00-04:00",
+        "episodeTitle": "This Little Piggy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-18T23:00:00-04:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-18T23:30:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T00:00:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T00:15:00-04:00",
+        "episodeTitle": "A Piece of the Action",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T00:30:00-04:00",
+        "episodeTitle": "Greener Pastor",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T00:45:00-04:00",
+        "episodeTitle": "Squash B'Gosh",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T01:00:00-04:00",
+        "episodeTitle": "Mr. Medicinal",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T01:30:00-04:00",
+        "episodeTitle": "Meter Made",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T02:00:00-04:00",
+        "episodeTitle": "This Little Piggy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T02:30:00-04:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T03:00:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T03:30:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T03:45:00-04:00",
+        "episodeTitle": "A Piece of the Action",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T04:00:00-04:00",
+        "episodeTitle": "Episode 1",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T04:15:00-04:00",
+        "episodeTitle": "Episode 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T04:30:00-04:00",
+        "episodeTitle": "Mr. Medicinal",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T05:00:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-18T00:00:00-04:00",
+        "datetime": "2019-03-19T05:30:00-04:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

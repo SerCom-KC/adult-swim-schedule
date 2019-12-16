@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-07T21:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-07T21:30:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-07T22:00:00-04:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-07T22:30:00-04:00",
+        "episodeTitle": "Road to India",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-07T23:00:00-04:00",
+        "episodeTitle": "Pilling Them Softly",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-07T23:30:00-04:00",
+        "episodeTitle": "The Dammed",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-07T23:45:00-04:00",
+        "episodeTitle": "A.D.D.",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T00:00:00-04:00",
+        "episodeTitle": "Botched Jewel Heist",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T00:15:00-04:00",
+        "episodeTitle": "Robot Fight Accident",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T00:30:00-04:00",
+        "episodeTitle": "Lex",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T01:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T01:30:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T02:00:00-04:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T02:30:00-04:00",
+        "episodeTitle": "Road to India",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T03:00:00-04:00",
+        "episodeTitle": "Pilling Them Softly",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T03:30:00-04:00",
+        "episodeTitle": "The Dammed",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T03:45:00-04:00",
+        "episodeTitle": "A.D.D.",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T04:00:00-04:00",
+        "episodeTitle": "Botched Jewel Heist",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T04:15:00-04:00",
+        "episodeTitle": "Robot Fight Accident",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T04:30:00-04:00",
+        "episodeTitle": "Lex",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T05:00:00-04:00",
+        "episodeTitle": "Girl, You'll Be a Giant Soon",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-05-07T00:00:00-04:00",
+        "datetime": "2017-05-08T05:30:00-04:00",
+        "episodeTitle": "Stressed For Success",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

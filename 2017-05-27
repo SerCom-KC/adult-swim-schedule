@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-27T21:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-27T21:30:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-27T22:00:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-27T22:30:00-04:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-27T23:00:00-04:00",
+        "episodeTitle": "XCII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-27T23:30:00-04:00",
+        "episodeTitle": "XCIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T00:00:00-04:00",
+        "episodeTitle": "XCIV",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T00:30:00-04:00",
+        "episodeTitle": "XCV",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T01:00:00-04:00",
+        "episodeTitle": "XCVI",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T01:30:00-04:00",
+        "episodeTitle": "XCVII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T02:00:00-04:00",
+        "episodeTitle": "XCVIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T02:30:00-04:00",
+        "episodeTitle": "XCIX",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T03:00:00-04:00",
+        "episodeTitle": "C",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T03:30:00-04:00",
+        "episodeTitle": "CI",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T04:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T04:30:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T05:00:00-04:00",
+        "episodeTitle": "You Gotta Believe (In Moderation)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-05-27T00:00:00-04:00",
+        "datetime": "2017-05-28T05:30:00-04:00",
+        "episodeTitle": "Business Is Picking Up",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

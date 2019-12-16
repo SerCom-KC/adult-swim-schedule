@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-27T21:00:00-05:00",
+        "episodeTitle": "The Frond Files",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-27T21:30:00-05:00",
+        "episodeTitle": "'Til Deaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-27T22:00:00-05:00",
+        "episodeTitle": "Tearjerker",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-27T22:30:00-05:00",
+        "episodeTitle": "Oedipal Panties",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-27T23:00:00-05:00",
+        "episodeTitle": "No Chris Left Behind",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-27T23:30:00-05:00",
+        "episodeTitle": "It Takes a Village Idiot, and I Married One",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T00:00:00-05:00",
+        "episodeTitle": "Please Do Not Notify Our Contractors",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T00:15:00-05:00",
+        "episodeTitle": "Especially the Animal Keith Crofford!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T00:30:00-05:00",
+        "episodeTitle": "Moonajuana",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T00:45:00-05:00",
+        "episodeTitle": "Keeping it in the Family Way",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T01:00:00-05:00",
+        "episodeTitle": "Time-Police 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T01:15:00-05:00",
+        "episodeTitle": "Snakes n' Barrels",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T01:30:00-05:00",
+        "episodeTitle": "Tearjerker",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T02:00:00-05:00",
+        "episodeTitle": "Oedipal Panties",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T02:30:00-05:00",
+        "episodeTitle": "No Chris Left Behind",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T03:00:00-05:00",
+        "episodeTitle": "It Takes a Village Idiot, and I Married One",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T03:30:00-05:00",
+        "episodeTitle": "Please Do Not Notify Our Contractors",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T03:45:00-05:00",
+        "episodeTitle": "Especially the Animal Keith Crofford!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T04:00:00-05:00",
+        "episodeTitle": "Fartcopter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T04:15:00-05:00",
+        "episodeTitle": "Droppin' the \"g\"/Ancient Egypt/Puffy Paints",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T04:30:00-05:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T05:00:00-05:00",
+        "episodeTitle": "'Til Deaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-27T00:00:00-05:00",
+        "datetime": "2016-01-28T05:30:00-05:00",
+        "episodeTitle": "Patch Boomhauer",
+        "rating": "TV-PG D",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

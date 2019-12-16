@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-24T21:00:00-04:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-24T21:30:00-04:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-24T22:00:00-04:00",
+        "episodeTitle": "The Missing Kink",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-24T22:30:00-04:00",
+        "episodeTitle": "The Boring Identity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-24T23:00:00-04:00",
+        "episodeTitle": "Blue Harvest Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T00:00:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T00:15:00-04:00",
+        "episodeTitle": "S&M Present",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T00:30:00-04:00",
+        "episodeTitle": "Antenna",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T00:45:00-04:00",
+        "episodeTitle": "Krystal, Light",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T01:00:00-04:00",
+        "episodeTitle": "Do You Know Who You Look Like?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T01:30:00-04:00",
+        "episodeTitle": "Blue Harvest Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T02:30:00-04:00",
+        "episodeTitle": "The Missing Kink",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T03:00:00-04:00",
+        "episodeTitle": "The Boring Identity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T03:30:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T03:45:00-04:00",
+        "episodeTitle": "S&M Present",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T04:00:00-04:00",
+        "episodeTitle": "DDWIWDD",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T04:15:00-04:00",
+        "episodeTitle": "Robots",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T04:30:00-04:00",
+        "episodeTitle": "Do You Know Who You Look Like?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T05:00:00-04:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-24T00:00:00-04:00",
+        "datetime": "2015-03-25T05:30:00-04:00",
+        "episodeTitle": "Meet the Propaniacs",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

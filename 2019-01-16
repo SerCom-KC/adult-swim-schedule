@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-16T21:00:00-05:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-16T21:30:00-05:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-16T22:00:00-05:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-16T22:30:00-05:00",
+        "episodeTitle": "Dial Meg for Murder",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-16T23:00:00-05:00",
+        "episodeTitle": "Extra Large Medium",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-16T23:30:00-05:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T00:00:00-05:00",
+        "episodeTitle": "Eaten by Cats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T00:15:00-05:00",
+        "episodeTitle": "Botched Jewel Heist",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T00:30:00-05:00",
+        "episodeTitle": "Global Grilling",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T00:45:00-05:00",
+        "episodeTitle": "Asbestos I Can",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T01:00:00-05:00",
+        "episodeTitle": "The Lair",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T01:15:00-05:00",
+        "episodeTitle": "Time-Police 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T01:30:00-05:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T02:00:00-05:00",
+        "episodeTitle": "Dial Meg for Murder",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T02:30:00-05:00",
+        "episodeTitle": "Extra Large Medium",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T03:00:00-05:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T03:30:00-05:00",
+        "episodeTitle": "Eaten by Cats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T03:45:00-05:00",
+        "episodeTitle": "Botched Jewel Heist",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T04:00:00-05:00",
+        "episodeTitle": "Mr. Neighbor's House 2",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448732,
+        "showTitle": "Mr. Neighbor's House 2"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T04:30:00-05:00",
+        "episodeTitle": "Global Grilling",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T04:45:00-05:00",
+        "episodeTitle": "Asbestos I Can",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T05:00:00-05:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-16T00:00:00-05:00",
+        "datetime": "2019-01-17T05:30:00-05:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

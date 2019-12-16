@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-05T21:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-05T21:30:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-05T22:00:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-05T22:30:00-04:00",
+        "episodeTitle": "The Courtship of Stewie's Father",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-05T23:00:00-04:00",
+        "episodeTitle": "The 6th Universe's Destroyer! His Name is Champa!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-05T23:30:00-04:00",
+        "episodeTitle": "For His Beloved Ones. The End of the Proud Warrior!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T00:00:00-04:00",
+        "episodeTitle": "Who Will Be the Judge!?",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T00:30:00-04:00",
+        "episodeTitle": "Rift",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 437892,
+        "showTitle": "Tokyo Ghoul"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T01:00:00-04:00",
+        "episodeTitle": "Invitation x and x Friend",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T01:30:00-04:00",
+        "episodeTitle": "Until the Full Moon Passes",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T02:00:00-04:00",
+        "episodeTitle": "Fourth Hokage",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T02:30:00-04:00",
+        "episodeTitle": "Barrage",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T03:00:00-04:00",
+        "episodeTitle": "I'm Home",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T03:30:00-04:00",
+        "episodeTitle": "XCVII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T04:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T04:30:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T05:00:00-04:00",
+        "episodeTitle": "As Old as the Hills (1)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-08-05T00:00:00-04:00",
+        "datetime": "2017-08-06T05:30:00-04:00",
+        "episodeTitle": "Peggy Hill: the Decline and Fall (2)",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

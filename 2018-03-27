@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-27T21:00:00-04:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-27T21:30:00-04:00",
+        "episodeTitle": "Portrait of Francine's Genitals",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-27T22:00:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-27T22:30:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-27T23:00:00-04:00",
+        "episodeTitle": "Into Fat Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-27T23:30:00-04:00",
+        "episodeTitle": "Ratings Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T00:00:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T00:30:00-04:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T00:45:00-04:00",
+        "episodeTitle": "Hurtled from a Helicopter into a Speeding Train",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T01:00:00-04:00",
+        "episodeTitle": "Tatyana Ali",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T01:15:00-04:00",
+        "episodeTitle": "Presidents",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T01:30:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T02:00:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T02:30:00-04:00",
+        "episodeTitle": "Into Fat Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T03:00:00-04:00",
+        "episodeTitle": "Ratings Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T03:30:00-04:00",
+        "episodeTitle": "The Enlightenment of Ragi-Baba",
+        "rating": "TV-14 DL",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T04:00:00-04:00",
+        "episodeTitle": "Skateboards",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T04:15:00-04:00",
+        "episodeTitle": "Preverse Psychologism",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T04:30:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T05:00:00-04:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-27T00:00:00-04:00",
+        "datetime": "2018-03-28T05:30:00-04:00",
+        "episodeTitle": "Board Games",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

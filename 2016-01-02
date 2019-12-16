@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-02T21:00:00-05:00",
+        "episodeTitle": "Tankin' it to the Streets",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-02T21:30:00-05:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-02T22:00:00-05:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-02T22:30:00-05:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-02T23:00:00-05:00",
+        "episodeTitle": "Model Misbehavior",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-02T23:30:00-05:00",
+        "episodeTitle": "Peter's Got Woods",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T00:00:00-05:00",
+        "episodeTitle": "Goku's Furious Roar! A Last-Minute Resurrection Wish!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T00:30:00-05:00",
+        "episodeTitle": "Kill the Curse",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T01:00:00-05:00",
+        "episodeTitle": "What Mad Universe",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T01:30:00-05:00",
+        "episodeTitle": "Tempestuous Temperaments",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T02:00:00-05:00",
+        "episodeTitle": "Connecting Hearts",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T02:30:00-05:00",
+        "episodeTitle": "Sunny in a Pinch! Roar, Secret Superspeed Mecha!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T03:00:00-05:00",
+        "episodeTitle": "I Want to Know More About You",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T03:30:00-05:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T04:00:00-05:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T04:30:00-05:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T05:00:00-05:00",
+        "episodeTitle": "Are You There, God? It's Me, Margaret Hill",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-02T00:00:00-05:00",
+        "datetime": "2016-01-03T05:30:00-05:00",
+        "episodeTitle": "Tankin' it to the Streets",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

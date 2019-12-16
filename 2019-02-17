@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-17T21:00:00-05:00",
+        "episodeTitle": "The Silence of the Louise",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-17T21:30:00-05:00",
+        "episodeTitle": "As I Walk Through the Alley of the Shadow of Ramps",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-17T22:00:00-05:00",
+        "episodeTitle": "One-Woman Swole",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-17T22:30:00-05:00",
+        "episodeTitle": "The Peanut Butter Kid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-17T23:00:00-05:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-17T23:30:00-05:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T00:00:00-05:00",
+        "episodeTitle": "Squid of the Dead",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T00:15:00-05:00",
+        "episodeTitle": "The Final Stand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T00:30:00-05:00",
+        "episodeTitle": "Tigtone and the Pilot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T00:45:00-05:00",
+        "episodeTitle": "Tigtone and His Fellowship Of",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T01:00:00-05:00",
+        "episodeTitle": "The Terror That Is Cabbage Fizzog",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T01:15:00-05:00",
+        "episodeTitle": "The Dawning of King Skull",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T01:30:00-05:00",
+        "episodeTitle": "One-Woman Swole",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T02:00:00-05:00",
+        "episodeTitle": "The Peanut Butter Kid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T02:30:00-05:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T03:00:00-05:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T03:30:00-05:00",
+        "episodeTitle": "Squid of the Dead",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T03:45:00-05:00",
+        "episodeTitle": "The Final Stand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T04:00:00-05:00",
+        "episodeTitle": "Tigtone and the Pilot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T04:15:00-05:00",
+        "episodeTitle": "Tigtone and His Fellowship Of",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T04:30:00-05:00",
+        "episodeTitle": "The Terror That Is Cabbage Fizzog",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T04:45:00-05:00",
+        "episodeTitle": "The Dawning of King Skull",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T05:00:00-05:00",
+        "episodeTitle": "The Silence of the Louise",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-17T00:00:00-05:00",
+        "datetime": "2019-02-18T05:30:00-05:00",
+        "episodeTitle": "As I Walk Through the Alley of the Shadow of Ramps",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

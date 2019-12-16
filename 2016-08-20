@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-20T21:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-20T21:30:00-04:00",
+        "episodeTitle": "Francine's Flashback",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-20T22:00:00-04:00",
+        "episodeTitle": "Skip Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-20T22:30:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-20T23:00:00-04:00",
+        "episodeTitle": "The King Is Dead",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-20T23:30:00-04:00",
+        "episodeTitle": "Cell Invades the Airwaves! Announcing, \"The Cell Games!\"",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T00:00:00-04:00",
+        "episodeTitle": "The Terrifying City",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T00:30:00-04:00",
+        "episodeTitle": "Human Debris",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T01:00:00-04:00",
+        "episodeTitle": "Trap x in x the Hole",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T01:30:00-04:00",
+        "episodeTitle": "Art",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T02:00:00-04:00",
+        "episodeTitle": "Blazing Knight Sanji!! Kick Down the Fake Wedding",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T02:30:00-04:00",
+        "episodeTitle": "The Adventure of the Dying Detective",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T03:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T03:30:00-04:00",
+        "episodeTitle": "Francine's Flashback",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T04:00:00-04:00",
+        "episodeTitle": "Big Grams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T04:15:00-04:00",
+        "episodeTitle": "Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T04:30:00-04:00",
+        "episodeTitle": "Skip Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T05:00:00-04:00",
+        "episodeTitle": "SerPUNt",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-08-20T00:00:00-04:00",
+        "datetime": "2016-08-21T05:30:00-04:00",
+        "episodeTitle": "Blood and Sauce",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

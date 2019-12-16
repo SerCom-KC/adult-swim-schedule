@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-23T21:00:00-05:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-23T21:30:00-05:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-23T22:00:00-05:00",
+        "episodeTitle": "Back to the Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-23T22:30:00-05:00",
+        "episodeTitle": "Amish Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-23T23:00:00-05:00",
+        "episodeTitle": "Boy Meets...",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-23T23:30:00-05:00",
+        "episodeTitle": "The Class S Heroes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T00:00:00-05:00",
+        "episodeTitle": "Master of Flame",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 459432,
+        "showTitle": "Dr. Stone"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T00:30:00-05:00",
+        "episodeTitle": "Black and White and Gray",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 458812,
+        "showTitle": "Fire Force"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T01:00:00-05:00",
+        "episodeTitle": "Dragon Lies Prone then Ascends to the Sky",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T01:30:00-05:00",
+        "episodeTitle": "Muzan Kibutsuji",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 460432,
+        "showTitle": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T02:00:00-05:00",
+        "episodeTitle": "The Black Bulls Captain vs. the Crimson Wild Rose",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T02:30:00-05:00",
+        "episodeTitle": "Find Polpo's Fortune!",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 460433,
+        "showTitle": "JoJo's Bizarre Adventure: Golden Wind"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T03:00:00-05:00",
+        "episodeTitle": "Attack of the Gedo Statue",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T03:30:00-05:00",
+        "episodeTitle": "Just Then, An Old Buddy Said Something",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 457432,
+        "showTitle": "Lupin the 3rd Part 5"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T04:00:00-05:00",
+        "episodeTitle": "A Dim Light Amid Despair: Humanity's Comeback Part 1",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T04:30:00-05:00",
+        "episodeTitle": "Lord Stingray Crash Party",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T04:45:00-05:00",
+        "episodeTitle": "With the Burning Spirit of Teamwork in Her Heart",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T05:00:00-05:00",
+        "episodeTitle": "Hypno-Germ",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T05:15:00-05:00",
+        "episodeTitle": "Carl",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-23T00:00:00-05:00",
+        "datetime": "2019-11-24T05:30:00-05:00",
+        "episodeTitle": "Those Bitches Tried To Cheat Me",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

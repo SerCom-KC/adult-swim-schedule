@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-15T21:00:00-05:00",
+        "episodeTitle": "Permanent Record Wrecker",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-15T21:30:00-05:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-15T22:00:00-05:00",
+        "episodeTitle": "Slumber Party",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-15T22:30:00-05:00",
+        "episodeTitle": "Business Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-15T23:00:00-05:00",
+        "episodeTitle": "Big Man on Hippocampus",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-15T23:30:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T00:00:00-05:00",
+        "episodeTitle": "Papercut to Aorta",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T00:15:00-05:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T00:30:00-05:00",
+        "episodeTitle": "Party All the Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T00:45:00-05:00",
+        "episodeTitle": "Lean Green Touchdown Makifying Machine",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T01:00:00-05:00",
+        "episodeTitle": "Where is Mr. Pickles?",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T01:15:00-05:00",
+        "episodeTitle": "Time-Police 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T01:30:00-05:00",
+        "episodeTitle": "Rubberneckers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T02:00:00-05:00",
+        "episodeTitle": "Business Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T02:30:00-05:00",
+        "episodeTitle": "Big Man on Hippocampus",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T03:00:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T03:30:00-05:00",
+        "episodeTitle": "Papercut to Aorta",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T03:45:00-05:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T04:00:00-05:00",
+        "episodeTitle": "Mr. Neighbor's House",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432512,
+        "showTitle": "Mr. Neighbor's House"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T04:30:00-05:00",
+        "episodeTitle": "Party All the Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T04:45:00-05:00",
+        "episodeTitle": "Lean Green Touchdown Makifying Machine",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T05:00:00-05:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-15T00:00:00-05:00",
+        "datetime": "2019-01-16T05:30:00-05:00",
+        "episodeTitle": "Slumber Party",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

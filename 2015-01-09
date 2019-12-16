@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-09T21:00:00-05:00",
+        "episodeTitle": "Brotherly Love",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-09T21:30:00-05:00",
+        "episodeTitle": "Cleveland's Angels",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-09T22:00:00-05:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-09T22:30:00-05:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-09T23:00:00-05:00",
+        "episodeTitle": "Brian: Portrait of a Dog",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-09T23:30:00-05:00",
+        "episodeTitle": "Peter Peter Caviar Eater",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T00:00:00-05:00",
+        "episodeTitle": "A Billionaire Goes to Hell, Sitcom Family",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T00:15:00-05:00",
+        "episodeTitle": "Jimmy Kimmel; Tyler the Creator",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T00:30:00-05:00",
+        "episodeTitle": "Oralboros",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T00:45:00-05:00",
+        "episodeTitle": "The Bathroom Boys",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T01:00:00-05:00",
+        "episodeTitle": "SPHINX Rising",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T01:30:00-05:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T02:00:00-05:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T02:30:00-05:00",
+        "episodeTitle": "Brian: Portrait of a Dog",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T03:00:00-05:00",
+        "episodeTitle": "Peter Peter Caviar Eater",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T03:30:00-05:00",
+        "episodeTitle": "A Billionaire Goes to Hell, Sitcom Family",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T03:45:00-05:00",
+        "episodeTitle": "Jimmy Kimmel; Tyler the Creator",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T04:00:00-05:00",
+        "episodeTitle": "Transportation",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T04:15:00-05:00",
+        "episodeTitle": "Tennis",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T04:30:00-05:00",
+        "episodeTitle": "SPHINX Rising",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T05:00:00-05:00",
+        "episodeTitle": "Brotherly Love",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-09T00:00:00-05:00",
+        "datetime": "2015-01-10T05:30:00-05:00",
+        "episodeTitle": "Rich Hank, Poor Hank",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

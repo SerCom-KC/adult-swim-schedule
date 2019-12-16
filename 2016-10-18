@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-18T21:00:00-04:00",
+        "episodeTitle": "Bills are Made to be Broken",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-18T21:30:00-04:00",
+        "episodeTitle": "Harder, Better, Faster, Browner",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-18T22:00:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-18T22:30:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-18T23:00:00-04:00",
+        "episodeTitle": "Lois Kills Stewie Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-18T23:30:00-04:00",
+        "episodeTitle": "Padre de Familia",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T00:00:00-04:00",
+        "episodeTitle": "Especially the Animal Keith Crofford!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T00:15:00-04:00",
+        "episodeTitle": "Saving Private Gigli",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T00:30:00-04:00",
+        "episodeTitle": "Atone Deaf",
+        "rating": "TV-14 SV",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T00:45:00-04:00",
+        "episodeTitle": "God's Bro",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T01:00:00-04:00",
+        "episodeTitle": "Total Re-Carl",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T01:15:00-04:00",
+        "episodeTitle": "Music",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T01:30:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T02:00:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T02:30:00-04:00",
+        "episodeTitle": "Lois Kills Stewie Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T03:00:00-04:00",
+        "episodeTitle": "Padre de Familia",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T03:30:00-04:00",
+        "episodeTitle": "Especially the Animal Keith Crofford!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T03:45:00-04:00",
+        "episodeTitle": "Saving Private Gigli",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T04:00:00-04:00",
+        "episodeTitle": "Franz Kafka's Jealousy!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T04:15:00-04:00",
+        "episodeTitle": "Human Sacrifice",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T04:30:00-04:00",
+        "episodeTitle": "Total Re-Carl",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T04:45:00-04:00",
+        "episodeTitle": "Music",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T05:00:00-04:00",
+        "episodeTitle": "Harder, Better, Faster, Browner",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-10-18T00:00:00-04:00",
+        "datetime": "2016-10-19T05:30:00-04:00",
+        "episodeTitle": "Bills are Made to be Broken",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

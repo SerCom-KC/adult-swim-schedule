@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-07T21:00:00-05:00",
+        "episodeTitle": "The Nova Centauris-burgh Board of Tourism Presents: American Dad",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-07T21:30:00-05:00",
+        "episodeTitle": "Daesong Heavy Industries",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-07T22:00:00-05:00",
+        "episodeTitle": "The Oeder Games",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-07T22:30:00-05:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-07T23:00:00-05:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-07T23:30:00-05:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T00:00:00-05:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T00:30:00-05:00",
+        "episodeTitle": "Ants on a Hamburger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T00:45:00-05:00",
+        "episodeTitle": "Zeb and Kevin Erotic Hot Tub Canvas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T01:00:00-05:00",
+        "episodeTitle": "The Egg",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T01:15:00-05:00",
+        "episodeTitle": "The Marines",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T01:30:00-05:00",
+        "episodeTitle": "The Oeder Games",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T02:00:00-05:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T02:30:00-05:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T03:00:00-05:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T03:30:00-05:00",
+        "episodeTitle": "Ants on a Hamburger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T03:45:00-05:00",
+        "episodeTitle": "Zeb and Kevin Erotic Hot Tub Canvas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T04:00:00-05:00",
+        "episodeTitle": "\"A Crisis for Christmas\" or \"The Dark Side of the Dark Side of the Moon\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T04:30:00-05:00",
+        "episodeTitle": "The Egg",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T04:45:00-05:00",
+        "episodeTitle": "The Marines",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T05:00:00-05:00",
+        "episodeTitle": "The Nova Centauris-burgh Board of Tourism Presents: American Dad",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-07T00:00:00-05:00",
+        "datetime": "2019-02-08T05:30:00-05:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

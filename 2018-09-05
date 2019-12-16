@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-05T21:00:00-04:00",
+        "episodeTitle": "Here Comes the Bribe",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-05T21:30:00-04:00",
+        "episodeTitle": "Roger's Baby",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-05T22:00:00-04:00",
+        "episodeTitle": "Burgerboss",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-05T22:30:00-04:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-05T23:00:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-05T23:30:00-04:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T00:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T00:30:00-04:00",
+        "episodeTitle": "Immortal",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T00:45:00-04:00",
+        "episodeTitle": "Born Again Virgin Christmas Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T01:00:00-04:00",
+        "episodeTitle": "High Speed Buggy Chase",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T01:15:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T01:30:00-04:00",
+        "episodeTitle": "Burgerboss",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T02:00:00-04:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T02:30:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T03:00:00-04:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T03:30:00-04:00",
+        "episodeTitle": "Bahama Mama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T04:00:00-04:00",
+        "episodeTitle": "\"Taxes and Death\" or \"Get Him to the Sunset Strip!\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T04:30:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T05:00:00-04:00",
+        "episodeTitle": "Junk in the Trunk",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T05:15:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-05T00:00:00-04:00",
+        "datetime": "2018-09-06T05:30:00-04:00",
+        "episodeTitle": "Here Comes the Bribe",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

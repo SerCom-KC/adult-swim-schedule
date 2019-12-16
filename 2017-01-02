@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-02T21:00:00-05:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-02T21:30:00-05:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-02T22:00:00-05:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-02T22:30:00-05:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-02T23:00:00-05:00",
+        "episodeTitle": "Ratings Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-02T23:30:00-05:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T00:00:00-05:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T00:15:00-05:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T00:30:00-05:00",
+        "episodeTitle": "She Creature",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T00:45:00-05:00",
+        "episodeTitle": "Chick Magnet",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T01:00:00-05:00",
+        "episodeTitle": "T.I.; Abbey Lee Miller",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T01:15:00-05:00",
+        "episodeTitle": "Urges",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T01:30:00-05:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T02:00:00-05:00",
+        "episodeTitle": "Ratings Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T02:30:00-05:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T03:00:00-05:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T03:30:00-05:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T04:00:00-05:00",
+        "episodeTitle": "Fartcopter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T04:15:00-05:00",
+        "episodeTitle": "Live Forever as You Are Now with Alan Resnick",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T04:30:00-05:00",
+        "episodeTitle": "T.I.; Abbey Lee Miller",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T04:45:00-05:00",
+        "episodeTitle": "Urges",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T05:00:00-05:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-02T00:00:00-05:00",
+        "datetime": "2017-01-03T05:30:00-05:00",
+        "episodeTitle": "Hank's Back",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

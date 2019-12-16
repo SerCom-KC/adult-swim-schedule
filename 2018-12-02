@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-02T21:00:00-05:00",
+        "episodeTitle": "No Meals on Wheels",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-02T21:30:00-05:00",
+        "episodeTitle": "Y Tu Ga-Ga Tambien",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-02T22:00:00-05:00",
+        "episodeTitle": "OreTron Trail",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-02T22:30:00-05:00",
+        "episodeTitle": "Stewie Is Enceinte",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-02T23:00:00-05:00",
+        "episodeTitle": "Dr. C & the Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-02T23:30:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T00:00:00-05:00",
+        "episodeTitle": "What Happens in Randy, Stays in Randy",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T00:15:00-05:00",
+        "episodeTitle": "The Krux",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T00:40:00-05:00",
+        "episodeTitle": "Season 2 Dream Trailer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T00:45:00-05:00",
+        "episodeTitle": "Chaos Beknownst",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T01:00:00-05:00",
+        "episodeTitle": "The Peep",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T01:15:00-05:00",
+        "episodeTitle": "Snow Job",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T01:30:00-05:00",
+        "episodeTitle": "OreTron Trail",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T02:00:00-05:00",
+        "episodeTitle": "Stewie Is Enceinte",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T02:30:00-05:00",
+        "episodeTitle": "Dr. C & the Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T03:00:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T03:30:00-05:00",
+        "episodeTitle": "What Happens in Randy, Stays in Randy",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T03:45:00-05:00",
+        "episodeTitle": "The Krux",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T04:10:00-05:00",
+        "episodeTitle": "Season 2 Dream Trailer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T04:15:00-05:00",
+        "episodeTitle": "Chaos Beknownst",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T04:30:00-05:00",
+        "episodeTitle": "The Peep",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T04:45:00-05:00",
+        "episodeTitle": "Snow Job",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T05:00:00-05:00",
+        "episodeTitle": "Y Tu Ga-Ga Tambien",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-02T00:00:00-05:00",
+        "datetime": "2018-12-03T05:30:00-05:00",
+        "episodeTitle": "Time To Pay The Price",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

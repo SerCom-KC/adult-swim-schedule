@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-02-28T21:00:00-05:00",
+        "episodeTitle": "Harder, Better, Faster, Browner",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-02-28T21:30:00-05:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-02-28T22:00:00-05:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-02-28T22:30:00-05:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-02-28T23:00:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-02-28T23:30:00-05:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T00:00:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T00:30:00-05:00",
+        "episodeTitle": "Schindler's Bucket List",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T00:45:00-05:00",
+        "episodeTitle": "Cops and Robbers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T01:00:00-05:00",
+        "episodeTitle": "Ryan Kwanten; Beyonce & Jay-Z",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T01:15:00-05:00",
+        "episodeTitle": "Innernette",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T01:30:00-05:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T02:00:00-05:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T02:30:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T03:00:00-05:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T03:30:00-05:00",
+        "episodeTitle": "Blonde Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T04:00:00-05:00",
+        "episodeTitle": "Family",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T04:15:00-05:00",
+        "episodeTitle": "Holy Meemaw",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T04:30:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T05:00:00-05:00",
+        "episodeTitle": "Harder, Better, Faster, Browner",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-02-28T00:00:00-05:00",
+        "datetime": "2018-03-01T05:30:00-05:00",
+        "episodeTitle": "The Trouble with Gribbles",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

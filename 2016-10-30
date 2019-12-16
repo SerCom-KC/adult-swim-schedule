@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-30T21:00:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-30T21:30:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-30T22:00:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-30T22:30:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-30T23:00:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-30T23:30:00-04:00",
+        "episodeTitle": "Circle Jerk MCMXCVIII",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-30T23:45:00-04:00",
+        "episodeTitle": "The Smoking Nun",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T00:00:00-04:00",
+        "episodeTitle": "Squash B'Gosh",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T00:15:00-04:00",
+        "episodeTitle": "Losin' it",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T00:30:00-04:00",
+        "episodeTitle": "Two for Tina",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T01:00:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T01:30:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T02:00:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T02:30:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T03:00:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T03:30:00-04:00",
+        "episodeTitle": "Circle Jerk MCMXCVIII",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T03:45:00-04:00",
+        "episodeTitle": "The Smoking Nun",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T04:00:00-04:00",
+        "episodeTitle": "Squash B'Gosh",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T04:15:00-04:00",
+        "episodeTitle": "Losin' it",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T04:30:00-04:00",
+        "episodeTitle": "Two for Tina",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T05:00:00-04:00",
+        "episodeTitle": "Hanky Panky (1)",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-10-30T00:00:00-04:00",
+        "datetime": "2016-10-31T05:30:00-04:00",
+        "episodeTitle": "High Anxiety (2)",
+        "rating": "TV-14 ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

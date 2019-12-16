@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-08T21:00:00-05:00",
+        "episodeTitle": "The Brown Knight",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-08T21:30:00-05:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-08T22:00:00-05:00",
+        "episodeTitle": "Four Little Words",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-08T22:30:00-05:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-08T23:00:00-05:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-08T23:30:00-05:00",
+        "episodeTitle": "The Son Also Draws",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T00:00:00-05:00",
+        "episodeTitle": "Help Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T00:15:00-05:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T00:30:00-05:00",
+        "episodeTitle": "Coma",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T00:45:00-05:00",
+        "episodeTitle": "Time-Police 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T01:00:00-05:00",
+        "episodeTitle": "Venture Libre",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T01:30:00-05:00",
+        "episodeTitle": "Four Little Words",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T02:00:00-05:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T02:30:00-05:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T03:00:00-05:00",
+        "episodeTitle": "The Son Also Draws",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T03:30:00-05:00",
+        "episodeTitle": "Help Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T03:45:00-05:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T04:00:00-05:00",
+        "episodeTitle": "Transportation",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T04:15:00-05:00",
+        "episodeTitle": "Hair",
+        "rating": "TV-14 ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T04:30:00-05:00",
+        "episodeTitle": "Venture Libre",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T05:00:00-05:00",
+        "episodeTitle": "The Brown Knight",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-08T00:00:00-05:00",
+        "datetime": "2015-01-09T05:30:00-05:00",
+        "episodeTitle": "Flirting With the Master",
+        "rating": "TV-PG D",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

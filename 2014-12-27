@@ -1,0 +1,92 @@
+[
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-27T21:00:00-05:00",
+        "episodeTitle": "The Fat and the Furious",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-27T21:30:00-05:00",
+        "episodeTitle": "With Friends Like Steve's",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-27T22:00:00-05:00",
+        "episodeTitle": "The Block Is Hot",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-27T22:30:00-05:00",
+        "episodeTitle": "\"Black Jaws!\" or \"Finger Lickin' Chicken of the Sea\"",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-27T23:00:00-05:00",
+        "episodeTitle": "Internal Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-27T23:30:00-05:00",
+        "episodeTitle": "I Can Hear His Heartbeat: The Struggle for Trost Part 4",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-28T00:00:00-05:00",
+        "episodeTitle": "Evangelion: 1.11 You Are (Not) Alone",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 0,
+        "showID": 1674,
+        "showTitle": "CTN Default"
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-28T02:30:00-05:00",
+        "episodeTitle": "Evangelion 2.22  You Can (Not) Advance",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 0,
+        "showID": 1674,
+        "showTitle": "CTN Default"
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-28T05:00:00-05:00",
+        "episodeTitle": "The Show Must Go On",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 317420,
+        "showTitle": "Big O "
+    },
+    {
+        "date": "2014-12-27T00:00:00-05:00",
+        "datetime": "2014-12-28T05:30:00-05:00",
+        "episodeTitle": "XLVI",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 4,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

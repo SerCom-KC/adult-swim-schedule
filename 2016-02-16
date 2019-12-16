@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-16T21:00:00-05:00",
+        "episodeTitle": "Bob Day Afternoon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-16T21:30:00-05:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-16T22:00:00-05:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-16T22:30:00-05:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-16T23:00:00-05:00",
+        "episodeTitle": "We Love You, Conrad",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-16T23:30:00-05:00",
+        "episodeTitle": "Three Kings",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T00:00:00-05:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T00:15:00-05:00",
+        "episodeTitle": "Punctured Jugular",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T00:30:00-05:00",
+        "episodeTitle": "Gene E",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T00:45:00-05:00",
+        "episodeTitle": "The Inkubator Lives!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T01:00:00-05:00",
+        "episodeTitle": "Stickydischarge",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T01:15:00-05:00",
+        "episodeTitle": "Dethvengeance",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T01:30:00-05:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T02:00:00-05:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T02:30:00-05:00",
+        "episodeTitle": "We Love You, Conrad",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T03:00:00-05:00",
+        "episodeTitle": "Three Kings",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T03:30:00-05:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T03:45:00-05:00",
+        "episodeTitle": "Punctured Jugular",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T04:00:00-05:00",
+        "episodeTitle": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T04:15:00-05:00",
+        "episodeTitle": "Attitude",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T04:30:00-05:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T05:00:00-05:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-16T00:00:00-05:00",
+        "datetime": "2016-02-17T05:30:00-05:00",
+        "episodeTitle": "Dale To the Chief",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

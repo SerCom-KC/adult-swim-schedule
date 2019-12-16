@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-20T21:00:00-04:00",
+        "episodeTitle": "The Kids Run Away",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-20T21:30:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-20T22:00:00-04:00",
+        "episodeTitle": "Bar Mitzvah Shuffle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-20T22:30:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-20T23:00:00-04:00",
+        "episodeTitle": "Blind Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-20T23:30:00-04:00",
+        "episodeTitle": "Don't Make Me Over",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T00:00:00-04:00",
+        "episodeTitle": "Childrens Horsepital",
+        "rating": "TV-14 ",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T00:15:00-04:00",
+        "episodeTitle": "Through the Eyes of a Falcon",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T00:30:00-04:00",
+        "episodeTitle": "Little Brittle",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T00:45:00-04:00",
+        "episodeTitle": "The Big E",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T01:00:00-04:00",
+        "episodeTitle": "Missing",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T01:15:00-04:00",
+        "episodeTitle": "Space",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T01:30:00-04:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T02:00:00-04:00",
+        "episodeTitle": "The Kids Run Away",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T02:30:00-04:00",
+        "episodeTitle": "Bar Mitzvah Shuffle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T03:00:00-04:00",
+        "episodeTitle": "Don't Make Me Over",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T03:30:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T04:00:00-04:00",
+        "episodeTitle": "May 20, 2016",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T04:15:00-04:00",
+        "episodeTitle": "Smart Pipe",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T04:30:00-04:00",
+        "episodeTitle": "Missing",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T04:45:00-04:00",
+        "episodeTitle": "Space",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T05:00:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-20T00:00:00-04:00",
+        "datetime": "2016-05-21T05:30:00-04:00",
+        "episodeTitle": "Naked Ambition",
+        "rating": "TV-PG DS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-06T21:00:00-04:00",
+        "episodeTitle": "Behind Closed Doors",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-06T21:30:00-04:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-06T22:00:00-04:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-06T22:30:00-04:00",
+        "episodeTitle": "The Color Ruckus",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-06T23:00:00-04:00",
+        "episodeTitle": "Cops and Roger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-06T23:30:00-04:00",
+        "episodeTitle": "Chitty Chitty Death Bang",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T00:00:00-04:00",
+        "episodeTitle": "A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T00:30:00-04:00",
+        "episodeTitle": "Tell Me Why",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T01:00:00-04:00",
+        "episodeTitle": "Death Chaser",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T01:30:00-04:00",
+        "episodeTitle": "Thoughts Fall Short",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T02:00:00-04:00",
+        "episodeTitle": "Despair",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T02:30:00-04:00",
+        "episodeTitle": "Boss Luffy is the Culprit? Track Down the Missing Great Cherry Tree!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T03:00:00-04:00",
+        "episodeTitle": "Response: The Struggle for Trost Part 6",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T03:30:00-04:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T04:00:00-04:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T04:30:00-04:00",
+        "episodeTitle": "Cops and Roger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T05:00:00-04:00",
+        "episodeTitle": "Lady and Gentrification",
+        "rating": "TV-PG ",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-06T00:00:00-04:00",
+        "datetime": "2015-06-07T05:30:00-04:00",
+        "episodeTitle": "Behind Closed Doors",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

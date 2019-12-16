@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-14T21:00:00-04:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-14T21:30:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-14T22:00:00-04:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-14T22:30:00-04:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-14T23:00:00-04:00",
+        "episodeTitle": "It's a Trap Part 1 & 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T00:00:00-04:00",
+        "episodeTitle": "Robot Fight Accident",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T00:15:00-04:00",
+        "episodeTitle": "Choked on a Bottle Cap",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T00:30:00-04:00",
+        "episodeTitle": "Hands on a Hamburger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T00:45:00-04:00",
+        "episodeTitle": "A Walk to Dignity",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T01:00:00-04:00",
+        "episodeTitle": "Mr. Grumpy-Pants",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T01:15:00-04:00",
+        "episodeTitle": "Dethgov",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T01:30:00-04:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T02:00:00-04:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T02:30:00-04:00",
+        "episodeTitle": "It's a Trap Part 1 & 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T03:30:00-04:00",
+        "episodeTitle": "Robot Fight Accident",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T03:45:00-04:00",
+        "episodeTitle": "Choked on a Bottle Cap",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T04:00:00-04:00",
+        "episodeTitle": "Death",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T04:15:00-04:00",
+        "episodeTitle": "Dildo Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T04:30:00-04:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T05:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-14T00:00:00-04:00",
+        "datetime": "2015-10-15T05:30:00-04:00",
+        "episodeTitle": "Dia-Bill-Ic Shock",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

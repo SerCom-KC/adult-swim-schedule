@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-02T21:00:00-04:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-02T21:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-02T22:00:00-04:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-02T22:30:00-04:00",
+        "episodeTitle": "Widow's Pique",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-02T23:00:00-04:00",
+        "episodeTitle": "Stewie, Chris & Brian's Excellent Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-02T23:30:00-04:00",
+        "episodeTitle": "Our Idiot Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T00:00:00-04:00",
+        "episodeTitle": "They Took My Thumbs",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T00:15:00-04:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T00:30:00-04:00",
+        "episodeTitle": "Broodwich",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T00:45:00-04:00",
+        "episodeTitle": "Reunited, And It Feels No Good",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T01:00:00-04:00",
+        "episodeTitle": "I Know Why the Caged Bird Kills",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T01:30:00-04:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T02:00:00-04:00",
+        "episodeTitle": "Widow's Pique",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T02:30:00-04:00",
+        "episodeTitle": "Stewie, Chris & Brian's Excellent Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T03:00:00-04:00",
+        "episodeTitle": "Our Idiot Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T03:30:00-04:00",
+        "episodeTitle": "They Took My Thumbs",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T03:45:00-04:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T04:00:00-04:00",
+        "episodeTitle": "Live at the Necropolis: Lords of Synth",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T04:15:00-04:00",
+        "episodeTitle": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T04:30:00-04:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T05:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-02T00:00:00-04:00",
+        "datetime": "2016-05-03T05:30:00-04:00",
+        "episodeTitle": "Jon Vitti Presents: Return to La Grunta",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

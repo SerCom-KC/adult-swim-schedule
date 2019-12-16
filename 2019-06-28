@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-28T21:00:00-04:00",
+        "episodeTitle": "Brothers and Sisters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-28T21:30:00-04:00",
+        "episodeTitle": "The Big Bang Theory",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-28T22:00:00-04:00",
+        "episodeTitle": "Let's Nab Oprah",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-28T22:30:00-04:00",
+        "episodeTitle": "Riley Wuz Here",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-28T23:00:00-04:00",
+        "episodeTitle": "Walla Walla Wallabees B",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-28T23:15:00-04:00",
+        "episodeTitle": "My Friend Sheldon Jr.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-28T23:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T00:00:00-04:00",
+        "episodeTitle": "The Party Hole",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T00:15:00-04:00",
+        "episodeTitle": "Trial by Gary",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T00:30:00-04:00",
+        "episodeTitle": "Jack",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T00:45:00-04:00",
+        "episodeTitle": "Ryan Phillippe",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T01:00:00-04:00",
+        "episodeTitle": "Help a Brother Out",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T01:15:00-04:00",
+        "episodeTitle": "The Beginning",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T01:30:00-04:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T02:00:00-04:00",
+        "episodeTitle": "Brothers and Sisters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T02:30:00-04:00",
+        "episodeTitle": "The Big Bang Theory",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T03:00:00-04:00",
+        "episodeTitle": "Let's Nab Oprah",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T03:30:00-04:00",
+        "episodeTitle": "Walla Walla Wallabees B",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T03:45:00-04:00",
+        "episodeTitle": "My Friend Sheldon Jr.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 6/28/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T04:15:00-04:00",
+        "episodeTitle": "Bloodfeast - 6/28/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449332,
+        "showTitle": "Bloodfeast"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T04:30:00-04:00",
+        "episodeTitle": "The Party Hole",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T04:45:00-04:00",
+        "episodeTitle": "Trial by Gary",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T05:00:00-04:00",
+        "episodeTitle": "A Boy Named Michael",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-28T00:00:00-04:00",
+        "datetime": "2019-06-29T05:30:00-04:00",
+        "episodeTitle": "XX",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 2,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

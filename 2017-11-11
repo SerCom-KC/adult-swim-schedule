@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-11T21:00:00-05:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-11T21:30:00-05:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-11T22:00:00-05:00",
+        "episodeTitle": "Stewie, Chris & Brian's Excellent Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-11T22:30:00-05:00",
+        "episodeTitle": "Our Idiot Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-11T23:00:00-05:00",
+        "episodeTitle": "A Decision at Last! Is the Winner Beerus? Or Is It Champa?",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-11T23:30:00-05:00",
+        "episodeTitle": "Who Will Defeat Majin Buu? The Mightiest of Men Moves Out!!",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T00:00:00-05:00",
+        "episodeTitle": "Justice Part 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T00:30:00-05:00",
+        "episodeTitle": "Inauguration of the Arbrau Defense Forces",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T01:00:00-05:00",
+        "episodeTitle": "Insanity x and x Sanity",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T01:30:00-05:00",
+        "episodeTitle": "The First Supper",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T02:00:00-05:00",
+        "episodeTitle": "Inari's Courage Put to the Test",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T02:30:00-05:00",
+        "episodeTitle": "Adrift in Subspace",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T03:00:00-05:00",
+        "episodeTitle": "Jamming With Edward",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T03:30:00-05:00",
+        "episodeTitle": "Cash Eye",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T04:00:00-05:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T04:30:00-05:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T05:00:00-05:00",
+        "episodeTitle": "Harlottown",
+        "rating": "TV-PG D",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-11-11T00:00:00-05:00",
+        "datetime": "2017-11-12T05:30:00-05:00",
+        "episodeTitle": "A Portrait of the Artist as a Young Clown",
+        "rating": "TV-PG ",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

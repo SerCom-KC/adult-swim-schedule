@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-08T21:00:00-05:00",
+        "episodeTitle": "Brown Magic",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-08T21:30:00-05:00",
+        "episodeTitle": "Stan's Food Restaurant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-08T22:00:00-05:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-08T22:30:00-05:00",
+        "episodeTitle": "Bob Day Afternoon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-08T23:00:00-05:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-08T23:30:00-05:00",
+        "episodeTitle": "Brian the Bachelor",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T00:00:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T00:30:00-05:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T00:45:00-05:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T01:00:00-05:00",
+        "episodeTitle": "Sacrifice",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T01:15:00-05:00",
+        "episodeTitle": "Robots",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T01:30:00-05:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T02:00:00-05:00",
+        "episodeTitle": "Bob Day Afternoon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T02:30:00-05:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T03:00:00-05:00",
+        "episodeTitle": "Brian the Bachelor",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T03:30:00-05:00",
+        "episodeTitle": "Son of Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T04:00:00-05:00",
+        "episodeTitle": "Hands of God",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T04:30:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T05:00:00-05:00",
+        "episodeTitle": "Brown Magic",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-01-08T00:00:00-05:00",
+        "datetime": "2018-01-09T05:30:00-05:00",
+        "episodeTitle": "The Boy Can't Help It",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

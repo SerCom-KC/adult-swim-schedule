@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-23T21:00:00-04:00",
+        "episodeTitle": "Mama Drama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-23T21:30:00-04:00",
+        "episodeTitle": "Bullocks to Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-23T22:00:00-04:00",
+        "episodeTitle": "Deacon Stan, Jesus Man",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-23T22:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-23T23:00:00-04:00",
+        "episodeTitle": "This Little Piggy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-23T23:30:00-04:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T00:00:00-04:00",
+        "episodeTitle": "Revenge of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T00:15:00-04:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T00:30:00-04:00",
+        "episodeTitle": "A Plaintive Wail",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T00:45:00-04:00",
+        "episodeTitle": "Anne Marie's Pride",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T01:00:00-04:00",
+        "episodeTitle": "Butt Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T01:15:00-04:00",
+        "episodeTitle": "Season 2 Finale",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T01:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T02:00:00-04:00",
+        "episodeTitle": "This Little Piggy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T02:30:00-04:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T03:00:00-04:00",
+        "episodeTitle": "Bullocks to Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T03:30:00-04:00",
+        "episodeTitle": "Deacon Stan, Jesus Man",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 6/22/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 6/22/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T04:30:00-04:00",
+        "episodeTitle": "A Plaintive Wail",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T04:45:00-04:00",
+        "episodeTitle": "Anne Marie's Pride",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T05:00:00-04:00",
+        "episodeTitle": "Mama Drama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-23T00:00:00-04:00",
+        "datetime": "2017-06-24T05:30:00-04:00",
+        "episodeTitle": "Behind Closed Doors",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

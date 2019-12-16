@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-14T21:00:00-05:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-14T21:30:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-14T22:00:00-05:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-14T22:30:00-05:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-14T23:00:00-05:00",
+        "episodeTitle": "Baby Got Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-14T23:30:00-05:00",
+        "episodeTitle": "To the Promised Resort! Vegeta Takes a Family Trip?",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T00:00:00-05:00",
+        "episodeTitle": "A New Hero, Great Saiyaman, Is Born!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T00:30:00-05:00",
+        "episodeTitle": "The Pillar Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T01:00:00-05:00",
+        "episodeTitle": "First Blood",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T01:30:00-05:00",
+        "episodeTitle": "Power x to x Avenge",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T02:00:00-05:00",
+        "episodeTitle": "Truth",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T02:30:00-05:00",
+        "episodeTitle": "Not Out of Danger Yet! Orders to Annihilate the Straw Hat Crew",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T03:00:00-05:00",
+        "episodeTitle": "Unparalleled Peril",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T03:30:00-05:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T04:00:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T04:30:00-05:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T05:00:00-05:00",
+        "episodeTitle": "Patch Boomhauer",
+        "rating": "TV-PG D",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-01-14T00:00:00-05:00",
+        "datetime": "2017-01-15T05:30:00-05:00",
+        "episodeTitle": "It Came From the Garage",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

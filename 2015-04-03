@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-03T21:00:00-04:00",
+        "episodeTitle": "All You Can Eat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-03T21:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-03T22:00:00-04:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-03T22:30:00-04:00",
+        "episodeTitle": "Road to Germany",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-03T23:00:00-04:00",
+        "episodeTitle": "Baby Not on Board",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-03T23:30:00-04:00",
+        "episodeTitle": "Commercial",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T00:00:00-04:00",
+        "episodeTitle": "We Are Not Our DNA!",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T00:15:00-04:00",
+        "episodeTitle": "America's Unknown President; Reporter on House Arrest",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T00:30:00-04:00",
+        "episodeTitle": "Seth Rogen; Asa Akira",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T00:45:00-04:00",
+        "episodeTitle": "A Brand New Day",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 398352,
+        "showTitle": "Hot Package"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T01:00:00-04:00",
+        "episodeTitle": "Powerless in the Face of Death",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T01:30:00-04:00",
+        "episodeTitle": "Baby Not on Board",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T02:00:00-04:00",
+        "episodeTitle": "Road to Germany",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T02:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T03:00:00-04:00",
+        "episodeTitle": "Commercial",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T03:30:00-04:00",
+        "episodeTitle": "We Are Not Our DNA!",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T03:45:00-04:00",
+        "episodeTitle": "America's Unknown President; Reporter on House Arrest",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T04:00:00-04:00",
+        "episodeTitle": "Hair",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T04:15:00-04:00",
+        "episodeTitle": "Friends",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T04:30:00-04:00",
+        "episodeTitle": "Powerless in the Face of Death",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T05:00:00-04:00",
+        "episodeTitle": "All You Can Eat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-03T00:00:00-04:00",
+        "datetime": "2015-04-04T05:30:00-04:00",
+        "episodeTitle": "Hank's Choice",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

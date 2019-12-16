@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-28T21:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-28T21:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-28T22:00:00-04:00",
+        "episodeTitle": "The Nova Centauris-burgh Board of Tourism Presents: American Dad",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-28T22:30:00-04:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-28T23:00:00-04:00",
+        "episodeTitle": "Hot Pocket-Dial",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-28T23:30:00-04:00",
+        "episodeTitle": "Love Letters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-28T23:45:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T00:00:00-04:00",
+        "episodeTitle": "Talent Show",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T00:15:00-04:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T00:30:00-04:00",
+        "episodeTitle": "Robot Chicken DC Comics Special III: Magical Friendship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T01:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T01:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T02:00:00-04:00",
+        "episodeTitle": "The Nova Centauris-burgh Board of Tourism Presents: American Dad",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T02:30:00-04:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T03:00:00-04:00",
+        "episodeTitle": "Hot Pocket-Dial",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T03:30:00-04:00",
+        "episodeTitle": "Love Letters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T03:45:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T04:00:00-04:00",
+        "episodeTitle": "Talent Show",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T04:15:00-04:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T04:30:00-04:00",
+        "episodeTitle": "Robot Chicken DC Comics Special III: Magical Friendship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T05:00:00-04:00",
+        "episodeTitle": "The Year of Washing Dangerously",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-05-28T00:00:00-04:00",
+        "datetime": "2017-05-29T05:30:00-04:00",
+        "episodeTitle": "Hank Fixes Everything",
+        "rating": "TV-PG LV",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

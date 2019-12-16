@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-14T21:00:00-05:00",
+        "episodeTitle": "Man in the Moonbounce",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-14T21:30:00-05:00",
+        "episodeTitle": "Shallow Vows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-14T22:00:00-05:00",
+        "episodeTitle": "The Horse Rider-Er",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-14T22:30:00-05:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-14T23:00:00-05:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-14T23:30:00-05:00",
+        "episodeTitle": "Blind Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T00:00:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T00:30:00-05:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T00:45:00-05:00",
+        "episodeTitle": "Slaughterhouse on the Prairie",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T01:00:00-05:00",
+        "episodeTitle": "Super Bowl",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T01:15:00-05:00",
+        "episodeTitle": "Beast Implants",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T01:30:00-05:00",
+        "episodeTitle": "The Horse Rider-Er",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T02:00:00-05:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T02:30:00-05:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T03:00:00-05:00",
+        "episodeTitle": "Blind Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T03:30:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T04:00:00-05:00",
+        "episodeTitle": "Joe Pera Answers Your Questions About Cold Weather Sports",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T04:30:00-05:00",
+        "episodeTitle": "Super Bowl",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T04:45:00-05:00",
+        "episodeTitle": "Beast Implants",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T05:00:00-05:00",
+        "episodeTitle": "Man in the Moonbounce",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-14T00:00:00-05:00",
+        "datetime": "2018-11-15T05:30:00-05:00",
+        "episodeTitle": "Shallow Vows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

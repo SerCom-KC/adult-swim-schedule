@@ -1,0 +1,153 @@
+[
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-10T21:00:00-05:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-10T21:30:00-05:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-10T22:00:00-05:00",
+        "episodeTitle": "Foreign Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-10T22:30:00-05:00",
+        "episodeTitle": "He Who Is Of Saiyan Blood - Trunks's Resolve",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-10T23:00:00-05:00",
+        "episodeTitle": "Invincible! The Ultimate Warrior Vegetto!",
+        "rating": "TV-14 V",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-10T23:30:00-05:00",
+        "episodeTitle": "The Wizard King Saw, Continued",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T00:00:00-05:00",
+        "episodeTitle": "Anubis Part 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T00:30:00-05:00",
+        "episodeTitle": "The Man Who Holds the Soul",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T01:00:00-05:00",
+        "episodeTitle": "Duel x and x Escape",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T01:30:00-05:00",
+        "episodeTitle": "The Worst Three-Legged Race",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T03:00:00-04:00",
+        "episodeTitle": "",
+        "showID": 375774,
+        "showTitle": "Daylight Savings Time Adjustment - Spring"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T03:00:00-04:00",
+        "episodeTitle": "Maze of Dispair",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T03:30:00-04:00",
+        "episodeTitle": "A Race in Space Is Dangerous, Baby",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T04:00:00-04:00",
+        "episodeTitle": "Brain Scratch",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T04:30:00-04:00",
+        "episodeTitle": "Red Data",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T05:00:00-04:00",
+        "episodeTitle": "Unfortunate Son",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-03-10T00:00:00-05:00",
+        "datetime": "2018-03-11T05:30:00-04:00",
+        "episodeTitle": "Are You There, God? It's Me, Margaret Hill",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

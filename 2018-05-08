@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-08T21:00:00-04:00",
+        "episodeTitle": "Love Rollercoaster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-08T21:30:00-04:00",
+        "episodeTitle": "Meter Made",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-08T22:00:00-04:00",
+        "episodeTitle": "Speakeasy Rider",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-08T22:30:00-04:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-08T23:00:00-04:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-08T23:30:00-04:00",
+        "episodeTitle": "A Lot Going on Upstairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T00:00:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T00:30:00-04:00",
+        "episodeTitle": "Secret of the Flushed Footlong",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T00:45:00-04:00",
+        "episodeTitle": "Food",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T01:00:00-04:00",
+        "episodeTitle": "Very Special Balls",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T01:15:00-04:00",
+        "episodeTitle": "To Catch a Princess",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T01:30:00-04:00",
+        "episodeTitle": "Speakeasy Rider",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T02:00:00-04:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T02:30:00-04:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T03:00:00-04:00",
+        "episodeTitle": "A Lot Going on Upstairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T03:30:00-04:00",
+        "episodeTitle": "The Vacation Goo",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T04:00:00-04:00",
+        "episodeTitle": "Live Forever as You Are Now with Alan Resnick",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T04:15:00-04:00",
+        "episodeTitle": "Fartcopter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T04:30:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T05:00:00-04:00",
+        "episodeTitle": "Love Rollercoaster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-08T00:00:00-04:00",
+        "datetime": "2018-05-09T05:30:00-04:00",
+        "episodeTitle": "Hank Fixes Everything",
+        "rating": "TV-PG LV",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

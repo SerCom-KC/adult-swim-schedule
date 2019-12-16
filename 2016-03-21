@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-21T21:00:00-04:00",
+        "episodeTitle": "The Kids Run Away",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-21T21:30:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-21T22:00:00-04:00",
+        "episodeTitle": "My Affair Lady",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-21T22:30:00-04:00",
+        "episodeTitle": "Stan-Dan Deliver",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-21T23:00:00-04:00",
+        "episodeTitle": "The Heartbreak Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-21T23:30:00-04:00",
+        "episodeTitle": "Meg Stinks!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T00:00:00-04:00",
+        "episodeTitle": "Nutcracker Sweet",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T00:15:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T00:30:00-04:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T00:45:00-04:00",
+        "episodeTitle": "A Sober Sunday",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T01:00:00-04:00",
+        "episodeTitle": "Hostile Makeover",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T01:30:00-04:00",
+        "episodeTitle": "My Affair Lady",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T02:00:00-04:00",
+        "episodeTitle": "Stan-Dan Deliver",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T02:30:00-04:00",
+        "episodeTitle": "The Heartbreak Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T03:00:00-04:00",
+        "episodeTitle": "Meg Stinks!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T03:30:00-04:00",
+        "episodeTitle": "Nutcracker Sweet",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T03:45:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Talks You to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T04:15:00-04:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T04:30:00-04:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T05:00:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-21T00:00:00-04:00",
+        "datetime": "2016-03-22T05:30:00-04:00",
+        "episodeTitle": "Tears of an Inflatable Clown",
+        "rating": "TV-PG L",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

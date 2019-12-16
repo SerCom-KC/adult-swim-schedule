@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-23T21:00:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-23T21:30:00-04:00",
+        "episodeTitle": "The Long Bomb",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-23T22:00:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-23T22:30:00-04:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-23T23:00:00-04:00",
+        "episodeTitle": "Boys Do Cry",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-23T23:30:00-04:00",
+        "episodeTitle": "No Chris Left Behind",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T00:00:00-04:00",
+        "episodeTitle": "Disemboweled by an Orphan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T00:15:00-04:00",
+        "episodeTitle": "In Bed Surrounded by Loved Ones",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T00:30:00-04:00",
+        "episodeTitle": "Love Letters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T00:45:00-04:00",
+        "episodeTitle": "The Shaving",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T01:00:00-04:00",
+        "episodeTitle": "The Need for Weed",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T01:15:00-04:00",
+        "episodeTitle": "Turn the Other Cheek",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T01:30:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T02:00:00-04:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T02:30:00-04:00",
+        "episodeTitle": "Boys Do Cry",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T03:00:00-04:00",
+        "episodeTitle": "No Chris Left Behind",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T03:30:00-04:00",
+        "episodeTitle": "Cops and Roger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T04:00:00-04:00",
+        "episodeTitle": "Episode 3",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 441652,
+        "showTitle": "Daytime Fighting League 2: Risky Nights"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T04:15:00-04:00",
+        "episodeTitle": "This House Has People in It",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T04:30:00-04:00",
+        "episodeTitle": "Love Letters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T04:45:00-04:00",
+        "episodeTitle": "The Shaving",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T05:00:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-23T00:00:00-04:00",
+        "datetime": "2017-08-24T05:30:00-04:00",
+        "episodeTitle": "Peggy's Fan Fair",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

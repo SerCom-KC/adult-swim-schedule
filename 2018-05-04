@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-04T21:00:00-04:00",
+        "episodeTitle": "From Bed to Worse",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-04T21:30:00-04:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-04T22:00:00-04:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-04T22:30:00-04:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-04T23:00:00-04:00",
+        "episodeTitle": "Brokeback Swanson",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-04T23:30:00-04:00",
+        "episodeTitle": "A Shot in the Dark",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T00:00:00-04:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T00:30:00-04:00",
+        "episodeTitle": "Hopefully Salt",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T00:45:00-04:00",
+        "episodeTitle": "Yogurt in a Bag",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T01:00:00-04:00",
+        "episodeTitle": "Leather Passions! 2 Hearts, 2 Wheelz, Infinite Roadz. RIDE NOW!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T01:15:00-04:00",
+        "episodeTitle": "Hunger Cramps on the Playing Field of Friendship",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T01:30:00-04:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T02:00:00-04:00",
+        "episodeTitle": "Brokeback Swanson",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T02:30:00-04:00",
+        "episodeTitle": "A Shot in the Dark",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T03:00:00-04:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T03:30:00-04:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T04:00:00-04:00",
+        "episodeTitle": "FishCenter - 5/4/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 4/19/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T04:30:00-04:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T05:00:00-04:00",
+        "episodeTitle": "From Bed to Worse",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-04T00:00:00-04:00",
+        "datetime": "2018-05-05T05:30:00-04:00",
+        "episodeTitle": "Harlottown",
+        "rating": "TV-PG D",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

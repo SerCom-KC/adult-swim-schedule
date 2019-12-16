@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-23T21:00:00-05:00",
+        "episodeTitle": "Hot Cocoa Bang Bang",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-23T21:30:00-05:00",
+        "episodeTitle": "BFFs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-23T22:00:00-05:00",
+        "episodeTitle": "1600 Candles",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-23T22:30:00-05:00",
+        "episodeTitle": "The One That Got Away",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-23T23:00:00-05:00",
+        "episodeTitle": "He's Too Sexy for His Fat",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-23T23:30:00-05:00",
+        "episodeTitle": "E Peterbus Unum",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T00:00:00-05:00",
+        "episodeTitle": "How the Sausage is Made; Lottery Winners Lose",
+        "rating": "TV-MA S",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T00:15:00-05:00",
+        "episodeTitle": "Bird Up!",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T00:30:00-05:00",
+        "episodeTitle": "Congroined Hearts",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T00:45:00-05:00",
+        "episodeTitle": "The Endorsement",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T01:00:00-05:00",
+        "episodeTitle": "The Incredible Mr. Brisby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T01:30:00-05:00",
+        "episodeTitle": "1600 Candles",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T02:00:00-05:00",
+        "episodeTitle": "The One That Got Away",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T02:30:00-05:00",
+        "episodeTitle": "He's Too Sexy for His Fat",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T03:00:00-05:00",
+        "episodeTitle": "E Peterbus Unum",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T03:30:00-05:00",
+        "episodeTitle": "How the Sausage is Made; Lottery Winners Lose",
+        "rating": "TV-MA S",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T03:45:00-05:00",
+        "episodeTitle": "Bird Up!",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T04:00:00-05:00",
+        "episodeTitle": "Space",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T04:15:00-05:00",
+        "episodeTitle": "Dads",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T04:30:00-05:00",
+        "episodeTitle": "The Incredible Mr. Brisby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T05:00:00-05:00",
+        "episodeTitle": "Hot Cocoa Bang Bang",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-23T00:00:00-05:00",
+        "datetime": "2015-01-24T05:30:00-05:00",
+        "episodeTitle": "It Ain't Over Till The Fat Neighbor Sings",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

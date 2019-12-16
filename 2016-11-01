@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-01T21:00:00-04:00",
+        "episodeTitle": "Bill of Sales",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-01T21:30:00-04:00",
+        "episodeTitle": "Like a Boss",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-01T22:00:00-04:00",
+        "episodeTitle": "Home Adrone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-01T22:30:00-04:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-01T23:00:00-04:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-01T23:30:00-04:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T00:00:00-04:00",
+        "episodeTitle": "Camping",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 432652,
+        "showTitle": "Jon Glaser Loves Gear"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T00:30:00-04:00",
+        "episodeTitle": "Snow Daddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T00:45:00-04:00",
+        "episodeTitle": "Ballmart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T01:00:00-04:00",
+        "episodeTitle": "The The",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T01:15:00-04:00",
+        "episodeTitle": "Crime",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T01:30:00-04:00",
+        "episodeTitle": "Home Adrone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T02:00:00-04:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T02:30:00-04:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T03:00:00-04:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T03:30:00-04:00",
+        "episodeTitle": "Snow Daddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T03:45:00-04:00",
+        "episodeTitle": "Ballmart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T04:00:00-04:00",
+        "episodeTitle": "LBJFK",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T04:15:00-04:00",
+        "episodeTitle": "Terry the Teratoma",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T04:30:00-04:00",
+        "episodeTitle": "The The",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T04:45:00-04:00",
+        "episodeTitle": "Crime",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T05:00:00-04:00",
+        "episodeTitle": "Like a Boss",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-01T00:00:00-04:00",
+        "datetime": "2016-11-02T05:30:00-04:00",
+        "episodeTitle": "Bill of Sales",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

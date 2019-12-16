@@ -1,0 +1,236 @@
+[
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-08T21:00:00-04:00",
+        "episodeTitle": "Into the Mild",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-08T21:30:00-04:00",
+        "episodeTitle": "The Never-Ending Stories",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-08T22:00:00-04:00",
+        "episodeTitle": "Peter's Def Jam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-08T22:30:00-04:00",
+        "episodeTitle": "The Finer Strings",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-08T23:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-08T23:30:00-04:00",
+        "episodeTitle": "Your Mouth Is Hanging off Your Face",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-08T23:45:00-04:00",
+        "episodeTitle": "Ext. Forest - Day",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T00:00:00-04:00",
+        "episodeTitle": "Diversity",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T00:15:00-04:00",
+        "episodeTitle": "Bravery",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T00:30:00-04:00",
+        "episodeTitle": "Joe Pera Talks You Back to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T00:45:00-04:00",
+        "episodeTitle": "Joe Pera Reads You The Church Announcements",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T01:00:00-04:00",
+        "episodeTitle": "Breathe Deep to Win! Teamwork Cuts Through the Foul Odor of Obsession!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T01:15:00-04:00",
+        "episodeTitle": "Honor! Money! Swords! Dongs! Ultimate Gaz Boom Boom Rookie Card Battle Begin! Fight!",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T01:30:00-04:00",
+        "episodeTitle": "Peter's Def Jam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T02:00:00-04:00",
+        "episodeTitle": "The Finer Strings",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T02:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T03:00:00-04:00",
+        "episodeTitle": "Your Mouth Is Hanging off Your Face",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T03:15:00-04:00",
+        "episodeTitle": "Ext. Forest - Day",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T03:30:00-04:00",
+        "episodeTitle": "Diversity",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T03:45:00-04:00",
+        "episodeTitle": "Bravery",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Talks You Back to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T04:15:00-04:00",
+        "episodeTitle": "Joe Pera Reads You The Church Announcements",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T04:30:00-04:00",
+        "episodeTitle": "Breathe Deep to Win! Teamwork Cuts Through the Foul Odor of Obsession!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T04:45:00-04:00",
+        "episodeTitle": "Honor! Money! Swords! Dongs! Ultimate Gaz Boom Boom Rookie Card Battle Begin! Fight!",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T05:00:00-04:00",
+        "episodeTitle": "The Never-Ending Stories",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-07-08T00:00:00-04:00",
+        "datetime": "2018-07-09T05:30:00-04:00",
+        "episodeTitle": "Into the Mild",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

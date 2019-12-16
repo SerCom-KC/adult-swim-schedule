@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-12T21:00:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-12T21:30:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-12T22:00:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-12T22:30:00-04:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-12T23:00:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-12T23:30:00-04:00",
+        "episodeTitle": "The Remembered",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T00:00:00-04:00",
+        "episodeTitle": "Doctor Pirates",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T00:15:00-04:00",
+        "episodeTitle": "Walla Walla Civil War",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T00:30:00-04:00",
+        "episodeTitle": "Comedy",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T00:45:00-04:00",
+        "episodeTitle": "Children",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T01:00:00-04:00",
+        "episodeTitle": "Paranoid_Frandroid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T01:30:00-04:00",
+        "episodeTitle": "The Census of the Lambs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T02:00:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T02:30:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T03:00:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T03:30:00-04:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T04:00:00-04:00",
+        "episodeTitle": "Tornado Shanks",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T04:15:00-04:00",
+        "episodeTitle": "Blind Faith",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T04:30:00-04:00",
+        "episodeTitle": "Doctor Pirates",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T04:45:00-04:00",
+        "episodeTitle": "Walla Walla Civil War",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T05:00:00-04:00",
+        "episodeTitle": "The Remembered",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-08-12T00:00:00-04:00",
+        "datetime": "2019-08-13T05:30:00-04:00",
+        "episodeTitle": "LI",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 4,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

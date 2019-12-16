@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-02T21:00:00-05:00",
+        "episodeTitle": "A.T. the Abusive Terrestrial",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-02T21:30:00-05:00",
+        "episodeTitle": "Black Mystery Month",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-02T22:00:00-05:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-02T22:30:00-05:00",
+        "episodeTitle": "Sheesh! Cab, Bob?",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-02T23:00:00-05:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-02T23:30:00-05:00",
+        "episodeTitle": "Brian the Bachelor",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T00:00:00-05:00",
+        "episodeTitle": "Some Like It Hitman",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T00:15:00-05:00",
+        "episodeTitle": "The Core, the Thief, His Wife and Her Lover",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T00:30:00-05:00",
+        "episodeTitle": "Laser Lenses",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T00:45:00-05:00",
+        "episodeTitle": "Little Brittle",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T01:00:00-05:00",
+        "episodeTitle": "Sinbad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T01:15:00-05:00",
+        "episodeTitle": "Rio Ghosto",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T01:30:00-05:00",
+        "episodeTitle": "A.T. the Abusive Terrestrial",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T02:00:00-05:00",
+        "episodeTitle": "Black Mystery Month",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T02:30:00-05:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T03:00:00-05:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T03:30:00-05:00",
+        "episodeTitle": "Brian the Bachelor",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T04:00:00-05:00",
+        "episodeTitle": "\"Just Beat It\" or \"Jackson Five Across Yo' Eyes\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T04:30:00-05:00",
+        "episodeTitle": "Sinbad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T04:45:00-05:00",
+        "episodeTitle": "Rio Ghosto",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T05:00:00-05:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-03-02T00:00:00-05:00",
+        "datetime": "2017-03-03T05:30:00-05:00",
+        "episodeTitle": "Sleight of Hank",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

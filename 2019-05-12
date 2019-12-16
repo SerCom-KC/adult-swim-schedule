@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-12T21:00:00-04:00",
+        "episodeTitle": "Boywatch",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-12T21:30:00-04:00",
+        "episodeTitle": "The Trouble with Doubles",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-12T22:00:00-04:00",
+        "episodeTitle": "Rabbit Ears",
+        "rating": "TV-14 L",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-12T22:30:00-04:00",
+        "episodeTitle": "Saturated Fat Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-12T23:00:00-04:00",
+        "episodeTitle": "Peter's Lost Youth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-12T23:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T00:00:00-04:00",
+        "episodeTitle": "The Invasion",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T00:30:00-04:00",
+        "episodeTitle": "Dying to Eat",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T00:45:00-04:00",
+        "episodeTitle": "That Was Today. This Is Tomorrow.",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T01:00:00-04:00",
+        "episodeTitle": "OMGouija",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T01:15:00-04:00",
+        "episodeTitle": "The High Heel",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T01:30:00-04:00",
+        "episodeTitle": "Rabbit Ears",
+        "rating": "TV-14 L",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T02:00:00-04:00",
+        "episodeTitle": "Saturated Fat Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T02:30:00-04:00",
+        "episodeTitle": "Peter's Lost Youth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T03:00:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T03:30:00-04:00",
+        "episodeTitle": "The Invasion",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T04:00:00-04:00",
+        "episodeTitle": "Dying to Eat",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T04:15:00-04:00",
+        "episodeTitle": "That Was Today. This Is Tomorrow.",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T04:30:00-04:00",
+        "episodeTitle": "OMGouija",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T04:45:00-04:00",
+        "episodeTitle": "The High Heel",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T05:00:00-04:00",
+        "episodeTitle": "Boywatch",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-12T00:00:00-04:00",
+        "datetime": "2019-05-13T05:30:00-04:00",
+        "episodeTitle": "The Trouble with Doubles",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

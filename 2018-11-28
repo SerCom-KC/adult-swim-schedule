@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-28T21:00:00-05:00",
+        "episodeTitle": "Fartbreak Hotel",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-28T21:30:00-05:00",
+        "episodeTitle": "Stanny-Boy and Frantastic",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-28T22:00:00-05:00",
+        "episodeTitle": "Aquaticism",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-28T22:30:00-05:00",
+        "episodeTitle": "Ain't Miss Debatin'",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-28T23:00:00-05:00",
+        "episodeTitle": "The Father, the Son and the Holy Fonz",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-28T23:30:00-05:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T00:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T00:30:00-05:00",
+        "episodeTitle": "Everything Is Ugly",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 443692,
+        "showTitle": "Tender Touches"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T00:45:00-05:00",
+        "episodeTitle": "Everything Is Ugly: Operetta",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 443692,
+        "showTitle": "Tender Touches"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T01:00:00-05:00",
+        "episodeTitle": "Total Re-Carl",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T01:15:00-05:00",
+        "episodeTitle": "The Unbearable Heatness of Fire",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T01:30:00-05:00",
+        "episodeTitle": "Aquaticism",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T02:00:00-05:00",
+        "episodeTitle": "Ain't Miss Debatin'",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T02:30:00-05:00",
+        "episodeTitle": "The Father, the Son and the Holy Fonz",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T03:00:00-05:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T03:30:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T04:00:00-05:00",
+        "episodeTitle": "Joe Pera Talks To You About The Rat Wars of Alberta, Canada, 1950 - Present Day",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T04:15:00-05:00",
+        "episodeTitle": "Cars",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T04:30:00-05:00",
+        "episodeTitle": "Total Re-Carl",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T04:45:00-05:00",
+        "episodeTitle": "The Unbearable Heatness of Fire",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T05:00:00-05:00",
+        "episodeTitle": "Fartbreak Hotel",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-28T00:00:00-05:00",
+        "datetime": "2018-11-29T05:30:00-05:00",
+        "episodeTitle": "Stanny-Boy and Frantastic",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

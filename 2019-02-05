@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-05T21:00:00-05:00",
+        "episodeTitle": "The Two Hundred",
+        "rating": "TV-14 V",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-05T21:30:00-05:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-05T22:00:00-05:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-05T22:30:00-05:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-05T23:00:00-05:00",
+        "episodeTitle": "It's a Trap Part 1 & 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T00:00:00-05:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T00:30:00-05:00",
+        "episodeTitle": "Batman Forever 21",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T00:45:00-05:00",
+        "episodeTitle": "The Hobbit: There and Bennigan's",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T01:00:00-05:00",
+        "episodeTitle": "Snake Island",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T01:15:00-05:00",
+        "episodeTitle": "Hoppy Bunny",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T01:30:00-05:00",
+        "episodeTitle": "The Two Hundred",
+        "rating": "TV-14 V",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T02:00:00-05:00",
+        "episodeTitle": "It's a Trap Part 1 & 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T03:00:00-05:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T03:30:00-05:00",
+        "episodeTitle": "Batman Forever 21",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T03:45:00-05:00",
+        "episodeTitle": "The Hobbit: There and Bennigan's",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T04:00:00-05:00",
+        "episodeTitle": "\"Bullhorn Nights\" or \" Murder She Throats\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T04:30:00-05:00",
+        "episodeTitle": "Snake Island",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T04:45:00-05:00",
+        "episodeTitle": "Hoppy Bunny",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T05:00:00-05:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-05T00:00:00-05:00",
+        "datetime": "2019-02-06T05:30:00-05:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

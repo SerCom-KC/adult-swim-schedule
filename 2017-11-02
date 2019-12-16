@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-02T21:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-02T21:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-02T22:00:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-02T22:30:00-04:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-02T23:00:00-04:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-02T23:30:00-04:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T00:00:00-04:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T00:15:00-04:00",
+        "episodeTitle": "In a DVD Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T00:30:00-04:00",
+        "episodeTitle": "Heavyweight Champion of the Moon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T00:45:00-04:00",
+        "episodeTitle": "Shake Like Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T01:00:00-04:00",
+        "episodeTitle": "Sh\u00f6venpucker",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T01:15:00-04:00",
+        "episodeTitle": "Serial Killers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T01:30:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T02:00:00-04:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T02:30:00-04:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T03:00:00-04:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T03:30:00-04:00",
+        "episodeTitle": "Seizures Suit Stanny",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T04:00:00-04:00",
+        "episodeTitle": "The Suplex Duplex Complex",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T04:15:00-04:00",
+        "episodeTitle": "Too Many Cooks",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T04:30:00-04:00",
+        "episodeTitle": "Sh\u00f6venpucker",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T04:45:00-04:00",
+        "episodeTitle": "Serial Killers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T05:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-11-02T00:00:00-04:00",
+        "datetime": "2017-11-03T05:30:00-04:00",
+        "episodeTitle": "Mutual of OmAbwah",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

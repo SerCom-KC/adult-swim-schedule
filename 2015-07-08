@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-08T21:00:00-04:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-08T21:30:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-08T22:00:00-04:00",
+        "episodeTitle": "You Debt Your Life",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-08T22:30:00-04:00",
+        "episodeTitle": "Hurricane",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-08T23:00:00-04:00",
+        "episodeTitle": "Peter Griffin: Husband, Father, Brother?",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-08T23:30:00-04:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T00:00:00-04:00",
+        "episodeTitle": "Atta Toy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T00:15:00-04:00",
+        "episodeTitle": "Joint Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T00:30:00-04:00",
+        "episodeTitle": "Universal Re-Monster",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T00:45:00-04:00",
+        "episodeTitle": "Earth Worst",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T01:00:00-04:00",
+        "episodeTitle": "China-Man Begins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T01:30:00-04:00",
+        "episodeTitle": "Peter Griffin: Husband, Father, Brother?",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T02:00:00-04:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T02:30:00-04:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T03:00:00-04:00",
+        "episodeTitle": "Hurricane",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T03:30:00-04:00",
+        "episodeTitle": "Atta Toy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T03:45:00-04:00",
+        "episodeTitle": "Joint Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T04:00:00-04:00",
+        "episodeTitle": "For-Profit Online University",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T04:15:00-04:00",
+        "episodeTitle": "Farewell",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T04:30:00-04:00",
+        "episodeTitle": "China-Man Begins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T05:00:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-08T00:00:00-04:00",
+        "datetime": "2015-07-09T05:30:00-04:00",
+        "episodeTitle": "Not in My Back Hoe",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-07T21:00:00-05:00",
+        "episodeTitle": "To Spank with Love",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-07T21:30:00-05:00",
+        "episodeTitle": "Three Coaches and a Bobby",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-07T22:00:00-05:00",
+        "episodeTitle": "The Story of Catcher Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-07T22:30:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-07T23:00:00-05:00",
+        "episodeTitle": "Dr. Klaustus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-07T23:30:00-05:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T00:00:00-05:00",
+        "episodeTitle": "An All-Out Kamehame-Ha! Vegeta's Terrible Transformation!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T00:30:00-05:00",
+        "episodeTitle": "Trigger",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T01:00:00-05:00",
+        "episodeTitle": "Deprived of Eternal Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T01:30:00-05:00",
+        "episodeTitle": "A Complete Meido",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T03:00:00-04:00",
+        "episodeTitle": "",
+        "showID": 375774,
+        "showTitle": "Daylight Savings Time Adjustment - Spring"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T03:00:00-04:00",
+        "episodeTitle": "I Accept Your Last Wish",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 409612,
+        "showTitle": "Gurren Lagann"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T03:30:00-04:00",
+        "episodeTitle": "Boss Luffy Returns! Is it a Dream or Reality? Lottery Ruckus!",
+        "rating": "TV-14 L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T04:00:00-04:00",
+        "episodeTitle": "Undertaker",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 387012,
+        "showTitle": "Deadman Wonderland"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T04:30:00-04:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T05:00:00-04:00",
+        "episodeTitle": "Dr. Klaustus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-07T00:00:00-05:00",
+        "datetime": "2015-03-08T05:30:00-04:00",
+        "episodeTitle": "Three Coaches and a Bobby",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

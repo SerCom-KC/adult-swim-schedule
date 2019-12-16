@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-30T21:00:00-04:00",
+        "episodeTitle": "Speakeasy Rider",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-30T21:30:00-04:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-30T22:00:00-04:00",
+        "episodeTitle": "Kung Pao Turkey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-30T22:30:00-04:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-30T23:00:00-04:00",
+        "episodeTitle": "Road to India",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-30T23:30:00-04:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T00:00:00-04:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T00:15:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T00:30:00-04:00",
+        "episodeTitle": "Hypno-Germ",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T00:45:00-04:00",
+        "episodeTitle": "Trucked Up!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T01:00:00-04:00",
+        "episodeTitle": "Carol",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T01:15:00-04:00",
+        "episodeTitle": "Horse",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T01:30:00-04:00",
+        "episodeTitle": "Kung Pao Turkey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T02:00:00-04:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T02:30:00-04:00",
+        "episodeTitle": "Road to India",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T03:00:00-04:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T03:30:00-04:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T03:45:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T04:00:00-04:00",
+        "episodeTitle": "NewsHits",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T04:15:00-04:00",
+        "episodeTitle": "Book of Christ",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T04:30:00-04:00",
+        "episodeTitle": "Midday Run",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T05:00:00-04:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-30T00:00:00-04:00",
+        "datetime": "2016-05-31T05:30:00-04:00",
+        "episodeTitle": "I Don't Want to Wait",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

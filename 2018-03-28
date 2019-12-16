@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-28T21:00:00-04:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-28T21:30:00-04:00",
+        "episodeTitle": "Roger's Baby",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-28T22:00:00-04:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-28T22:30:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-28T23:00:00-04:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-28T23:30:00-04:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T00:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T00:30:00-04:00",
+        "episodeTitle": "Disemboweled by an Orphan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T00:45:00-04:00",
+        "episodeTitle": "In Bed Surrounded by Loved Ones",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T01:00:00-04:00",
+        "episodeTitle": "Brandi Glanville",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T01:15:00-04:00",
+        "episodeTitle": "Hair",
+        "rating": "TV-14 ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T01:30:00-04:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T02:00:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T02:30:00-04:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T03:00:00-04:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T03:30:00-04:00",
+        "episodeTitle": "Bahama Mama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T04:00:00-04:00",
+        "episodeTitle": "Cars",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T04:15:00-04:00",
+        "episodeTitle": "Gamebored",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T04:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T05:00:00-04:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-28T00:00:00-04:00",
+        "datetime": "2018-03-29T05:30:00-04:00",
+        "episodeTitle": "An Officer and a Gentle Boy",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-25T21:00:00-05:00",
+        "episodeTitle": "Ladies' Night",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-25T21:30:00-05:00",
+        "episodeTitle": "From Bed to Worse",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-25T22:00:00-05:00",
+        "episodeTitle": "Flirting With Disaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-25T22:30:00-05:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-25T23:00:00-05:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-25T23:30:00-05:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T00:00:00-05:00",
+        "episodeTitle": "Robot Fight Accident",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T00:15:00-05:00",
+        "episodeTitle": "Choked on a Bottle Cap",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T00:30:00-05:00",
+        "episodeTitle": "Heavyweight Champion of the Moon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T00:45:00-05:00",
+        "episodeTitle": "The South Bronx Paradise Diet",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T01:00:00-05:00",
+        "episodeTitle": "Armageddon It On!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T01:15:00-05:00",
+        "episodeTitle": "God's Image",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T01:30:00-05:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T02:00:00-05:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T02:30:00-05:00",
+        "episodeTitle": "Flirting With Disaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T03:00:00-05:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T03:30:00-05:00",
+        "episodeTitle": "Robot Fight Accident",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T03:45:00-05:00",
+        "episodeTitle": "Choked on a Bottle Cap",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T04:00:00-05:00",
+        "episodeTitle": "February 25, 2015",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T04:15:00-05:00",
+        "episodeTitle": "Rascals",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T04:30:00-05:00",
+        "episodeTitle": "Armageddon It On!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T04:45:00-05:00",
+        "episodeTitle": "God's Image",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T05:00:00-05:00",
+        "episodeTitle": "Ladies' Night",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-25T00:00:00-05:00",
+        "datetime": "2015-02-26T05:30:00-05:00",
+        "episodeTitle": "Nancy Does Dallas",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

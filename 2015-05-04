@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-04T21:00:00-04:00",
+        "episodeTitle": "Love Rollercoaster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-04T21:30:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-04T22:00:00-04:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-04T22:30:00-04:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-04T23:00:00-04:00",
+        "episodeTitle": "Roasted Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-04T23:30:00-04:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T00:00:00-04:00",
+        "episodeTitle": "Bionic Cow",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T00:15:00-04:00",
+        "episodeTitle": "Monstourage",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T00:30:00-04:00",
+        "episodeTitle": "Rubberman",
+        "rating": "TV-MA V",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T00:45:00-04:00",
+        "episodeTitle": "The Big E",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T01:00:00-04:00",
+        "episodeTitle": "Jailbot 2.0",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T01:15:00-04:00",
+        "episodeTitle": "Dethclown",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T01:30:00-04:00",
+        "episodeTitle": "Roasted Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T02:00:00-04:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T02:30:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T03:00:00-04:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T03:30:00-04:00",
+        "episodeTitle": "Bionic Cow",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T03:45:00-04:00",
+        "episodeTitle": "Monstourage",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T04:00:00-04:00",
+        "episodeTitle": "In Search of Miracle Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T04:15:00-04:00",
+        "episodeTitle": "The Return of Dragon Shumway",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 2,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T04:30:00-04:00",
+        "episodeTitle": "Jailbot 2.0",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T04:45:00-04:00",
+        "episodeTitle": "Dethclown",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T05:00:00-04:00",
+        "episodeTitle": "Love Rollercoaster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-04T00:00:00-04:00",
+        "datetime": "2015-05-05T05:30:00-04:00",
+        "episodeTitle": "Hank's Back Story",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-19T21:00:00-05:00",
+        "episodeTitle": "The Wide World Of The Cleveland Show",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-19T21:30:00-05:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-19T22:00:00-05:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-19T22:30:00-05:00",
+        "episodeTitle": "All About Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-19T23:00:00-05:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-19T23:30:00-05:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T00:00:00-05:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T00:15:00-05:00",
+        "episodeTitle": "A Day at the Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T00:30:00-05:00",
+        "episodeTitle": "Super Hero",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T00:45:00-05:00",
+        "episodeTitle": "This Show Is Called Squidbillies",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T01:00:00-05:00",
+        "episodeTitle": "Return to Malice",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T01:30:00-05:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T02:00:00-05:00",
+        "episodeTitle": "All About Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T02:30:00-05:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T03:00:00-05:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T03:30:00-05:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T03:45:00-05:00",
+        "episodeTitle": "A Day at the Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T04:00:00-05:00",
+        "episodeTitle": "Hair",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T04:15:00-05:00",
+        "episodeTitle": "Spagett",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T04:30:00-05:00",
+        "episodeTitle": "Return to Malice",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T05:00:00-05:00",
+        "episodeTitle": "The Wide World Of The Cleveland Show",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-19T00:00:00-05:00",
+        "datetime": "2014-12-20T05:30:00-05:00",
+        "episodeTitle": "Torch Song Hillogy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

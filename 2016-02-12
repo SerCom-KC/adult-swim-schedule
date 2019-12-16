@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-12T21:00:00-05:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-12T21:30:00-05:00",
+        "episodeTitle": "The Wide World Of The Cleveland Show",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-12T22:00:00-05:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-12T22:30:00-05:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-12T23:00:00-05:00",
+        "episodeTitle": "Doctor Beth",
+        "rating": "TV-14 D",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-12T23:15:00-05:00",
+        "episodeTitle": "Go Nadz, Talkin' News",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-12T23:30:00-05:00",
+        "episodeTitle": "Dignity Cap",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T00:00:00-05:00",
+        "episodeTitle": "Pauly D; Rick Springfield",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T00:15:00-05:00",
+        "episodeTitle": "Greene Machine",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T00:30:00-05:00",
+        "episodeTitle": "Dummy Love",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T00:45:00-05:00",
+        "episodeTitle": "Rusty and Tammi Sitting in a Tree, B-A-S-T-A-R-D",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T01:00:00-05:00",
+        "episodeTitle": "Gay Wedding",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T01:15:00-05:00",
+        "episodeTitle": "Girlfriendklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T01:30:00-05:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T02:00:00-05:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T02:30:00-05:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T03:00:00-05:00",
+        "episodeTitle": "Doctor Beth",
+        "rating": "TV-14 D",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T03:15:00-05:00",
+        "episodeTitle": "Go Nadz, Talkin' News",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T03:30:00-05:00",
+        "episodeTitle": "Dignity Cap",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T04:00:00-05:00",
+        "episodeTitle": "Alpha Chow & Goth Fitness",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T04:15:00-05:00",
+        "episodeTitle": "Finding Love",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T04:30:00-05:00",
+        "episodeTitle": "Gay Wedding",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T04:45:00-05:00",
+        "episodeTitle": "Girlfriendklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T05:00:00-05:00",
+        "episodeTitle": "The Wide World Of The Cleveland Show",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-12T00:00:00-05:00",
+        "datetime": "2016-02-13T05:30:00-05:00",
+        "episodeTitle": "The Redneck on Rainey Street",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

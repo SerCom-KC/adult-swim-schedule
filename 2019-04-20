@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-20T21:00:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-20T21:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-20T22:00:00-04:00",
+        "episodeTitle": "Stuck Together, Torn Apart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-20T22:30:00-04:00",
+        "episodeTitle": "Road To Europe",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-20T23:00:00-04:00",
+        "episodeTitle": "Revenge \"F\"! A Cunning Trap is Set?",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-20T23:30:00-04:00",
+        "episodeTitle": "From Iida to Midoriya",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T00:00:00-04:00",
+        "episodeTitle": "131045",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 456292,
+        "showTitle": "The Promised Neverland"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T00:30:00-04:00",
+        "episodeTitle": "The Sage of the Library",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T01:00:00-04:00",
+        "episodeTitle": "July 15th (Thurs) Part 2",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T01:30:00-04:00",
+        "episodeTitle": "The Secret of the Eye of the Midnight Sun",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T02:00:00-04:00",
+        "episodeTitle": "A Shinobi Bout of Friendship",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T02:30:00-04:00",
+        "episodeTitle": "The Orange Spark",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T03:00:00-04:00",
+        "episodeTitle": "Alluka x and x Something",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T03:30:00-04:00",
+        "episodeTitle": "I Can Hear His Heartbeat: The Struggle for Trost Part 4",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T04:00:00-04:00",
+        "episodeTitle": "The Story of Gangstalicious",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T04:30:00-04:00",
+        "episodeTitle": "\"Seed of Kurtis\" AKA \"Father Is Just Another Word For Motherf***er\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T05:00:00-04:00",
+        "episodeTitle": "Assassinanny 911",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-04-20T00:00:00-04:00",
+        "datetime": "2019-04-21T05:30:00-04:00",
+        "episodeTitle": "Hiatus",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

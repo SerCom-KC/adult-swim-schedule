@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-24T21:00:00-05:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-24T21:30:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-24T22:00:00-05:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-24T22:30:00-05:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-24T23:00:00-05:00",
+        "episodeTitle": "Whistle While Your Wife Works",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-24T23:30:00-05:00",
+        "episodeTitle": "Prick Up Your Ears",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T00:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T00:30:00-05:00",
+        "episodeTitle": "Sausage Fest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T00:45:00-05:00",
+        "episodeTitle": "Drippy Pony",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T01:00:00-05:00",
+        "episodeTitle": "Chris Jericho; Roy Hibbert; Flavor Flav",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T01:15:00-05:00",
+        "episodeTitle": "Work",
+        "rating": "TV-14 L",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T01:30:00-05:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T02:00:00-05:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T02:30:00-05:00",
+        "episodeTitle": "Whistle While Your Wife Works",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T03:00:00-05:00",
+        "episodeTitle": "Prick Up Your Ears",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T03:30:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T04:00:00-05:00",
+        "episodeTitle": "I Gave at the Playground",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T04:30:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T05:00:00-05:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-01-24T00:00:00-05:00",
+        "datetime": "2018-01-25T05:30:00-05:00",
+        "episodeTitle": "Love Hurts and So Does Art",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-18T21:00:00-04:00",
+        "episodeTitle": "How Cleveland Got His Groove Back",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-18T21:30:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-18T22:00:00-04:00",
+        "episodeTitle": "Peter-assment",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-18T22:30:00-04:00",
+        "episodeTitle": "Brian Griffin's House of Payne",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-18T23:00:00-04:00",
+        "episodeTitle": "No Room for Jesus",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-18T23:30:00-04:00",
+        "episodeTitle": "Episode 10",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-18T23:45:00-04:00",
+        "episodeTitle": "Ryan Kwanten; Beyonce & Jay-Z",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T00:00:00-04:00",
+        "episodeTitle": "N\u00fc-Byle",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T00:15:00-04:00",
+        "episodeTitle": "The Telltale Butthole",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T00:30:00-04:00",
+        "episodeTitle": "Laser Lenses",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T00:45:00-04:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T01:00:00-04:00",
+        "episodeTitle": "Specialneeds",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T01:15:00-04:00",
+        "episodeTitle": "Skwisklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T01:30:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T02:00:00-04:00",
+        "episodeTitle": "Peter-assment",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T02:30:00-04:00",
+        "episodeTitle": "Brian Griffin's House of Payne",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T03:00:00-04:00",
+        "episodeTitle": "Laser Lenses",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T03:15:00-04:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T03:30:00-04:00",
+        "episodeTitle": "Specialneeds",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T03:45:00-04:00",
+        "episodeTitle": "Skwisklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T04:00:00-04:00",
+        "episodeTitle": "September 18, 2015",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T04:15:00-04:00",
+        "episodeTitle": "Falling",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T04:30:00-04:00",
+        "episodeTitle": "How Cleveland Got His Groove Back",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T05:00:00-04:00",
+        "episodeTitle": "Hank Gets Dusted",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-09-18T00:00:00-04:00",
+        "datetime": "2015-09-19T05:30:00-04:00",
+        "episodeTitle": "Luanne Gets Lucky",
+        "rating": "TV-PG L",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

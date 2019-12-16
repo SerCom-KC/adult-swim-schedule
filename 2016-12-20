@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-20T21:00:00-05:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-20T21:30:00-05:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-20T22:00:00-05:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-20T22:30:00-05:00",
+        "episodeTitle": "Blood Crieth Unto Heaven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-20T23:00:00-05:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-20T23:30:00-05:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T00:00:00-05:00",
+        "episodeTitle": "Fridge Smell",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T00:15:00-05:00",
+        "episodeTitle": "Western Hay Batch",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T00:30:00-05:00",
+        "episodeTitle": "Lerm",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T00:45:00-05:00",
+        "episodeTitle": "The Liar, the Bitch, and the BoredRube",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T01:00:00-05:00",
+        "episodeTitle": "Mail Order Bride",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T01:15:00-05:00",
+        "episodeTitle": "Episode One",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T01:30:00-05:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T02:00:00-05:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T02:30:00-05:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T03:00:00-05:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T03:30:00-05:00",
+        "episodeTitle": "Blood Crieth Unto Heaven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T04:00:00-05:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T04:15:00-05:00",
+        "episodeTitle": "This House Has People in It",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T04:30:00-05:00",
+        "episodeTitle": "Mail Order Bride",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T04:45:00-05:00",
+        "episodeTitle": "Episode One",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T05:00:00-05:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-20T00:00:00-05:00",
+        "datetime": "2016-12-21T05:30:00-05:00",
+        "episodeTitle": "I Never Promised You an Organic Garden",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

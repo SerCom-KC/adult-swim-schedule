@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-05T21:00:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-05T21:30:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-05T22:00:00-05:00",
+        "episodeTitle": "Portrait of Francine's Genitals",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-05T22:30:00-05:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-05T23:00:00-05:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-05T23:30:00-05:00",
+        "episodeTitle": "The Buddy System",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T00:00:00-05:00",
+        "episodeTitle": "Lex",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T00:30:00-05:00",
+        "episodeTitle": "Went to Party, Got Crabs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 365995,
+        "showTitle": "Titan Maximum"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T00:45:00-05:00",
+        "episodeTitle": "Punctured Jugular",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T01:00:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T01:30:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T02:00:00-05:00",
+        "episodeTitle": "Portrait of Francine's Genitals",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T02:30:00-05:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T03:00:00-05:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T03:30:00-05:00",
+        "episodeTitle": "The Buddy System",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T04:00:00-05:00",
+        "episodeTitle": "Lex",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T04:30:00-05:00",
+        "episodeTitle": "Went to Party, Got Crabs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 365995,
+        "showTitle": "Titan Maximum"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T04:45:00-05:00",
+        "episodeTitle": "Punctured Jugular",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T05:00:00-05:00",
+        "episodeTitle": "Earthy Girls Are Easy",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-02-05T00:00:00-05:00",
+        "datetime": "2017-02-06T05:30:00-05:00",
+        "episodeTitle": "Square-Footed Monster",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

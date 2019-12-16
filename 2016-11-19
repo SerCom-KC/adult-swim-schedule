@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-19T21:00:00-05:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-19T21:30:00-05:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-19T22:00:00-05:00",
+        "episodeTitle": "Stanny-Boy and Frantastic",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-19T22:30:00-05:00",
+        "episodeTitle": "A Pinata Named Desire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-19T23:00:00-05:00",
+        "episodeTitle": "Friends of Peter G.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-19T23:30:00-05:00",
+        "episodeTitle": "German Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T00:00:00-05:00",
+        "episodeTitle": "Perfection's End! A Fury Beyond Super Saiyan!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T00:30:00-05:00",
+        "episodeTitle": "The Dark Knights",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T01:00:00-05:00",
+        "episodeTitle": "Not Yet Home",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T01:30:00-05:00",
+        "episodeTitle": "Nen x and x Nen",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T02:00:00-05:00",
+        "episodeTitle": "The Longest Moment",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T02:30:00-05:00",
+        "episodeTitle": "Oars + Moria! The Most Heinous Combination of Brains and Brawn",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T03:00:00-05:00",
+        "episodeTitle": "The Modern Ninja",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T03:30:00-05:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T04:00:00-05:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T04:30:00-05:00",
+        "episodeTitle": "Stanny-Boy and Frantastic",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T05:00:00-05:00",
+        "episodeTitle": "A Pinata Named Desire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-19T00:00:00-05:00",
+        "datetime": "2016-11-20T05:30:00-05:00",
+        "episodeTitle": "Luanne Virgin 2.0",
+        "rating": "TV-PG DS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

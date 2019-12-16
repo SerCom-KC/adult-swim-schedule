@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-03T21:00:00-04:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-03T21:30:00-04:00",
+        "episodeTitle": "Permanent Record Wrecker",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-03T22:00:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-03T22:30:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-03T23:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-03T23:30:00-04:00",
+        "episodeTitle": "Joel Hurwitz Returns",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-03T23:45:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T00:00:00-04:00",
+        "episodeTitle": "Foul Ball",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T00:15:00-04:00",
+        "episodeTitle": "Shirt Herpes",
+        "rating": "TV-MA S",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T00:30:00-04:00",
+        "episodeTitle": "Hostile Makeover",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T01:00:00-04:00",
+        "episodeTitle": "A Nightmare on Grace Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T01:30:00-04:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T02:00:00-04:00",
+        "episodeTitle": "Permanent Record Wrecker",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T02:30:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T03:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T03:30:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T04:00:00-04:00",
+        "episodeTitle": "Joel Hurwitz Returns",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T04:15:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T04:30:00-04:00",
+        "episodeTitle": "Foul Ball",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T04:45:00-04:00",
+        "episodeTitle": "Shirt Herpes",
+        "rating": "TV-MA S",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T05:00:00-04:00",
+        "episodeTitle": "Dia-Bill-Ic Shock",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-04-03T00:00:00-04:00",
+        "datetime": "2016-04-04T05:30:00-04:00",
+        "episodeTitle": "Earthy Girls Are Easy",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

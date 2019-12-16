@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-10T21:00:00-05:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-10T21:30:00-05:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-10T22:00:00-05:00",
+        "episodeTitle": "Nude Beach",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-10T22:30:00-05:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-10T23:00:00-05:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-10T23:30:00-05:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T00:00:00-05:00",
+        "episodeTitle": "Operation Rich in Spirit",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T00:15:00-05:00",
+        "episodeTitle": "Adultizzle Swizzle",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T00:30:00-05:00",
+        "episodeTitle": "Hands on a Hamburger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T00:45:00-05:00",
+        "episodeTitle": "IAMAPOD",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T01:00:00-05:00",
+        "episodeTitle": "Warren G; Kelly Osbourne",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T01:15:00-05:00",
+        "episodeTitle": "Hungry",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T01:30:00-05:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T02:00:00-05:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T02:30:00-05:00",
+        "episodeTitle": "Nude Beach",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T03:00:00-05:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T03:30:00-05:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T04:00:00-05:00",
+        "episodeTitle": "Liquid",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T04:15:00-05:00",
+        "episodeTitle": "Chief Beef Loco",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T04:30:00-05:00",
+        "episodeTitle": "Warren G; Kelly Osbourne",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T04:45:00-05:00",
+        "episodeTitle": "Hungry",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T05:00:00-05:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-10T00:00:00-05:00",
+        "datetime": "2017-01-11T05:30:00-05:00",
+        "episodeTitle": "Bobby On Track",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

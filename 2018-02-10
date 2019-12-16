@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-10T21:00:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-10T21:30:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-10T22:00:00-05:00",
+        "episodeTitle": "The Man with Two Brians",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-10T22:30:00-05:00",
+        "episodeTitle": "Goku vs. Black! A Closed-Off Road to the Future",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-10T23:00:00-05:00",
+        "episodeTitle": "Buu Overwhelmed! Ultimate Gohan's Super Power!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-10T23:30:00-05:00",
+        "episodeTitle": "Beasts",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T00:00:00-05:00",
+        "episodeTitle": "The High Priestess Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T00:30:00-05:00",
+        "episodeTitle": "Lit by a Blazing Sun",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T01:00:00-05:00",
+        "episodeTitle": "Inspiration x to x Evolve",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T01:30:00-05:00",
+        "episodeTitle": "Naruto and the Old Soldier",
+        "rating": "TV-PG V",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T02:00:00-05:00",
+        "episodeTitle": "Grave of the Dragon",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T02:30:00-05:00",
+        "episodeTitle": "Occasionally Even the Deceiver Is Deceived, Baby",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T03:00:00-05:00",
+        "episodeTitle": "Wild Horses",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T03:30:00-05:00",
+        "episodeTitle": "Make Up",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T04:00:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T04:30:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T05:00:00-05:00",
+        "episodeTitle": "Movin' On Up",
+        "rating": "TV-PG LS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-02-10T00:00:00-05:00",
+        "datetime": "2018-02-11T05:30:00-05:00",
+        "episodeTitle": "Bill of Sales",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

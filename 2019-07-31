@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-07-31T21:00:00-04:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-07-31T21:30:00-04:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-07-31T22:00:00-04:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-07-31T22:30:00-04:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-07-31T23:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-07-31T23:30:00-04:00",
+        "episodeTitle": "3 2 1 2 3 3 3, 2 2 2, 3...6 6?",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-07-31T23:45:00-04:00",
+        "episodeTitle": "We Don't See Much of That in 1940s America",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T00:00:00-04:00",
+        "episodeTitle": "The Gameshow",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T00:15:00-04:00",
+        "episodeTitle": "Barry's School Reunion",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T00:30:00-04:00",
+        "episodeTitle": "Tommy",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T00:45:00-04:00",
+        "episodeTitle": "Animals",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T01:00:00-04:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T01:30:00-04:00",
+        "episodeTitle": "Whole Slotta Love",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T02:00:00-04:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T02:30:00-04:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T03:00:00-04:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T03:30:00-04:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T04:00:00-04:00",
+        "episodeTitle": "Splitsville",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T04:15:00-04:00",
+        "episodeTitle": "Meet Awesome X",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T04:30:00-04:00",
+        "episodeTitle": "The Gameshow",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T04:45:00-04:00",
+        "episodeTitle": "Barry's School Reunion",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T05:00:00-04:00",
+        "episodeTitle": "3 2 1 2 3 3 3, 2 2 2, 3...6 6?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T05:15:00-04:00",
+        "episodeTitle": "We Don't See Much of That in 1940's America",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-07-31T00:00:00-04:00",
+        "datetime": "2019-08-01T05:30:00-04:00",
+        "episodeTitle": "XLIII",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 4,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

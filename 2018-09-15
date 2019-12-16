@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-15T21:00:00-04:00",
+        "episodeTitle": "Candy Quahog Marshmallow!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-15T21:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-15T22:00:00-04:00",
+        "episodeTitle": "Cavalry Battle Finale",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-15T22:30:00-04:00",
+        "episodeTitle": "The 9th Universe's Kicking Basil vs. the 7th Universe's Majin Buu!!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-15T23:00:00-04:00",
+        "episodeTitle": "Trust",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-15T23:30:00-04:00",
+        "episodeTitle": "Grown-Up Wannabe",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 447433,
+        "showTitle": "FLCL: Alternative"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T00:00:00-04:00",
+        "episodeTitle": "Cursed Mansion",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 449452,
+        "showTitle": "Pop Team Epic"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T00:30:00-04:00",
+        "episodeTitle": "The Nijimura Brothers Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T01:00:00-04:00",
+        "episodeTitle": "Charge x and x Invade",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T01:30:00-04:00",
+        "episodeTitle": "The Magic Knight Captain Conference",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T02:00:00-04:00",
+        "episodeTitle": "The Five Great Nations Mobilize",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T02:30:00-04:00",
+        "episodeTitle": "The Ultimate Master",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T03:00:00-04:00",
+        "episodeTitle": "Don't Move the Mona Lisa",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T03:30:00-04:00",
+        "episodeTitle": "Cowboy Funk",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T04:00:00-04:00",
+        "episodeTitle": "Guess Hoe's Coming to Dinner",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T04:30:00-04:00",
+        "episodeTitle": "The End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T04:45:00-04:00",
+        "episodeTitle": "Ultimate Judgment Day",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T05:00:00-04:00",
+        "episodeTitle": "Politics",
+        "rating": "TV-PG L",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    },
+    {
+        "date": "2018-09-15T00:00:00-04:00",
+        "datetime": "2018-09-16T05:30:00-04:00",
+        "episodeTitle": "Identifying A Body",
+        "rating": "TV-PG L",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

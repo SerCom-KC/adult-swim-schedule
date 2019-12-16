@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-25T21:00:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-25T21:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-25T22:00:00-04:00",
+        "episodeTitle": "Eight Fires",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-25T22:30:00-04:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-25T23:00:00-04:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-25T23:30:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T00:00:00-04:00",
+        "episodeTitle": "The Reenactment of the Repulsion of the Siege of Cuyler Mountain",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T00:15:00-04:00",
+        "episodeTitle": "Rich Dan, Poor Dan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T00:30:00-04:00",
+        "episodeTitle": "The Death of Lyle Victor Linkus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T00:45:00-04:00",
+        "episodeTitle": "San Juan Puerto Rico Blows but San Juan Capistrano\u2026",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T01:00:00-04:00",
+        "episodeTitle": "Walla Walla Wallabees B",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T01:15:00-04:00",
+        "episodeTitle": "My Friend Sheldon Jr.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T01:30:00-04:00",
+        "episodeTitle": "Eight Fires",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T02:00:00-04:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T02:30:00-04:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T03:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T03:30:00-04:00",
+        "episodeTitle": "The Reenactment of the Repulsion of the Siege of Cuyler Mountain",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T03:45:00-04:00",
+        "episodeTitle": "Rich Dan, Poor Dan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T04:00:00-04:00",
+        "episodeTitle": "The Death of Lyle Victor Linkus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T04:15:00-04:00",
+        "episodeTitle": "San Juan Puerto Rico Blows but San Juan Capistrano\u2026",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T04:30:00-04:00",
+        "episodeTitle": "Walla Walla Wallabees B",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T04:45:00-04:00",
+        "episodeTitle": "My Friend Sheldon Jr.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T05:00:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-25T00:00:00-04:00",
+        "datetime": "2019-08-26T05:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

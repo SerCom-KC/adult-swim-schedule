@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-01T21:00:00-04:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-01T21:30:00-04:00",
+        "episodeTitle": "B.M.O.C.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-01T22:00:00-04:00",
+        "episodeTitle": "Rough Trade",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-01T22:30:00-04:00",
+        "episodeTitle": "Finances with Wolves",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-01T23:00:00-04:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-01T23:30:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T00:00:00-04:00",
+        "episodeTitle": "Cracked China",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T00:15:00-04:00",
+        "episodeTitle": "Rodiggity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T00:30:00-04:00",
+        "episodeTitle": "Ga-Ga-Ghost",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T00:45:00-04:00",
+        "episodeTitle": "The Inkubator Lives!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T01:00:00-04:00",
+        "episodeTitle": "Boost Mobile",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T01:15:00-04:00",
+        "episodeTitle": "Dickesode",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T01:30:00-04:00",
+        "episodeTitle": "Rough Trade",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T02:00:00-04:00",
+        "episodeTitle": "Finances with Wolves",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T02:30:00-04:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T03:00:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T03:30:00-04:00",
+        "episodeTitle": "Cracked China",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T03:45:00-04:00",
+        "episodeTitle": "Rodiggity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T04:00:00-04:00",
+        "episodeTitle": "Holding the Bag",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 389373,
+        "showTitle": "The Restless Bell"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T04:15:00-04:00",
+        "episodeTitle": "Deadbeat God",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 363131,
+        "showTitle": "Rising Son"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T04:30:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T05:00:00-04:00",
+        "episodeTitle": "B.M.O.C.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-01T00:00:00-04:00",
+        "datetime": "2016-09-02T05:30:00-04:00",
+        "episodeTitle": "Tears of an Inflatable Clown",
+        "rating": "TV-PG L",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

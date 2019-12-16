@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-10T21:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-10T21:30:00-04:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-10T22:00:00-04:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-10T22:30:00-04:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-10T23:00:00-04:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-10T23:30:00-04:00",
+        "episodeTitle": "The Truce Is Broken! The Defense Force Strikes Back at Cell!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T00:00:00-04:00",
+        "episodeTitle": "The Deep Sea King",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T00:30:00-04:00",
+        "episodeTitle": "Funeral Rites",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T01:00:00-04:00",
+        "episodeTitle": "Can't Win x and x Can't Lose",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T01:30:00-04:00",
+        "episodeTitle": "Twilight",
+        "rating": "TV-PG D",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T01:55:00-04:00",
+        "episodeTitle": "High on Fire: The Black Plot",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 431712,
+        "showTitle": "High on Fire"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T02:00:00-04:00",
+        "episodeTitle": "Save Me, Hero!! My Enemy Is the Immortal Princess",
+        "rating": "TV-14 L",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T02:30:00-04:00",
+        "episodeTitle": "In Cold Blood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T03:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T03:30:00-04:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T04:00:00-04:00",
+        "episodeTitle": "Live at the Necropolis: Lords of Synth",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T04:15:00-04:00",
+        "episodeTitle": "Falling",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T04:30:00-04:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T05:00:00-04:00",
+        "episodeTitle": "Cops and Robert",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-09-10T00:00:00-04:00",
+        "datetime": "2016-09-11T05:30:00-04:00",
+        "episodeTitle": "It Came From the Garage",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

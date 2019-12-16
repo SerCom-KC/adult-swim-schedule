@@ -1,0 +1,146 @@
+[
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-09T21:00:00-05:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-09T21:30:00-05:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-09T22:00:00-05:00",
+        "episodeTitle": "Minstrel Krampus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-09T22:30:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-09T23:00:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-09T23:30:00-05:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T00:00:00-05:00",
+        "episodeTitle": "Joe Pera Helps You Find the Perfect Christmas Tree",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 433512,
+        "showTitle": "Joe Pera Helps Find You The Perfect Christmas Tree"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T00:30:00-05:00",
+        "episodeTitle": "Tim and Eric, Awesome Show, Great Job! Chrimbus Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 0,
+        "showID": 1674,
+        "showTitle": "CTN Default"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T01:30:00-05:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T02:00:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T02:30:00-05:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T03:00:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T03:30:00-05:00",
+        "episodeTitle": "Joe Pera Helps You Find the Perfect Christmas Tree",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 433512,
+        "showTitle": "Joe Pera Helps Find You The Perfect Christmas Tree"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T04:00:00-05:00",
+        "episodeTitle": "Tim and Eric, Awesome Show, Great Job! Chrimbus Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 0,
+        "showID": 1674,
+        "showTitle": "CTN Default"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T05:00:00-05:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-09T00:00:00-05:00",
+        "datetime": "2016-12-10T05:30:00-05:00",
+        "episodeTitle": "Hillennium",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

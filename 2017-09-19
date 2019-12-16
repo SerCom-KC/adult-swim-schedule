@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-19T21:00:00-04:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-19T21:30:00-04:00",
+        "episodeTitle": "Ricky Spanish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-19T22:00:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-19T22:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-19T23:00:00-04:00",
+        "episodeTitle": "Something, Something, Something Dark Side Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T00:00:00-04:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T00:15:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T00:30:00-04:00",
+        "episodeTitle": "For the Troops",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T00:45:00-04:00",
+        "episodeTitle": "Dusty Gozongas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T01:00:00-04:00",
+        "episodeTitle": "The Fine Ol' Solution",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T01:15:00-04:00",
+        "episodeTitle": "The Big E",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T01:30:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T02:00:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T02:30:00-04:00",
+        "episodeTitle": "Something, Something, Something Dark Side Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T03:30:00-04:00",
+        "episodeTitle": "The Kidney Stays in the Picture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T04:00:00-04:00",
+        "episodeTitle": "Book of Christ",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T04:15:00-04:00",
+        "episodeTitle": "Frank Pierre Presents: Pierre Resort & Casino",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T04:30:00-04:00",
+        "episodeTitle": "The Fine Ol' Solution",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T04:45:00-04:00",
+        "episodeTitle": "The Big E",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T05:00:00-04:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-19T00:00:00-04:00",
+        "datetime": "2017-09-20T05:30:00-04:00",
+        "episodeTitle": "A Man Without a Country Club",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

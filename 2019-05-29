@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-29T21:00:00-04:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-29T21:30:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-29T22:00:00-04:00",
+        "episodeTitle": "Nice-Capades",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-29T22:30:00-04:00",
+        "episodeTitle": "I Dream of Jesus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-29T23:00:00-04:00",
+        "episodeTitle": "Road to Germany",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-29T23:30:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T00:00:00-04:00",
+        "episodeTitle": "Punctured Jugular",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T00:15:00-04:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T00:30:00-04:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T00:45:00-04:00",
+        "episodeTitle": "Squidbilly Manfishing",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T01:00:00-04:00",
+        "episodeTitle": "The Garden Party",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T01:30:00-04:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T02:00:00-04:00",
+        "episodeTitle": "I Dream of Jesus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T02:30:00-04:00",
+        "episodeTitle": "Road to Germany",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T03:00:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T03:30:00-04:00",
+        "episodeTitle": "Punctured Jugular",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T03:45:00-04:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T04:00:00-04:00",
+        "episodeTitle": "Hair",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T04:15:00-04:00",
+        "episodeTitle": "Sports",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T04:30:00-04:00",
+        "episodeTitle": "The Garden Party",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T05:00:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-29T00:00:00-04:00",
+        "datetime": "2019-05-30T05:30:00-04:00",
+        "episodeTitle": "Nice-Capades",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

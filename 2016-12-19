@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-19T21:00:00-05:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-19T21:30:00-05:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-19T22:00:00-05:00",
+        "episodeTitle": "National Treasure 4: Baby Franny: She's Doing Well: The Hole Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-19T22:30:00-05:00",
+        "episodeTitle": "Finger Lenting Good",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-19T23:00:00-05:00",
+        "episodeTitle": "Blue Harvest Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T00:00:00-05:00",
+        "episodeTitle": "Robot Chicken: Star Wars Special",
+        "rating": "TV-14 LV",
+        "seasonNumber": 0,
+        "showID": 1674,
+        "showTitle": "CTN Default"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T00:30:00-05:00",
+        "episodeTitle": "Mud Days And Cornfused",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T00:45:00-05:00",
+        "episodeTitle": "Krystal, Light",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T01:00:00-05:00",
+        "episodeTitle": "Laser Lenses",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T01:15:00-05:00",
+        "episodeTitle": "Hospice",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T01:30:00-05:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T02:00:00-05:00",
+        "episodeTitle": "Blue Harvest Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T03:00:00-05:00",
+        "episodeTitle": "National Treasure 4: Baby Franny: She's Doing Well: The Hole Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T03:30:00-05:00",
+        "episodeTitle": "Finger Lenting Good",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T04:00:00-05:00",
+        "episodeTitle": "Live Forever as You Are Now with Alan Resnick",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T04:15:00-05:00",
+        "episodeTitle": "For-Profit Online University",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T04:30:00-05:00",
+        "episodeTitle": "Laser Lenses",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T04:45:00-05:00",
+        "episodeTitle": "Hospice",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T05:00:00-05:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-19T00:00:00-05:00",
+        "datetime": "2016-12-20T05:30:00-05:00",
+        "episodeTitle": "The Miseducation of Bobby Hill",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-21T21:00:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-21T21:30:00-04:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-21T22:00:00-04:00",
+        "episodeTitle": "The Return of the King",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-21T22:30:00-04:00",
+        "episodeTitle": "The Itis",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-21T23:00:00-04:00",
+        "episodeTitle": "Walla Walla Civil War",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-21T23:15:00-04:00",
+        "episodeTitle": "Jellystripper",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-21T23:30:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T00:00:00-04:00",
+        "episodeTitle": "OMGouija",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T00:15:00-04:00",
+        "episodeTitle": "The High Heel",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T00:30:00-04:00",
+        "episodeTitle": "J-Mo",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T00:45:00-04:00",
+        "episodeTitle": "Evangelos",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T01:00:00-04:00",
+        "episodeTitle": "Real Bitches of Newport Beach",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T01:15:00-04:00",
+        "episodeTitle": "The Pigeon Has Come Home to Roost",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T01:30:00-04:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T02:00:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T02:30:00-04:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T03:00:00-04:00",
+        "episodeTitle": "The Return of the King",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T03:30:00-04:00",
+        "episodeTitle": "Walla Walla Civil War",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T03:45:00-04:00",
+        "episodeTitle": "Jellystripper",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 6/21/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 6/21/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449335,
+        "showTitle": "Development Meeting"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T04:30:00-04:00",
+        "episodeTitle": "OMGouija",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T04:45:00-04:00",
+        "episodeTitle": "The High Heel",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T05:00:00-04:00",
+        "episodeTitle": "Cock of the Sleepwalk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-21T00:00:00-04:00",
+        "datetime": "2019-06-22T05:30:00-04:00",
+        "episodeTitle": "XV",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 2,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

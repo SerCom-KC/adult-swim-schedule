@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-26T21:00:00-05:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-26T21:30:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-26T22:00:00-05:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-26T22:30:00-05:00",
+        "episodeTitle": "Brian Griffin's House of Payne",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-26T23:00:00-05:00",
+        "episodeTitle": "DOY",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-26T23:15:00-05:00",
+        "episodeTitle": "Five Years Later",
+        "rating": "TV-14 D",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-26T23:30:00-05:00",
+        "episodeTitle": "Peter-assment",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T00:00:00-05:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T00:15:00-05:00",
+        "episodeTitle": "Atta Toy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T00:30:00-05:00",
+        "episodeTitle": "Joint Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T00:45:00-05:00",
+        "episodeTitle": "Kiddie Pool",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T01:00:00-05:00",
+        "episodeTitle": "The Last Pack",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T01:15:00-05:00",
+        "episodeTitle": "Dethrace",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T01:30:00-05:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T02:00:00-05:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T02:30:00-05:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T03:00:00-05:00",
+        "episodeTitle": "Peter-assment",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T03:30:00-05:00",
+        "episodeTitle": "DOY",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T03:45:00-05:00",
+        "episodeTitle": "Five Years Later",
+        "rating": "TV-14 D",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T04:00:00-05:00",
+        "episodeTitle": "In Search of Miracle Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T04:15:00-05:00",
+        "episodeTitle": "Propofol, Telescopes, and Abraham Lincoln",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T04:30:00-05:00",
+        "episodeTitle": "The Last Pack",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T04:45:00-05:00",
+        "episodeTitle": "Dethrace",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T05:00:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-26T00:00:00-05:00",
+        "datetime": "2016-02-27T05:30:00-05:00",
+        "episodeTitle": "Bystand Me",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

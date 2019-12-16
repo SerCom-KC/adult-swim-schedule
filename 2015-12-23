@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-23T21:00:00-05:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-23T21:30:00-05:00",
+        "episodeTitle": "A Cleveland Brown Christmas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-23T22:00:00-05:00",
+        "episodeTitle": "The Most Adequate Christmas Ever",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-23T22:30:00-05:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-23T23:00:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-23T23:30:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T00:00:00-05:00",
+        "episodeTitle": "Robot Chicken's ATM Christmas Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T00:15:00-05:00",
+        "episodeTitle": "Born Again Virgin Christmas Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T00:30:00-05:00",
+        "episodeTitle": "Cybernetic Ghost of Christmas Past",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T00:45:00-05:00",
+        "episodeTitle": "Krystal, Light",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T01:00:00-05:00",
+        "episodeTitle": "Stingstress",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T01:15:00-05:00",
+        "episodeTitle": "Revengencers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T01:30:00-05:00",
+        "episodeTitle": "The Most Adequate Christmas Ever",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T02:00:00-05:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T02:30:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T03:00:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T03:30:00-05:00",
+        "episodeTitle": "Robot Chicken's ATM Christmas Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T03:45:00-05:00",
+        "episodeTitle": "Born Again Virgin Christmas Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T04:00:00-05:00",
+        "episodeTitle": "Man Milk",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T04:30:00-05:00",
+        "episodeTitle": "Sheesh! Cab, Bob?",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T05:00:00-05:00",
+        "episodeTitle": "A Cleveland Brown Christmas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-23T00:00:00-05:00",
+        "datetime": "2015-12-24T05:30:00-05:00",
+        "episodeTitle": "Livin' on Reds, Vitamin C and Propane",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

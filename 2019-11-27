@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-27T21:00:00-05:00",
+        "episodeTitle": "Why Can't We Be Friends",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-27T21:30:00-05:00",
+        "episodeTitle": "Adventures in Hayleysitting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-27T22:00:00-05:00",
+        "episodeTitle": "Dawn of the Peck",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-27T22:30:00-05:00",
+        "episodeTitle": "Gayle Makin' Bob Sled",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-27T23:00:00-05:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-27T23:30:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T00:00:00-05:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T00:30:00-05:00",
+        "episodeTitle": "Joe Pera Talks You Back to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T00:45:00-05:00",
+        "episodeTitle": "Joe Pera Reads You The Church Announcements",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T01:00:00-05:00",
+        "episodeTitle": "The Flip",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T01:15:00-05:00",
+        "episodeTitle": "The Poor Horsemen of the Apocalypse",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T01:30:00-05:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T02:00:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T02:30:00-05:00",
+        "episodeTitle": "Why Can't We Be Friends",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T03:00:00-05:00",
+        "episodeTitle": "Adventures in Hayleysitting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T03:30:00-05:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T04:00:00-05:00",
+        "episodeTitle": "Fire",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T04:15:00-05:00",
+        "episodeTitle": "Nature",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T04:30:00-05:00",
+        "episodeTitle": "The Flip",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T04:45:00-05:00",
+        "episodeTitle": "The Poor Horsemen of the Apocalypse",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T05:00:00-05:00",
+        "episodeTitle": "Dawn of the Peck",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-27T00:00:00-05:00",
+        "datetime": "2019-11-28T05:30:00-05:00",
+        "episodeTitle": "Gayle Makin' Bob Sled",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

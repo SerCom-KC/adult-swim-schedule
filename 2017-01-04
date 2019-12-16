@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-04T21:00:00-05:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-04T21:30:00-05:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-04T22:00:00-05:00",
+        "episodeTitle": "Father's Daze",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-04T22:30:00-05:00",
+        "episodeTitle": "Cock of the Sleepwalk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-04T23:00:00-05:00",
+        "episodeTitle": "American Gigg-olo",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-04T23:30:00-05:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T00:00:00-05:00",
+        "episodeTitle": "S&M Present",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T00:15:00-05:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T00:30:00-05:00",
+        "episodeTitle": "2-And-A-Half-Star Wars Out of Five",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T00:45:00-05:00",
+        "episodeTitle": "Fry Legs",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T01:00:00-05:00",
+        "episodeTitle": "Howie Mandel; Malaysia Pargo",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T01:15:00-05:00",
+        "episodeTitle": "Sleeper",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T01:30:00-05:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T02:00:00-05:00",
+        "episodeTitle": "American Gigg-olo",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T02:30:00-05:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T03:00:00-05:00",
+        "episodeTitle": "Father's Daze",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T03:30:00-05:00",
+        "episodeTitle": "Cock of the Sleepwalk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T04:00:00-05:00",
+        "episodeTitle": "This House Has People in It",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T04:15:00-05:00",
+        "episodeTitle": "Joe Pera Talks You to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T04:30:00-05:00",
+        "episodeTitle": "Howie Mandel; Malaysia Pargo",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T04:45:00-05:00",
+        "episodeTitle": "Sleeper",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T05:00:00-05:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-04T00:00:00-05:00",
+        "datetime": "2017-01-05T05:30:00-05:00",
+        "episodeTitle": "Death Buys a Timeshare",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

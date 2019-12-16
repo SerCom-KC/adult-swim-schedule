@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-16T21:00:00-04:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-16T21:30:00-04:00",
+        "episodeTitle": "Glued, Where's My Bob?",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-16T22:00:00-04:00",
+        "episodeTitle": "Don't Make Me Over",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-16T22:30:00-04:00",
+        "episodeTitle": "The Cleveland-Loretta Quagmire",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-16T23:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-16T23:30:00-04:00",
+        "episodeTitle": "The Descent Into Darkness",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T00:00:00-04:00",
+        "episodeTitle": "The Good One",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T00:15:00-04:00",
+        "episodeTitle": "Sharif",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T00:30:00-04:00",
+        "episodeTitle": "OMGouija",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T00:45:00-04:00",
+        "episodeTitle": "The High Heel",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T01:00:00-04:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T01:30:00-04:00",
+        "episodeTitle": "Of Ice and Men",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T02:00:00-04:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T02:30:00-04:00",
+        "episodeTitle": "Glued, Where's My Bob?",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T03:00:00-04:00",
+        "episodeTitle": "Don't Make Me Over",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T03:30:00-04:00",
+        "episodeTitle": "The Cleveland-Loretta Quagmire",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T04:00:00-04:00",
+        "episodeTitle": "Cavemen",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T04:15:00-04:00",
+        "episodeTitle": "Cody Gains a Namesake",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T04:30:00-04:00",
+        "episodeTitle": "OMGouija",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T04:45:00-04:00",
+        "episodeTitle": "The High Heel",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T05:00:00-04:00",
+        "episodeTitle": "The Descent Into Darkness",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-09-16T00:00:00-04:00",
+        "datetime": "2019-09-17T05:30:00-04:00",
+        "episodeTitle": "XXIV",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 2,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

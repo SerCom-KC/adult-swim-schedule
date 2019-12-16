@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-14T21:00:00-04:00",
+        "episodeTitle": "Not Particularly Desperate Housewives",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-14T21:30:00-04:00",
+        "episodeTitle": "Sheesh! Cab, Bob?",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-14T22:00:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-14T22:30:00-04:00",
+        "episodeTitle": "Baking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-14T23:00:00-04:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-14T23:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T00:00:00-04:00",
+        "episodeTitle": "Plastic Buffet",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T00:15:00-04:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T00:30:00-04:00",
+        "episodeTitle": "Vicki",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T00:45:00-04:00",
+        "episodeTitle": "Cephalo-ectomy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T01:00:00-04:00",
+        "episodeTitle": "The Lovely Ebony Brown",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T01:30:00-04:00",
+        "episodeTitle": "Sheesh! Cab, Bob?",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T02:00:00-04:00",
+        "episodeTitle": "Baking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T02:30:00-04:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T03:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T03:30:00-04:00",
+        "episodeTitle": "Plastic Buffet",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T03:45:00-04:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T04:00:00-04:00",
+        "episodeTitle": "Wet City",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 454473,
+        "showTitle": "Wet City"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T04:15:00-04:00",
+        "episodeTitle": "Shop: A Pop Opera",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 454472,
+        "showTitle": "SHOP: A Pop Opera"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T04:30:00-04:00",
+        "episodeTitle": "The Lovely Ebony Brown",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T05:00:00-04:00",
+        "episodeTitle": "Not Particularly Desperate Housewives",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-14T00:00:00-04:00",
+        "datetime": "2019-03-15T05:30:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

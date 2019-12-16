@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-08T21:00:00-04:00",
+        "episodeTitle": "Pulling Double Booty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-08T21:30:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-08T22:00:00-04:00",
+        "episodeTitle": "Aquaticism",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-08T22:30:00-04:00",
+        "episodeTitle": "Ain't Miss Debatin'",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-08T23:00:00-04:00",
+        "episodeTitle": "Boys Do Cry",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-08T23:30:00-04:00",
+        "episodeTitle": "No Chris Left Behind",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T00:00:00-04:00",
+        "episodeTitle": "River of Snakes",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 459852,
+        "showTitle": "Genndy Tartakovksy's Primal"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T00:30:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T00:45:00-04:00",
+        "episodeTitle": "Cops and Robbers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T01:00:00-04:00",
+        "episodeTitle": "Circus",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T01:15:00-04:00",
+        "episodeTitle": "Dumber Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T01:30:00-04:00",
+        "episodeTitle": "Boys Do Cry",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T02:00:00-04:00",
+        "episodeTitle": "No Chris Left Behind",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T02:30:00-04:00",
+        "episodeTitle": "Pulling Double Booty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T03:00:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T03:30:00-04:00",
+        "episodeTitle": "River of Snakes",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 459852,
+        "showTitle": "Genndy Tartakovksy's Primal"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T04:00:00-04:00",
+        "episodeTitle": "The Blue Lonegoon",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T04:15:00-04:00",
+        "episodeTitle": "Chief Beef Loco",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T04:30:00-04:00",
+        "episodeTitle": "Circus",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T04:45:00-04:00",
+        "episodeTitle": "Dumber Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T05:00:00-04:00",
+        "episodeTitle": "Aquaticism",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-08T00:00:00-04:00",
+        "datetime": "2019-10-09T05:30:00-04:00",
+        "episodeTitle": "Ain't Miss Debatin'",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

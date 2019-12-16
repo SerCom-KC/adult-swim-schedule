@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-11T21:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-11T21:30:00-04:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-11T22:00:00-04:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-11T22:30:00-04:00",
+        "episodeTitle": "Prick Up Your Ears",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-11T23:00:00-04:00",
+        "episodeTitle": "Chick Cancer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-11T23:30:00-04:00",
+        "episodeTitle": "Run, Android 17! Piccolo's All-Or-Nothing Struggle!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T00:00:00-04:00",
+        "episodeTitle": "Barbatos",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T00:30:00-04:00",
+        "episodeTitle": "Decision x by x Majority Rule?",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T01:00:00-04:00",
+        "episodeTitle": "Baseball Blues",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T01:30:00-04:00",
+        "episodeTitle": "Zabuza's Blade",
+        "rating": "TV-PG V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T02:00:00-04:00",
+        "episodeTitle": "Luffy's Emergency Situation! The Ultimate Shadow's Destination!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T02:30:00-04:00",
+        "episodeTitle": "Freezing Point",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T03:00:00-04:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T03:15:00-04:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T03:30:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T04:00:00-04:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T04:30:00-04:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T05:00:00-04:00",
+        "episodeTitle": "It's Not Easy Being Green",
+        "rating": "TV-PG LS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-06-11T00:00:00-04:00",
+        "datetime": "2016-06-12T05:30:00-04:00",
+        "episodeTitle": "The Trouble with Gribbles",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

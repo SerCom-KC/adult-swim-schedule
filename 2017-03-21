@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-21T21:00:00-04:00",
+        "episodeTitle": "Escape from Pearl Bailey",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-21T21:30:00-04:00",
+        "episodeTitle": "Pulling Double Booty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-21T22:00:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-21T22:30:00-04:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-21T23:00:00-04:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-21T23:30:00-04:00",
+        "episodeTitle": "Barely Legal",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T00:00:00-04:00",
+        "episodeTitle": "The Black Cherry",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T00:15:00-04:00",
+        "episodeTitle": "For the Troops",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T00:30:00-04:00",
+        "episodeTitle": "Bitches to Rags",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T01:00:00-04:00",
+        "episodeTitle": "Escape from Leprechaupolis",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T01:15:00-04:00",
+        "episodeTitle": "Bus of the Undead",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T01:30:00-04:00",
+        "episodeTitle": "Escape from Pearl Bailey",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T02:00:00-04:00",
+        "episodeTitle": "Pulling Double Booty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T02:30:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T03:00:00-04:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T03:30:00-04:00",
+        "episodeTitle": "Barely Legal",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T04:00:00-04:00",
+        "episodeTitle": "Williams Street Swap Shop - 3/21/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T04:15:00-04:00",
+        "episodeTitle": "Irish Wake",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344844,
+        "showTitle": "Assy McGee"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T04:30:00-04:00",
+        "episodeTitle": "Escape from Leprechaupolis",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T04:45:00-04:00",
+        "episodeTitle": "Bus of the Undead",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T05:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-03-21T00:00:00-04:00",
+        "datetime": "2017-03-22T05:30:00-04:00",
+        "episodeTitle": "Naked Ambition",
+        "rating": "TV-PG DS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

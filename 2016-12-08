@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-08T21:00:00-05:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-08T21:30:00-05:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-08T22:00:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-08T22:30:00-05:00",
+        "episodeTitle": "Dr. Klaustus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-08T23:00:00-05:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-08T23:30:00-05:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T00:00:00-05:00",
+        "episodeTitle": "Batman Forever 21",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T00:15:00-05:00",
+        "episodeTitle": "The Hobbit: There and Bennigan's",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T00:30:00-05:00",
+        "episodeTitle": "The Good One",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T00:45:00-05:00",
+        "episodeTitle": "Sharif",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T01:00:00-05:00",
+        "episodeTitle": "Carl Wash",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T01:15:00-05:00",
+        "episodeTitle": "T.I.; Abbey Lee Miller",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T01:30:00-05:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T02:00:00-05:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T02:30:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T03:00:00-05:00",
+        "episodeTitle": "Dr. Klaustus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T03:30:00-05:00",
+        "episodeTitle": "Batman Forever 21",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T03:45:00-05:00",
+        "episodeTitle": "The Hobbit: There and Bennigan's",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T04:00:00-05:00",
+        "episodeTitle": "NewsHits",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T04:15:00-05:00",
+        "episodeTitle": "Mulchtown",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T04:30:00-05:00",
+        "episodeTitle": "Carl Wash",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T04:45:00-05:00",
+        "episodeTitle": "T.I.; Abbey Lee Miller",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T05:00:00-05:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-08T00:00:00-05:00",
+        "datetime": "2016-12-09T05:30:00-05:00",
+        "episodeTitle": "My Own Private Rodeo",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

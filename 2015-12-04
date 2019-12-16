@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-04T21:00:00-05:00",
+        "episodeTitle": "Christmas in the Car",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-04T21:30:00-05:00",
+        "episodeTitle": "A Cleveland Brown Christmas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-04T22:00:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-04T22:30:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-04T23:00:00-05:00",
+        "episodeTitle": "Tornado",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-04T23:30:00-05:00",
+        "episodeTitle": "Sauce Boy",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T00:00:00-05:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T00:30:00-05:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T01:00:00-05:00",
+        "episodeTitle": "Dream Machine",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T01:15:00-05:00",
+        "episodeTitle": "Dethstars",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T01:30:00-05:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T02:00:00-05:00",
+        "episodeTitle": "Christmas in the Car",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T02:30:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T03:00:00-05:00",
+        "episodeTitle": "Tornado",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T03:30:00-05:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T04:00:00-05:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T04:30:00-05:00",
+        "episodeTitle": "Dream Machine",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T04:45:00-05:00",
+        "episodeTitle": "Dethstars",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T05:00:00-05:00",
+        "episodeTitle": "A Cleveland Brown Christmas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-04T00:00:00-05:00",
+        "datetime": "2015-12-05T05:30:00-05:00",
+        "episodeTitle": "Livin' on Reds, Vitamin C and Propane",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

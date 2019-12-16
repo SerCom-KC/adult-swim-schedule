@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-29T21:00:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-29T21:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-29T22:00:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-29T22:30:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-29T23:00:00-04:00",
+        "episodeTitle": "XCVIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-29T23:30:00-04:00",
+        "episodeTitle": "Vegeta Becomes a Student?! Win over Whis!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T00:00:00-04:00",
+        "episodeTitle": "The Nefarious Wizard Babidi and Demon King Dabura's Trap",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T00:30:00-04:00",
+        "episodeTitle": "I'm Home",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T01:00:00-04:00",
+        "episodeTitle": "Scars",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 437892,
+        "showTitle": "Tokyo Ghoul"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T01:30:00-04:00",
+        "episodeTitle": "Pursuit x and x Analysis",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T02:00:00-04:00",
+        "episodeTitle": "Nahel Argama Recaptured",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T02:30:00-04:00",
+        "episodeTitle": "Surpassing the Master",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T03:00:00-04:00",
+        "episodeTitle": "Not Equal",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T03:30:00-04:00",
+        "episodeTitle": "The Cook, the Steve, the Gayle, & Her Lover",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T04:00:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T04:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T05:00:00-04:00",
+        "episodeTitle": "After the Mold Rush",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-04-29T00:00:00-04:00",
+        "datetime": "2017-04-30T05:30:00-04:00",
+        "episodeTitle": "Rich Hank, Poor Hank",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

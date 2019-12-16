@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-16T21:00:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-16T21:30:00-04:00",
+        "episodeTitle": "Naked to the Limit, One More Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-16T22:00:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-16T22:30:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-16T23:00:00-04:00",
+        "episodeTitle": "And Then There Were Fewer Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T00:00:00-04:00",
+        "episodeTitle": "Losin' it",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T00:15:00-04:00",
+        "episodeTitle": "The Story of Gangstalicious",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T00:45:00-04:00",
+        "episodeTitle": "Rubberman",
+        "rating": "TV-MA V",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T01:00:00-04:00",
+        "episodeTitle": "A Jailhouse Divided",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T01:15:00-04:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T01:30:00-04:00",
+        "episodeTitle": "Max Jets",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T02:00:00-04:00",
+        "episodeTitle": "Naked to the Limit, One More Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T02:30:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T03:00:00-04:00",
+        "episodeTitle": "And Then There Were Fewer Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T04:00:00-04:00",
+        "episodeTitle": "Assembly Line Yeah - 5/8/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T04:15:00-04:00",
+        "episodeTitle": "You Know No One Can Hear You, Right?",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T04:30:00-04:00",
+        "episodeTitle": "The Story of Gangstalicious",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T05:00:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-16T00:00:00-04:00",
+        "datetime": "2017-05-17T05:30:00-04:00",
+        "episodeTitle": "Care-Takin' Care of Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

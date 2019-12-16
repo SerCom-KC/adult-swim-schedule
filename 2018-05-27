@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-27T21:00:00-04:00",
+        "episodeTitle": "Eggs for Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-27T21:30:00-04:00",
+        "episodeTitle": "The Census of the Lambs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-27T22:00:00-04:00",
+        "episodeTitle": "A House Full of Peters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-27T22:30:00-04:00",
+        "episodeTitle": "The Boys in the Band",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-27T23:00:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-27T23:30:00-04:00",
+        "episodeTitle": "Shall I Visit the Dinosaurs?",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-27T23:45:00-04:00",
+        "episodeTitle": "Scoot to the Glute",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T00:00:00-04:00",
+        "episodeTitle": "Joe Pera Takes You on a Fall Drive",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T00:15:00-04:00",
+        "episodeTitle": "Joe Pera Shows You How to Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T00:30:00-04:00",
+        "episodeTitle": "Very Special Balls",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T00:45:00-04:00",
+        "episodeTitle": "To Catch a Princess",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T01:00:00-04:00",
+        "episodeTitle": "Sheriffs",
+        "rating": "TV-MA SV",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T01:15:00-04:00",
+        "episodeTitle": "Bullies",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T01:30:00-04:00",
+        "episodeTitle": "Eggs for Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T02:00:00-04:00",
+        "episodeTitle": "The Census of the Lambs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T02:30:00-04:00",
+        "episodeTitle": "A House Full of Peters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T03:00:00-04:00",
+        "episodeTitle": "The Boys in the Band",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T03:30:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T04:00:00-04:00",
+        "episodeTitle": "Shall I Visit the Dinosaurs?",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T04:15:00-04:00",
+        "episodeTitle": "Scoot to the Glute",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T04:30:00-04:00",
+        "episodeTitle": "Joe Pera Takes You on a Fall Drive",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T04:45:00-04:00",
+        "episodeTitle": "Joe Pera Shows You How to Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T05:00:00-04:00",
+        "episodeTitle": "Tears of an Inflatable Clown",
+        "rating": "TV-PG L",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-05-27T00:00:00-04:00",
+        "datetime": "2018-05-28T05:30:00-04:00",
+        "episodeTitle": "The Minh Who Knew Too Much",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-28T21:00:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-28T21:30:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-28T22:00:00-04:00",
+        "episodeTitle": "Mo Mommy Mo Problems",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-28T22:30:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-28T23:00:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-28T23:30:00-04:00",
+        "episodeTitle": "Fat Guy Strangler",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T00:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T00:30:00-04:00",
+        "episodeTitle": "Chaos Beknownst",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T00:45:00-04:00",
+        "episodeTitle": "The Nurple Rainbow",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T01:00:00-04:00",
+        "episodeTitle": "Bus of the Undead",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T01:15:00-04:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T01:30:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T02:00:00-04:00",
+        "episodeTitle": "Fat Guy Strangler",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T02:30:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T03:00:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T03:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T04:00:00-04:00",
+        "episodeTitle": "Trash",
+        "rating": "TV-14 L",
+        "seasonNumber": 9,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T04:15:00-04:00",
+        "episodeTitle": "Worship",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T04:30:00-04:00",
+        "episodeTitle": "Bus of the Undead",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T04:45:00-04:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T05:00:00-04:00",
+        "episodeTitle": "Mo Mommy Mo Problems",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-28T00:00:00-04:00",
+        "datetime": "2019-10-29T05:30:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

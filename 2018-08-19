@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-19T21:00:00-04:00",
+        "episodeTitle": "The Quirk-Ducers",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-19T21:30:00-04:00",
+        "episodeTitle": "The Census of the Lambs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-19T22:00:00-04:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-19T22:30:00-04:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-19T23:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-19T23:30:00-04:00",
+        "episodeTitle": "Gimme That Chocolate Milk",
+        "rating": "TV-MA V",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-19T23:45:00-04:00",
+        "episodeTitle": "Strummy Strummy Sad Sad",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T00:00:00-04:00",
+        "episodeTitle": "Arrears in Science",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T00:30:00-04:00",
+        "episodeTitle": "Thy Neighbor's Life",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T00:45:00-04:00",
+        "episodeTitle": "Super Agent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T01:00:00-04:00",
+        "episodeTitle": "Tichina Arnold; Steve Schirrpa",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T01:15:00-04:00",
+        "episodeTitle": "Bravery",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T01:30:00-04:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T02:00:00-04:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T02:30:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T03:00:00-04:00",
+        "episodeTitle": "Gimme That Chocolate Milk",
+        "rating": "TV-MA V",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T03:15:00-04:00",
+        "episodeTitle": "Strummy Strummy Sad Sad",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T03:30:00-04:00",
+        "episodeTitle": "Arrears in Science",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T04:00:00-04:00",
+        "episodeTitle": "Thy Neighbor's Life",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T04:15:00-04:00",
+        "episodeTitle": "Super Agent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T04:30:00-04:00",
+        "episodeTitle": "Tichina Arnold; Steve Schirrpa",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T04:45:00-04:00",
+        "episodeTitle": "Bravery",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T05:00:00-04:00",
+        "episodeTitle": "The Census of the Lambs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-19T00:00:00-04:00",
+        "datetime": "2018-08-20T05:30:00-04:00",
+        "episodeTitle": "The Quirk-Ducers",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

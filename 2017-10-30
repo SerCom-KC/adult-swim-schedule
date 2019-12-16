@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-30T21:00:00-04:00",
+        "episodeTitle": "A Nightmare on Grace Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-30T21:30:00-04:00",
+        "episodeTitle": "Best Little Horror House in Langley Falls",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-30T22:00:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-30T22:30:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-30T23:00:00-04:00",
+        "episodeTitle": "Death Lives",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-30T23:30:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T00:00:00-04:00",
+        "episodeTitle": "That Hurts Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T00:15:00-04:00",
+        "episodeTitle": "Tubba Bubba's Now Hubba Hubba",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T00:30:00-04:00",
+        "episodeTitle": "The Bard's Curse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T00:45:00-04:00",
+        "episodeTitle": "The Shaving",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T01:00:00-04:00",
+        "episodeTitle": "Dinner with Family with Brett Gelman and Brett Gelman's Family",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 414712,
+        "showTitle": "Dinner With Family With Brett Gelman and Brett Gelman's Family"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T01:30:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T02:00:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T02:30:00-04:00",
+        "episodeTitle": "Death Lives",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T03:00:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T03:30:00-04:00",
+        "episodeTitle": "The Shrink",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T04:00:00-04:00",
+        "episodeTitle": "The Suplex Duplex Complex",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T04:15:00-04:00",
+        "episodeTitle": "Live at the Necropolis: Lords of Synth",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T04:30:00-04:00",
+        "episodeTitle": "Dinner with Family with Brett Gelman and Brett Gelman's Family",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 414712,
+        "showTitle": "Dinner With Family With Brett Gelman and Brett Gelman's Family"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T05:00:00-04:00",
+        "episodeTitle": "A Nightmare on Grace Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-30T00:00:00-04:00",
+        "datetime": "2017-10-31T05:30:00-04:00",
+        "episodeTitle": "The Petriot Act",
+        "rating": "TV-PG ",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

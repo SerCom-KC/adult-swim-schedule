@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-12T21:00:00-05:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-12T21:30:00-05:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-12T22:00:00-05:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-12T22:30:00-05:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-12T23:00:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-12T23:30:00-05:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T00:00:00-05:00",
+        "episodeTitle": "Unleash the Warrior Within! Gohan Takes the Offensive!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T00:30:00-05:00",
+        "episodeTitle": "Overdrive",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T01:00:00-05:00",
+        "episodeTitle": "To the Place of Return",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T01:30:00-05:00",
+        "episodeTitle": "Arrival x at x the Arena",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T02:00:00-05:00",
+        "episodeTitle": "Banquet Invitation",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T02:30:00-05:00",
+        "episodeTitle": "The Silent Assault!! The Mysterious Visitor, \"Tyrant\" Kuma",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T03:00:00-05:00",
+        "episodeTitle": "The Obsessive Scientist",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T03:30:00-05:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T04:00:00-05:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T04:30:00-05:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T05:00:00-05:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-12T00:00:00-05:00",
+        "datetime": "2016-11-13T05:30:00-05:00",
+        "episodeTitle": "When Cotton Comes Marching Home",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

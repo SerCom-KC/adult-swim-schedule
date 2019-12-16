@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-04T21:00:00-05:00",
+        "episodeTitle": "Daesong Heavy Industries",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-04T21:30:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-04T22:00:00-05:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-04T22:30:00-05:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-04T23:00:00-05:00",
+        "episodeTitle": "The King Is Dead",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-04T23:30:00-05:00",
+        "episodeTitle": "Showdown on King Kai's World! Goku vs. Beerus the Destroyer!",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T00:00:00-05:00",
+        "episodeTitle": "Entering the World Martial Arts Tournament! Goten Shows Off His Explosive Power During Training!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T00:30:00-05:00",
+        "episodeTitle": "A Hero's Proof",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T01:00:00-05:00",
+        "episodeTitle": "Clash with the Red Comet",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T01:30:00-05:00",
+        "episodeTitle": "Ging x and x Gon",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T02:00:00-05:00",
+        "episodeTitle": "Wanderer",
+        "rating": "TV-PG V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T02:30:00-05:00",
+        "episodeTitle": "The Promise from a Distant Day! The Pirates' Song and a Small Whale",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T03:00:00-05:00",
+        "episodeTitle": "Section 9",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T03:30:00-05:00",
+        "episodeTitle": "Daesong Heavy Industries",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T04:00:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T04:30:00-05:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T05:00:00-05:00",
+        "episodeTitle": "The Incredible Hank",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-02-04T00:00:00-05:00",
+        "datetime": "2017-02-05T05:30:00-05:00",
+        "episodeTitle": "Strangeness on a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

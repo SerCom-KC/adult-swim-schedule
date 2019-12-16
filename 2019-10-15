@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-15T21:00:00-04:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-15T21:30:00-04:00",
+        "episodeTitle": "Weiner of Our Discontent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-15T22:00:00-04:00",
+        "episodeTitle": "Into the Mild",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-15T22:30:00-04:00",
+        "episodeTitle": "Brunchsquatch",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-15T23:00:00-04:00",
+        "episodeTitle": "Blue Harvest Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T00:00:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T00:30:00-04:00",
+        "episodeTitle": "Talent Show",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T00:45:00-04:00",
+        "episodeTitle": "Season 2 Finale",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T01:00:00-04:00",
+        "episodeTitle": "Super Sirloin",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T01:15:00-04:00",
+        "episodeTitle": "Super Squatter",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T01:30:00-04:00",
+        "episodeTitle": "Blue Harvest Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T02:30:00-04:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T03:00:00-04:00",
+        "episodeTitle": "Weiner of Our Discontent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T03:30:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T04:00:00-04:00",
+        "episodeTitle": "An Emotional Can of Mommyworms",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T04:15:00-04:00",
+        "episodeTitle": "World of Hurt, BC",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T04:30:00-04:00",
+        "episodeTitle": "Super Sirloin",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T04:45:00-04:00",
+        "episodeTitle": "Super Squatter",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T05:00:00-04:00",
+        "episodeTitle": "Into the Mild",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-15T00:00:00-04:00",
+        "datetime": "2019-10-16T05:30:00-04:00",
+        "episodeTitle": "Brunchsquatch",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

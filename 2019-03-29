@@ -1,0 +1,254 @@
+[
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T21:00:00-04:00",
+        "episodeTitle": "Holy Crap",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T21:30:00-04:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T22:00:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T22:15:00-04:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T22:30:00-04:00",
+        "episodeTitle": "Mail Order Bride",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T22:45:00-04:00",
+        "episodeTitle": "Cybernetic Ghost of Christmas Past",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T23:00:00-04:00",
+        "episodeTitle": "Hot Streets Disease",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T23:15:00-04:00",
+        "episodeTitle": "Hot Streets Begins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-29T23:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T00:00:00-04:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T00:15:00-04:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T00:30:00-04:00",
+        "episodeTitle": "The Terror That Is Cabbage Fizzog",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T00:45:00-04:00",
+        "episodeTitle": "The Dawning of King Skull",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T01:00:00-04:00",
+        "episodeTitle": "Unholy Matrimony",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T01:15:00-04:00",
+        "episodeTitle": "Mystery for Hire",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T01:30:00-04:00",
+        "episodeTitle": "Holy Crap",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T02:00:00-04:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T02:30:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T02:45:00-04:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T03:00:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T03:30:00-04:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T03:45:00-04:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 3/29/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 2/21/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449335,
+        "showTitle": "Development Meeting"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T04:30:00-04:00",
+        "episodeTitle": "Hot Streets Disease",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T04:45:00-04:00",
+        "episodeTitle": "Hot Streets Begins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T05:00:00-04:00",
+        "episodeTitle": "Pulling Double Booty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-29T00:00:00-04:00",
+        "datetime": "2019-03-30T05:30:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

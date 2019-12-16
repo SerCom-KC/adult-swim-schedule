@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-25T21:00:00-04:00",
+        "episodeTitle": "The Son Also Roses",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-25T21:30:00-04:00",
+        "episodeTitle": "Squirt's Honor",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-25T22:00:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-25T22:30:00-04:00",
+        "episodeTitle": "The Fund-Raiser",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-25T23:00:00-04:00",
+        "episodeTitle": "Four Little Words",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-25T23:30:00-04:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T00:00:00-04:00",
+        "episodeTitle": "Protect the Dragon Balls! The Namekians' All-Out Attack!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T00:30:00-04:00",
+        "episodeTitle": "Spit Your Sadness Away",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T01:00:00-04:00",
+        "episodeTitle": "Guns and Swords",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T01:30:00-04:00",
+        "episodeTitle": "When the Jewel Is Whole",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T02:00:00-04:00",
+        "episodeTitle": "Jet-Black Signal Fire",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T02:30:00-04:00",
+        "episodeTitle": "Fiery Kicks! Sanji's Full Course of Foot Techniques!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T03:00:00-04:00",
+        "episodeTitle": "First Battle: The Struggle for Trost Part 1",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T03:30:00-04:00",
+        "episodeTitle": "Squirt's Honor",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T04:00:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T04:30:00-04:00",
+        "episodeTitle": "Four Little Words",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T05:00:00-04:00",
+        "episodeTitle": "Be True to Your Fool",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-04-25T00:00:00-04:00",
+        "datetime": "2015-04-26T05:30:00-04:00",
+        "episodeTitle": "The Son Also Roses",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

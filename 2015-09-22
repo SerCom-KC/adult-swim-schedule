@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-22T21:00:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-22T21:30:00-04:00",
+        "episodeTitle": "A Short Story and a Tall Tale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-22T22:00:00-04:00",
+        "episodeTitle": "One Little Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-22T22:30:00-04:00",
+        "episodeTitle": "Choosey Wives Choose Smith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-22T23:00:00-04:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-22T23:30:00-04:00",
+        "episodeTitle": "Quagmire's Dad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T00:00:00-04:00",
+        "episodeTitle": "Casablankman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T00:15:00-04:00",
+        "episodeTitle": "The Departy Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T00:30:00-04:00",
+        "episodeTitle": "The Marines",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T00:45:00-04:00",
+        "episodeTitle": "Green and Sober",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T01:00:00-04:00",
+        "episodeTitle": "Nightshift",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T01:15:00-04:00",
+        "episodeTitle": "Bluesklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T01:30:00-04:00",
+        "episodeTitle": "One Little Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T02:00:00-04:00",
+        "episodeTitle": "Choosey Wives Choose Smith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T02:30:00-04:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T03:00:00-04:00",
+        "episodeTitle": "Quagmire's Dad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T03:30:00-04:00",
+        "episodeTitle": "Casablankman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T03:45:00-04:00",
+        "episodeTitle": "The Departy Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T04:00:00-04:00",
+        "episodeTitle": "September 22, 2015",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T04:15:00-04:00",
+        "episodeTitle": "Conviction",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344844,
+        "showTitle": "Assy McGee"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T04:30:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T05:00:00-04:00",
+        "episodeTitle": "A Short Story and a Tall Tale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-22T00:00:00-04:00",
+        "datetime": "2015-09-23T05:30:00-04:00",
+        "episodeTitle": "Hair Today, Gone Today",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

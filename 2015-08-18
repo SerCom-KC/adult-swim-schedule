@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-18T21:00:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-18T21:30:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-18T22:00:00-04:00",
+        "episodeTitle": "Helping Handis",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-18T22:30:00-04:00",
+        "episodeTitle": "With Friends Like Steve's",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-18T23:00:00-04:00",
+        "episodeTitle": "The Tan Aquatic with Steve Zissou",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-18T23:30:00-04:00",
+        "episodeTitle": "Airport '07",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T00:00:00-04:00",
+        "episodeTitle": "Ban on the Fun",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T00:15:00-04:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T00:30:00-04:00",
+        "episodeTitle": "Little Brittle",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T00:45:00-04:00",
+        "episodeTitle": "Confessions of a Gangrenous Mind",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T01:00:00-04:00",
+        "episodeTitle": "Bi-Topping-Ality",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T01:30:00-04:00",
+        "episodeTitle": "Helping Handis",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T02:00:00-04:00",
+        "episodeTitle": "With Friends Like Steve's",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T02:30:00-04:00",
+        "episodeTitle": "The Tan Aquatic with Steve Zissou",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T03:00:00-04:00",
+        "episodeTitle": "Airport '07",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T03:30:00-04:00",
+        "episodeTitle": "Ban on the Fun",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T03:45:00-04:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T04:00:00-04:00",
+        "episodeTitle": "Harvey's Civvy",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T04:15:00-04:00",
+        "episodeTitle": "Splitsville",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T04:30:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T05:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-18T00:00:00-04:00",
+        "datetime": "2015-08-19T05:30:00-04:00",
+        "episodeTitle": "Night and Deity",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

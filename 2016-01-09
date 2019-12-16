@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-09T21:00:00-05:00",
+        "episodeTitle": "Returning Japanese (2)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-09T21:30:00-05:00",
+        "episodeTitle": "How Cleveland Got His Groove Back",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-09T22:00:00-05:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-09T22:30:00-05:00",
+        "episodeTitle": "Bush Comes to Dinner",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-09T23:00:00-05:00",
+        "episodeTitle": "Sibling Rivalry",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-09T23:30:00-05:00",
+        "episodeTitle": "Deep Throats",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T00:00:00-05:00",
+        "episodeTitle": "Duel on a Vanishing Planet!\u00a0The Final Showdown!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T00:30:00-05:00",
+        "episodeTitle": "Kill the Demons",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T01:00:00-05:00",
+        "episodeTitle": "The Blue Bird",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T01:30:00-05:00",
+        "episodeTitle": "Redeye Reprisal",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T02:00:00-05:00",
+        "episodeTitle": "A Night of Rain",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T02:30:00-05:00",
+        "episodeTitle": "The Dream Sinking in the New World! The Disillusioned Pirate, Puzzle!",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T03:00:00-05:00",
+        "episodeTitle": "I'm Not Your Cute Woman",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T03:30:00-05:00",
+        "episodeTitle": "How Cleveland Got His Groove Back",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T04:00:00-05:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T04:30:00-05:00",
+        "episodeTitle": "Bush Comes to Dinner",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T05:00:00-05:00",
+        "episodeTitle": "Returning Japanese (1)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-09T00:00:00-05:00",
+        "datetime": "2016-01-10T05:30:00-05:00",
+        "episodeTitle": "Returning Japanese (2)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

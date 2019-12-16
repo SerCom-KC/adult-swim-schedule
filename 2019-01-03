@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-03T21:00:00-05:00",
+        "episodeTitle": "Da Flippity Flop",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-03T21:30:00-05:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-03T22:00:00-05:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-03T22:30:00-05:00",
+        "episodeTitle": "The Man with Two Brians",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-03T23:00:00-05:00",
+        "episodeTitle": "Tales of a Third Grade Nothing",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-03T23:30:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T00:00:00-05:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T00:15:00-05:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T00:30:00-05:00",
+        "episodeTitle": "Hypno-Germ",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T00:45:00-05:00",
+        "episodeTitle": "Dead Squid Walking",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T01:00:00-05:00",
+        "episodeTitle": "Foul Ball",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T01:15:00-05:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T01:30:00-05:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T02:00:00-05:00",
+        "episodeTitle": "The Man with Two Brians",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T02:30:00-05:00",
+        "episodeTitle": "Tales of a Third Grade Nothing",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T03:00:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T03:30:00-05:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T03:45:00-05:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T04:00:00-05:00",
+        "episodeTitle": "Winter",
+        "rating": "TV-14 ",
+        "seasonNumber": 8,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T04:15:00-05:00",
+        "episodeTitle": "May I Please Enter",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 452032,
+        "showTitle": "May I Please Enter"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T04:30:00-05:00",
+        "episodeTitle": "Hypno-Germ",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T04:45:00-05:00",
+        "episodeTitle": "Dead Squid Walking",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T05:00:00-05:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-03T00:00:00-05:00",
+        "datetime": "2019-01-04T05:30:00-05:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

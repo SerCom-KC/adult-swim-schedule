@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-13T21:00:00-05:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-13T21:30:00-05:00",
+        "episodeTitle": "Minstrel Krampus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-13T22:00:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-13T22:30:00-05:00",
+        "episodeTitle": "Road to the North Pole Part 1 & 2",
+        "rating": "TV-14 S",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-13T23:30:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T00:00:00-05:00",
+        "episodeTitle": "The Robot Chicken Christmas Special: X-Mas United",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T00:15:00-05:00",
+        "episodeTitle": "Jason B. Sucks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T00:30:00-05:00",
+        "episodeTitle": "A PE Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T00:45:00-05:00",
+        "episodeTitle": "Krampus Nacht",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T01:00:00-05:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T01:30:00-05:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T02:00:00-05:00",
+        "episodeTitle": "Minstrel Krampus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T02:30:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T03:00:00-05:00",
+        "episodeTitle": "Road to the North Pole Part 1 & 2",
+        "rating": "TV-14 S",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T04:00:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T04:30:00-05:00",
+        "episodeTitle": "The Robot Chicken Christmas Special: X-Mas United",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T04:45:00-05:00",
+        "episodeTitle": "Jason B. Sucks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T05:00:00-05:00",
+        "episodeTitle": "Ms. Wakefield",
+        "rating": "TV-PG ",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-12-13T00:00:00-05:00",
+        "datetime": "2015-12-14T05:30:00-05:00",
+        "episodeTitle": "Hillennium",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-18T21:00:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-18T21:30:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-18T22:00:00-04:00",
+        "episodeTitle": "Rough Trade",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-18T22:30:00-04:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-18T23:00:00-04:00",
+        "episodeTitle": "Childrens Horsepital",
+        "rating": "TV-14 ",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-18T23:15:00-04:00",
+        "episodeTitle": "Fan Fiction",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-18T23:30:00-04:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T00:00:00-04:00",
+        "episodeTitle": "Celebrity Rocket",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T00:15:00-04:00",
+        "episodeTitle": "Dragon Nuts",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T00:30:00-04:00",
+        "episodeTitle": "Bus of the Undead",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T00:45:00-04:00",
+        "episodeTitle": "Survival of the Dumbest",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T01:00:00-04:00",
+        "episodeTitle": "Best Friends Forever",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T01:15:00-04:00",
+        "episodeTitle": "Dethdinner",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T01:30:00-04:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T02:00:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T02:30:00-04:00",
+        "episodeTitle": "Rough Trade",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T03:00:00-04:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T03:30:00-04:00",
+        "episodeTitle": "Childrens Horsepital",
+        "rating": "TV-14 ",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T03:45:00-04:00",
+        "episodeTitle": "Fan Fiction",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T04:00:00-04:00",
+        "episodeTitle": "This House Has People in It",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T04:15:00-04:00",
+        "episodeTitle": "Unedited Footage of a Bear",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T04:30:00-04:00",
+        "episodeTitle": "Best Friends Forever",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T04:45:00-04:00",
+        "episodeTitle": "Dethdinner",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T05:00:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-18T00:00:00-04:00",
+        "datetime": "2016-03-19T05:30:00-04:00",
+        "episodeTitle": "Bobby Rae",
+        "rating": "TV-PG ",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

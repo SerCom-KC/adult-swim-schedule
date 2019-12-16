@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-10-31T21:00:00-04:00",
+        "episodeTitle": "Escape From Goochland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-10-31T21:30:00-04:00",
+        "episodeTitle": "The Witches of Langley",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-10-31T22:00:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-10-31T22:30:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-10-31T23:00:00-04:00",
+        "episodeTitle": "Fat Guy Strangler",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-10-31T23:30:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T00:00:00-04:00",
+        "episodeTitle": "The Robot Chicken Walking Dead Special: Look Who's Walking",
+        "rating": "TV-MA LV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T00:30:00-04:00",
+        "episodeTitle": "House Haunters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T00:45:00-04:00",
+        "episodeTitle": "Vampirus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 377032,
+        "showTitle": "Aqua Unit Patrol Squad 1"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T01:00:00-04:00",
+        "episodeTitle": "Tim & Eric's Bedtime Stories: Haunted House",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T01:30:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T02:00:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T02:30:00-04:00",
+        "episodeTitle": "Fat Guy Strangler",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T03:00:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T03:30:00-04:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T04:00:00-04:00",
+        "episodeTitle": "The Suplex Duplex Complex",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T04:15:00-04:00",
+        "episodeTitle": "M.O.P.Z.",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T04:30:00-04:00",
+        "episodeTitle": "Tim & Eric's Bedtime Stories: Haunted House",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T05:00:00-04:00",
+        "episodeTitle": "Escape From Goochland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-31T00:00:00-04:00",
+        "datetime": "2017-11-01T05:30:00-04:00",
+        "episodeTitle": "The Witches of East Arlen",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

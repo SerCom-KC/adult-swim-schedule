@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-16T21:00:00-05:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-16T21:30:00-05:00",
+        "episodeTitle": "Star Trek",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-16T22:00:00-05:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-16T22:30:00-05:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-16T23:00:00-05:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-16T23:30:00-05:00",
+        "episodeTitle": "Death Lives",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T00:00:00-05:00",
+        "episodeTitle": "Maurice Was Caught",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T00:15:00-05:00",
+        "episodeTitle": "Unionizing Our Labor",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T00:30:00-05:00",
+        "episodeTitle": "Dusty Gozongas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T00:45:00-05:00",
+        "episodeTitle": "Hypno-Germ",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T01:00:00-05:00",
+        "episodeTitle": "Stacey Dash; Jack McBrayer",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T01:15:00-05:00",
+        "episodeTitle": "Telethon",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T01:30:00-05:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T02:00:00-05:00",
+        "episodeTitle": "Star Trek",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T02:30:00-05:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T03:00:00-05:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T03:30:00-05:00",
+        "episodeTitle": "Death Lives",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T04:00:00-05:00",
+        "episodeTitle": "A \"Apocalypse, This!\" or \"For the Pity of Fools\" a/k/\"Flashbacks Are Forever\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T04:30:00-05:00",
+        "episodeTitle": "Stacey Dash; Jack McBrayer",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T04:45:00-05:00",
+        "episodeTitle": "Telethon",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T05:00:00-05:00",
+        "episodeTitle": "The Blue and the Gray and the Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-02-16T00:00:00-05:00",
+        "datetime": "2017-02-17T05:30:00-05:00",
+        "episodeTitle": "Uh-Oh Canada",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

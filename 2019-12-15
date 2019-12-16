@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-15T21:00:00-05:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-15T21:30:00-05:00",
+        "episodeTitle": "Nice-Capades",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-15T22:00:00-05:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-15T22:30:00-05:00",
+        "episodeTitle": "How the Griffin Stole Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-15T23:00:00-05:00",
+        "episodeTitle": "Claw and Hoarder: Special Ricktim's Morty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-15T23:30:00-05:00",
+        "episodeTitle": "Rattlestar Ricklactica",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T00:00:00-05:00",
+        "episodeTitle": "Chili Snakes",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 457612,
+        "showTitle": "Momma Named Me Sheriff"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T00:15:00-05:00",
+        "episodeTitle": "Finale",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 457612,
+        "showTitle": "Momma Named Me Sheriff"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T00:30:00-05:00",
+        "episodeTitle": "Ginger Hill in: Bursting Pipes",
+        "rating": "TV-MA L",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T00:45:00-05:00",
+        "episodeTitle": "Bugs Keith in: I Can't Call Heaven, Doug",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T01:00:00-05:00",
+        "episodeTitle": "Joe Pera Waits With You",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T01:15:00-05:00",
+        "episodeTitle": "Joe Pera Guides You Through the Dark",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T01:30:00-05:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T02:00:00-05:00",
+        "episodeTitle": "How the Griffin Stole Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T02:30:00-05:00",
+        "episodeTitle": "Claw and Hoarder: Special Ricktim's Morty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T03:00:00-05:00",
+        "episodeTitle": "Rattlestar Ricklactica",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T03:30:00-05:00",
+        "episodeTitle": "Chili Snakes",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 457612,
+        "showTitle": "Momma Named Me Sheriff"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T03:45:00-05:00",
+        "episodeTitle": "Finale",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 457612,
+        "showTitle": "Momma Named Me Sheriff"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T04:00:00-05:00",
+        "episodeTitle": "Ginger Hill in: Bursting Pipes",
+        "rating": "TV-MA L",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T04:15:00-05:00",
+        "episodeTitle": "Bugs Keith in: I Can't Call Heaven, Doug",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T04:30:00-05:00",
+        "episodeTitle": "Joe Pera Waits With You",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T04:45:00-05:00",
+        "episodeTitle": "Joe Pera Guides You Through the Dark",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T05:00:00-05:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-15T00:00:00-05:00",
+        "datetime": "2019-12-16T05:30:00-05:00",
+        "episodeTitle": "Nice-Capades",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

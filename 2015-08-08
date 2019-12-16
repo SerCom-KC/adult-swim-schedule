@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-08T21:00:00-04:00",
+        "episodeTitle": "Goodbye Normal Jeans",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-08T21:30:00-04:00",
+        "episodeTitle": "Dancing with the Stools",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-08T22:00:00-04:00",
+        "episodeTitle": "Brown Magic",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-08T22:30:00-04:00",
+        "episodeTitle": "Bullocks to Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-08T23:00:00-04:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-08T23:30:00-04:00",
+        "episodeTitle": "Stewie Loves Lois",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T00:00:00-04:00",
+        "episodeTitle": "Goku's Comeback! Call Forth Porunga!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T00:30:00-04:00",
+        "episodeTitle": "Kill the Darkness",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T01:00:00-04:00",
+        "episodeTitle": "The Rain That Falls in Monotone",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 419352,
+        "showTitle": "Michiko & Hatchin"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T01:30:00-04:00",
+        "episodeTitle": "Forest House",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T02:00:00-04:00",
+        "episodeTitle": "Climbing Silver",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T02:30:00-04:00",
+        "episodeTitle": "Everyone Makes a Great Escape! The Road to Victory is for the Pirates!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T03:00:00-04:00",
+        "episodeTitle": "Bite: The 57th Exterior Scouting Mission Part 3",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T03:30:00-04:00",
+        "episodeTitle": "Bullocks to Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T04:00:00-04:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T04:30:00-04:00",
+        "episodeTitle": "Dancing with the Stools",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T05:00:00-04:00",
+        "episodeTitle": "Bad Girls, Bad Girls, Whatcha Gonna Do",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-08-08T00:00:00-04:00",
+        "datetime": "2015-08-09T05:30:00-04:00",
+        "episodeTitle": "Goodbye Normal Jeans",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

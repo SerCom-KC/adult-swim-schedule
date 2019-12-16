@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-07T21:00:00-05:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-07T21:30:00-05:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-07T22:00:00-05:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-07T22:30:00-05:00",
+        "episodeTitle": "A Ward Show",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-07T23:00:00-05:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-07T23:30:00-05:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T00:00:00-05:00",
+        "episodeTitle": "The Final Trump Card!\u00a0Goku's Ultimate Spirit Bomb!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T00:30:00-05:00",
+        "episodeTitle": "Kill the New Recruits",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T01:00:00-05:00",
+        "episodeTitle": "The Stranger",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T01:30:00-05:00",
+        "episodeTitle": "The Fool's Ballistic Samba",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 419352,
+        "showTitle": "Michiko & Hatchin"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T02:00:00-05:00",
+        "episodeTitle": "Wind Style: Rasen Shuriken!",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T02:30:00-05:00",
+        "episodeTitle": "Goodbye My Dear Underlings! Franky Departs!",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T03:00:00-05:00",
+        "episodeTitle": "Trigger",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T03:30:00-05:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T04:00:00-05:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T04:30:00-05:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T05:00:00-05:00",
+        "episodeTitle": "A Ward Show",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-07T00:00:00-05:00",
+        "datetime": "2015-11-08T05:30:00-05:00",
+        "episodeTitle": "Peggy's Pageant Fever",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

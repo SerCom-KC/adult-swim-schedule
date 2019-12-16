@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-27T21:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-27T21:30:00-04:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-27T22:00:00-04:00",
+        "episodeTitle": "'Til Deaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-27T22:30:00-04:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-27T23:00:00-04:00",
+        "episodeTitle": "He's Too Sexy for His Fat",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-27T23:30:00-04:00",
+        "episodeTitle": "Training Complete! Goku Sizes Up the Competition!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T00:00:00-04:00",
+        "episodeTitle": "The Ultimate Disciple",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T00:30:00-04:00",
+        "episodeTitle": "The Shoals",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T01:00:00-04:00",
+        "episodeTitle": "Big x Time x Interview",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T01:30:00-04:00",
+        "episodeTitle": "Disappearance",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T02:00:00-04:00",
+        "episodeTitle": "A Clear-Clear History? Sanji's Stolen Dream",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T02:30:00-04:00",
+        "episodeTitle": "More Than Human",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T03:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T03:30:00-04:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T04:00:00-04:00",
+        "episodeTitle": "M.O.P.Z.",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T04:15:00-04:00",
+        "episodeTitle": "Space",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T04:30:00-04:00",
+        "episodeTitle": "'Til Deaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T05:00:00-04:00",
+        "episodeTitle": "Lucky's Wedding Suit",
+        "rating": "TV-PG L",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-08-27T00:00:00-04:00",
+        "datetime": "2016-08-28T05:30:00-04:00",
+        "episodeTitle": "Suite Smells of Excess",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

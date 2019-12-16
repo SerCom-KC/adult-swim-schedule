@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-20T21:00:00-04:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-20T21:30:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-20T22:00:00-04:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-20T22:30:00-04:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-20T23:00:00-04:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-20T23:30:00-04:00",
+        "episodeTitle": "Farmer Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T00:00:00-04:00",
+        "episodeTitle": "Werewolf vs. Unicorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T00:15:00-04:00",
+        "episodeTitle": "Squaw Bury Shortcake",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T00:30:00-04:00",
+        "episodeTitle": "Creature From Plaque Lagoon",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T00:45:00-04:00",
+        "episodeTitle": "Holodeck Redneck",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T01:00:00-04:00",
+        "episodeTitle": "Time-Police 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T01:15:00-04:00",
+        "episodeTitle": "Snakes n' Barrels",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T01:30:00-04:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T02:00:00-04:00",
+        "episodeTitle": "Farmer Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T02:30:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T03:00:00-04:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T03:30:00-04:00",
+        "episodeTitle": "Werewolf vs. Unicorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T03:45:00-04:00",
+        "episodeTitle": "Squaw Bury Shortcake",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T04:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 S",
+        "seasonNumber": 1,
+        "showID": 418112,
+        "showTitle": "The Pound Hole"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T04:15:00-04:00",
+        "episodeTitle": "Twistin' the Night Away",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T04:30:00-04:00",
+        "episodeTitle": "Time-Police 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T04:45:00-04:00",
+        "episodeTitle": "Snakes n' Barrels",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T05:00:00-04:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-20T00:00:00-04:00",
+        "datetime": "2015-04-21T05:30:00-04:00",
+        "episodeTitle": "Pigmalion",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

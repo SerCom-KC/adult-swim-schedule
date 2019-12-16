@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-18T21:00:00-04:00",
+        "episodeTitle": "Live and Let Fry",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-18T21:30:00-04:00",
+        "episodeTitle": "A River Runs Through Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-18T22:00:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-18T22:30:00-04:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-18T23:00:00-04:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-18T23:30:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T00:00:00-04:00",
+        "episodeTitle": "Tapping a Hero",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T00:15:00-04:00",
+        "episodeTitle": "Shoe",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T00:30:00-04:00",
+        "episodeTitle": "Mephistopheles Traveled Below To A Southern State Whose State Motto Is Wisdom, Justice, & Moderation",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T00:45:00-04:00",
+        "episodeTitle": "Earth Worst",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T01:00:00-04:00",
+        "episodeTitle": "Stinkmeaner Strikes Back",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T01:30:00-04:00",
+        "episodeTitle": "A River Runs Through Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T02:00:00-04:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T02:30:00-04:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T03:00:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T03:30:00-04:00",
+        "episodeTitle": "Tapping a Hero",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T03:45:00-04:00",
+        "episodeTitle": "Shoe",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T04:00:00-04:00",
+        "episodeTitle": "I Gave at the Playground",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T04:30:00-04:00",
+        "episodeTitle": "Stinkmeaner Strikes Back",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T05:00:00-04:00",
+        "episodeTitle": "Live and Let Fry",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-18T00:00:00-04:00",
+        "datetime": "2019-04-19T05:30:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

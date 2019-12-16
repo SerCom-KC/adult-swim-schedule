@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-27T21:00:00-05:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-27T21:30:00-05:00",
+        "episodeTitle": "In Country...Club",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-27T22:00:00-05:00",
+        "episodeTitle": "Glued, Where's My Bob?",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-27T22:30:00-05:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-27T23:00:00-05:00",
+        "episodeTitle": "Lethal Weapons",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-27T23:30:00-05:00",
+        "episodeTitle": "Kiss Seen 'Round the World",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T00:00:00-05:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T00:30:00-05:00",
+        "episodeTitle": "Stone Cold Steve Cold Stone",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T00:45:00-05:00",
+        "episodeTitle": "Walking Dead Lobster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T01:00:00-05:00",
+        "episodeTitle": "Innocence",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T01:15:00-05:00",
+        "episodeTitle": "Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T01:30:00-05:00",
+        "episodeTitle": "Glued, Where's My Bob?",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T02:00:00-05:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T02:30:00-05:00",
+        "episodeTitle": "Lethal Weapons",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T03:00:00-05:00",
+        "episodeTitle": "Kiss Seen 'Round the World",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T03:30:00-05:00",
+        "episodeTitle": "Stan's Night Out",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T04:00:00-05:00",
+        "episodeTitle": "The Other Shoe Drops",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T04:30:00-05:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T05:00:00-05:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-27T00:00:00-05:00",
+        "datetime": "2017-12-28T05:30:00-05:00",
+        "episodeTitle": "Square-Footed Monster",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

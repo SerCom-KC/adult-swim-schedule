@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-09T21:00:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-09T21:30:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-09T22:00:00-04:00",
+        "episodeTitle": "Kiss Kiss, Cam Cam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-09T22:30:00-04:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-09T23:00:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-09T23:30:00-04:00",
+        "episodeTitle": "Golden Fiddle Week",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-09T23:45:00-04:00",
+        "episodeTitle": "Cops and Robbers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T00:00:00-04:00",
+        "episodeTitle": "Diversityklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T00:15:00-04:00",
+        "episodeTitle": "Superfail",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T00:30:00-04:00",
+        "episodeTitle": "They Shoot Omega Pets Don't They?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T01:00:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T01:30:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T02:00:00-04:00",
+        "episodeTitle": "Kiss Kiss, Cam Cam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T02:30:00-04:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T03:00:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T03:30:00-04:00",
+        "episodeTitle": "Golden Fiddle Week",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T03:45:00-04:00",
+        "episodeTitle": "Cops and Robbers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T04:00:00-04:00",
+        "episodeTitle": "Diversityklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T04:15:00-04:00",
+        "episodeTitle": "Superfail",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T04:30:00-04:00",
+        "episodeTitle": "They Shoot Omega Pets Don't They?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T05:00:00-04:00",
+        "episodeTitle": "The Bluegrass is Always Greener",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-04-09T00:00:00-04:00",
+        "datetime": "2017-04-10T05:30:00-04:00",
+        "episodeTitle": "The Substitute Spanish Prisoner",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

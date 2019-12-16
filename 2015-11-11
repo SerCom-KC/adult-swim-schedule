@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-11T21:00:00-05:00",
+        "episodeTitle": "Three Coaches and a Bobby",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-11T21:30:00-05:00",
+        "episodeTitle": "How Cleveland Got His Groove Back",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-11T22:00:00-05:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-11T22:30:00-05:00",
+        "episodeTitle": "The Unbrave One",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-11T23:00:00-05:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-11T23:30:00-05:00",
+        "episodeTitle": "Valentine's Day in Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T00:00:00-05:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T00:15:00-05:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T00:30:00-05:00",
+        "episodeTitle": "Dumber Dolls",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T00:45:00-05:00",
+        "episodeTitle": "Bubba Trubba",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T01:00:00-05:00",
+        "episodeTitle": "Nightshift",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T01:15:00-05:00",
+        "episodeTitle": "Dethwater",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T01:30:00-05:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T02:00:00-05:00",
+        "episodeTitle": "The Unbrave One",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T02:30:00-05:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T03:00:00-05:00",
+        "episodeTitle": "Valentine's Day in Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T03:30:00-05:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T03:45:00-05:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T04:00:00-05:00",
+        "episodeTitle": "Escape From Squatopian Freedom",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T04:15:00-05:00",
+        "episodeTitle": "Blind Faith",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T04:30:00-05:00",
+        "episodeTitle": "Nightshift",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T04:45:00-05:00",
+        "episodeTitle": "Dethwater",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T05:00:00-05:00",
+        "episodeTitle": "How Cleveland Got His Groove Back",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-11T00:00:00-05:00",
+        "datetime": "2015-11-12T05:30:00-05:00",
+        "episodeTitle": "Three Coaches and a Bobby",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

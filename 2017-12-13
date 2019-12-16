@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-13T21:00:00-05:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-13T21:30:00-05:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-13T22:00:00-05:00",
+        "episodeTitle": "The Cook, the Steve, the Gayle, & Her Lover",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-13T22:30:00-05:00",
+        "episodeTitle": "The Gene & Courtney Show",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-13T23:00:00-05:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-13T23:30:00-05:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T00:00:00-05:00",
+        "episodeTitle": "Robot Chicken: Star Wars Episode II",
+        "rating": "TV-14 LV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T00:30:00-05:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T00:45:00-05:00",
+        "episodeTitle": "Drone to the Bone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T01:00:00-05:00",
+        "episodeTitle": "Wendell Goes Undercover Again",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T01:15:00-05:00",
+        "episodeTitle": "Turn the Other Cheek",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T01:30:00-05:00",
+        "episodeTitle": "The Cook, the Steve, the Gayle, & Her Lover",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T02:00:00-05:00",
+        "episodeTitle": "The Gene & Courtney Show",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T02:30:00-05:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T03:00:00-05:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T03:30:00-05:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T04:00:00-05:00",
+        "episodeTitle": "Innovation Makers: The Coyote Suit",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T04:15:00-05:00",
+        "episodeTitle": "Wet Shapes",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T04:30:00-05:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T04:45:00-05:00",
+        "episodeTitle": "Drone to the Bone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T05:00:00-05:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-13T00:00:00-05:00",
+        "datetime": "2017-12-14T05:30:00-05:00",
+        "episodeTitle": "The Accidental Terrorist",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

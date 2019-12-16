@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-08T21:00:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-08T21:30:00-05:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-08T22:00:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-08T22:30:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-08T23:00:00-05:00",
+        "episodeTitle": "Edge of Tomorty: Rick Die Rickpeat",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-08T23:30:00-05:00",
+        "episodeTitle": "Claw and Hoarder: Special Ricktim's Morty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T00:00:00-05:00",
+        "episodeTitle": "TV",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 457612,
+        "showTitle": "Momma Named Me Sheriff"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T00:15:00-05:00",
+        "episodeTitle": "Sunday Man",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 457612,
+        "showTitle": "Momma Named Me Sheriff"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T00:30:00-05:00",
+        "episodeTitle": "Spike Fraser in: Should I Happen to Back into a Horse",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T00:45:00-05:00",
+        "episodeTitle": "Musya Shakhtyorov in: Honeyboogers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T01:00:00-05:00",
+        "episodeTitle": "Joe Pera Talks With You About Beans",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T01:15:00-05:00",
+        "episodeTitle": "Joe Pera Takes You on a Hike",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T01:30:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T02:00:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T02:30:00-05:00",
+        "episodeTitle": "Edge of Tomorty: Rick Die Rickpeat",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T03:00:00-05:00",
+        "episodeTitle": "Claw and Hoarder: Special Ricktim's Morty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T03:30:00-05:00",
+        "episodeTitle": "TV",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 457612,
+        "showTitle": "Momma Named Me Sheriff"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T03:45:00-05:00",
+        "episodeTitle": "Sunday Man",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 457612,
+        "showTitle": "Momma Named Me Sheriff"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T04:00:00-05:00",
+        "episodeTitle": "Spike Fraser in: Should I Happen to Back into a Horse",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T04:15:00-05:00",
+        "episodeTitle": "Musya Shakhtyorov in: Honeyboogers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T04:30:00-05:00",
+        "episodeTitle": "Joe Pera Talks With You About Beans",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T04:45:00-05:00",
+        "episodeTitle": "Joe Pera Takes You on a Hike",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T05:00:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-08T00:00:00-05:00",
+        "datetime": "2019-12-09T05:30:00-05:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

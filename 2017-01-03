@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-03T21:00:00-05:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-03T21:30:00-05:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-03T22:00:00-05:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-03T22:30:00-05:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-03T23:00:00-05:00",
+        "episodeTitle": "Farmer Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-03T23:30:00-05:00",
+        "episodeTitle": "No Country Club for Old Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T00:00:00-05:00",
+        "episodeTitle": "A Piece of the Action",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T00:15:00-05:00",
+        "episodeTitle": "The Deep End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T00:30:00-05:00",
+        "episodeTitle": "Creature From Plaque Lagoon",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T00:45:00-05:00",
+        "episodeTitle": "Time Machine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T01:00:00-05:00",
+        "episodeTitle": "Stacey Dash; Jack McBrayer",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T01:15:00-05:00",
+        "episodeTitle": "Jerk",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T01:30:00-05:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T02:00:00-05:00",
+        "episodeTitle": "Farmer Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T02:30:00-05:00",
+        "episodeTitle": "No Country Club for Old Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T03:00:00-05:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T03:30:00-05:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T04:00:00-05:00",
+        "episodeTitle": "For-Profit Online University",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T04:15:00-05:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T04:30:00-05:00",
+        "episodeTitle": "Stacey Dash; Jack McBrayer",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T04:45:00-05:00",
+        "episodeTitle": "Jerk",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T05:00:00-05:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-03T00:00:00-05:00",
+        "datetime": "2017-01-04T05:30:00-05:00",
+        "episodeTitle": "Talking Shop",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

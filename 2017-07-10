@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-10T21:00:00-04:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-10T21:30:00-04:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-10T22:00:00-04:00",
+        "episodeTitle": "Hawk & Chick",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-10T22:30:00-04:00",
+        "episodeTitle": "The Oeder Games",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-10T23:00:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-10T23:30:00-04:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T00:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T00:30:00-04:00",
+        "episodeTitle": "The Bard's Curse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T00:45:00-04:00",
+        "episodeTitle": "Moesha Poppins",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T01:00:00-04:00",
+        "episodeTitle": "A Sober Sunday",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T01:15:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T01:30:00-04:00",
+        "episodeTitle": "Hawk & Chick",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T02:00:00-04:00",
+        "episodeTitle": "The Oeder Games",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T02:30:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T03:00:00-04:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T03:30:00-04:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T04:00:00-04:00",
+        "episodeTitle": "Made Ya Look",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T04:30:00-04:00",
+        "episodeTitle": "The Bard's Curse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T04:45:00-04:00",
+        "episodeTitle": "Moesha Poppins",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T05:00:00-04:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-10T00:00:00-04:00",
+        "datetime": "2017-07-11T05:30:00-04:00",
+        "episodeTitle": "Manger Baby Einstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

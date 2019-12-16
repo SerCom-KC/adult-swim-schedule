@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-16T21:00:00-05:00",
+        "episodeTitle": "Business Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-16T21:30:00-05:00",
+        "episodeTitle": "The Bleakening Part 2",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-16T22:00:00-05:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-16T22:30:00-05:00",
+        "episodeTitle": "Road to the North Pole Part 1 & 2",
+        "rating": "TV-14 S",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-16T23:30:00-05:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T00:00:00-05:00",
+        "episodeTitle": "Ogled Inklings",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T00:15:00-05:00",
+        "episodeTitle": "ConstaDeath",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T00:30:00-05:00",
+        "episodeTitle": "The Unicorn in Captivity",
+        "rating": "TV-MA LS",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T01:00:00-05:00",
+        "episodeTitle": "The Bullied",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T01:15:00-05:00",
+        "episodeTitle": "Accordian Jim",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T01:30:00-05:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T02:00:00-05:00",
+        "episodeTitle": "Road to the North Pole Part 1 & 2",
+        "rating": "TV-14 S",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T03:00:00-05:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T03:30:00-05:00",
+        "episodeTitle": "Ogled Inklings",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T03:45:00-05:00",
+        "episodeTitle": "ConstaDeath",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T04:00:00-05:00",
+        "episodeTitle": "The Unicorn in Captivity",
+        "rating": "TV-MA LS",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T04:30:00-05:00",
+        "episodeTitle": "The Bullied",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T04:45:00-05:00",
+        "episodeTitle": "Accordian Jim",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T05:00:00-05:00",
+        "episodeTitle": "The Bleakening Part 2",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-16T00:00:00-05:00",
+        "datetime": "2018-12-17T05:30:00-05:00",
+        "episodeTitle": "Everyones Entitled to My Opinion",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

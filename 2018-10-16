@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-16T21:00:00-04:00",
+        "episodeTitle": "Meter Made",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-16T21:30:00-04:00",
+        "episodeTitle": "Dope and Faith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-16T22:00:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-16T22:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-16T23:00:00-04:00",
+        "episodeTitle": "Running Mates",
+        "rating": "TV-14 LS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-16T23:30:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T00:00:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T00:30:00-04:00",
+        "episodeTitle": "Adultizzle Swizzle",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T00:45:00-04:00",
+        "episodeTitle": "That Hurts Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T01:00:00-04:00",
+        "episodeTitle": "Escape from Leprechaupolis",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T01:15:00-04:00",
+        "episodeTitle": "Take This Job and Love It",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T01:30:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T02:00:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T02:30:00-04:00",
+        "episodeTitle": "Running Mates",
+        "rating": "TV-14 LS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T03:00:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T03:30:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Reads You The Church Announcements",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T04:15:00-04:00",
+        "episodeTitle": "Friendship",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T04:30:00-04:00",
+        "episodeTitle": "Escape from Leprechaupolis",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T04:45:00-04:00",
+        "episodeTitle": "Take This Job and Love It",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T05:00:00-04:00",
+        "episodeTitle": "Meter Made",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-16T00:00:00-04:00",
+        "datetime": "2018-10-17T05:30:00-04:00",
+        "episodeTitle": "Dope and Faith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

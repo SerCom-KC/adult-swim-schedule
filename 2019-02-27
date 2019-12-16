@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-27T21:00:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-27T21:30:00-05:00",
+        "episodeTitle": "There's No Business Like Mr. Business Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-27T22:00:00-05:00",
+        "episodeTitle": "A Few 'gurt Men",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-27T22:30:00-05:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-27T23:00:00-05:00",
+        "episodeTitle": "Chris Cross",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-27T23:30:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T00:00:00-05:00",
+        "episodeTitle": "Strummy Strummy Sad Sad",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T00:15:00-05:00",
+        "episodeTitle": "Easter Basket",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T00:30:00-05:00",
+        "episodeTitle": "Thou Shale Not Drill",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T01:00:00-05:00",
+        "episodeTitle": "The Story of Gangstalicious",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T01:30:00-05:00",
+        "episodeTitle": "The Talented Mr. Dingleberry",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T02:00:00-05:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T02:30:00-05:00",
+        "episodeTitle": "Chris Cross",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T03:00:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T03:30:00-05:00",
+        "episodeTitle": "Strummy Strummy Sad Sad",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T03:45:00-05:00",
+        "episodeTitle": "Easter Basket",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T04:00:00-05:00",
+        "episodeTitle": "\"Sweet Bill's Badass Singalong Song\" or \"Bill Cosby Ain't Himself\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T04:30:00-05:00",
+        "episodeTitle": "The Story of Gangstalicious",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T05:00:00-05:00",
+        "episodeTitle": "There's No Business Like Mr. Business Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-27T00:00:00-05:00",
+        "datetime": "2019-02-28T05:30:00-05:00",
+        "episodeTitle": "A Few 'gurt Men",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-19T21:00:00-04:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-19T21:30:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-19T22:00:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-19T22:30:00-04:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-19T23:30:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T00:00:00-04:00",
+        "episodeTitle": "The Deep End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T00:15:00-04:00",
+        "episodeTitle": "S&M Present",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T00:30:00-04:00",
+        "episodeTitle": "Thanks-Taking",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T00:45:00-04:00",
+        "episodeTitle": "The Guzzle Bumpkin",
+        "rating": "TV-MA LV",
+        "seasonNumber": 11,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T01:00:00-04:00",
+        "episodeTitle": "The Fried Chicken Flu",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T01:30:00-04:00",
+        "episodeTitle": "Big Trouble in Little Langley",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T02:00:00-04:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T03:00:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T03:30:00-04:00",
+        "episodeTitle": "The Deep End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T03:45:00-04:00",
+        "episodeTitle": "S&M Present",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T04:00:00-04:00",
+        "episodeTitle": "Episode 3",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T04:15:00-04:00",
+        "episodeTitle": "Episode 4",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T04:30:00-04:00",
+        "episodeTitle": "The Fried Chicken Flu",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T05:00:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-19T00:00:00-04:00",
+        "datetime": "2019-03-20T05:30:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

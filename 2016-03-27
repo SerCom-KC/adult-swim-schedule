@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-27T21:00:00-04:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-27T21:30:00-04:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-27T22:00:00-04:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-27T22:30:00-04:00",
+        "episodeTitle": "Peter Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-27T23:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-27T23:30:00-04:00",
+        "episodeTitle": "Triple Hot Dog Sandwich on Wheat",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-27T23:45:00-04:00",
+        "episodeTitle": "For the Troops",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T00:00:00-04:00",
+        "episodeTitle": "Father's Day Pie",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T00:15:00-04:00",
+        "episodeTitle": "Chicken and Beans",
+        "rating": "TV-14 DL",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T00:30:00-04:00",
+        "episodeTitle": "All This and Gargantua-2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T01:30:00-04:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T02:00:00-04:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T02:30:00-04:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T03:00:00-04:00",
+        "episodeTitle": "Peter Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T03:30:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T04:00:00-04:00",
+        "episodeTitle": "Triple Hot Dog Sandwich on Wheat",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T04:15:00-04:00",
+        "episodeTitle": "For the Troops",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T04:30:00-04:00",
+        "episodeTitle": "Father's Day Pie",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T04:45:00-04:00",
+        "episodeTitle": "Chicken and Beans",
+        "rating": "TV-14 DL",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T05:00:00-04:00",
+        "episodeTitle": "Lady and Gentrification",
+        "rating": "TV-PG ",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-03-27T00:00:00-04:00",
+        "datetime": "2016-03-28T05:30:00-04:00",
+        "episodeTitle": "Behind Closed Doors",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

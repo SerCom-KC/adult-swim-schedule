@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-22T21:00:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-22T21:30:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-22T22:00:00-04:00",
+        "episodeTitle": "XCIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-22T22:30:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-22T23:00:00-04:00",
+        "episodeTitle": "Cop and a Half-Wit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-22T23:30:00-04:00",
+        "episodeTitle": "Road to Rupert",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T00:00:00-04:00",
+        "episodeTitle": "Federated Resources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T00:15:00-04:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T00:30:00-04:00",
+        "episodeTitle": "The Red Ball",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T01:00:00-04:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T01:15:00-04:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T01:30:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T02:00:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T02:30:00-04:00",
+        "episodeTitle": "XCIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T03:00:00-04:00",
+        "episodeTitle": "Cop and a Half-Wit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T03:30:00-04:00",
+        "episodeTitle": "Road to Rupert",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 3/22/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T04:15:00-04:00",
+        "episodeTitle": "Vowel Play",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344844,
+        "showTitle": "Assy McGee"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T04:30:00-04:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T04:45:00-04:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T05:00:00-04:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-03-22T00:00:00-04:00",
+        "datetime": "2017-03-23T05:30:00-04:00",
+        "episodeTitle": "Movin' On Up",
+        "rating": "TV-PG LS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

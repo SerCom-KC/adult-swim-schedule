@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-01T21:00:00-04:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-01T21:30:00-04:00",
+        "episodeTitle": "Son of Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-01T22:00:00-04:00",
+        "episodeTitle": "Mission Impos-slug-ble",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-01T22:30:00-04:00",
+        "episodeTitle": "Something Old, Something New, Something Bob Caters for You",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-01T23:00:00-04:00",
+        "episodeTitle": "Peter's Progress",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-01T23:30:00-04:00",
+        "episodeTitle": "Road to Multiverse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T00:00:00-04:00",
+        "episodeTitle": "The Compton Crusader",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T00:30:00-04:00",
+        "episodeTitle": "Maxi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T00:45:00-04:00",
+        "episodeTitle": "Sinbad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T01:00:00-04:00",
+        "episodeTitle": "The Death of Lyle Victor Linkus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T01:15:00-04:00",
+        "episodeTitle": "San Juan Puerto Rico Blows but San Juan Capistrano\u2026",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T01:30:00-04:00",
+        "episodeTitle": "Mother Daughter Laser Razor",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T02:00:00-04:00",
+        "episodeTitle": "Peter's Progress",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T02:30:00-04:00",
+        "episodeTitle": "Road to Multiverse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T03:00:00-04:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T03:30:00-04:00",
+        "episodeTitle": "The Compton Crusader",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T04:00:00-04:00",
+        "episodeTitle": "Development Meeting - 11/01/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449335,
+        "showTitle": "Development Meeting"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T04:15:00-04:00",
+        "episodeTitle": "As Seen On Adult Swim - 11/01/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T04:30:00-04:00",
+        "episodeTitle": "Maxi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T04:45:00-04:00",
+        "episodeTitle": "Sinbad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T05:00:00-04:00",
+        "episodeTitle": "Son of Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-01T00:00:00-04:00",
+        "datetime": "2019-11-02T05:30:00-04:00",
+        "episodeTitle": "XXXVII",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 3,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

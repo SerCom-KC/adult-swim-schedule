@@ -1,0 +1,245 @@
+[
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-13T21:00:00-05:00",
+        "episodeTitle": "The Wedding of Bobby Hill",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-13T21:30:00-05:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-13T22:00:00-05:00",
+        "episodeTitle": "Turban Cowboy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-13T22:30:00-05:00",
+        "episodeTitle": "12 and a Half Angry Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-13T23:00:00-05:00",
+        "episodeTitle": "Janky Cable",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-13T23:30:00-05:00",
+        "episodeTitle": "Hole",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-13T23:45:00-05:00",
+        "episodeTitle": "Toes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T00:00:00-05:00",
+        "episodeTitle": "New-Cronomicon",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T00:15:00-05:00",
+        "episodeTitle": "Preverse Psychologism",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T00:30:00-05:00",
+        "episodeTitle": "Circus",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T00:45:00-05:00",
+        "episodeTitle": "Terminus Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T01:00:00-05:00",
+        "episodeTitle": "Planet Radio",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T01:15:00-05:00",
+        "episodeTitle": "Dethtroll",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T01:30:00-05:00",
+        "episodeTitle": "Turban Cowboy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T02:00:00-05:00",
+        "episodeTitle": "Janky Cable",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T02:30:00-05:00",
+        "episodeTitle": "Hole",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T02:45:00-05:00",
+        "episodeTitle": "Toes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T03:00:00-05:00",
+        "episodeTitle": "New-Cronomicon",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T03:15:00-05:00",
+        "episodeTitle": "Preverse Psychologism",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T03:30:00-05:00",
+        "episodeTitle": "Circus",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T03:45:00-05:00",
+        "episodeTitle": "Terminus Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T04:00:00-05:00",
+        "episodeTitle": "Shakashuri Blowdown",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T04:15:00-05:00",
+        "episodeTitle": "Flowers for Nearl",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T04:30:00-05:00",
+        "episodeTitle": "Planet Radio",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T04:45:00-05:00",
+        "episodeTitle": "Dethtroll",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T05:00:00-05:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-13T00:00:00-05:00",
+        "datetime": "2015-11-14T05:30:00-05:00",
+        "episodeTitle": "The Wedding of Bobby Hill",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

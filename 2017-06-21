@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-21T21:00:00-04:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-21T21:30:00-04:00",
+        "episodeTitle": "Julia Rogerts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-21T22:00:00-04:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-21T22:30:00-04:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-21T23:00:00-04:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-21T23:30:00-04:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T00:00:00-04:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T00:15:00-04:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T00:30:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T00:45:00-04:00",
+        "episodeTitle": "A Day at the Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T01:00:00-04:00",
+        "episodeTitle": "Office Politics Trouble",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T01:15:00-04:00",
+        "episodeTitle": "Vegans",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T01:30:00-04:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T02:00:00-04:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T02:30:00-04:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T03:00:00-04:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T03:30:00-04:00",
+        "episodeTitle": "Francine's Flashback",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T04:00:00-04:00",
+        "episodeTitle": "A New Hero",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T04:15:00-04:00",
+        "episodeTitle": "Heaven",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T04:30:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T04:45:00-04:00",
+        "episodeTitle": "A Day at the Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T05:00:00-04:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-21T00:00:00-04:00",
+        "datetime": "2017-06-22T05:30:00-04:00",
+        "episodeTitle": "The Accidental Terrorist",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

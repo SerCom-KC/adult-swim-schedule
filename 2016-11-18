@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-18T21:00:00-05:00",
+        "episodeTitle": "The Exterminator",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-18T21:30:00-05:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-18T22:00:00-05:00",
+        "episodeTitle": "Fartbreak Hotel",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-18T22:30:00-05:00",
+        "episodeTitle": "The Frond Files",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-18T23:00:00-05:00",
+        "episodeTitle": "New Kidney in Town",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-18T23:30:00-05:00",
+        "episodeTitle": "And I'm Joyce Kinney",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T00:00:00-05:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T00:15:00-05:00",
+        "episodeTitle": "Tijuana Zebra",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T00:30:00-05:00",
+        "episodeTitle": "Hybrid to Hell",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T00:45:00-05:00",
+        "episodeTitle": "Jose, Can You? S\u00ed!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T01:00:00-05:00",
+        "episodeTitle": "Hypno-Germ",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T01:15:00-05:00",
+        "episodeTitle": "For Alba",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T01:30:00-05:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T02:00:00-05:00",
+        "episodeTitle": "And I'm Joyce Kinney",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T02:30:00-05:00",
+        "episodeTitle": "The Frond Files",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T03:00:00-05:00",
+        "episodeTitle": "Fartbreak Hotel",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T03:30:00-05:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T03:45:00-05:00",
+        "episodeTitle": "Tijuana Zebra",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T04:00:00-05:00",
+        "episodeTitle": "Body",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T04:15:00-05:00",
+        "episodeTitle": "Pet Siouxicide",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T04:30:00-05:00",
+        "episodeTitle": "Hypno-Germ",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T04:45:00-05:00",
+        "episodeTitle": "For Alba",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T05:00:00-05:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-18T00:00:00-05:00",
+        "datetime": "2016-11-19T05:30:00-05:00",
+        "episodeTitle": "The Exterminator",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

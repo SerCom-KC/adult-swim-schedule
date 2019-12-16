@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-07T21:00:00-05:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-07T21:30:00-05:00",
+        "episodeTitle": "The Kids Run Away",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-07T22:00:00-05:00",
+        "episodeTitle": "Internal Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-07T22:30:00-05:00",
+        "episodeTitle": "Into Fat Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-07T23:00:00-05:00",
+        "episodeTitle": "Let's Go, Gutsy Red Riot",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-07T23:30:00-05:00",
+        "episodeTitle": "The Troubles of the Strongest",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T00:00:00-05:00",
+        "episodeTitle": "The Culmination of Two Million Years",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 459432,
+        "showTitle": "Dr. Stone"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T00:30:00-05:00",
+        "episodeTitle": "The Secrets of Pyrokinesis",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 458812,
+        "showTitle": "Fire Force"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T01:00:00-05:00",
+        "episodeTitle": "That Which is Known yet Unknown",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T01:30:00-05:00",
+        "episodeTitle": "The Smell of Enchanting Blood",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 460432,
+        "showTitle": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T02:00:00-05:00",
+        "episodeTitle": "Overwhelming Disadvantage",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T02:30:00-05:00",
+        "episodeTitle": "Moody Jazz's Counterattack",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 460433,
+        "showTitle": "JoJo's Bizarre Adventure: Golden Wind"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T03:00:00-05:00",
+        "episodeTitle": "Unison Sign",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T03:30:00-05:00",
+        "episodeTitle": "Viva Lupin III",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 457432,
+        "showTitle": "Lupin the 3rd Part 5"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T04:00:00-05:00",
+        "episodeTitle": "The Night of the Closing Ceremony: Humanity's Comeback Part 2",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T04:30:00-05:00",
+        "episodeTitle": "Gay Wedding",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T04:45:00-05:00",
+        "episodeTitle": "To Catch a Princess",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T05:00:00-05:00",
+        "episodeTitle": "Dickesode",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T05:15:00-05:00",
+        "episodeTitle": "Hand Banana",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-07T00:00:00-05:00",
+        "datetime": "2019-12-08T05:30:00-05:00",
+        "episodeTitle": "Definite Possible Murder",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

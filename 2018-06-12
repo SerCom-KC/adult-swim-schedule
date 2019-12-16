@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-12T21:00:00-04:00",
+        "episodeTitle": "A Nightmare on Grace Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-12T21:30:00-04:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-12T22:00:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-12T22:30:00-04:00",
+        "episodeTitle": "Bob Day Afternoon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-12T23:00:00-04:00",
+        "episodeTitle": "Don't Make Me Over",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-12T23:30:00-04:00",
+        "episodeTitle": "The Cleveland-Loretta Quagmire",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T00:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T00:30:00-04:00",
+        "episodeTitle": "More Blood, More Chocolate",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T00:45:00-04:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T01:00:00-04:00",
+        "episodeTitle": "Through the Eyes of a Falcon",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T01:15:00-04:00",
+        "episodeTitle": "A Hard Drive to Swallow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T01:30:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T02:00:00-04:00",
+        "episodeTitle": "Bob Day Afternoon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T02:30:00-04:00",
+        "episodeTitle": "Don't Make Me Over",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T03:00:00-04:00",
+        "episodeTitle": "The Cleveland-Loretta Quagmire",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T03:30:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T04:00:00-04:00",
+        "episodeTitle": "Cool Dad - Official Trailer",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T04:15:00-04:00",
+        "episodeTitle": "Alpha Chow & Goth Fitness",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T04:30:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T05:00:00-04:00",
+        "episodeTitle": "A Nightmare on Grace Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-12T00:00:00-04:00",
+        "datetime": "2018-06-13T05:30:00-04:00",
+        "episodeTitle": "A Bill Full Of Dollars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

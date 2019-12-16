@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-08T21:00:00-04:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-08T21:30:00-04:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-08T22:00:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-08T22:30:00-04:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-08T23:00:00-04:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-08T23:30:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T00:00:00-04:00",
+        "episodeTitle": "2-And-A-Half-Star Wars Out of Five",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T00:15:00-04:00",
+        "episodeTitle": "Fry Legs",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T00:30:00-04:00",
+        "episodeTitle": "House Haunters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T00:45:00-04:00",
+        "episodeTitle": "Rodiggity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T01:00:00-04:00",
+        "episodeTitle": "The Peep",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T01:15:00-04:00",
+        "episodeTitle": "Where is Mr. Pickles?",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T01:30:00-04:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T02:00:00-04:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T02:30:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T03:00:00-04:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T03:30:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T04:00:00-04:00",
+        "episodeTitle": "The Butterfly Effect",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T04:15:00-04:00",
+        "episodeTitle": "Jett Copperhead, Six-Pack Magician",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T04:30:00-04:00",
+        "episodeTitle": "House Haunters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T04:45:00-04:00",
+        "episodeTitle": "Rodiggity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T05:00:00-04:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-08T00:00:00-04:00",
+        "datetime": "2017-06-09T05:30:00-04:00",
+        "episodeTitle": "Grand Theft Arlen",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

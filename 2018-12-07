@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-07T21:00:00-05:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-07T21:30:00-05:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-07T22:00:00-05:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-07T22:30:00-05:00",
+        "episodeTitle": "Hell Comes to Quahog",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-07T23:00:00-05:00",
+        "episodeTitle": "Saving Private Brian",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-07T23:30:00-05:00",
+        "episodeTitle": "Whistle While Your Wife Works",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T00:00:00-05:00",
+        "episodeTitle": "What Happens in Randy, Stays in Randy",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T00:15:00-05:00",
+        "episodeTitle": "The Krux",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T00:40:00-05:00",
+        "episodeTitle": "Season 2 Dream Trailer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T00:45:00-05:00",
+        "episodeTitle": "The Duke",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T01:00:00-05:00",
+        "episodeTitle": "The The",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T01:15:00-05:00",
+        "episodeTitle": "Pile M For Murder",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T01:30:00-05:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T02:00:00-05:00",
+        "episodeTitle": "Hell Comes to Quahog",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T02:30:00-05:00",
+        "episodeTitle": "Saving Private Brian",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T03:00:00-05:00",
+        "episodeTitle": "What Happens in Randy, Stays in Randy",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T03:15:00-05:00",
+        "episodeTitle": "The Krux",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T03:40:00-05:00",
+        "episodeTitle": "Season 2 Dream Trailer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T03:45:00-05:00",
+        "episodeTitle": "The Duke",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T04:00:00-05:00",
+        "episodeTitle": "FishCenter - 12/07/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T04:15:00-05:00",
+        "episodeTitle": "Bloodfeast - 12/07/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449332,
+        "showTitle": "Bloodfeast"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T04:30:00-05:00",
+        "episodeTitle": "The The",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T04:45:00-05:00",
+        "episodeTitle": "Pile M For Murder",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T05:00:00-05:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-07T00:00:00-05:00",
+        "datetime": "2018-12-08T05:30:00-05:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

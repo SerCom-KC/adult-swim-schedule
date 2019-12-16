@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-25T21:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-25T21:30:00-04:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-25T22:00:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-25T22:30:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-25T23:00:00-04:00",
+        "episodeTitle": "Lois Comes Out of Her Shell",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-25T23:30:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T00:00:00-04:00",
+        "episodeTitle": "Walk Away, Friend. Walk Away",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T00:30:00-04:00",
+        "episodeTitle": "Save Me!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T00:45:00-04:00",
+        "episodeTitle": "Kangarilla and the Magic Tarantula",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T01:00:00-04:00",
+        "episodeTitle": "Ink is Thicker Than Blood, Which is Thicker Than Water",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T01:15:00-04:00",
+        "episodeTitle": "Schmickler83!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T01:30:00-04:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T02:00:00-04:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T02:30:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T03:00:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T03:30:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T04:00:00-04:00",
+        "episodeTitle": "Williams Street Swap Shop - 5/25/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T04:15:00-04:00",
+        "episodeTitle": "The 70's Episode",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T04:30:00-04:00",
+        "episodeTitle": "Ink is Thicker Than Blood, Which is Thicker Than Water",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T04:45:00-04:00",
+        "episodeTitle": "Schmickler83!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T05:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-25T00:00:00-04:00",
+        "datetime": "2017-05-26T05:30:00-04:00",
+        "episodeTitle": "A Portrait of the Artist as a Young Clown",
+        "rating": "TV-PG ",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

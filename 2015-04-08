@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-08T21:00:00-04:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-08T21:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-08T22:00:00-04:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-08T22:30:00-04:00",
+        "episodeTitle": "Star Trek",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-08T23:00:00-04:00",
+        "episodeTitle": "Family Gay",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-08T23:30:00-04:00",
+        "episodeTitle": "The Juice Is Loose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T00:00:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T00:15:00-04:00",
+        "episodeTitle": "Massage Chair",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T00:30:00-04:00",
+        "episodeTitle": "The Marines",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T00:45:00-04:00",
+        "episodeTitle": "Reunited, And It Feels No Good",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T01:00:00-04:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T01:15:00-04:00",
+        "episodeTitle": "Birthdayface",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T01:30:00-04:00",
+        "episodeTitle": "Family Gay",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T02:00:00-04:00",
+        "episodeTitle": "The Juice Is Loose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T02:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T03:00:00-04:00",
+        "episodeTitle": "Star Trek",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T03:30:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T03:45:00-04:00",
+        "episodeTitle": "Massage Chair",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T04:00:00-04:00",
+        "episodeTitle": "Alpha Chow & Goth Fitness",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T04:15:00-04:00",
+        "episodeTitle": "Exes and Oh-No's!",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T04:30:00-04:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T04:45:00-04:00",
+        "episodeTitle": "Birthdayface",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T05:00:00-04:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-08T00:00:00-04:00",
+        "datetime": "2015-04-09T05:30:00-04:00",
+        "episodeTitle": "Torch Song Hillogy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

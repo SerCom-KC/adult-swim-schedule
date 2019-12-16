@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-08T21:00:00-04:00",
+        "episodeTitle": "A River Runs Through Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-08T21:30:00-04:00",
+        "episodeTitle": "American Prankster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-08T22:00:00-04:00",
+        "episodeTitle": "A Boy Named Michael",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-08T22:30:00-04:00",
+        "episodeTitle": "Seizures Suit Stanny",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-08T23:00:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-08T23:30:00-04:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T00:00:00-04:00",
+        "episodeTitle": "The Curious Case of the Box",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T00:15:00-04:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T00:30:00-04:00",
+        "episodeTitle": "Bad Replicant",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T00:45:00-04:00",
+        "episodeTitle": "Butt Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T01:00:00-04:00",
+        "episodeTitle": "Superbar",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T01:15:00-04:00",
+        "episodeTitle": "Fanklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T01:30:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T02:00:00-04:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T02:30:00-04:00",
+        "episodeTitle": "A River Runs Through Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T03:00:00-04:00",
+        "episodeTitle": "Seizures Suit Stanny",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T03:30:00-04:00",
+        "episodeTitle": "The Curious Case of the Box",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T03:45:00-04:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T04:00:00-04:00",
+        "episodeTitle": "Unedited Footage of a Bear",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T04:15:00-04:00",
+        "episodeTitle": "Hired",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T04:30:00-04:00",
+        "episodeTitle": "Superbar",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T04:45:00-04:00",
+        "episodeTitle": "Fanklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T05:00:00-04:00",
+        "episodeTitle": "American Prankster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-08T00:00:00-04:00",
+        "datetime": "2015-06-09T05:30:00-04:00",
+        "episodeTitle": "The Courtship of Joseph's Father",
+        "rating": "TV-PG ",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

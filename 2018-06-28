@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-28T21:00:00-04:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-28T21:30:00-04:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-28T22:00:00-04:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-28T22:30:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-28T23:00:00-04:00",
+        "episodeTitle": "Hell Comes to Quahog",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-28T23:30:00-04:00",
+        "episodeTitle": "Whistle While Your Wife Works",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T00:00:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T00:30:00-04:00",
+        "episodeTitle": "Maurice Was Caught",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T00:45:00-04:00",
+        "episodeTitle": "Unionizing Our Labor",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T01:00:00-04:00",
+        "episodeTitle": "Joe Pera Lights Up the Night With You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T01:15:00-04:00",
+        "episodeTitle": "Joe Pera Talks To You About The Rat Wars of Alberta, Canada, 1950 - Present Day",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T01:30:00-04:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T02:00:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T02:30:00-04:00",
+        "episodeTitle": "Hell Comes to Quahog",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T03:00:00-04:00",
+        "episodeTitle": "Whistle While Your Wife Works",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T03:30:00-04:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T04:00:00-04:00",
+        "episodeTitle": "Final Deployment 4: Queen Battle Walkthrough",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T04:30:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T05:00:00-04:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-28T00:00:00-04:00",
+        "datetime": "2018-06-29T05:30:00-04:00",
+        "episodeTitle": "Peggy's Headache",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

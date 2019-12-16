@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-07T21:00:00-04:00",
+        "episodeTitle": "Death and Texas",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-07T21:30:00-04:00",
+        "episodeTitle": "Ladies' Night",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-07T22:00:00-04:00",
+        "episodeTitle": "A Brown Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-07T22:30:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-07T23:00:00-04:00",
+        "episodeTitle": "Lethal Weapons",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-07T23:30:00-04:00",
+        "episodeTitle": "Kiss Seen 'Round the World",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T00:00:00-04:00",
+        "episodeTitle": "I Am Your Brother! The Monster with Goku's Energy!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T00:30:00-04:00",
+        "episodeTitle": "The Lost Genesis",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 426092,
+        "showTitle": "Dimension W"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T01:00:00-04:00",
+        "episodeTitle": "Hope x and x Ambition",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T01:30:00-04:00",
+        "episodeTitle": "Unholy Union",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T02:00:00-04:00",
+        "episodeTitle": "Shattered Promise",
+        "rating": "TV-PG L",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T02:30:00-04:00",
+        "episodeTitle": "A Bunch of Animals? Perona's Wonder Garden",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T03:00:00-04:00",
+        "episodeTitle": "Tangled Hair",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T03:30:00-04:00",
+        "episodeTitle": "Ladies' Night",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T04:00:00-04:00",
+        "episodeTitle": "A Brown Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T04:30:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T05:00:00-04:00",
+        "episodeTitle": "Revenge of the Lutefisk",
+        "rating": "TV-PG D",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-05-07T00:00:00-04:00",
+        "datetime": "2016-05-08T05:30:00-04:00",
+        "episodeTitle": "Death and Texas",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

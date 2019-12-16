@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-26T21:00:00-04:00",
+        "episodeTitle": "Best Burger",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-26T21:30:00-04:00",
+        "episodeTitle": "Ain't Nothin' But Mutton Bustin'",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-26T22:00:00-04:00",
+        "episodeTitle": "Stan's Night Out",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-26T22:30:00-04:00",
+        "episodeTitle": "In Country...Club",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-26T23:00:00-04:00",
+        "episodeTitle": "Peter's Got Woods",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-26T23:30:00-04:00",
+        "episodeTitle": "The Perfect Castaway",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T00:00:00-04:00",
+        "episodeTitle": "Fight Club Paradise",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T00:15:00-04:00",
+        "episodeTitle": "For the Troops",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T00:30:00-04:00",
+        "episodeTitle": "Dusty Gozongas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T00:45:00-04:00",
+        "episodeTitle": "The Pharaoh's Wad",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T01:00:00-04:00",
+        "episodeTitle": "Coma",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T01:15:00-04:00",
+        "episodeTitle": "Church",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T01:30:00-04:00",
+        "episodeTitle": "Stan's Night Out",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T02:00:00-04:00",
+        "episodeTitle": "In Country...Club",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T02:30:00-04:00",
+        "episodeTitle": "Peter's Got Woods",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T03:00:00-04:00",
+        "episodeTitle": "The Perfect Castaway",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T03:30:00-04:00",
+        "episodeTitle": "Fight Club Paradise",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T03:45:00-04:00",
+        "episodeTitle": "For the Troops",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T04:00:00-04:00",
+        "episodeTitle": "Shapes",
+        "rating": "TV-14 V",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T04:15:00-04:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T04:30:00-04:00",
+        "episodeTitle": "Dawn of the Peck",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T05:00:00-04:00",
+        "episodeTitle": "Ain't Nothin' But Mutton Bustin'",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-26T00:00:00-04:00",
+        "datetime": "2016-05-27T05:30:00-04:00",
+        "episodeTitle": "Nancy Boys",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

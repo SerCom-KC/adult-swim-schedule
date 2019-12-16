@@ -1,0 +1,101 @@
+[
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-20T21:00:00-05:00",
+        "episodeTitle": "The Substitute Spanish Prisoner",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-20T21:30:00-05:00",
+        "episodeTitle": "Stan of Arabia Part 2",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-20T22:00:00-05:00",
+        "episodeTitle": "Wingmen",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-20T22:30:00-05:00",
+        "episodeTitle": "\"Roots: The White Album\" or \"The Blacker the Community the Deeper the Roots!\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-20T23:00:00-05:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-20T23:30:00-05:00",
+        "episodeTitle": "Small Blade: The Struggle for Trost Part 3",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-21T00:00:00-05:00",
+        "episodeTitle": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+        "rating": "TV-PG V",
+        "seasonNumber": 0,
+        "showID": 1674,
+        "showTitle": "CTN Default"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-21T01:30:00-05:00",
+        "episodeTitle": "Akira",
+        "rating": "TV-MA V",
+        "seasonNumber": 0,
+        "showID": 1674,
+        "showTitle": "CTN Default"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-21T04:30:00-05:00",
+        "episodeTitle": "Selecon",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-21T05:00:00-05:00",
+        "episodeTitle": "The War of Paradigm City",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 317420,
+        "showTitle": "Big O "
+    },
+    {
+        "date": "2014-12-20T00:00:00-05:00",
+        "datetime": "2014-12-21T05:30:00-05:00",
+        "episodeTitle": "XLV",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 4,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

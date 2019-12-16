@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-10T21:00:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-10T21:30:00-04:00",
+        "episodeTitle": "Our Gang",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-10T22:00:00-04:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-10T22:30:00-04:00",
+        "episodeTitle": "Less Money, Mo' Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-10T23:00:00-04:00",
+        "episodeTitle": "From Method to Madness",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-10T23:30:00-04:00",
+        "episodeTitle": "Stuck Together, Torn Apart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T00:00:00-04:00",
+        "episodeTitle": "We Are Not Our DNA!",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T00:15:00-04:00",
+        "episodeTitle": "Dolphinnegan's Wake",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T00:30:00-04:00",
+        "episodeTitle": "Maxi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T00:45:00-04:00",
+        "episodeTitle": "Fear",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T01:00:00-04:00",
+        "episodeTitle": "Episode 5",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T01:15:00-04:00",
+        "episodeTitle": "Death Punch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T01:30:00-04:00",
+        "episodeTitle": "From Method to Madness",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T02:00:00-04:00",
+        "episodeTitle": "Stuck Together, Torn Apart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T02:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T03:00:00-04:00",
+        "episodeTitle": "Less Money, Mo' Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T03:30:00-04:00",
+        "episodeTitle": "We Are Not Our DNA!",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T03:45:00-04:00",
+        "episodeTitle": "Dolphinnegan's Wake",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T04:00:00-04:00",
+        "episodeTitle": "Worship",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T04:15:00-04:00",
+        "episodeTitle": "Hired",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T04:30:00-04:00",
+        "episodeTitle": "Episode 5",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T04:45:00-04:00",
+        "episodeTitle": "Death Punch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T05:00:00-04:00",
+        "episodeTitle": "Our Gang",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-10T00:00:00-04:00",
+        "datetime": "2015-07-11T05:30:00-04:00",
+        "episodeTitle": "Rodeo Days",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

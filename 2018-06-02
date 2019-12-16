@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-02T21:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-02T21:30:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-02T22:00:00-04:00",
+        "episodeTitle": "Emission Impossible",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-02T22:30:00-04:00",
+        "episodeTitle": "Final Judgment?! The Ultimate Power of an Absolute God",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-02T23:00:00-04:00",
+        "episodeTitle": "You Really Are the Greatest, Goku!! The Demise of Majin Buu",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-02T23:30:00-04:00",
+        "episodeTitle": "Start Line",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T00:00:00-04:00",
+        "episodeTitle": "RE: Start",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 447434,
+        "showTitle": "FLCL: Progressive"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T00:30:00-04:00",
+        "episodeTitle": "The Guardian of Hell, Pet Shop Part 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T01:00:00-04:00",
+        "episodeTitle": "Carnage x and x Devastation",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T01:30:00-04:00",
+        "episodeTitle": "Blackout",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T02:00:00-04:00",
+        "episodeTitle": "Power of the Five Kage",
+        "rating": "TV-PG V",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T02:30:00-04:00",
+        "episodeTitle": "The Transfer Student is Dandy, Baby",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T03:00:00-04:00",
+        "episodeTitle": "Waltz For Venus",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T03:30:00-04:00",
+        "episodeTitle": "The Wedding of Lupin the Third",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T04:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T04:30:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T05:00:00-04:00",
+        "episodeTitle": "Lady and Gentrification",
+        "rating": "TV-PG ",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-06-02T00:00:00-04:00",
+        "datetime": "2018-06-03T05:30:00-04:00",
+        "episodeTitle": "Behind Closed Doors",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

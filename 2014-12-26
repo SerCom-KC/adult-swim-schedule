@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-26T21:00:00-05:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-26T21:30:00-05:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-26T22:00:00-05:00",
+        "episodeTitle": "It's Good to Be Queen",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-26T22:30:00-05:00",
+        "episodeTitle": "Roger 'n Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-26T23:00:00-05:00",
+        "episodeTitle": "Leggo My Meg-O",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-26T23:30:00-05:00",
+        "episodeTitle": "Tea Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T00:00:00-05:00",
+        "episodeTitle": "F- Dancing, Are You Decent?",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T00:15:00-05:00",
+        "episodeTitle": "Seth Rogen; Asa Akira",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T00:30:00-05:00",
+        "episodeTitle": "Klansgender Rights",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T00:45:00-05:00",
+        "episodeTitle": "Hole",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T01:00:00-05:00",
+        "episodeTitle": "Pinstripes & Poltergeists",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T01:30:00-05:00",
+        "episodeTitle": "It's Good to Be Queen",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T02:00:00-05:00",
+        "episodeTitle": "Roger 'n Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T02:30:00-05:00",
+        "episodeTitle": "Leggo My Meg-O",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T03:00:00-05:00",
+        "episodeTitle": "Tea Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T03:30:00-05:00",
+        "episodeTitle": "F- Dancing, Are You Decent?",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T03:45:00-05:00",
+        "episodeTitle": "Seth Rogen; Asa Akira",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T04:00:00-05:00",
+        "episodeTitle": "Sports",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T04:15:00-05:00",
+        "episodeTitle": "Larry",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T04:30:00-05:00",
+        "episodeTitle": "Pinstripes & Poltergeists",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T05:00:00-05:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-26T00:00:00-05:00",
+        "datetime": "2014-12-27T05:30:00-05:00",
+        "episodeTitle": "Returning Japanese (1)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

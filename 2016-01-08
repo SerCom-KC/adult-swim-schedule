@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-08T21:00:00-05:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-08T21:30:00-05:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-08T22:00:00-05:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-08T22:30:00-05:00",
+        "episodeTitle": "I Take Thee, Quagmire",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-08T23:00:00-05:00",
+        "episodeTitle": "Home Life of a Doctor",
+        "rating": "TV-14 D",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-08T23:15:00-05:00",
+        "episodeTitle": "F- Dancing, Are You Decent?",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-08T23:30:00-05:00",
+        "episodeTitle": "Dignity Cap",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T00:00:00-05:00",
+        "episodeTitle": "Jillian Barberie; Victor Ortiz",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T00:15:00-05:00",
+        "episodeTitle": "Choices",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T00:30:00-05:00",
+        "episodeTitle": "Robositter",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T00:45:00-05:00",
+        "episodeTitle": "The Need for Weed",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T01:00:00-05:00",
+        "episodeTitle": "Jean & Paul & Beefy & Alice",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T01:15:00-05:00",
+        "episodeTitle": "Dethvanity",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T01:30:00-05:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T02:00:00-05:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T02:30:00-05:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T03:00:00-05:00",
+        "episodeTitle": "Home Life of a Doctor",
+        "rating": "TV-14 D",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T03:15:00-05:00",
+        "episodeTitle": "F- Dancing, Are You Decent?",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T03:30:00-05:00",
+        "episodeTitle": "Dignity Cap",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T04:00:00-05:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T04:15:00-05:00",
+        "episodeTitle": "Smoothies, Pumpkins & Cookies",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T04:30:00-05:00",
+        "episodeTitle": "Jean & Paul & Beefy & Alice",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T04:45:00-05:00",
+        "episodeTitle": "Dethvanity",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T05:00:00-05:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-08T00:00:00-05:00",
+        "datetime": "2016-01-09T05:30:00-05:00",
+        "episodeTitle": "Dang Ol' Love",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

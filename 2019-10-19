@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-19T21:00:00-04:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-19T21:30:00-04:00",
+        "episodeTitle": "The Man with Two Brians",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-19T22:00:00-04:00",
+        "episodeTitle": "Baby Not on Board",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-19T22:30:00-04:00",
+        "episodeTitle": "River of Snakes",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 459852,
+        "showTitle": "Genndy Tartakovksy's Primal"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-19T23:00:00-04:00",
+        "episodeTitle": "A Transcendent Limit Break! Autonomous Ultra Instinct Mastered!",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-19T23:30:00-04:00",
+        "episodeTitle": "The Human Monster",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T00:00:00-04:00",
+        "episodeTitle": "Let There Be the Light of Science",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 459432,
+        "showTitle": "Dr. Stone"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T00:30:00-04:00",
+        "episodeTitle": "Eve of Hostilities in Asakusa",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 458812,
+        "showTitle": "Fire Force"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T01:00:00-04:00",
+        "episodeTitle": "The Man Called \"Carnage\"",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T01:30:00-04:00",
+        "episodeTitle": "Trainer Sakonji Urokodaki",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 460432,
+        "showTitle": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T02:00:00-04:00",
+        "episodeTitle": "Mereoleona vs. Ryha the Disloyal",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T02:30:00-04:00",
+        "episodeTitle": "Sasuke's Shadow",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T03:00:00-04:00",
+        "episodeTitle": "Road to Sakura",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T03:30:00-04:00",
+        "episodeTitle": "Fujiko's Gift",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 457432,
+        "showTitle": "Lupin the 3rd Part 5"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T04:00:00-04:00",
+        "episodeTitle": "Deku vs. Kacchan, Part 2",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T04:30:00-04:00",
+        "episodeTitle": "Dream Machine",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T04:45:00-04:00",
+        "episodeTitle": "Lunacy",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T05:00:00-04:00",
+        "episodeTitle": "Revenge of the Trees",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T05:15:00-04:00",
+        "episodeTitle": "Spirit Journey Formation Anniversary",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-19T00:00:00-04:00",
+        "datetime": "2019-10-20T05:30:00-04:00",
+        "episodeTitle": "The Wizard's Baker",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

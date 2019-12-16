@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-08T21:00:00-05:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-08T21:30:00-05:00",
+        "episodeTitle": "Turkey Pot Die",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-08T22:00:00-05:00",
+        "episodeTitle": "The Life Aquatic with Steve Smith",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-08T22:30:00-05:00",
+        "episodeTitle": "Episode 1001",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 424832,
+        "showTitle": "Full Frontal with Samantha Bee"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-08T23:00:00-05:00",
+        "episodeTitle": "Peter Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-08T23:30:00-05:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T00:00:00-05:00",
+        "episodeTitle": "Casablankman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T00:15:00-05:00",
+        "episodeTitle": "The Departy Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T00:30:00-05:00",
+        "episodeTitle": "Reedickyoulus",
+        "rating": "TV-MA V",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T00:45:00-05:00",
+        "episodeTitle": "Green and Sober",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T01:00:00-05:00",
+        "episodeTitle": "Superjail Grand Prix",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T01:15:00-05:00",
+        "episodeTitle": "Dethclown",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T01:30:00-05:00",
+        "episodeTitle": "The Life Aquatic with Steve Smith",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T02:00:00-05:00",
+        "episodeTitle": "Can I Be Frank (With You)",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T02:30:00-05:00",
+        "episodeTitle": "Peter Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T03:00:00-05:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T03:30:00-05:00",
+        "episodeTitle": "Casablankman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T03:45:00-05:00",
+        "episodeTitle": "The Departy Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T04:00:00-05:00",
+        "episodeTitle": "Alpha Chow & Goth Fitness",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T04:15:00-05:00",
+        "episodeTitle": "Finding Love",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T04:30:00-05:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T05:00:00-05:00",
+        "episodeTitle": "Turkey Pot Die",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-08T00:00:00-05:00",
+        "datetime": "2016-02-09T05:30:00-05:00",
+        "episodeTitle": "How I Learned To Stop Worrying and Love the Alamo",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

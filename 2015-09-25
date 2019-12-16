@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-25T21:00:00-04:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-25T21:30:00-04:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-25T22:00:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-25T22:30:00-04:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-25T23:00:00-04:00",
+        "episodeTitle": "Jesus Gonna Get His",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-25T23:30:00-04:00",
+        "episodeTitle": "Soul Food",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-25T23:45:00-04:00",
+        "episodeTitle": "Jillian Barberie; Victor Ortiz",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T00:00:00-04:00",
+        "episodeTitle": "National Buffoon's Fireballz",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T00:15:00-04:00",
+        "episodeTitle": "Mu-Mu-Mu-Meat",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T00:30:00-04:00",
+        "episodeTitle": "Shake Like Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T00:45:00-04:00",
+        "episodeTitle": "Granite Caverns",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T01:00:00-04:00",
+        "episodeTitle": "Burnstoolie Burn",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T01:15:00-04:00",
+        "episodeTitle": "Dethclown",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T01:30:00-04:00",
+        "episodeTitle": "The Kids Run Away",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T02:00:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T02:30:00-04:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T03:00:00-04:00",
+        "episodeTitle": "Shake Like Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T03:15:00-04:00",
+        "episodeTitle": "Granite Caverns",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T03:30:00-04:00",
+        "episodeTitle": "Burnstoolie Burn",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T03:45:00-04:00",
+        "episodeTitle": "Dethclown",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T04:00:00-04:00",
+        "episodeTitle": "September 25, 2015",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T04:15:00-04:00",
+        "episodeTitle": "Color",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T04:30:00-04:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T05:00:00-04:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-25T00:00:00-04:00",
+        "datetime": "2015-09-26T05:30:00-04:00",
+        "episodeTitle": "Suite Smells of Excess",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

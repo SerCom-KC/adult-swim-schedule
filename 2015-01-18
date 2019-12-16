@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-18T21:00:00-05:00",
+        "episodeTitle": "The Petriot Act",
+        "rating": "TV-PG ",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-18T21:30:00-05:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-18T22:00:00-05:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-18T22:30:00-05:00",
+        "episodeTitle": "Total Recall",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-18T23:00:00-05:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-18T23:30:00-05:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-18T23:45:00-05:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T00:00:00-05:00",
+        "episodeTitle": "A Walk to Dignity",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T00:15:00-05:00",
+        "episodeTitle": "Freedom Cobra",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 377032,
+        "showTitle": "Aqua Unit Patrol Squad 1"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T00:30:00-05:00",
+        "episodeTitle": "Breakup Klok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T00:45:00-05:00",
+        "episodeTitle": "Superfail",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T01:00:00-05:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T01:30:00-05:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T02:00:00-05:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T02:30:00-05:00",
+        "episodeTitle": "Total Recall",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T03:00:00-05:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T03:30:00-05:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T03:45:00-05:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T04:00:00-05:00",
+        "episodeTitle": "A Walk to Dignity",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T04:15:00-05:00",
+        "episodeTitle": "Freedom Cobra",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 377032,
+        "showTitle": "Aqua Unit Patrol Squad 1"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T04:30:00-05:00",
+        "episodeTitle": "Breakup Klok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T04:45:00-05:00",
+        "episodeTitle": "Superfail",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T05:00:00-05:00",
+        "episodeTitle": "Dale To the Chief",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-01-18T00:00:00-05:00",
+        "datetime": "2015-01-19T05:30:00-05:00",
+        "episodeTitle": "The Petriot Act",
+        "rating": "TV-PG ",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

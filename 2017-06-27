@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-27T21:00:00-04:00",
+        "episodeTitle": "Menace II Secret Society",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-27T21:30:00-04:00",
+        "episodeTitle": "Stan of Arabia Part 1",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-27T22:00:00-04:00",
+        "episodeTitle": "Friends with Burger-Fits",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-27T22:30:00-04:00",
+        "episodeTitle": "Dawn of the Peck",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-27T23:00:00-04:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-27T23:30:00-04:00",
+        "episodeTitle": "Roasted Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T00:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T00:30:00-04:00",
+        "episodeTitle": "Greece is the Word",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T00:45:00-04:00",
+        "episodeTitle": "Werewolf vs. Unicorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T01:00:00-04:00",
+        "episodeTitle": "Swayze Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T01:15:00-04:00",
+        "episodeTitle": "Father's Day Pie",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T01:30:00-04:00",
+        "episodeTitle": "Friends with Burger-Fits",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T02:00:00-04:00",
+        "episodeTitle": "Dawn of the Peck",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T02:30:00-04:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T03:00:00-04:00",
+        "episodeTitle": "Roasted Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T03:30:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T04:00:00-04:00",
+        "episodeTitle": "Global Hoax",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T04:15:00-04:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T04:30:00-04:00",
+        "episodeTitle": "Greece is the Word",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T04:45:00-04:00",
+        "episodeTitle": "Werewolf vs. Unicorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T05:00:00-04:00",
+        "episodeTitle": "Menace II Secret Society",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-27T00:00:00-04:00",
+        "datetime": "2017-06-28T05:30:00-04:00",
+        "episodeTitle": "It Came From the Garage",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

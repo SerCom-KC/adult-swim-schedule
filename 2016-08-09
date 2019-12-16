@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-09T21:00:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-09T21:30:00-04:00",
+        "episodeTitle": "Terry Unmarried",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-09T22:00:00-04:00",
+        "episodeTitle": "Introducing the Naughty Stewardesses",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-09T22:30:00-04:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-09T23:00:00-04:00",
+        "episodeTitle": "Bigfat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-09T23:30:00-04:00",
+        "episodeTitle": "Total Recall",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T00:00:00-04:00",
+        "episodeTitle": "Not Enough Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T00:15:00-04:00",
+        "episodeTitle": "The Angelic Sounds of Mike Giggling",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T00:30:00-04:00",
+        "episodeTitle": "The Fine Ol' Solution",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T00:45:00-04:00",
+        "episodeTitle": "Anabolic-holic",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T01:00:00-04:00",
+        "episodeTitle": "Supermodel",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T01:15:00-04:00",
+        "episodeTitle": "Super Spore",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T01:30:00-04:00",
+        "episodeTitle": "Introducing the Naughty Stewardesses",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T02:00:00-04:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T02:30:00-04:00",
+        "episodeTitle": "Bigfat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T03:00:00-04:00",
+        "episodeTitle": "Total Recall",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T03:30:00-04:00",
+        "episodeTitle": "Not Enough Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T03:45:00-04:00",
+        "episodeTitle": "The Angelic Sounds of Mike Giggling",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T04:00:00-04:00",
+        "episodeTitle": "Hart to Hart",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 394792,
+        "showTitle": "The Greatest Event In Television History"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T04:30:00-04:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T05:00:00-04:00",
+        "episodeTitle": "Terry Unmarried",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-09T00:00:00-04:00",
+        "datetime": "2016-08-10T05:30:00-04:00",
+        "episodeTitle": "Bystand Me",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

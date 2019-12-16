@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-18T21:00:00-04:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-18T21:30:00-04:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-18T22:00:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-18T22:30:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-18T23:00:00-04:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-18T23:30:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-18T23:45:00-04:00",
+        "episodeTitle": "Jason B. Sucks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T00:00:00-04:00",
+        "episodeTitle": "Double Decker",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 439092,
+        "showTitle": "Decker: Unsealed"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T00:15:00-04:00",
+        "episodeTitle": "The Dammed",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T00:30:00-04:00",
+        "episodeTitle": "Snarfer Image",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T00:45:00-04:00",
+        "episodeTitle": "Up Up and Buffet",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T01:00:00-04:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T01:30:00-04:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T02:00:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T02:30:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T03:00:00-04:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T03:30:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T03:45:00-04:00",
+        "episodeTitle": "Jason B. Sucks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T04:00:00-04:00",
+        "episodeTitle": "Double Decker",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 439092,
+        "showTitle": "Decker: Unsealed"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T04:15:00-04:00",
+        "episodeTitle": "The Dammed",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T04:30:00-04:00",
+        "episodeTitle": "Snarfer Image",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T04:45:00-04:00",
+        "episodeTitle": "Up Up and Buffet",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T05:00:00-04:00",
+        "episodeTitle": "Dream Weaver",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-06-18T00:00:00-04:00",
+        "datetime": "2017-06-19T05:30:00-04:00",
+        "episodeTitle": "Doggone Crazy",
+        "rating": "TV-PG L",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

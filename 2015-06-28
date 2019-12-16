@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-28T21:00:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-28T21:30:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-28T22:00:00-04:00",
+        "episodeTitle": "Crotchwalkers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-28T22:30:00-04:00",
+        "episodeTitle": "Chris Cross",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-28T23:00:00-04:00",
+        "episodeTitle": "Call Girl",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-28T23:30:00-04:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-28T23:45:00-04:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T00:00:00-04:00",
+        "episodeTitle": "Brain Fairy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T00:15:00-04:00",
+        "episodeTitle": "Devil in the Details",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T00:30:00-04:00",
+        "episodeTitle": "The Cheeseman",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T00:45:00-04:00",
+        "episodeTitle": "Is Magic Real?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T01:00:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T01:30:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T02:00:00-04:00",
+        "episodeTitle": "Crotchwalkers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T02:30:00-04:00",
+        "episodeTitle": "Chris Cross",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T03:00:00-04:00",
+        "episodeTitle": "Call Girl",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T03:30:00-04:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T03:45:00-04:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T04:00:00-04:00",
+        "episodeTitle": "Brain Fairy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T04:15:00-04:00",
+        "episodeTitle": "Devil in the Details",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T04:30:00-04:00",
+        "episodeTitle": "The Cheeseman",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T04:45:00-04:00",
+        "episodeTitle": "Is Magic Real?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T05:00:00-04:00",
+        "episodeTitle": "De-Kahnstructing Henry",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-28T00:00:00-04:00",
+        "datetime": "2015-06-29T05:30:00-04:00",
+        "episodeTitle": "The Wedding of Bobby Hill",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

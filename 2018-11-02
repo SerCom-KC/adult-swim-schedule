@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-02T21:00:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-02T21:30:00-04:00",
+        "episodeTitle": "Stan Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-02T22:00:00-04:00",
+        "episodeTitle": "Hawk & Chick",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-02T22:30:00-04:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-02T23:00:00-04:00",
+        "episodeTitle": "Lethal Weapons",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-02T23:30:00-04:00",
+        "episodeTitle": "Prick Up Your Ears",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T00:00:00-04:00",
+        "episodeTitle": "Accordian Jim",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T00:15:00-04:00",
+        "episodeTitle": "Amnesia",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T00:30:00-04:00",
+        "episodeTitle": "The Endorsement",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T00:45:00-04:00",
+        "episodeTitle": "Baby",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T01:00:00-04:00",
+        "episodeTitle": "Bad Replicant",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T01:15:00-04:00",
+        "episodeTitle": "Meth O.D. To My Madness",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T01:30:00-04:00",
+        "episodeTitle": "Hawk & Chick",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T02:00:00-04:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T02:30:00-04:00",
+        "episodeTitle": "Lethal Weapons",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T03:00:00-04:00",
+        "episodeTitle": "Accordian Jim",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T03:15:00-04:00",
+        "episodeTitle": "Amnesia",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T03:30:00-04:00",
+        "episodeTitle": "The Endorsement",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T03:45:00-04:00",
+        "episodeTitle": "Baby",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 11/02/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 11/02/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T04:30:00-04:00",
+        "episodeTitle": "Bad Replicant",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T04:45:00-04:00",
+        "episodeTitle": "Meth O.D. To My Madness",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T05:00:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-02T00:00:00-04:00",
+        "datetime": "2018-11-03T05:30:00-04:00",
+        "episodeTitle": "Stan Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

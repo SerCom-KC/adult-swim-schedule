@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-30T21:00:00-05:00",
+        "episodeTitle": "Flirting With the Master",
+        "rating": "TV-PG D",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-30T21:30:00-05:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-30T22:00:00-05:00",
+        "episodeTitle": "Frapp Attack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-30T22:30:00-05:00",
+        "episodeTitle": "Office Spaceman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-30T23:00:00-05:00",
+        "episodeTitle": "Lois Kills Stewie Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-30T23:30:00-05:00",
+        "episodeTitle": "Padre de Familia",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T00:00:00-05:00",
+        "episodeTitle": "There Is Planet Earth, Father! Frieza and King Cold Strike Back!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T00:30:00-05:00",
+        "episodeTitle": "Kill the Despair",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T01:00:00-05:00",
+        "episodeTitle": "The Selfish Gene",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T01:30:00-05:00",
+        "episodeTitle": "Artistic Anarchy",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T02:00:00-05:00",
+        "episodeTitle": "The Labyrinth of Distorted Reflection",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T02:30:00-05:00",
+        "episodeTitle": "Hot Full Throttle! The Twin's Magnetic Power Drawing Near!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T03:00:00-05:00",
+        "episodeTitle": "Ride Like the Wind",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T03:30:00-05:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T04:00:00-05:00",
+        "episodeTitle": "Frapp Attack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T04:30:00-05:00",
+        "episodeTitle": "Office Spaceman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T05:00:00-05:00",
+        "episodeTitle": "The Incredible Hank",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-30T00:00:00-05:00",
+        "datetime": "2016-01-31T05:30:00-05:00",
+        "episodeTitle": "Flirting With the Master",
+        "rating": "TV-PG D",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

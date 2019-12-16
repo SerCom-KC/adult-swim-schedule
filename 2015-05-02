@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-02T21:00:00-04:00",
+        "episodeTitle": "A Racist Dawg",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-02T21:30:00-04:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-02T22:00:00-04:00",
+        "episodeTitle": "Cleveland Jr.'s Cherry Bomb",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-02T22:30:00-04:00",
+        "episodeTitle": "A Date with the Booty Warrior",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-02T23:00:00-04:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-02T23:30:00-04:00",
+        "episodeTitle": "Welcome Back, Carter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T00:00:00-04:00",
+        "episodeTitle": "Dodoria's Terrifying Chase!\u00a0A Truth Revealed to Vegeta!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T00:30:00-04:00",
+        "episodeTitle": "Crazy for You",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T01:00:00-04:00",
+        "episodeTitle": "Showdown in the Wilderness",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T01:30:00-04:00",
+        "episodeTitle": "Inside Naraku",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T02:00:00-04:00",
+        "episodeTitle": "Lockdown of Darkness",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T02:30:00-04:00",
+        "episodeTitle": "Fierce Sword Attacks! Zoro vs. Kaku, Powerful Sword Fighting Showdown!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T03:00:00-04:00",
+        "episodeTitle": "The World the Girl Saw: The Struggle for Trost Part 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T03:30:00-04:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T04:00:00-04:00",
+        "episodeTitle": "Cleveland Jr.'s Cherry Bomb",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T04:30:00-04:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T05:00:00-04:00",
+        "episodeTitle": "That's What She Said",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-05-02T00:00:00-04:00",
+        "datetime": "2015-05-03T05:30:00-04:00",
+        "episodeTitle": "A Racist Dawg",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-07T21:00:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-07T21:30:00-04:00",
+        "episodeTitle": "A Cleveland Brown Christmas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-07T22:00:00-04:00",
+        "episodeTitle": "May the Best Stan Win",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-07T22:30:00-04:00",
+        "episodeTitle": "Best Little Horror House in Langley Falls",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-07T23:00:00-04:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-07T23:30:00-04:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T00:00:00-04:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T00:15:00-04:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T00:30:00-04:00",
+        "episodeTitle": "Super Trivia",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T00:45:00-04:00",
+        "episodeTitle": "Mephistopheles Traveled Below To A Southern State Whose State Motto Is Wisdom, Justice, & Moderation",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T01:00:00-04:00",
+        "episodeTitle": "Kenny Winker Rules",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T01:30:00-04:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T02:00:00-04:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T02:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T03:00:00-04:00",
+        "episodeTitle": "Best Little Horror House in Langley Falls",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T03:30:00-04:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T03:45:00-04:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T04:00:00-04:00",
+        "episodeTitle": "For-Profit Online University",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T04:15:00-04:00",
+        "episodeTitle": "Pre-Reckoning",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T04:30:00-04:00",
+        "episodeTitle": "Kenny Winker Rules",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T05:00:00-04:00",
+        "episodeTitle": "A Cleveland Brown Christmas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-07T00:00:00-04:00",
+        "datetime": "2015-07-08T05:30:00-04:00",
+        "episodeTitle": "A Beer Can Named Desire",
+        "rating": "TV-PG D",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

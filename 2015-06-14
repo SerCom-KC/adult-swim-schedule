@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-14T21:00:00-04:00",
+        "episodeTitle": "Menace II Secret Society",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-14T21:30:00-04:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-14T22:00:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-14T22:30:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-14T23:00:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-14T23:30:00-04:00",
+        "episodeTitle": "Magical Pet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T00:30:00-04:00",
+        "episodeTitle": "Father's Day Pie",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T00:45:00-04:00",
+        "episodeTitle": "Ultimate Judgment Day",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T01:00:00-04:00",
+        "episodeTitle": "Menace II Secret Society",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T01:30:00-04:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T02:00:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T02:30:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T03:00:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T03:30:00-04:00",
+        "episodeTitle": "Magical Pet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T04:30:00-04:00",
+        "episodeTitle": "Father's Day Pie",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T04:45:00-04:00",
+        "episodeTitle": "Ultimate Judgment Day",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T05:00:00-04:00",
+        "episodeTitle": "Lucky See, Monkey Do",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-14T00:00:00-04:00",
+        "datetime": "2015-06-15T05:30:00-04:00",
+        "episodeTitle": "What Happens at the National Propane Gas Convention",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

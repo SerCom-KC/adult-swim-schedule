@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-27T21:00:00-05:00",
+        "episodeTitle": "Our Gang",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-27T21:30:00-05:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-27T22:00:00-05:00",
+        "episodeTitle": "A Ward Show",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-27T22:30:00-05:00",
+        "episodeTitle": "The Father, the Son and the Holy Fonz",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-27T23:00:00-05:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-27T23:30:00-05:00",
+        "episodeTitle": "Coffee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T00:00:00-05:00",
+        "episodeTitle": "A Lot of Brouhaha over Zilch",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T00:15:00-05:00",
+        "episodeTitle": "Roswell, New Mexico; Skip Goes to a Wedding",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T00:30:00-05:00",
+        "episodeTitle": "A Brand New Day",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 398352,
+        "showTitle": "Hot Package"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T00:45:00-05:00",
+        "episodeTitle": "Wiz Khalifa; Aubrey Peeples",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T01:00:00-05:00",
+        "episodeTitle": "Are You There God, It's Me, Dean",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T01:30:00-05:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T02:00:00-05:00",
+        "episodeTitle": "The Father, the Son and the Holy Fonz",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T02:30:00-05:00",
+        "episodeTitle": "A Ward Show",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T03:00:00-05:00",
+        "episodeTitle": "Coffee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T03:30:00-05:00",
+        "episodeTitle": "A Lot of Brouhaha over Zilch",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T03:45:00-05:00",
+        "episodeTitle": "Roswell, New Mexico; Skip Goes to a Wedding",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T04:00:00-05:00",
+        "episodeTitle": "February 27, 2015",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T04:15:00-05:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T04:30:00-05:00",
+        "episodeTitle": "Are You There God, It's Me, Dean",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T05:00:00-05:00",
+        "episodeTitle": "Our Gang",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-27T00:00:00-05:00",
+        "datetime": "2015-02-28T05:30:00-05:00",
+        "episodeTitle": "Bad News Bill",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

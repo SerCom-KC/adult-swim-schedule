@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-16T21:00:00-05:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-16T21:30:00-05:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-16T22:00:00-05:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-16T22:30:00-05:00",
+        "episodeTitle": "Tina Tailor Soldier Spy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-16T23:00:00-05:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-16T23:30:00-05:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T00:00:00-05:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T00:30:00-05:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T00:45:00-05:00",
+        "episodeTitle": "We Are a Humble Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T01:00:00-05:00",
+        "episodeTitle": "James Van Der Beek & Steve-O",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T01:15:00-05:00",
+        "episodeTitle": "Missing",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T01:30:00-05:00",
+        "episodeTitle": "Tina Tailor Soldier Spy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T02:00:00-05:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T02:30:00-05:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T03:00:00-05:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T03:30:00-05:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T04:00:00-05:00",
+        "episodeTitle": "As Seen on Adult Swim - 2/16/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T04:15:00-05:00",
+        "episodeTitle": "Development Meeting - 1/18/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T04:30:00-05:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T05:00:00-05:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-02-16T00:00:00-05:00",
+        "datetime": "2018-02-17T05:30:00-05:00",
+        "episodeTitle": "Peggy's Fan Fair",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

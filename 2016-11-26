@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-26T21:00:00-05:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-26T21:30:00-05:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-26T22:00:00-05:00",
+        "episodeTitle": "License to Till",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-26T22:30:00-05:00",
+        "episodeTitle": "Jenny Fromdabloc",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-26T23:00:00-05:00",
+        "episodeTitle": "Lottery Fever",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-26T23:30:00-05:00",
+        "episodeTitle": "Seahorse Sea Shell Party",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T00:00:00-05:00",
+        "episodeTitle": "A Hero's Sacrifice! Last Chance to Save the World!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T00:30:00-05:00",
+        "episodeTitle": "Tomorrow's Courage",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T01:00:00-05:00",
+        "episodeTitle": "The Final Lie",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T01:30:00-05:00",
+        "episodeTitle": "Awakening x and x Potential",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T02:00:00-05:00",
+        "episodeTitle": "The Light & Dark of the Mangekyo Sharingan",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T02:30:00-05:00",
+        "episodeTitle": "The Secret Plan to Turn the Tables! Nightmare Luffy Makes His Appearance",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T03:00:00-05:00",
+        "episodeTitle": "The Ultimate Master",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T03:30:00-05:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T04:00:00-05:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T04:30:00-05:00",
+        "episodeTitle": "License to Till",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T05:00:00-05:00",
+        "episodeTitle": "Jenny Fromdabloc",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-26T00:00:00-05:00",
+        "datetime": "2016-11-27T05:30:00-05:00",
+        "episodeTitle": "Hank's Back Story",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

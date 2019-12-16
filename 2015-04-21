@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-21T21:00:00-04:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-21T21:30:00-04:00",
+        "episodeTitle": "Lobsterfest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-21T22:00:00-04:00",
+        "episodeTitle": "Of Ice and Men",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-21T22:30:00-04:00",
+        "episodeTitle": "Irregarding Steve",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-21T23:00:00-04:00",
+        "episodeTitle": "Dog Gone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-21T23:30:00-04:00",
+        "episodeTitle": "Business Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T00:00:00-04:00",
+        "episodeTitle": "Rabbits on a Rollercoaster",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T00:15:00-04:00",
+        "episodeTitle": "Tapping a Hero",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T00:30:00-04:00",
+        "episodeTitle": "Time Machine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T00:45:00-04:00",
+        "episodeTitle": "Frivolacious Squidigation?",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T01:00:00-04:00",
+        "episodeTitle": "Time-Police 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T01:15:00-04:00",
+        "episodeTitle": "Mordland",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T01:30:00-04:00",
+        "episodeTitle": "Dog Gone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T02:00:00-04:00",
+        "episodeTitle": "Business Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T02:30:00-04:00",
+        "episodeTitle": "Lobsterfest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T03:00:00-04:00",
+        "episodeTitle": "Irregarding Steve",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T03:30:00-04:00",
+        "episodeTitle": "Rabbits on a Rollercoaster",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T03:45:00-04:00",
+        "episodeTitle": "Tapping a Hero",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T04:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 S",
+        "seasonNumber": 1,
+        "showID": 418112,
+        "showTitle": "The Pound Hole"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T04:15:00-04:00",
+        "episodeTitle": "I Left My Heart in Someone's Cooler",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T04:30:00-04:00",
+        "episodeTitle": "Time-Police 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T04:45:00-04:00",
+        "episodeTitle": "Mordland",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T05:00:00-04:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-21T00:00:00-04:00",
+        "datetime": "2015-04-22T05:30:00-04:00",
+        "episodeTitle": "Boxing Luanne",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

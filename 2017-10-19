@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-19T21:00:00-04:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-19T21:30:00-04:00",
+        "episodeTitle": "A Boy Named Michael",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-19T22:00:00-04:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-19T22:30:00-04:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-19T23:00:00-04:00",
+        "episodeTitle": "Joe's Revenge",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-19T23:30:00-04:00",
+        "episodeTitle": "Lois Comes Out of Her Shell",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T00:00:00-04:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T00:15:00-04:00",
+        "episodeTitle": "Moesha Poppins",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T00:30:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T00:45:00-04:00",
+        "episodeTitle": "The Marines",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T01:00:00-04:00",
+        "episodeTitle": "Lauren Conrad; Reese Witherspoon",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T01:15:00-04:00",
+        "episodeTitle": "Bird Up!",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T01:30:00-04:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T02:00:00-04:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T02:30:00-04:00",
+        "episodeTitle": "Joe's Revenge",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T03:00:00-04:00",
+        "episodeTitle": "Lois Comes Out of Her Shell",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T03:30:00-04:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T04:00:00-04:00",
+        "episodeTitle": "The Endorsement",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T04:15:00-04:00",
+        "episodeTitle": "Baby",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T04:30:00-04:00",
+        "episodeTitle": "Lauren Conrad; Reese Witherspoon",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T04:45:00-04:00",
+        "episodeTitle": "Bird Up!",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T05:00:00-04:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-19T00:00:00-04:00",
+        "datetime": "2017-10-20T05:30:00-04:00",
+        "episodeTitle": "Cheer Factor",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

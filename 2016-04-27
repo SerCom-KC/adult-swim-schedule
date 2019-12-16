@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-27T21:00:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-27T21:30:00-04:00",
+        "episodeTitle": "Who Done Did It?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-27T22:00:00-04:00",
+        "episodeTitle": "Meter Made",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-27T22:30:00-04:00",
+        "episodeTitle": "Dope and Faith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-27T23:00:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-27T23:30:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T00:00:00-04:00",
+        "episodeTitle": "Two Weeks Without Food",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T00:15:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T00:30:00-04:00",
+        "episodeTitle": "Revenge of the Trees",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T00:45:00-04:00",
+        "episodeTitle": "The Big Gay Throwdown",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T01:00:00-04:00",
+        "episodeTitle": "Love-Bheits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T01:30:00-04:00",
+        "episodeTitle": "Meter Made",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T02:00:00-04:00",
+        "episodeTitle": "Dope and Faith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T02:30:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T03:00:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T03:30:00-04:00",
+        "episodeTitle": "Two Weeks Without Food",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T03:45:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T04:00:00-04:00",
+        "episodeTitle": "Giles Vanderhoot",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T04:15:00-04:00",
+        "episodeTitle": "Alpha Chow & Goth Fitness",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T04:30:00-04:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T05:00:00-04:00",
+        "episodeTitle": "Who Done Did It?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-27T00:00:00-04:00",
+        "datetime": "2016-04-28T05:30:00-04:00",
+        "episodeTitle": "Pretty, Pretty Dresses",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

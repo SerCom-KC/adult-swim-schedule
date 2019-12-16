@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-12T21:00:00-04:00",
+        "episodeTitle": "Returning Japanese (2)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-12T21:30:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-12T22:00:00-04:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-12T22:30:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-12T23:00:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-12T23:30:00-04:00",
+        "episodeTitle": "Best Face Forward",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T00:00:00-04:00",
+        "episodeTitle": "Shirt Herpes",
+        "rating": "TV-MA S",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T00:15:00-04:00",
+        "episodeTitle": "Sheriff-in-Law",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T00:30:00-04:00",
+        "episodeTitle": "The Great Travelers Road",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 413632,
+        "showTitle": "Unsupervised"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T01:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T01:30:00-04:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T02:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T02:30:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T03:00:00-04:00",
+        "episodeTitle": "Best Face Forward",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T03:30:00-04:00",
+        "episodeTitle": "Shirt Herpes",
+        "rating": "TV-MA S",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T03:45:00-04:00",
+        "episodeTitle": "Sheriff-in-Law",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T04:00:00-04:00",
+        "episodeTitle": "The Great Travelers Road",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 413632,
+        "showTitle": "Unsupervised"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T04:30:00-04:00",
+        "episodeTitle": "The Golden Child",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 323915,
+        "showTitle": "The Oblongs"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T05:00:00-04:00",
+        "episodeTitle": "Returning Japanese (1)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-04-12T00:00:00-04:00",
+        "datetime": "2015-04-13T05:30:00-04:00",
+        "episodeTitle": "Returning Japanese (2)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

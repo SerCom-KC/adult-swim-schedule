@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-03T21:00:00-05:00",
+        "episodeTitle": "Sit Me Baby One More Time",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-03T21:30:00-05:00",
+        "episodeTitle": "Mission Impos-slug-ble",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-03T22:00:00-05:00",
+        "episodeTitle": "Persona Assistant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-03T22:30:00-05:00",
+        "episodeTitle": "A Lot Going on Upstairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-03T23:00:00-05:00",
+        "episodeTitle": "The Heartbreak Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-03T23:30:00-05:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T00:00:00-05:00",
+        "episodeTitle": "Super Agent 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T00:15:00-05:00",
+        "episodeTitle": "Bad Boy Bugs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T00:30:00-05:00",
+        "episodeTitle": "Tigtone and Those Elemental Kings",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T00:45:00-05:00",
+        "episodeTitle": "Tigtone and the Wizard Hunt",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T01:00:00-05:00",
+        "episodeTitle": "The Many Frostings of Ronald the Ringman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T01:15:00-05:00",
+        "episodeTitle": "The Sports Day",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T01:30:00-05:00",
+        "episodeTitle": "Persona Assistant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T02:00:00-05:00",
+        "episodeTitle": "A Lot Going on Upstairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T02:30:00-05:00",
+        "episodeTitle": "The Heartbreak Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T03:00:00-05:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T03:30:00-05:00",
+        "episodeTitle": "Super Agent 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T03:45:00-05:00",
+        "episodeTitle": "Bad Boy Bugs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T04:00:00-05:00",
+        "episodeTitle": "Tigtone and Those Elemental Kings",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T04:15:00-05:00",
+        "episodeTitle": "Tigtone and the Wizard Hunt",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T04:30:00-05:00",
+        "episodeTitle": "The Many Frostings of Ronald the Ringman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T04:45:00-05:00",
+        "episodeTitle": "The Sports Day",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T05:00:00-05:00",
+        "episodeTitle": "Sit Me Baby One More Time",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-03T00:00:00-05:00",
+        "datetime": "2019-03-04T05:30:00-05:00",
+        "episodeTitle": "Mission Impos-slug-ble",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

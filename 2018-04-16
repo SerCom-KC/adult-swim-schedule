@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-16T21:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-16T21:30:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-16T22:00:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-16T22:30:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-16T23:00:00-04:00",
+        "episodeTitle": "Herpe the Love Sore",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-16T23:30:00-04:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T00:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T00:30:00-04:00",
+        "episodeTitle": "Chapter Seven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T01:00:00-04:00",
+        "episodeTitle": "Negaton",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T01:15:00-04:00",
+        "episodeTitle": "Breakup Klok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T01:30:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T02:00:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T02:30:00-04:00",
+        "episodeTitle": "Herpe the Love Sore",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T03:00:00-04:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T03:30:00-04:00",
+        "episodeTitle": "All About Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T04:00:00-04:00",
+        "episodeTitle": "The Adult Swim Golf Classic",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 427272,
+        "showTitle": "The Adult Swim Golf Classic"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T04:30:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T05:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-04-16T00:00:00-04:00",
+        "datetime": "2018-04-17T05:30:00-04:00",
+        "episodeTitle": "Girl, You'll Be a Giant Soon",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

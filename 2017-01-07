@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-07T21:00:00-05:00",
+        "episodeTitle": "She Swill Survive",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-07T21:30:00-05:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-07T22:00:00-05:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-07T22:30:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-07T23:00:00-05:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-07T23:30:00-05:00",
+        "episodeTitle": "A Peacetime Reward: Who Gets the 100,000,000 Zeni?",
+        "rating": "TV-PG DV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T00:00:00-05:00",
+        "episodeTitle": "Seven Years Later! Starting Today, Gohan is a High School Student",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T00:30:00-05:00",
+        "episodeTitle": "The Game Master",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T01:00:00-05:00",
+        "episodeTitle": "Departure 0096",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T01:30:00-05:00",
+        "episodeTitle": "An x Empty x Threat",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T02:00:00-05:00",
+        "episodeTitle": "Fate",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T02:30:00-05:00",
+        "episodeTitle": "Our Bodies Vanish! The Morning Sun Shines on the Nightmarish Island!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T03:00:00-05:00",
+        "episodeTitle": "Unyielding Justice",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T03:30:00-05:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T04:00:00-05:00",
+        "episodeTitle": "She Swill Survive",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T04:30:00-05:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T05:00:00-05:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-07T00:00:00-05:00",
+        "datetime": "2017-01-08T05:30:00-05:00",
+        "episodeTitle": "Care-Takin' Care of Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-05T21:00:00-04:00",
+        "episodeTitle": "Something Old, Something New, Something Bob Caters for You",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-05T21:30:00-04:00",
+        "episodeTitle": "The Wolf of Wharf Street",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-05T22:00:00-04:00",
+        "episodeTitle": "Stan & Francine & Connie & Ted",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-05T22:30:00-04:00",
+        "episodeTitle": "The Dating Game",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-05T23:00:00-04:00",
+        "episodeTitle": "Cop and a Half-Wit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-05T23:30:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T00:00:00-04:00",
+        "episodeTitle": "They Ain't Know",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T00:15:00-04:00",
+        "episodeTitle": "It Is What It Is",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T00:30:00-04:00",
+        "episodeTitle": "Creamy Zeus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T00:45:00-04:00",
+        "episodeTitle": "The Moon Masters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T01:00:00-04:00",
+        "episodeTitle": "The Flip",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T01:15:00-04:00",
+        "episodeTitle": "The Poor Horsemen of the Apocalypse",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T01:30:00-04:00",
+        "episodeTitle": "Stan & Francine & Connie & Ted",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T02:00:00-04:00",
+        "episodeTitle": "The Dating Game",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T02:30:00-04:00",
+        "episodeTitle": "Cop and a Half-Wit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T03:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T03:30:00-04:00",
+        "episodeTitle": "They Ain't Know",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T03:45:00-04:00",
+        "episodeTitle": "It Is What It Is",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T04:00:00-04:00",
+        "episodeTitle": "Creamy Zeus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T04:15:00-04:00",
+        "episodeTitle": "The Moon Masters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T04:30:00-04:00",
+        "episodeTitle": "The Flip",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T04:45:00-04:00",
+        "episodeTitle": "The Poor Horsemen of the Apocalypse",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T05:00:00-04:00",
+        "episodeTitle": "Something Old, Something New, Something Bob Caters for You",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-05T00:00:00-04:00",
+        "datetime": "2019-05-06T05:30:00-04:00",
+        "episodeTitle": "The Wolf of Wharf Street",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

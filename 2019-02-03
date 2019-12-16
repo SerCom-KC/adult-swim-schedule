@@ -1,0 +1,236 @@
+[
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-03T21:00:00-05:00",
+        "episodeTitle": "Night Moves",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-03T21:15:00-05:00",
+        "episodeTitle": "Ty-Stunned",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-03T21:30:00-05:00",
+        "episodeTitle": "Are You There Bob? It's Me Birthday",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-03T22:00:00-05:00",
+        "episodeTitle": "(You Gotta) Strike for Your Right",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-03T22:30:00-05:00",
+        "episodeTitle": "A Shot in the Dark",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-03T23:00:00-05:00",
+        "episodeTitle": "Candy Quahog Marshmallow!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-03T23:30:00-05:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T00:00:00-05:00",
+        "episodeTitle": "Tigtone and His Manless Match",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T00:15:00-05:00",
+        "episodeTitle": "Tigtone and the Cemetery of the Dead",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T00:30:00-05:00",
+        "episodeTitle": "The Magmafying Past",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T00:45:00-05:00",
+        "episodeTitle": "Ogled Inklings",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T01:00:00-05:00",
+        "episodeTitle": "The How to Be a Tropical Cop Episode",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T01:15:00-05:00",
+        "episodeTitle": "The Scalp Collector",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T01:30:00-05:00",
+        "episodeTitle": "Are You There Bob? It's Me Birthday",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T02:00:00-05:00",
+        "episodeTitle": "A Shot in the Dark",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T02:30:00-05:00",
+        "episodeTitle": "Candy Quahog Marshmallow!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T03:00:00-05:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T03:30:00-05:00",
+        "episodeTitle": "Tigtone and His Manless Match",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T03:45:00-05:00",
+        "episodeTitle": "Tigtone and the Cemetery of the Dead",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T04:00:00-05:00",
+        "episodeTitle": "The Magmafying Past",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T04:15:00-05:00",
+        "episodeTitle": "Ogled Inklings",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T04:30:00-05:00",
+        "episodeTitle": "The How to Be a Tropical Cop Episode",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T04:45:00-05:00",
+        "episodeTitle": "The Scalp Collector",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T05:00:00-05:00",
+        "episodeTitle": "X, The Exterminator",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T05:15:00-05:00",
+        "episodeTitle": "Blackwatch Plaid",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2019-02-03T00:00:00-05:00",
+        "datetime": "2019-02-04T05:30:00-05:00",
+        "episodeTitle": "I Don't Do Well In Parent-Teacher Conferences",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

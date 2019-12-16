@@ -1,0 +1,155 @@
+[
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-04T21:00:00-04:00",
+        "episodeTitle": "Robot Chicken: Star Wars Special",
+        "rating": "TV-14 LV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-04T21:30:00-04:00",
+        "episodeTitle": "Robot Chicken: Star Wars Episode II",
+        "rating": "TV-14 LV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-04T22:00:00-04:00",
+        "episodeTitle": "Blue Harvest Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-04T23:00:00-04:00",
+        "episodeTitle": "The Mightiest Enemy Zeroes In on Goku!  Launch the Knockout Spirit Bomb Now!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-04T23:30:00-04:00",
+        "episodeTitle": "Symbol of Peace",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T00:00:00-04:00",
+        "episodeTitle": "291045",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 456292,
+        "showTitle": "The Promised Neverland"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T00:30:00-04:00",
+        "episodeTitle": "The Crimson Knight",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T01:00:00-04:00",
+        "episodeTitle": "July 15th (Thurs) Part 4",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T01:30:00-04:00",
+        "episodeTitle": "Battle to the Death?! Yami vs. Jack",
+        "rating": "TV-PG L",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T02:00:00-04:00",
+        "episodeTitle": "The New Seven Ninja Swordsmen!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T02:30:00-04:00",
+        "episodeTitle": "The Fourth Hokage's Death Match",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T03:00:00-04:00",
+        "episodeTitle": "Magician x and x Butler",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T03:30:00-04:00",
+        "episodeTitle": "Response: The Struggle for Trost Part 6",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T04:00:00-04:00",
+        "episodeTitle": "Bitches to Rags",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T04:30:00-04:00",
+        "episodeTitle": "\"Black Jaws!\" or \"Finger Lickin' Chicken of the Sea\"",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T05:00:00-04:00",
+        "episodeTitle": "Twenty Years to Midnight",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-05-04T00:00:00-04:00",
+        "datetime": "2019-05-05T05:30:00-04:00",
+        "episodeTitle": "The Party",
+        "rating": "TV-PG L",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-06T21:00:00-05:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-06T21:30:00-05:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-06T22:00:00-05:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-06T22:30:00-05:00",
+        "episodeTitle": "Honey, I'm Homeland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-06T23:00:00-05:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-06T23:30:00-05:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T00:00:00-05:00",
+        "episodeTitle": "Atta Toy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T00:15:00-05:00",
+        "episodeTitle": "Joint Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T00:30:00-05:00",
+        "episodeTitle": "Rabbot Redux",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T00:45:00-05:00",
+        "episodeTitle": "Rubberman",
+        "rating": "TV-MA V",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T01:00:00-05:00",
+        "episodeTitle": "Tijuana Zebra",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T01:15:00-05:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T01:30:00-05:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T02:00:00-05:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T02:30:00-05:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T03:00:00-05:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T03:30:00-05:00",
+        "episodeTitle": "Honey, I'm Homeland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T04:00:00-05:00",
+        "episodeTitle": "Giles Vanderhoot",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T04:15:00-05:00",
+        "episodeTitle": "Live at the Necropolis: Lords of Synth",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T04:30:00-05:00",
+        "episodeTitle": "Tijuana Zebra",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T04:45:00-05:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T05:00:00-05:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-06T00:00:00-05:00",
+        "datetime": "2017-01-07T05:30:00-05:00",
+        "episodeTitle": "Enrique-cilable Differences",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

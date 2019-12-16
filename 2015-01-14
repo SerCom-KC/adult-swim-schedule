@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-14T21:00:00-05:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-14T21:30:00-05:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-14T22:00:00-05:00",
+        "episodeTitle": "Dope and Faith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-14T22:30:00-05:00",
+        "episodeTitle": "Big Trouble in Little Langley",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-14T23:00:00-05:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-14T23:30:00-05:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T00:00:00-05:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T00:15:00-05:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T00:30:00-05:00",
+        "episodeTitle": "Tommy's Big Job",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T00:45:00-05:00",
+        "episodeTitle": "Lord Stingray Crash Party",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T01:00:00-05:00",
+        "episodeTitle": "Momma's Boys",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T01:30:00-05:00",
+        "episodeTitle": "Dope and Faith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T02:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Langley",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T02:30:00-05:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T03:00:00-05:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T03:30:00-05:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T03:45:00-05:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T04:00:00-05:00",
+        "episodeTitle": "Swords, Knives, Very Sharp Objects and Cutlery",
+        "rating": "TV-14 ",
+        "seasonNumber": 0,
+        "showID": 324534,
+        "showTitle": "SPECIAL:"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T04:15:00-05:00",
+        "episodeTitle": "Stuntmen",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T04:30:00-05:00",
+        "episodeTitle": "Momma's Boys",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T05:00:00-05:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-14T00:00:00-05:00",
+        "datetime": "2015-01-15T05:30:00-05:00",
+        "episodeTitle": "Girl, You'll Be a Giant Soon",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

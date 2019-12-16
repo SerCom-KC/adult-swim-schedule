@@ -1,0 +1,146 @@
+[
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-05T21:00:00-04:00",
+        "episodeTitle": "Boyz 4 Now",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-05T21:30:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-05T22:00:00-04:00",
+        "episodeTitle": "My Morning Straitjacket",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-05T22:30:00-04:00",
+        "episodeTitle": "G-String Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-05T23:00:00-04:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-05T23:30:00-04:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T00:00:00-04:00",
+        "episodeTitle": "Tears for an Android! Gohan's Inner Rage Bursts Forth!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T00:30:00-04:00",
+        "episodeTitle": "Youth with Dio",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T01:00:00-04:00",
+        "episodeTitle": "Brother",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T01:30:00-04:00",
+        "episodeTitle": "Then x and x After",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T02:00:00-05:00",
+        "episodeTitle": "The Tale of Jiraiya the Gallant",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T02:30:00-05:00",
+        "episodeTitle": "Knock Him Down!! Special Attack: Straw Hat Docking?",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T03:00:00-05:00",
+        "episodeTitle": "Children Who Chase Lost Voices",
+        "rating": "TV-14 V",
+        "seasonNumber": 0,
+        "showID": 432532,
+        "showTitle": "Children Who Chase Lost Voices"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T04:30:00-05:00",
+        "episodeTitle": "My Morning Straitjacket",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T05:00:00-05:00",
+        "episodeTitle": "G-String Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-05T00:00:00-04:00",
+        "datetime": "2016-11-06T05:30:00-05:00",
+        "episodeTitle": "Nancy Boys",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

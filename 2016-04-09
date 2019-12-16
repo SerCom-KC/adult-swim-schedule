@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-09T21:00:00-04:00",
+        "episodeTitle": "What Happens at the National Propane Gas Convention",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-09T21:30:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-09T22:00:00-04:00",
+        "episodeTitle": "Frapp Attack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-09T22:30:00-04:00",
+        "episodeTitle": "The American Dad After School Special",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-09T23:00:00-04:00",
+        "episodeTitle": "12 and a Half Angry Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-09T23:30:00-04:00",
+        "episodeTitle": "Bigfat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T00:00:00-04:00",
+        "episodeTitle": "A Sweet Face and Super Power? Android 18 vs. Vegeta!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T00:30:00-04:00",
+        "episodeTitle": "The Voice Calling from the Past",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 426092,
+        "showTitle": "Dimension W"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T01:00:00-04:00",
+        "episodeTitle": "Parasitic Beasts",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T01:30:00-04:00",
+        "episodeTitle": "Bogus Booty",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T02:00:00-04:00",
+        "episodeTitle": "Strange Bedfellows",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T02:30:00-04:00",
+        "episodeTitle": "Nami's in a Major Pinch! The Zombie Mansion and the Invisible Man",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T03:00:00-04:00",
+        "episodeTitle": "Past the Infinite Darkness",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T03:30:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T04:00:00-04:00",
+        "episodeTitle": "Frapp Attack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T04:30:00-04:00",
+        "episodeTitle": "The American Dad After School Special",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T05:00:00-04:00",
+        "episodeTitle": "Lucky See, Monkey Do",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-04-09T00:00:00-04:00",
+        "datetime": "2016-04-10T05:30:00-04:00",
+        "episodeTitle": "What Happens at the National Propane Gas Convention",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

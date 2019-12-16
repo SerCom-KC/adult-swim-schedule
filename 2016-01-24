@@ -1,0 +1,155 @@
+[
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-24T21:00:00-05:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-24T21:30:00-05:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-24T22:00:00-05:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-24T22:30:00-05:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-24T23:00:00-05:00",
+        "episodeTitle": "Encyclopedia Griffin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-24T23:30:00-05:00",
+        "episodeTitle": "Cheese Puff Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-24T23:45:00-05:00",
+        "episodeTitle": "She's a Bayniac",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T00:00:00-05:00",
+        "episodeTitle": "All This and Gargantua-2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T01:00:00-05:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T01:30:00-05:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T02:00:00-05:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T02:30:00-05:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T03:00:00-05:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T03:30:00-05:00",
+        "episodeTitle": "Encyclopedia Griffin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T04:00:00-05:00",
+        "episodeTitle": "All This and Gargantua-2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T05:00:00-05:00",
+        "episodeTitle": "A Racist Dawg",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-24T00:00:00-05:00",
+        "datetime": "2016-01-25T05:30:00-05:00",
+        "episodeTitle": "Night and Deity",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

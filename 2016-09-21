@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-21T21:00:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-21T21:30:00-04:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-21T22:00:00-04:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-21T22:30:00-04:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-21T23:00:00-04:00",
+        "episodeTitle": "Brian the Bachelor",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-21T23:30:00-04:00",
+        "episodeTitle": "8 Simple Rules for Buying My Teenage Daughter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T00:00:00-04:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T00:15:00-04:00",
+        "episodeTitle": "Moesha Poppins",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T00:30:00-04:00",
+        "episodeTitle": "Double Truckin' The Tricky Two",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T00:45:00-04:00",
+        "episodeTitle": "Swayze Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T01:00:00-04:00",
+        "episodeTitle": "Der Inflatable Fuhrer",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T01:15:00-04:00",
+        "episodeTitle": "The Last Last One Forever and Ever",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T01:30:00-04:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T02:00:00-04:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T02:30:00-04:00",
+        "episodeTitle": "Brian the Bachelor",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T03:00:00-04:00",
+        "episodeTitle": "8 Simple Rules for Buying My Teenage Daughter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T03:30:00-04:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T03:45:00-04:00",
+        "episodeTitle": "Moesha Poppins",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T04:00:00-04:00",
+        "episodeTitle": "Clowns",
+        "rating": "TV-14 ",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T04:15:00-04:00",
+        "episodeTitle": "NEWNOW",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T04:30:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T05:00:00-04:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-21T00:00:00-04:00",
+        "datetime": "2016-09-22T05:30:00-04:00",
+        "episodeTitle": "Born Again on the 4th of July",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

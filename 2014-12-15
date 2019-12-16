@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-15T21:00:00-05:00",
+        "episodeTitle": "Murray Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-15T21:30:00-05:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-15T22:00:00-05:00",
+        "episodeTitle": "Minstrel Krampus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-15T22:30:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-15T23:00:00-05:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-15T23:30:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T00:00:00-05:00",
+        "episodeTitle": "The Robot Chicken Lots of Holidays Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T00:15:00-05:00",
+        "episodeTitle": "Robot Chicken's ATM Christmas Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T00:30:00-05:00",
+        "episodeTitle": "Dear Consumer",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T00:45:00-05:00",
+        "episodeTitle": "Robot Chicken Christmas Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T01:00:00-05:00",
+        "episodeTitle": "Mail Order Bride",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T01:15:00-05:00",
+        "episodeTitle": "Rebel With a Claus",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T01:30:00-05:00",
+        "episodeTitle": "Minstrel Krampus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T02:00:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T02:30:00-05:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T03:00:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T03:30:00-05:00",
+        "episodeTitle": "The Robot Chicken Lots of Holidays Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T03:45:00-05:00",
+        "episodeTitle": "Robot Chicken's ATM Christmas Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T04:00:00-05:00",
+        "episodeTitle": "Unedited Footage of a Bear",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 413553,
+        "showTitle": "Unedited Footage of a Bear"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T04:15:00-05:00",
+        "episodeTitle": "Embarrassed",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T04:30:00-05:00",
+        "episodeTitle": "Mail Order Bride",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T04:45:00-05:00",
+        "episodeTitle": "Rebel With a Claus",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T05:00:00-05:00",
+        "episodeTitle": "Murray Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-15T00:00:00-05:00",
+        "datetime": "2014-12-16T05:30:00-05:00",
+        "episodeTitle": "Livin' on Reds, Vitamin C and Propane",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

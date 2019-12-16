@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-22T21:00:00-05:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-22T21:30:00-05:00",
+        "episodeTitle": "Rubberneckers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-22T22:00:00-05:00",
+        "episodeTitle": "Adventures in Chinchilla-Sitting",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-22T22:30:00-05:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-22T23:00:00-05:00",
+        "episodeTitle": "Quagmire's Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-22T23:30:00-05:00",
+        "episodeTitle": "Jerome Is the New Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T00:00:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T00:30:00-05:00",
+        "episodeTitle": "Please Do Not Notify Our Contractors",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T00:45:00-05:00",
+        "episodeTitle": "Especially the Animal Keith Crofford!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T01:00:00-05:00",
+        "episodeTitle": "Chance the Rapper & Mel B",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T01:15:00-05:00",
+        "episodeTitle": "Coma",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T01:30:00-05:00",
+        "episodeTitle": "Adventures in Chinchilla-Sitting",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T02:00:00-05:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T02:30:00-05:00",
+        "episodeTitle": "Quagmire's Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T03:00:00-05:00",
+        "episodeTitle": "Jerome Is the New Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T03:30:00-05:00",
+        "episodeTitle": "She Swill Survive",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T04:00:00-05:00",
+        "episodeTitle": "A Very Special Christmas in Compton",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T04:30:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T05:00:00-05:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-02-22T00:00:00-05:00",
+        "datetime": "2018-02-23T05:30:00-05:00",
+        "episodeTitle": "Yankee Hankie",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

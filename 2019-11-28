@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-28T21:00:00-05:00",
+        "episodeTitle": "There Will Be Bad Blood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-28T21:30:00-05:00",
+        "episodeTitle": "Kung Pao Turkey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-28T22:00:00-05:00",
+        "episodeTitle": "The Quirk-Ducers",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-28T22:30:00-05:00",
+        "episodeTitle": "Thanks-hoarding",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-28T23:00:00-05:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-28T23:30:00-05:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T00:00:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T00:30:00-05:00",
+        "episodeTitle": "Joe Pera Shows You Iron",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T00:45:00-05:00",
+        "episodeTitle": "Joe Pera Takes You to Breakfast",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T01:00:00-05:00",
+        "episodeTitle": "The Dressing",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T01:15:00-05:00",
+        "episodeTitle": "Thanks-Taking",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T01:30:00-05:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T02:00:00-05:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T02:30:00-05:00",
+        "episodeTitle": "There Will Be Bad Blood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T03:00:00-05:00",
+        "episodeTitle": "Kung Pao Turkey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T03:30:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T04:00:00-05:00",
+        "episodeTitle": "Fire",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T04:15:00-05:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T04:30:00-05:00",
+        "episodeTitle": "The Dressing",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T04:45:00-05:00",
+        "episodeTitle": "Thanks-Taking",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T05:00:00-05:00",
+        "episodeTitle": "The Quirk-Ducers",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-28T00:00:00-05:00",
+        "datetime": "2019-11-29T05:30:00-05:00",
+        "episodeTitle": "Thanks-hoarding",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

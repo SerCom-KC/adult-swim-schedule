@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-27T21:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-27T21:30:00-04:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-27T22:00:00-04:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-27T22:30:00-04:00",
+        "episodeTitle": "The Kids Run Away",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-27T23:00:00-04:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-27T23:30:00-04:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T00:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T00:30:00-04:00",
+        "episodeTitle": "Zero Vegetables",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T00:45:00-04:00",
+        "episodeTitle": "Joel Hurwitz",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T01:00:00-04:00",
+        "episodeTitle": "Hotchick",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T01:15:00-04:00",
+        "episodeTitle": "Performance Klok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T01:30:00-04:00",
+        "episodeTitle": "The Kids Run Away",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T02:00:00-04:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T02:30:00-04:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T03:00:00-04:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T03:30:00-04:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 4/27/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 4/27/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T04:30:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T05:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-04-27T00:00:00-04:00",
+        "datetime": "2018-04-28T05:30:00-04:00",
+        "episodeTitle": "Arlen City Bomber",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

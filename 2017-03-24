@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-24T21:00:00-04:00",
+        "episodeTitle": "Live and Let Fry",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-24T21:30:00-04:00",
+        "episodeTitle": "Roy Rodgers McFreely",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-24T22:00:00-04:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-24T22:30:00-04:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-24T23:00:00-04:00",
+        "episodeTitle": "Airport '07",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-24T23:30:00-04:00",
+        "episodeTitle": "Bill and Peter's Bogus Journey",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T00:00:00-04:00",
+        "episodeTitle": "1987",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T00:15:00-04:00",
+        "episodeTitle": "Old Man of the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T00:30:00-04:00",
+        "episodeTitle": "Smokin' with Cigarettes",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T01:00:00-04:00",
+        "episodeTitle": "Revenge of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T01:15:00-04:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T01:30:00-04:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T02:00:00-04:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T02:30:00-04:00",
+        "episodeTitle": "Airport '07",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T03:00:00-04:00",
+        "episodeTitle": "Bill and Peter's Bogus Journey",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T03:30:00-04:00",
+        "episodeTitle": "Roy Rodgers McFreely",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T04:00:00-04:00",
+        "episodeTitle": "Toonami - 3/17/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T04:30:00-04:00",
+        "episodeTitle": "Revenge of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T04:45:00-04:00",
+        "episodeTitle": "MC Pee Pants",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T05:00:00-04:00",
+        "episodeTitle": "Brotherly Love",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-03-24T00:00:00-04:00",
+        "datetime": "2017-03-25T05:30:00-04:00",
+        "episodeTitle": "Won't You Pimai Neighbor?",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

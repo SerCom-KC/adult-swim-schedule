@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-07T21:00:00-05:00",
+        "episodeTitle": "Crotchwalkers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-07T21:30:00-05:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-07T22:00:00-05:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-07T22:30:00-05:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-07T23:00:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-07T23:30:00-05:00",
+        "episodeTitle": "Zero Vegetables",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-07T23:45:00-05:00",
+        "episodeTitle": "Old Man of the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T00:00:00-05:00",
+        "episodeTitle": "Maybe No Go",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T00:30:00-05:00",
+        "episodeTitle": "Working Stiffs",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 10,
+        "showID": 397292,
+        "showTitle": "Aqua TV Show Show"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T00:45:00-05:00",
+        "episodeTitle": "Dead Man's Curve",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T01:00:00-05:00",
+        "episodeTitle": "Like a Boss",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T01:30:00-05:00",
+        "episodeTitle": "Crotchwalkers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T02:00:00-05:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T02:30:00-05:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T03:00:00-05:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T03:30:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T04:00:00-05:00",
+        "episodeTitle": "Zero Vegetables",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T04:15:00-05:00",
+        "episodeTitle": "Old Man of the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T04:30:00-05:00",
+        "episodeTitle": "Maybe No Go",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T05:00:00-05:00",
+        "episodeTitle": "Hank's Cowboy Movie",
+        "rating": "TV-PG D",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-02-07T00:00:00-05:00",
+        "datetime": "2016-02-08T05:30:00-05:00",
+        "episodeTitle": "Daletech",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

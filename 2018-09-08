@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-08T21:00:00-04:00",
+        "episodeTitle": "Total Recall",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-08T21:30:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-08T22:00:00-04:00",
+        "episodeTitle": "Strategy, Strategy, Strategy",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-08T22:30:00-04:00",
+        "episodeTitle": "Even the Universes' Gods are Appalled?! The Lose-and-Perish",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-08T23:00:00-04:00",
+        "episodeTitle": "Old Story",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-08T23:30:00-04:00",
+        "episodeTitle": "Flying Memory",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 447433,
+        "showTitle": "FLCL: Alternative"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T00:00:00-04:00",
+        "episodeTitle": "Ginza Hostess Detective",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 449452,
+        "showTitle": "Pop Team Epic"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T00:30:00-04:00",
+        "episodeTitle": "The Nijimura Brothers Part 1",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T01:00:00-04:00",
+        "episodeTitle": "Confusion x and x Expectation",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T01:30:00-04:00",
+        "episodeTitle": "The One with No Magic",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T02:00:00-04:00",
+        "episodeTitle": "Infiltrator",
+        "rating": "TV-PG V",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T02:30:00-04:00",
+        "episodeTitle": "The Modern Ninja",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T03:00:00-04:00",
+        "episodeTitle": "The End of Lupin III",
+        "rating": "TV-PG LS",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T03:30:00-04:00",
+        "episodeTitle": "Boogie-Woogie Feng-Shui",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T04:00:00-04:00",
+        "episodeTitle": "The Trial of Robert Kelly",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T04:30:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T05:00:00-04:00",
+        "episodeTitle": "Who Done Did It?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-09-08T00:00:00-04:00",
+        "datetime": "2018-09-09T05:30:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-19T21:00:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-19T21:30:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-19T22:00:00-04:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-19T22:30:00-04:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-19T23:00:00-04:00",
+        "episodeTitle": "Farmer Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-19T23:30:00-04:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T00:00:00-04:00",
+        "episodeTitle": "Sweet C",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T00:15:00-04:00",
+        "episodeTitle": "Shoulder Work",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T00:30:00-04:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T00:45:00-04:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T01:00:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T01:30:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T02:00:00-04:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T02:30:00-04:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T03:00:00-04:00",
+        "episodeTitle": "Farmer Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T03:30:00-04:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T04:00:00-04:00",
+        "episodeTitle": "Sweet C",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T04:15:00-04:00",
+        "episodeTitle": "Shoulder Work",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T04:30:00-04:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T04:45:00-04:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T05:00:00-04:00",
+        "episodeTitle": "When Cotton Comes Marching Home",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-07-19T00:00:00-04:00",
+        "datetime": "2015-07-20T05:30:00-04:00",
+        "episodeTitle": "What Makes Bobby Run?",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

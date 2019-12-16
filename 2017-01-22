@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-22T21:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-22T21:30:00-05:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-22T22:00:00-05:00",
+        "episodeTitle": "Fight and Flight",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-22T22:30:00-05:00",
+        "episodeTitle": "A Shot in the Dark",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-22T23:00:00-05:00",
+        "episodeTitle": "Brokeback Swanson",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-22T23:30:00-05:00",
+        "episodeTitle": "The Invisible Hand of Fate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T00:00:00-05:00",
+        "episodeTitle": "A Shop in the Dark",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T00:30:00-05:00",
+        "episodeTitle": "Busted",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 365995,
+        "showTitle": "Titan Maximum"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T00:45:00-05:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T01:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T01:30:00-05:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T02:00:00-05:00",
+        "episodeTitle": "Fight and Flight",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T02:30:00-05:00",
+        "episodeTitle": "A Shot in the Dark",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T03:00:00-05:00",
+        "episodeTitle": "Brokeback Swanson",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T03:30:00-05:00",
+        "episodeTitle": "The Invisible Hand of Fate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T04:00:00-05:00",
+        "episodeTitle": "A Shop in the Dark",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T04:30:00-05:00",
+        "episodeTitle": "Busted",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 365995,
+        "showTitle": "Titan Maximum"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T04:45:00-05:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T05:00:00-05:00",
+        "episodeTitle": "Life: A Loser's Manual",
+        "rating": "TV-PG LS",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-01-22T00:00:00-05:00",
+        "datetime": "2017-01-23T05:30:00-05:00",
+        "episodeTitle": "Lost In My Space",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

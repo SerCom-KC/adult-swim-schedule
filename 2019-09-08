@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-08T21:00:00-04:00",
+        "episodeTitle": "The Millie-Churian Candidate",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-08T21:30:00-04:00",
+        "episodeTitle": "The Gayle Tales",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-08T22:00:00-04:00",
+        "episodeTitle": "One-Woman Swole",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-08T22:30:00-04:00",
+        "episodeTitle": "Our Idiot Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-08T23:00:00-04:00",
+        "episodeTitle": "This Little Piggy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-08T23:30:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T00:00:00-04:00",
+        "episodeTitle": "Cooler-Heads Prevail",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T00:15:00-04:00",
+        "episodeTitle": "Blue Lives Battered",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T00:30:00-04:00",
+        "episodeTitle": "Time to Fly",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T00:45:00-04:00",
+        "episodeTitle": "Make a Wish and Blow",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T01:00:00-04:00",
+        "episodeTitle": "These Nuts",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T01:15:00-04:00",
+        "episodeTitle": "Crash for Cash",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T01:30:00-04:00",
+        "episodeTitle": "One-Woman Swole",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T02:00:00-04:00",
+        "episodeTitle": "Our Idiot Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T02:30:00-04:00",
+        "episodeTitle": "This Little Piggy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T03:00:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T03:30:00-04:00",
+        "episodeTitle": "Cooler-Heads Prevail",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T03:45:00-04:00",
+        "episodeTitle": "Blue Lives Battered",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T04:00:00-04:00",
+        "episodeTitle": "Time to Fly",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T04:15:00-04:00",
+        "episodeTitle": "Make a Wish and Blow",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T04:30:00-04:00",
+        "episodeTitle": "These Nuts",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T04:45:00-04:00",
+        "episodeTitle": "Crash for Cash",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T05:00:00-04:00",
+        "episodeTitle": "The Millie-Churian Candidate",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-08T00:00:00-04:00",
+        "datetime": "2019-09-09T05:30:00-04:00",
+        "episodeTitle": "The Gayle Tales",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

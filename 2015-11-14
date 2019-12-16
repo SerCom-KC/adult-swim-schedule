@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-14T21:00:00-05:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-14T21:30:00-05:00",
+        "episodeTitle": "Two for Tina",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-14T22:00:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-14T22:30:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-14T23:00:00-05:00",
+        "episodeTitle": "He's Too Sexy for His Fat",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-14T23:30:00-05:00",
+        "episodeTitle": "Bigfat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T00:00:00-05:00",
+        "episodeTitle": "Awaken, Legendary Warrior! Goku the Super Saiyan!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T00:30:00-05:00",
+        "episodeTitle": "Kill the Hindrance",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T01:00:00-05:00",
+        "episodeTitle": "The Sun Also Rises",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T01:30:00-05:00",
+        "episodeTitle": "Nettlesome Light-Blocking Butterfly",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 419352,
+        "showTitle": "Michiko & Hatchin"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T02:00:00-05:00",
+        "episodeTitle": "The Price of Power",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T02:30:00-05:00",
+        "episodeTitle": "Departing the City of Water! Usopp Mans Up and Brings Closure to the Duel!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T03:00:00-05:00",
+        "episodeTitle": "Don't Toy with Me on a Whim",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T03:30:00-05:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T04:00:00-05:00",
+        "episodeTitle": "Two for Tina",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T04:30:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T05:00:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-14T00:00:00-05:00",
+        "datetime": "2015-11-15T05:30:00-05:00",
+        "episodeTitle": "Jon Vitti Presents: Return to La Grunta",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

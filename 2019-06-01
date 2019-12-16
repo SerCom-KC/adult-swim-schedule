@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-01T21:00:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-01T21:30:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-01T22:00:00-04:00",
+        "episodeTitle": "Family Gay",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-01T22:30:00-04:00",
+        "episodeTitle": "Create Those Ultimate Moves",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-01T23:00:00-04:00",
+        "episodeTitle": "With Great Joy! The Fighting Freak Saiyans' Battle Rejoined!!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-01T23:30:00-04:00",
+        "episodeTitle": "Thunder Spears",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T00:00:00-04:00",
+        "episodeTitle": "021145",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 456292,
+        "showTitle": "The Promised Neverland"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T00:30:00-04:00",
+        "episodeTitle": "The Legendary Hero",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T01:00:00-04:00",
+        "episodeTitle": "Shining D (Diamond) Is Unbreakable Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T01:30:00-04:00",
+        "episodeTitle": "Saint Elmo's Fire",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T02:00:00-04:00",
+        "episodeTitle": "The Super Beast Scroll Slump!",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T02:30:00-04:00",
+        "episodeTitle": "The Angelic Herald of Death",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T03:00:00-04:00",
+        "episodeTitle": "Defeat x and x Reunion",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T03:30:00-04:00",
+        "episodeTitle": "Chapter 1B: Your Serve",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T04:00:00-04:00",
+        "episodeTitle": "The Fund-Raiser",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T04:30:00-04:00",
+        "episodeTitle": "\"Mister Rogers' Revenge\" or \"Please Don't You Be His Neighbor\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T05:00:00-04:00",
+        "episodeTitle": "Guess Who's Coming to State Dinner",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-06-01T00:00:00-04:00",
+        "datetime": "2019-06-02T05:30:00-04:00",
+        "episodeTitle": "Class Trip",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

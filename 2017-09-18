@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-18T21:00:00-04:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-18T21:30:00-04:00",
+        "episodeTitle": "Less Money, Mo' Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-18T22:00:00-04:00",
+        "episodeTitle": "Li'l Hard Dad",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-18T22:30:00-04:00",
+        "episodeTitle": "Adventures in Chinchilla-Sitting",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-18T23:00:00-04:00",
+        "episodeTitle": "Quagmire's Dad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-18T23:30:00-04:00",
+        "episodeTitle": "The Splendid Source",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T00:00:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T00:15:00-04:00",
+        "episodeTitle": "Plastic Buffet",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T00:30:00-04:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T00:45:00-04:00",
+        "episodeTitle": "The South Bronx Paradise Diet",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T01:00:00-04:00",
+        "episodeTitle": "Nutcracker Sweet",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T01:15:00-04:00",
+        "episodeTitle": "Fight Club Paradise",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T01:30:00-04:00",
+        "episodeTitle": "Li'l Hard Dad",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T02:00:00-04:00",
+        "episodeTitle": "Adventures in Chinchilla-Sitting",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T02:30:00-04:00",
+        "episodeTitle": "Quagmire's Dad",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T03:00:00-04:00",
+        "episodeTitle": "The Splendid Source",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T03:30:00-04:00",
+        "episodeTitle": "Stan's Best Friend",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T04:00:00-04:00",
+        "episodeTitle": "In Search of Miracle Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T04:15:00-04:00",
+        "episodeTitle": "Smart Pipe",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T04:30:00-04:00",
+        "episodeTitle": "Nutcracker Sweet",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T04:45:00-04:00",
+        "episodeTitle": "Fight Club Paradise",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T05:00:00-04:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-18T00:00:00-04:00",
+        "datetime": "2017-09-19T05:30:00-04:00",
+        "episodeTitle": "Of Mice and Little Green Men",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

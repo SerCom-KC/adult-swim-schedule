@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-21T21:00:00-04:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-21T21:30:00-04:00",
+        "episodeTitle": "Mine Struggle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-21T22:00:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-21T22:30:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-21T23:00:00-04:00",
+        "episodeTitle": "Be Careful What You Fish For",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-21T23:30:00-04:00",
+        "episodeTitle": "Burning Down the Bayit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T00:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T00:30:00-04:00",
+        "episodeTitle": "Casablankman II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T00:45:00-04:00",
+        "episodeTitle": "Tommy Goes to School",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T01:00:00-04:00",
+        "episodeTitle": "Chris Jericho; Roy Hibbert; Flavor Flav",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T01:15:00-04:00",
+        "episodeTitle": "Universe",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T01:30:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T02:00:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T02:30:00-04:00",
+        "episodeTitle": "Be Careful What You Fish For",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T03:00:00-04:00",
+        "episodeTitle": "Burning Down the Bayit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T03:30:00-04:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T04:00:00-04:00",
+        "episodeTitle": "Home",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T04:15:00-04:00",
+        "episodeTitle": "Werelan",
+        "rating": "TV-MA S",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T04:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T05:00:00-04:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-21T00:00:00-04:00",
+        "datetime": "2018-03-22T05:30:00-04:00",
+        "episodeTitle": "Dances With Dogs",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

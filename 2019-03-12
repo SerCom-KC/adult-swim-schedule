@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-12T21:00:00-04:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-12T21:30:00-04:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-12T22:00:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-12T22:30:00-04:00",
+        "episodeTitle": "Meg Stinks!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-12T23:00:00-04:00",
+        "episodeTitle": "He's Bla-ack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-12T23:30:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T00:00:00-04:00",
+        "episodeTitle": "Hi.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T00:15:00-04:00",
+        "episodeTitle": "Junk in the Trunk",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T00:30:00-04:00",
+        "episodeTitle": "Lipstick on a Squid",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T00:45:00-04:00",
+        "episodeTitle": "Southern Pride and Prejudice",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T01:00:00-04:00",
+        "episodeTitle": "A Date with the Booty Warrior",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T01:30:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T02:00:00-04:00",
+        "episodeTitle": "Meg Stinks!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T02:30:00-04:00",
+        "episodeTitle": "He's Bla-ack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T03:00:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T03:30:00-04:00",
+        "episodeTitle": "Hi.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T03:45:00-04:00",
+        "episodeTitle": "Junk in the Trunk",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T04:00:00-04:00",
+        "episodeTitle": "Wet City",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 454473,
+        "showTitle": "Wet City"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T04:15:00-04:00",
+        "episodeTitle": "Shop: A Pop Opera",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 454472,
+        "showTitle": "SHOP: A Pop Opera"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T04:30:00-04:00",
+        "episodeTitle": "A Date with the Booty Warrior",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T05:00:00-04:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-12T00:00:00-04:00",
+        "datetime": "2019-03-13T05:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

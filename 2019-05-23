@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-23T21:00:00-04:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-23T21:30:00-04:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-23T22:00:00-04:00",
+        "episodeTitle": "Hawk & Chick",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-23T22:30:00-04:00",
+        "episodeTitle": "Stewie Kills Lois Part 1",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-23T23:00:00-04:00",
+        "episodeTitle": "Lois Kills Stewie Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-23T23:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T00:00:00-04:00",
+        "episodeTitle": "The Core, the Thief, His Wife and Her Lover",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T00:15:00-04:00",
+        "episodeTitle": "The Godfather of the Bride II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T00:30:00-04:00",
+        "episodeTitle": "Snow Daddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T00:45:00-04:00",
+        "episodeTitle": "Ballmart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T01:00:00-04:00",
+        "episodeTitle": "The Fried Chicken Flu",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T01:30:00-04:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T02:00:00-04:00",
+        "episodeTitle": "Stewie Kills Lois Part 1",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T02:30:00-04:00",
+        "episodeTitle": "Lois Kills Stewie Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T03:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T03:30:00-04:00",
+        "episodeTitle": "The Core, the Thief, His Wife and Her Lover",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T03:45:00-04:00",
+        "episodeTitle": "The Godfather of the Bride II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T04:00:00-04:00",
+        "episodeTitle": "Color",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T04:15:00-04:00",
+        "episodeTitle": "Nightmares",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T04:30:00-04:00",
+        "episodeTitle": "The Fried Chicken Flu",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T05:00:00-04:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-23T00:00:00-04:00",
+        "datetime": "2019-05-24T05:30:00-04:00",
+        "episodeTitle": "Hawk & Chick",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

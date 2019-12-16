@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-16T21:00:00-04:00",
+        "episodeTitle": "Hot Cocoa Bang Bang",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-16T21:30:00-04:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-16T22:00:00-04:00",
+        "episodeTitle": "Run the Jewels - Oh Mama",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 447052,
+        "showTitle": "Run the Jewels - Oh Mama"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-16T22:05:00-04:00",
+        "episodeTitle": "The Dentist's Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-16T22:30:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-16T23:00:00-04:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-16T23:30:00-04:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T00:00:00-04:00",
+        "episodeTitle": "Run the Jewels - Oh Mama",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 447052,
+        "showTitle": "Run the Jewels - Oh Mama"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T00:05:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T00:30:00-04:00",
+        "episodeTitle": "The Godfather of the Bride II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T00:45:00-04:00",
+        "episodeTitle": "Telemarketers Are the Devil",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T01:00:00-04:00",
+        "episodeTitle": "Jesse Williams; Jillian Michaels",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T01:15:00-04:00",
+        "episodeTitle": "Brownies",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T01:30:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T02:00:00-04:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T02:30:00-04:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T03:00:00-04:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T03:30:00-04:00",
+        "episodeTitle": "The Dentist's Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 3/16/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 3/16/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T04:30:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T05:00:00-04:00",
+        "episodeTitle": "Hot Cocoa Bang Bang",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-16T00:00:00-04:00",
+        "datetime": "2018-03-17T05:30:00-04:00",
+        "episodeTitle": "Sug Night",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-22T21:00:00-05:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-22T21:30:00-05:00",
+        "episodeTitle": "The Show of Shows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-22T22:00:00-05:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-22T22:30:00-05:00",
+        "episodeTitle": "Spring Break-Up",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-22T23:00:00-05:00",
+        "episodeTitle": "Dammit Janet",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-22T23:30:00-05:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T00:00:00-05:00",
+        "episodeTitle": "Cannot Be Erased, So Sorry",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T00:15:00-05:00",
+        "episodeTitle": "Please Do Not Notify Our Contractors",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T00:30:00-05:00",
+        "episodeTitle": "Loose Tooth",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T00:45:00-05:00",
+        "episodeTitle": "Ghosts",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T01:00:00-05:00",
+        "episodeTitle": "Home Insecurity",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T01:30:00-05:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T02:00:00-05:00",
+        "episodeTitle": "Spring Break-Up",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T02:30:00-05:00",
+        "episodeTitle": "Dammit Janet",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T03:00:00-05:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T03:30:00-05:00",
+        "episodeTitle": "Cannot Be Erased, So Sorry",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T03:45:00-05:00",
+        "episodeTitle": "Please Do Not Notify Our Contractors",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T04:00:00-05:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 324534,
+        "showTitle": "SPECIAL:"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T04:15:00-05:00",
+        "episodeTitle": "Puberty",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T04:30:00-05:00",
+        "episodeTitle": "Home Insecurity",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T05:00:00-05:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-22T00:00:00-05:00",
+        "datetime": "2015-01-23T05:30:00-05:00",
+        "episodeTitle": "Gone With the Windstorm",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

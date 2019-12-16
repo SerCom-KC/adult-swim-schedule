@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-04T21:00:00-05:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-04T21:30:00-05:00",
+        "episodeTitle": "Gangsta's Paradise",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-04T21:45:00-05:00",
+        "episodeTitle": "Ray's Perfect Date",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-04T22:00:00-05:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-04T22:30:00-05:00",
+        "episodeTitle": "Ocean's Three and a Half",
+        "rating": "TV-14 DL",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-04T23:00:00-05:00",
+        "episodeTitle": "Family Gay",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-04T23:30:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T00:00:00-05:00",
+        "episodeTitle": "Joe Pera Takes You on a Fall Drive",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T00:15:00-05:00",
+        "episodeTitle": "Joe Pera Shows You How to Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T00:30:00-05:00",
+        "episodeTitle": "Death Punch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T00:45:00-05:00",
+        "episodeTitle": "Double Your Displeasure",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T01:00:00-05:00",
+        "episodeTitle": "The Nurple Rainbow",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T01:15:00-05:00",
+        "episodeTitle": "The Magmafying Past",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T01:30:00-05:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T02:00:00-05:00",
+        "episodeTitle": "Ocean's Three and a Half",
+        "rating": "TV-14 DL",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T02:30:00-05:00",
+        "episodeTitle": "Family Gay",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T03:00:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T03:30:00-05:00",
+        "episodeTitle": "Joe Pera Takes You on a Fall Drive",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T03:45:00-05:00",
+        "episodeTitle": "Joe Pera Shows You How to Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T04:00:00-05:00",
+        "episodeTitle": "FishCenter - 1/04/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T04:15:00-05:00",
+        "episodeTitle": "Bloodfeast - 1/04/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449332,
+        "showTitle": "Bloodfeast"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T04:30:00-05:00",
+        "episodeTitle": "The Nurple Rainbow",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T04:45:00-05:00",
+        "episodeTitle": "The Magmafying Past",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T05:00:00-05:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-04T00:00:00-05:00",
+        "datetime": "2019-01-05T05:30:00-05:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

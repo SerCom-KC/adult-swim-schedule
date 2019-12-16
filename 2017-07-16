@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-16T21:00:00-04:00",
+        "episodeTitle": "Sexy Dance Healing",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-16T21:30:00-04:00",
+        "episodeTitle": "Next of Pin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-16T22:00:00-04:00",
+        "episodeTitle": "Road to India",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-16T22:30:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-16T23:00:00-04:00",
+        "episodeTitle": "Pilling Them Softly",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-16T23:30:00-04:00",
+        "episodeTitle": "A Dog's Life",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-16T23:45:00-04:00",
+        "episodeTitle": "Ogopogo!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T00:00:00-04:00",
+        "episodeTitle": "Lesser of Two Evils",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T00:15:00-04:00",
+        "episodeTitle": "Eros",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T00:30:00-04:00",
+        "episodeTitle": "Victoria's Secret of NIMH",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T00:45:00-04:00",
+        "episodeTitle": "The Robot Chicken Bitch Pudding Special",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T01:00:00-04:00",
+        "episodeTitle": "Sexy Dance Healing",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T01:30:00-04:00",
+        "episodeTitle": "Next of Pin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T02:00:00-04:00",
+        "episodeTitle": "Road to India",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T02:30:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T03:00:00-04:00",
+        "episodeTitle": "Pilling Them Softly",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T03:30:00-04:00",
+        "episodeTitle": "A Dog's Life",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T03:45:00-04:00",
+        "episodeTitle": "Ogopogo!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T04:00:00-04:00",
+        "episodeTitle": "Lesser of Two Evils",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T04:15:00-04:00",
+        "episodeTitle": "Eros",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T04:30:00-04:00",
+        "episodeTitle": "Victoria's Secret of NIMH",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T04:45:00-04:00",
+        "episodeTitle": "The Robot Chicken Bitch Pudding Special",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T05:00:00-04:00",
+        "episodeTitle": "When Joseph Met Lori & Made Out",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-07-16T00:00:00-04:00",
+        "datetime": "2017-07-17T05:30:00-04:00",
+        "episodeTitle": "Just Another Manic Kahn-Day",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

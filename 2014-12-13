@@ -1,0 +1,110 @@
+[
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-13T21:00:00-05:00",
+        "episodeTitle": "It's Not Easy Being Green",
+        "rating": "TV-PG LS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-13T21:30:00-05:00",
+        "episodeTitle": "The Best Christmas Story Never Told",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-13T22:00:00-05:00",
+        "episodeTitle": "A Huey Freeman Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-13T22:30:00-05:00",
+        "episodeTitle": "\"A Crisis for Christmas\" or \"The Dark Side of the Dark Side of the Moon\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-13T23:00:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-13T23:30:00-05:00",
+        "episodeTitle": "The World the Girl Saw: The Struggle for Trost Part 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-14T00:00:00-05:00",
+        "episodeTitle": "Hellsing X",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 410472,
+        "showTitle": "Hellsing Ultimate"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-14T01:30:00-05:00",
+        "episodeTitle": "Fullmetal Alchemist: The Sacred Star of Milos",
+        "rating": "TV-MA V",
+        "seasonNumber": 0,
+        "showID": 359849,
+        "showTitle": "MOVIE"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-14T04:00:00-05:00",
+        "episodeTitle": "The Abyss",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 368673,
+        "showTitle": "Fullmetal Alchemist Brotherhood"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-14T04:30:00-05:00",
+        "episodeTitle": "Affection",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-14T05:00:00-05:00",
+        "episodeTitle": "The Big Fight",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 317420,
+        "showTitle": "Big O "
+    },
+    {
+        "date": "2014-12-13T00:00:00-05:00",
+        "datetime": "2014-12-14T05:30:00-05:00",
+        "episodeTitle": "XLIV",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 4,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

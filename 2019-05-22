@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-22T21:00:00-04:00",
+        "episodeTitle": "Hurricane",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-22T21:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-22T22:00:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-22T22:30:00-04:00",
+        "episodeTitle": "Moving Out",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-22T23:00:00-04:00",
+        "episodeTitle": "Believe It or Not Joe's Walking on Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-22T23:30:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T00:00:00-04:00",
+        "episodeTitle": "The Departy Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T00:15:00-04:00",
+        "episodeTitle": "Some Like It Hitman",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T00:30:00-04:00",
+        "episodeTitle": "The Big E",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T00:45:00-04:00",
+        "episodeTitle": "Keeping it in the Family Way",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T01:00:00-04:00",
+        "episodeTitle": "Mr. Medicinal",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T01:30:00-04:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T02:00:00-04:00",
+        "episodeTitle": "Moving Out",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T02:30:00-04:00",
+        "episodeTitle": "Believe It or Not Joe's Walking on Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T03:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T03:30:00-04:00",
+        "episodeTitle": "The Departy Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T03:45:00-04:00",
+        "episodeTitle": "Some Like It Hitman",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T04:00:00-04:00",
+        "episodeTitle": "Body",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T04:15:00-04:00",
+        "episodeTitle": "Falling",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T04:30:00-04:00",
+        "episodeTitle": "Mr. Medicinal",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T05:00:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-22T00:00:00-04:00",
+        "datetime": "2019-05-23T05:30:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

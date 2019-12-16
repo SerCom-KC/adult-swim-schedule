@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-30T21:00:00-04:00",
+        "episodeTitle": "Burgerboss",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-30T21:30:00-04:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-30T22:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-30T22:30:00-04:00",
+        "episodeTitle": "Threat Levels",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-30T23:00:00-04:00",
+        "episodeTitle": "I Take Thee, Quagmire",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-30T23:30:00-04:00",
+        "episodeTitle": "Sibling Rivalry",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T00:00:00-04:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T00:15:00-04:00",
+        "episodeTitle": "The Munnery",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T00:30:00-04:00",
+        "episodeTitle": "The Clowning",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T00:45:00-04:00",
+        "episodeTitle": "Flight of the Deep Fried Pine Booby",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T01:00:00-04:00",
+        "episodeTitle": "Is College Worth It?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T01:30:00-04:00",
+        "episodeTitle": "I Take Thee, Quagmire",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T02:00:00-04:00",
+        "episodeTitle": "Sibling Rivalry",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T02:30:00-04:00",
+        "episodeTitle": "Burgerboss",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T03:00:00-04:00",
+        "episodeTitle": "Threat Levels",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T03:30:00-04:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T03:45:00-04:00",
+        "episodeTitle": "The Munnery",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T04:00:00-04:00",
+        "episodeTitle": "The Devlin Made Me Do It",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T04:15:00-04:00",
+        "episodeTitle": "Der Dieb",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T04:30:00-04:00",
+        "episodeTitle": "Is College Worth It?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T05:00:00-04:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-30T00:00:00-04:00",
+        "datetime": "2015-07-31T05:30:00-04:00",
+        "episodeTitle": "Joust like a Woman",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

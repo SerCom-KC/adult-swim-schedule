@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-27T21:00:00-04:00",
+        "episodeTitle": "'Til Deaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-27T21:30:00-04:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-27T22:00:00-04:00",
+        "episodeTitle": "Threat Levels",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-27T22:30:00-04:00",
+        "episodeTitle": "Padre de Familia",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-27T23:00:00-04:00",
+        "episodeTitle": "Peter's Daughter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-27T23:30:00-04:00",
+        "episodeTitle": "Dog House",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T00:00:00-04:00",
+        "episodeTitle": "Codename: Jennifer",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T00:15:00-04:00",
+        "episodeTitle": "Strip Club Expos\u00e9; Long Lost Twins",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T00:30:00-04:00",
+        "episodeTitle": "Scandal",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 398352,
+        "showTitle": "Hot Package"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T00:45:00-04:00",
+        "episodeTitle": "Bird Up!",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T01:00:00-04:00",
+        "episodeTitle": "Return to Spider-Skull Island",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T01:30:00-04:00",
+        "episodeTitle": "Peter's Daughter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T02:00:00-04:00",
+        "episodeTitle": "Padre de Familia",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T02:30:00-04:00",
+        "episodeTitle": "Threat Levels",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T03:00:00-04:00",
+        "episodeTitle": "Dog House",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T03:30:00-04:00",
+        "episodeTitle": "Codename: Jennifer",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T03:45:00-04:00",
+        "episodeTitle": "Strip Club Expos\u00e9; Long Lost Twins",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T04:00:00-04:00",
+        "episodeTitle": "DDWIWDD",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T04:15:00-04:00",
+        "episodeTitle": "Death",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T04:30:00-04:00",
+        "episodeTitle": "Return to Spider-Skull Island",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T05:00:00-04:00",
+        "episodeTitle": "'Til Deaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-27T00:00:00-04:00",
+        "datetime": "2015-03-28T05:30:00-04:00",
+        "episodeTitle": "The Buck Stops Here",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

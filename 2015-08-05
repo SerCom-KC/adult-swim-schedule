@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-05T21:00:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-05T21:30:00-04:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-05T22:00:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-05T22:30:00-04:00",
+        "episodeTitle": "Homeland Insecurity",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-05T23:00:00-04:00",
+        "episodeTitle": "Peterotica",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-05T23:30:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T00:00:00-04:00",
+        "episodeTitle": "A Day at the Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T00:15:00-04:00",
+        "episodeTitle": "Lust for Puppets",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T00:30:00-04:00",
+        "episodeTitle": "The Cloning",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T00:45:00-04:00",
+        "episodeTitle": "Pile M For Murder",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T01:00:00-04:00",
+        "episodeTitle": "China-Man Begins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T01:30:00-04:00",
+        "episodeTitle": "Peterotica",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T02:00:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T02:30:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T03:00:00-04:00",
+        "episodeTitle": "Homeland Insecurity",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T03:30:00-04:00",
+        "episodeTitle": "A Day at the Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T03:45:00-04:00",
+        "episodeTitle": "Lust for Puppets",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T04:00:00-04:00",
+        "episodeTitle": "Back To The Present",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T04:15:00-04:00",
+        "episodeTitle": "Legend of Baggy Pants",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T04:30:00-04:00",
+        "episodeTitle": "China-Man Begins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T05:00:00-04:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-05T00:00:00-04:00",
+        "datetime": "2015-08-06T05:30:00-04:00",
+        "episodeTitle": "Sug Night",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

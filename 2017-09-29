@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-29T21:00:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-29T21:30:00-04:00",
+        "episodeTitle": "B.M.O.C.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-29T22:00:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-29T22:30:00-04:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-29T23:00:00-04:00",
+        "episodeTitle": "Seahorse Sea Shell Party",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-29T23:30:00-04:00",
+        "episodeTitle": "Screams of Silence: The Story of Brenda Q",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T00:00:00-04:00",
+        "episodeTitle": "Suck It",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T00:15:00-04:00",
+        "episodeTitle": "Federated Resources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T00:30:00-04:00",
+        "episodeTitle": "Ogopogo!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T00:45:00-04:00",
+        "episodeTitle": "Global Grilling",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T01:00:00-04:00",
+        "episodeTitle": "Dad's Off",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T01:15:00-04:00",
+        "episodeTitle": "Forest",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T01:30:00-04:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T02:00:00-04:00",
+        "episodeTitle": "Seahorse Sea Shell Party",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T02:30:00-04:00",
+        "episodeTitle": "Screams of Silence: The Story of Brenda Q",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T03:00:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T03:30:00-04:00",
+        "episodeTitle": "B.M.O.C.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 9/29/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 9/29/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T04:30:00-04:00",
+        "episodeTitle": "Dad's Off",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T04:45:00-04:00",
+        "episodeTitle": "Forest",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T05:00:00-04:00",
+        "episodeTitle": "Vision Quest",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-09-29T00:00:00-04:00",
+        "datetime": "2017-09-30T05:30:00-04:00",
+        "episodeTitle": "Dances With Dogs",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

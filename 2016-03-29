@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-29T21:00:00-04:00",
+        "episodeTitle": "Speakeasy Rider",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-29T21:30:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-29T22:00:00-04:00",
+        "episodeTitle": "Rodger Codger",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-29T22:30:00-04:00",
+        "episodeTitle": "Homeland Insecurity",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-29T23:00:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-29T23:30:00-04:00",
+        "episodeTitle": "Internal Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T00:00:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T00:15:00-04:00",
+        "episodeTitle": "A Piece of the Action",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T00:30:00-04:00",
+        "episodeTitle": "Dumber Dolls",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T00:45:00-04:00",
+        "episodeTitle": "Mephistopheles Traveled Below To A Southern State Whose State Motto Is Wisdom, Justice, & Moderation",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T01:00:00-04:00",
+        "episodeTitle": "A Party for Tarzan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T01:30:00-04:00",
+        "episodeTitle": "Rodger Codger",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T02:00:00-04:00",
+        "episodeTitle": "Homeland Insecurity",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T02:30:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T03:00:00-04:00",
+        "episodeTitle": "Internal Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T03:30:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T03:45:00-04:00",
+        "episodeTitle": "A Piece of the Action",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T04:00:00-04:00",
+        "episodeTitle": "Big Grams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T04:15:00-04:00",
+        "episodeTitle": "For-Profit Online University",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T04:30:00-04:00",
+        "episodeTitle": "Midday Run",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T05:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-29T00:00:00-04:00",
+        "datetime": "2016-03-30T05:30:00-04:00",
+        "episodeTitle": "Six Characters in Search of a House",
+        "rating": "TV-PG L",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

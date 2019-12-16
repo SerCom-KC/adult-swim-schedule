@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-10T21:00:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-10T21:30:00-04:00",
+        "episodeTitle": "Another Bad Thanksgiving",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-10T22:00:00-04:00",
+        "episodeTitle": "Less Money, Mo' Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-10T22:30:00-04:00",
+        "episodeTitle": "The Kidney Stays in the Picture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-10T23:00:00-04:00",
+        "episodeTitle": "Stewie Loves Lois",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-10T23:30:00-04:00",
+        "episodeTitle": "Mother Tucker",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T00:00:00-04:00",
+        "episodeTitle": "Noidstrom Rack",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T00:15:00-04:00",
+        "episodeTitle": "Stone Cold Steve Cold Stone",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T00:30:00-04:00",
+        "episodeTitle": "Ty-Stunned",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T00:45:00-04:00",
+        "episodeTitle": "Dickesode",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T01:00:00-04:00",
+        "episodeTitle": "Baby Boom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T01:15:00-04:00",
+        "episodeTitle": "The Lord's Prayer",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T01:30:00-04:00",
+        "episodeTitle": "Stewie Loves Lois",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T02:00:00-04:00",
+        "episodeTitle": "Mother Tucker",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T02:30:00-04:00",
+        "episodeTitle": "Less Money, Mo' Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T03:00:00-04:00",
+        "episodeTitle": "The Kidney Stays in the Picture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T03:30:00-04:00",
+        "episodeTitle": "Noidstrom Rack",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T03:45:00-04:00",
+        "episodeTitle": "Stone Cold Steve Cold Stone",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T04:00:00-04:00",
+        "episodeTitle": "Too Many Cooks",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T04:15:00-04:00",
+        "episodeTitle": "Snow",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T04:30:00-04:00",
+        "episodeTitle": "Baby Boom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T04:45:00-04:00",
+        "episodeTitle": "The Lord's Prayer",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T05:00:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-10T00:00:00-04:00",
+        "datetime": "2015-03-11T05:30:00-04:00",
+        "episodeTitle": "Escape from Party Island",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

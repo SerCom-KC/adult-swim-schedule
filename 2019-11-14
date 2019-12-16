@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-14T21:00:00-05:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-14T21:30:00-05:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-14T22:00:00-05:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-14T22:30:00-05:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-14T23:00:00-05:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-14T23:30:00-05:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T00:00:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T00:30:00-05:00",
+        "episodeTitle": "My Dear Boy",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T00:45:00-05:00",
+        "episodeTitle": "Vegans",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T01:00:00-05:00",
+        "episodeTitle": "Prankklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T01:15:00-05:00",
+        "episodeTitle": "Motherklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T01:30:00-05:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T02:00:00-05:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T02:30:00-05:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T03:00:00-05:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T03:30:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T04:00:00-05:00",
+        "episodeTitle": "Congroined Hearts",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T04:15:00-05:00",
+        "episodeTitle": "Braingea's Final Cranny",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T04:30:00-05:00",
+        "episodeTitle": "Prankklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T04:45:00-05:00",
+        "episodeTitle": "Motherklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T05:00:00-05:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-14T00:00:00-05:00",
+        "datetime": "2019-11-15T05:30:00-05:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

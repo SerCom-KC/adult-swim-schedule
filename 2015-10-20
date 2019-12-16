@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-20T21:00:00-04:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-20T21:30:00-04:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-20T22:00:00-04:00",
+        "episodeTitle": "Merlot Down Dirty Shame",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-20T22:30:00-04:00",
+        "episodeTitle": "Bully for Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-20T23:00:00-04:00",
+        "episodeTitle": "Amish Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-20T23:30:00-04:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T00:00:00-04:00",
+        "episodeTitle": "Rebel Appliance",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T00:15:00-04:00",
+        "episodeTitle": "Legion of Super-Gyros",
+        "rating": "TV-MA S",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T00:30:00-04:00",
+        "episodeTitle": "Kangarilla and the Magic Tarantula",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T00:45:00-04:00",
+        "episodeTitle": "Jose, Can You? S\u00ed!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T01:00:00-04:00",
+        "episodeTitle": "Best Friends Forever",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T01:15:00-04:00",
+        "episodeTitle": "Dethsources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T01:30:00-04:00",
+        "episodeTitle": "Merlot Down Dirty Shame",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T02:00:00-04:00",
+        "episodeTitle": "Bully for Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T02:30:00-04:00",
+        "episodeTitle": "Amish Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T03:00:00-04:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T03:30:00-04:00",
+        "episodeTitle": "Rebel Appliance",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T03:45:00-04:00",
+        "episodeTitle": "Legion of Super-Gyros",
+        "rating": "TV-MA S",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T04:00:00-04:00",
+        "episodeTitle": "Hunger of the Vampire",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T04:15:00-04:00",
+        "episodeTitle": "The Busboy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T04:30:00-04:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T05:00:00-04:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-20T00:00:00-04:00",
+        "datetime": "2015-10-21T05:30:00-04:00",
+        "episodeTitle": "Lucky See, Monkey Do",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

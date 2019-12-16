@@ -1,0 +1,155 @@
+[
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-09T21:00:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-09T21:30:00-05:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-09T22:00:00-05:00",
+        "episodeTitle": "Save the Clam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-09T22:30:00-05:00",
+        "episodeTitle": "Farmer Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-09T23:00:00-05:00",
+        "episodeTitle": "Survive! The \"Tournament of Power\" Begins at Last!!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-09T23:30:00-05:00",
+        "episodeTitle": "Run, Sarada!",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T00:00:00-05:00",
+        "episodeTitle": "Stripping the Varnish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T00:30:00-05:00",
+        "episodeTitle": "Underworld",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T01:30:00-05:00",
+        "episodeTitle": "Yoshikage Kira Just Wants to Live Quietly Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T02:00:00-05:00",
+        "episodeTitle": "The Man Named Fanzell, Continued",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T02:30:00-05:00",
+        "episodeTitle": "Formidable Enemy x and x Clear Objective",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T03:00:00-05:00",
+        "episodeTitle": "Friends You Can Count On",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T03:30:00-05:00",
+        "episodeTitle": "Friends",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T04:00:00-05:00",
+        "episodeTitle": "THE AGE OF POP TEAM EPIC",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449452,
+        "showTitle": "Pop Team Epic"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T04:30:00-05:00",
+        "episodeTitle": "Sovereign of Mars",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T05:00:00-05:00",
+        "episodeTitle": "Ghosts of the Sargasso",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-02-09T00:00:00-05:00",
+        "datetime": "2019-02-10T05:30:00-05:00",
+        "episodeTitle": "The Art of the Sucker Punch",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-22T21:00:00-04:00",
+        "episodeTitle": "It's the Great Pancake, Junior Brown",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-22T21:30:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-22T22:00:00-04:00",
+        "episodeTitle": "The Cook, the Steve, the Gayle, & Her Lover",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-22T22:30:00-04:00",
+        "episodeTitle": "The Gene & Courtney Show",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-22T23:00:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-22T23:30:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T00:00:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T00:30:00-04:00",
+        "episodeTitle": "Operation Rich in Spirit",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T00:45:00-04:00",
+        "episodeTitle": "Adultizzle Swizzle",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T01:00:00-04:00",
+        "episodeTitle": "Sperm Bank Heist",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T01:15:00-04:00",
+        "episodeTitle": "Robot Town",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T01:30:00-04:00",
+        "episodeTitle": "The Cook, the Steve, the Gayle, & Her Lover",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T02:00:00-04:00",
+        "episodeTitle": "The Gene & Courtney Show",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T02:30:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T03:00:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T03:30:00-04:00",
+        "episodeTitle": "Pulling Double Booty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T04:00:00-04:00",
+        "episodeTitle": "Live at the Necropolis: Lords of Synth",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T04:15:00-04:00",
+        "episodeTitle": "NewsHits",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T04:30:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T05:00:00-04:00",
+        "episodeTitle": "It's the Great Pancake, Junior Brown",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-22T00:00:00-04:00",
+        "datetime": "2018-05-23T05:30:00-04:00",
+        "episodeTitle": "Suite Smells of Excess",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

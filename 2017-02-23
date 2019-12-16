@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-23T21:00:00-05:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-23T21:30:00-05:00",
+        "episodeTitle": "The American Dad After School Special",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-23T22:00:00-05:00",
+        "episodeTitle": "The Hormone-Iums",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-23T22:30:00-05:00",
+        "episodeTitle": "Pro Tiki/Con Tiki",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-23T23:00:00-05:00",
+        "episodeTitle": "Brian Wallows and Peter's Swallows",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-23T23:30:00-05:00",
+        "episodeTitle": "From Method to Madness",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T00:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Clerks 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T00:15:00-05:00",
+        "episodeTitle": "Kramer vs. Showgirls",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T00:30:00-05:00",
+        "episodeTitle": "Moonajuana",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T00:45:00-05:00",
+        "episodeTitle": "Bart Oats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T01:00:00-05:00",
+        "episodeTitle": "Rick Fox",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T01:15:00-05:00",
+        "episodeTitle": "Toast",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T01:30:00-05:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T02:00:00-05:00",
+        "episodeTitle": "The American Dad After School Special",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T02:30:00-05:00",
+        "episodeTitle": "The Hormone-Iums",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T03:00:00-05:00",
+        "episodeTitle": "Brian Wallows and Peter's Swallows",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T03:30:00-05:00",
+        "episodeTitle": "From Method to Madness",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T04:00:00-05:00",
+        "episodeTitle": "\"How Honeybee Got Her Groove Back\" or \"Night of the Living D#@! Heads\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T04:30:00-05:00",
+        "episodeTitle": "Rick Fox",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T04:45:00-05:00",
+        "episodeTitle": "Toast",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T05:00:00-05:00",
+        "episodeTitle": "The Show of Shows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-02-23T00:00:00-05:00",
+        "datetime": "2017-02-24T05:30:00-05:00",
+        "episodeTitle": "Pregnant Paws",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-03T21:00:00-05:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-03T21:30:00-05:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-03T22:00:00-05:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-03T22:30:00-05:00",
+        "episodeTitle": "Uncover Black's Identity! Off to the 10th Universe's World of the Kais!",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-03T23:00:00-05:00",
+        "episodeTitle": "Miracles Happen Once. Will Goku and He Make the Ultimate Combination?",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-03T23:30:00-05:00",
+        "episodeTitle": "The Wizard King Saw",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T00:00:00-05:00",
+        "episodeTitle": "Khnum's Zenyatta and Thoth's Mondatta",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T00:30:00-05:00",
+        "episodeTitle": "Revealed Intentions",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T01:00:00-05:00",
+        "episodeTitle": "Promise x and x Reunion",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T01:30:00-05:00",
+        "episodeTitle": "The Man Who Died Twice",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T02:00:00-05:00",
+        "episodeTitle": "Cutting the Galactic Leyline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T02:30:00-05:00",
+        "episodeTitle": "The War of the Undies and Vests, Baby",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T03:00:00-05:00",
+        "episodeTitle": "Cowboy Funk",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T03:30:00-05:00",
+        "episodeTitle": "Another Chance",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T04:00:00-05:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T04:30:00-05:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T05:00:00-05:00",
+        "episodeTitle": "Bobby Goes Nuts",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-03-03T00:00:00-05:00",
+        "datetime": "2018-03-04T05:30:00-05:00",
+        "episodeTitle": "Soldier of Misfortune",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

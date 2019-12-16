@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-12T21:00:00-05:00",
+        "episodeTitle": "Gift Me Liberty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-12T21:30:00-05:00",
+        "episodeTitle": "Next of Pin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-12T22:00:00-05:00",
+        "episodeTitle": "Sacred Couch",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-12T22:30:00-05:00",
+        "episodeTitle": "Lice Things Are Lice",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-12T23:00:00-05:00",
+        "episodeTitle": "And Then There Were Fewer Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T00:00:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T00:30:00-05:00",
+        "episodeTitle": "Zero Vegetables",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T00:45:00-05:00",
+        "episodeTitle": "Joel Hurwitz",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T01:00:00-05:00",
+        "episodeTitle": "Operation: Large and in Charge",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T01:15:00-05:00",
+        "episodeTitle": "Gene E",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T01:30:00-05:00",
+        "episodeTitle": "Gift Me Liberty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T02:00:00-05:00",
+        "episodeTitle": "And Then There Were Fewer Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T03:00:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T03:30:00-05:00",
+        "episodeTitle": "Zero Vegetables",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T03:45:00-05:00",
+        "episodeTitle": "Joel Hurwitz",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T04:00:00-05:00",
+        "episodeTitle": "\"The Race War\" or \"Big Black Cannon, Balls Run!\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T04:30:00-05:00",
+        "episodeTitle": "Operation: Large and in Charge",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T04:45:00-05:00",
+        "episodeTitle": "Gene E",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T05:00:00-05:00",
+        "episodeTitle": "Sacred Couch",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-12T00:00:00-05:00",
+        "datetime": "2019-02-13T05:30:00-05:00",
+        "episodeTitle": "Lice Things Are Lice",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

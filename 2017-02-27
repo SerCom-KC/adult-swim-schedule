@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-27T21:00:00-05:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-27T21:30:00-05:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-27T22:00:00-05:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-27T22:30:00-05:00",
+        "episodeTitle": "Glued, Where's My Bob?",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-27T23:00:00-05:00",
+        "episodeTitle": "North by North Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-27T23:30:00-05:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T00:00:00-05:00",
+        "episodeTitle": "Schindler's Bucket List",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T00:15:00-05:00",
+        "episodeTitle": "No Country for Old Dogs",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T00:30:00-05:00",
+        "episodeTitle": "Carl Wash",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T00:45:00-05:00",
+        "episodeTitle": "Robots Everywhere",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T01:00:00-05:00",
+        "episodeTitle": "Tatyana Ali",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T01:15:00-05:00",
+        "episodeTitle": "Lawsuit",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T01:30:00-05:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T02:00:00-05:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T02:30:00-05:00",
+        "episodeTitle": "Secret Admiral-Irer",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T03:00:00-05:00",
+        "episodeTitle": "North by North Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T03:30:00-05:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T04:00:00-05:00",
+        "episodeTitle": "\"Mister Rogers' Revenge\" or \"Please Don't You Be His Neighbor\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T04:30:00-05:00",
+        "episodeTitle": "Tatyana Ali",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T04:45:00-05:00",
+        "episodeTitle": "Lawsuit",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T05:00:00-05:00",
+        "episodeTitle": "The Hurricane",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-02-27T00:00:00-05:00",
+        "datetime": "2017-02-28T05:30:00-05:00",
+        "episodeTitle": "Three Coaches and a Bobby",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

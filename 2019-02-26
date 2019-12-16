@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-26T21:00:00-05:00",
+        "episodeTitle": "Garbage Stan",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-26T21:30:00-05:00",
+        "episodeTitle": "Large Brother, Where Fart Thou?",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-26T22:00:00-05:00",
+        "episodeTitle": "Ex Machtina",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-26T22:30:00-05:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-26T23:00:00-05:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-26T23:30:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T00:00:00-05:00",
+        "episodeTitle": "Things Look Bad for the Streepster",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T00:15:00-05:00",
+        "episodeTitle": "Mr. Mozzarella's Hamburger Skateboard Depot",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T00:30:00-05:00",
+        "episodeTitle": "A Jailhouse Divided",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T00:45:00-05:00",
+        "episodeTitle": "Stop. Jammertime!",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T01:00:00-05:00",
+        "episodeTitle": "The Story of Catcher Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T01:30:00-05:00",
+        "episodeTitle": "Kloger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T02:00:00-05:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T02:30:00-05:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T03:00:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T03:30:00-05:00",
+        "episodeTitle": "Things Look Bad for the Streepster",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T03:45:00-05:00",
+        "episodeTitle": "Mr. Mozzarella's Hamburger Skateboard Depot",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T04:00:00-05:00",
+        "episodeTitle": "\"How Honeybee Got Her Groove Back\" or \"Night of the Living D#@! Heads\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T04:30:00-05:00",
+        "episodeTitle": "The Story of Catcher Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T05:00:00-05:00",
+        "episodeTitle": "Large Brother, Where Fart Thou?",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-26T00:00:00-05:00",
+        "datetime": "2019-02-27T05:30:00-05:00",
+        "episodeTitle": "Ex Machtina",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-21T21:00:00-04:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-21T21:30:00-04:00",
+        "episodeTitle": "Big Trouble in Little Langley",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-21T22:00:00-04:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-21T22:30:00-04:00",
+        "episodeTitle": "The Horse Rider-Er",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-21T23:00:00-04:00",
+        "episodeTitle": "Emission Impossible",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-21T23:30:00-04:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T00:00:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T00:30:00-04:00",
+        "episodeTitle": "House Haunters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T00:45:00-04:00",
+        "episodeTitle": "Chirlaxx",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T01:00:00-04:00",
+        "episodeTitle": "Sharif",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T01:15:00-04:00",
+        "episodeTitle": "Season 2 Finale",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T01:30:00-04:00",
+        "episodeTitle": "The Horse Rider-Er",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T02:00:00-04:00",
+        "episodeTitle": "Emission Impossible",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T02:30:00-04:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T03:00:00-04:00",
+        "episodeTitle": "Big Trouble in Little Langley",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T03:30:00-04:00",
+        "episodeTitle": "Haylias",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 7/21/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 7/13/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T04:30:00-04:00",
+        "episodeTitle": "House Haunters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T04:45:00-04:00",
+        "episodeTitle": "Chirlaxx",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T05:00:00-04:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-21T00:00:00-04:00",
+        "datetime": "2017-07-22T05:30:00-04:00",
+        "episodeTitle": "Peggy's Pageant Fever",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

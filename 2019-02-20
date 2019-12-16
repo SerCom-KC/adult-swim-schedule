@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-20T21:00:00-05:00",
+        "episodeTitle": "Bazooka Steve",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-20T21:30:00-05:00",
+        "episodeTitle": "Bye Bye Boo Boo",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-20T22:00:00-05:00",
+        "episodeTitle": "The Horse Rider-Er",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-20T22:30:00-05:00",
+        "episodeTitle": "Internal Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-20T23:00:00-05:00",
+        "episodeTitle": "Into Fat Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-20T23:30:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T00:00:00-05:00",
+        "episodeTitle": "Secret of the Flushed Footlong",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T00:15:00-05:00",
+        "episodeTitle": "Food",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T00:30:00-05:00",
+        "episodeTitle": "The Legend of Kid Squid",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T00:45:00-05:00",
+        "episodeTitle": "From Russia With Stud",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T01:00:00-05:00",
+        "episodeTitle": "The Invasion of the Katrinas",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T01:30:00-05:00",
+        "episodeTitle": "Casino Normale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T02:00:00-05:00",
+        "episodeTitle": "Internal Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T02:30:00-05:00",
+        "episodeTitle": "Into Fat Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T03:00:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T03:30:00-05:00",
+        "episodeTitle": "Secret of the Flushed Footlong",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T03:45:00-05:00",
+        "episodeTitle": "Food",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T04:00:00-05:00",
+        "episodeTitle": "\"Roots: The White Album\" or \"The Blacker the Community the Deeper the Roots!\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T04:30:00-05:00",
+        "episodeTitle": "The Invasion of the Katrinas",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T05:00:00-05:00",
+        "episodeTitle": "Bye Bye Boo Boo",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-20T00:00:00-05:00",
+        "datetime": "2019-02-21T05:30:00-05:00",
+        "episodeTitle": "The Horse Rider-Er",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

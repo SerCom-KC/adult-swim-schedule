@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-16T21:00:00-04:00",
+        "episodeTitle": "The Vacation Goo",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-16T21:30:00-04:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-16T22:00:00-04:00",
+        "episodeTitle": "Boyz 4 Now",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-16T22:30:00-04:00",
+        "episodeTitle": "Emission Impossible",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-16T23:00:00-04:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-16T23:30:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T00:00:00-04:00",
+        "episodeTitle": "Book of Corinne",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T00:15:00-04:00",
+        "episodeTitle": "Werewolf vs. Unicorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T00:30:00-04:00",
+        "episodeTitle": "Webnecks",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T00:45:00-04:00",
+        "episodeTitle": "Beast Implants",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T01:00:00-04:00",
+        "episodeTitle": "Tom, Sarah and Usher",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T01:30:00-04:00",
+        "episodeTitle": "Joint Custody",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T02:00:00-04:00",
+        "episodeTitle": "Emission Impossible",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T02:30:00-04:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T03:00:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T03:30:00-04:00",
+        "episodeTitle": "Book of Corinne",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T03:45:00-04:00",
+        "episodeTitle": "Werewolf vs. Unicorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T04:00:00-04:00",
+        "episodeTitle": "Fish and the Con Man",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T04:30:00-04:00",
+        "episodeTitle": "Tom, Sarah and Usher",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T05:00:00-04:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-16T00:00:00-04:00",
+        "datetime": "2019-04-17T05:30:00-04:00",
+        "episodeTitle": "Boyz 4 Now",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

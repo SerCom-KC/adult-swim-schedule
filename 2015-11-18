@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-18T21:00:00-05:00",
+        "episodeTitle": "Dog Dale Afternoon",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-18T21:30:00-05:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-18T22:00:00-05:00",
+        "episodeTitle": "Less Money, Mo' Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-18T22:30:00-05:00",
+        "episodeTitle": "The Kidney Stays in the Picture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-18T23:00:00-05:00",
+        "episodeTitle": "Peter's Got Woods",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-18T23:30:00-05:00",
+        "episodeTitle": "No Country Club for Old Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T00:00:00-05:00",
+        "episodeTitle": "That Hurts Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T00:15:00-05:00",
+        "episodeTitle": "The Black Cherry",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T00:30:00-05:00",
+        "episodeTitle": "PDA",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T00:45:00-05:00",
+        "episodeTitle": "Webnecks",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T01:00:00-05:00",
+        "episodeTitle": "The Last Pack",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T01:15:00-05:00",
+        "episodeTitle": "Dethfam",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T01:30:00-05:00",
+        "episodeTitle": "Less Money, Mo' Problems",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T02:00:00-05:00",
+        "episodeTitle": "The Kidney Stays in the Picture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T02:30:00-05:00",
+        "episodeTitle": "Peter's Got Woods",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T03:00:00-05:00",
+        "episodeTitle": "No Country Club for Old Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T03:30:00-05:00",
+        "episodeTitle": "That Hurts Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T03:45:00-05:00",
+        "episodeTitle": "The Black Cherry",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T04:00:00-05:00",
+        "episodeTitle": "El Tornadador",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T04:15:00-05:00",
+        "episodeTitle": "Thrust Issues",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T04:30:00-05:00",
+        "episodeTitle": "The Last Pack",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T04:45:00-05:00",
+        "episodeTitle": "Dethfam",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T05:00:00-05:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-18T00:00:00-05:00",
+        "datetime": "2015-11-19T05:30:00-05:00",
+        "episodeTitle": "Dog Dale Afternoon",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

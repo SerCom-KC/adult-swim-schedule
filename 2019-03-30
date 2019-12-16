@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-30T21:00:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-30T21:30:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-30T22:00:00-04:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-30T22:30:00-04:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-30T23:00:00-04:00",
+        "episodeTitle": "A Transcendent Light-Speed Battle Erupts! Goku and Hit's United Front!!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-30T23:30:00-04:00",
+        "episodeTitle": "Boruto and Sarada",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T00:00:00-04:00",
+        "episodeTitle": "Drive It Home, Iron Fist!!!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T00:30:00-04:00",
+        "episodeTitle": "Swordcraft Academy",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T01:00:00-04:00",
+        "episodeTitle": "Swordman's Pride",
+        "rating": "TV-PG V",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T01:30:00-04:00",
+        "episodeTitle": "Highway Go Go Part 2",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T02:00:00-04:00",
+        "episodeTitle": "Not in the Slightest",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T02:30:00-04:00",
+        "episodeTitle": "Homecoming x and x True Name",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T03:00:00-04:00",
+        "episodeTitle": "Land Ahoy! Is This the Island of Paradise?",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T03:30:00-04:00",
+        "episodeTitle": "First Battle: The Struggle for Trost Part 1",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T04:00:00-04:00",
+        "episodeTitle": "Home Alone",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T04:30:00-04:00",
+        "episodeTitle": "\"The S*** That Killed the King\" or \"Weekend at Presley's\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T05:00:00-04:00",
+        "episodeTitle": "Return to Spider-Skull Island",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-03-30T00:00:00-04:00",
+        "datetime": "2019-03-31T05:30:00-04:00",
+        "episodeTitle": "Brendon's Choice",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

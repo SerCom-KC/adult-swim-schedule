@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-04T21:00:00-04:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-04T21:30:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-04T22:00:00-04:00",
+        "episodeTitle": "Excellence in Broadcasting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-04T22:30:00-04:00",
+        "episodeTitle": "For My Beloved Ones! The Indomitable Great Saiyaman!!",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-04T23:00:00-04:00",
+        "episodeTitle": "In Each of Our Hearts",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-04T23:30:00-04:00",
+        "episodeTitle": "LooPQR",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 447434,
+        "showTitle": "FLCL: Progressive"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T00:00:00-04:00",
+        "episodeTitle": "The 30th Cyber War",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 449452,
+        "showTitle": "Pop Team Epic"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T00:30:00-04:00",
+        "episodeTitle": "Dio's World Part 3",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T01:00:00-04:00",
+        "episodeTitle": "Knov x and x Morel",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T01:30:00-04:00",
+        "episodeTitle": "To Help Somebody Someday",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T02:00:00-04:00",
+        "episodeTitle": "Lost Bonds",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T02:30:00-04:00",
+        "episodeTitle": "Never-ending Dandy, Baby",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T03:00:00-04:00",
+        "episodeTitle": "Mushroom Samba",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T03:30:00-04:00",
+        "episodeTitle": "Requiem for the Assassins",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T04:00:00-04:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T04:30:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T05:00:00-04:00",
+        "episodeTitle": "Another Bad Thanksgiving",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-08-04T00:00:00-04:00",
+        "datetime": "2018-08-05T05:30:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

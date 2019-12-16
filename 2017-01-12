@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-12T21:00:00-05:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-12T21:30:00-05:00",
+        "episodeTitle": "Blonde Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-12T22:00:00-05:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-12T22:30:00-05:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-12T23:00:00-05:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-12T23:30:00-05:00",
+        "episodeTitle": "Fresh Heir",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T00:00:00-05:00",
+        "episodeTitle": "Suck It",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T00:15:00-05:00",
+        "episodeTitle": "Federated Resources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T00:30:00-05:00",
+        "episodeTitle": "Kangarilla and the Magic Tarantula",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T00:45:00-05:00",
+        "episodeTitle": "Larry Miller Hair System",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T01:00:00-05:00",
+        "episodeTitle": "Chris Jericho; Roy Hibbert; Flavor Flav",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T01:15:00-05:00",
+        "episodeTitle": "Girlie Show",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T01:30:00-05:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T02:00:00-05:00",
+        "episodeTitle": "Blonde Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T02:30:00-05:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T03:00:00-05:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T03:30:00-05:00",
+        "episodeTitle": "Fresh Heir",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T04:00:00-05:00",
+        "episodeTitle": "Holes",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T04:15:00-05:00",
+        "episodeTitle": "The 6th Teat of Good Intentions",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T04:30:00-05:00",
+        "episodeTitle": "Chris Jericho; Roy Hibbert; Flavor Flav",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T04:45:00-05:00",
+        "episodeTitle": "Girlie Show",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T05:00:00-05:00",
+        "episodeTitle": "Birth of a Salesman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-12T00:00:00-05:00",
+        "datetime": "2017-01-13T05:30:00-05:00",
+        "episodeTitle": "Bill's House",
+        "rating": "TV-PG L",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

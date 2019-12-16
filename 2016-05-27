@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-27T21:00:00-04:00",
+        "episodeTitle": "Tina Tailor Soldier Spy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-27T21:30:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-27T22:00:00-04:00",
+        "episodeTitle": "Moon Over Isla Island",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-27T22:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-27T23:00:00-04:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-27T23:30:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T00:00:00-04:00",
+        "episodeTitle": "Grandparents Day",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T00:15:00-04:00",
+        "episodeTitle": "Hump Cola",
+        "rating": "TV-14 ",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T00:30:00-04:00",
+        "episodeTitle": "T-Shirt of the Dead",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T00:45:00-04:00",
+        "episodeTitle": "The Return of Gaga Pee Pap",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T01:00:00-04:00",
+        "episodeTitle": "Forest",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T01:15:00-04:00",
+        "episodeTitle": "Home",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T01:30:00-04:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T02:00:00-04:00",
+        "episodeTitle": "Tina Tailor Soldier Spy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T02:30:00-04:00",
+        "episodeTitle": "Moon Over Isla Island",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T03:00:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T03:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T04:00:00-04:00",
+        "episodeTitle": "Shapes",
+        "rating": "TV-14 V",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T04:15:00-04:00",
+        "episodeTitle": "Body",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T04:30:00-04:00",
+        "episodeTitle": "Forest",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T04:45:00-04:00",
+        "episodeTitle": "Home",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T05:00:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-27T00:00:00-04:00",
+        "datetime": "2016-05-28T05:30:00-04:00",
+        "episodeTitle": "Flush with Power",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

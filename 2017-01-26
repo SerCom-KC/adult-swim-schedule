@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-26T21:00:00-05:00",
+        "episodeTitle": "Hayley Smith, Seal Team Six",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-26T21:30:00-05:00",
+        "episodeTitle": "N.S.A. (No Snoops Allowed)",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-26T22:00:00-05:00",
+        "episodeTitle": "Mazel Tina",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-26T22:30:00-05:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-26T23:00:00-05:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-26T23:30:00-05:00",
+        "episodeTitle": "Roasted Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T00:00:00-05:00",
+        "episodeTitle": "Werewolf vs. Unicorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T00:15:00-05:00",
+        "episodeTitle": "Squaw Bury Shortcake",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T00:30:00-05:00",
+        "episodeTitle": "Super Hero",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T00:45:00-05:00",
+        "episodeTitle": "Super Bowl",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T01:00:00-05:00",
+        "episodeTitle": "Wiz Khalifa; Aubrey Peeples",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T01:15:00-05:00",
+        "episodeTitle": "Edelweiss",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T01:30:00-05:00",
+        "episodeTitle": "Hayley Smith, Seal Team Six",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T02:00:00-05:00",
+        "episodeTitle": "N.S.A. (No Snoops Allowed)",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T02:30:00-05:00",
+        "episodeTitle": "Mazel Tina",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T03:00:00-05:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T03:30:00-05:00",
+        "episodeTitle": "Roasted Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T04:00:00-05:00",
+        "episodeTitle": "Falling",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T04:15:00-05:00",
+        "episodeTitle": "Haunted Tonk",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T04:30:00-05:00",
+        "episodeTitle": "Wiz Khalifa; Aubrey Peeples",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T04:45:00-05:00",
+        "episodeTitle": "Edelweiss",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T05:00:00-05:00",
+        "episodeTitle": "The Brown Knight",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-26T00:00:00-05:00",
+        "datetime": "2017-01-27T05:30:00-05:00",
+        "episodeTitle": "Bobby Rae",
+        "rating": "TV-PG ",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

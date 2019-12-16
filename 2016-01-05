@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-05T21:00:00-05:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-05T21:30:00-05:00",
+        "episodeTitle": "Cleveland's Angels",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-05T22:00:00-05:00",
+        "episodeTitle": "Failure Is Not a Factory-Installed Option",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-05T22:30:00-05:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-05T23:00:00-05:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-05T23:30:00-05:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T00:00:00-05:00",
+        "episodeTitle": "Ban on the Fun",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T00:15:00-05:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T00:30:00-05:00",
+        "episodeTitle": "Gee Whiz",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T00:45:00-05:00",
+        "episodeTitle": "God's Bro",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T01:00:00-05:00",
+        "episodeTitle": "Burnstoolie Burn",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T01:15:00-05:00",
+        "episodeTitle": "Bookklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T01:30:00-05:00",
+        "episodeTitle": "Failure Is Not a Factory-Installed Option",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T02:00:00-05:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T02:30:00-05:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T03:00:00-05:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T03:30:00-05:00",
+        "episodeTitle": "Ban on the Fun",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T03:45:00-05:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T04:00:00-05:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T04:15:00-05:00",
+        "episodeTitle": "Smoothies, Pumpkins & Cookies",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T04:30:00-05:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T05:00:00-05:00",
+        "episodeTitle": "Cleveland's Angels",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-05T00:00:00-05:00",
+        "datetime": "2016-01-06T05:30:00-05:00",
+        "episodeTitle": "Fun with Jane and Jane",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

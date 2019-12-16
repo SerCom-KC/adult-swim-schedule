@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-13T21:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-13T21:30:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-13T22:00:00-04:00",
+        "episodeTitle": "Lethal Weapons",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-13T22:30:00-04:00",
+        "episodeTitle": "Kiss Seen 'Round the World",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-13T23:00:00-04:00",
+        "episodeTitle": "Find them Out! Deathmatch with a Furtive Attacker!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-13T23:30:00-04:00",
+        "episodeTitle": "What a Twist!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T00:00:00-04:00",
+        "episodeTitle": "121045",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 456292,
+        "showTitle": "The Promised Neverland"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T00:30:00-04:00",
+        "episodeTitle": "Central Cathedral",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T01:00:00-04:00",
+        "episodeTitle": "July 15th (Thurs) Part 1",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T01:30:00-04:00",
+        "episodeTitle": "I'm Home",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T02:00:00-04:00",
+        "episodeTitle": "The Mizukage's Successor",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T02:30:00-04:00",
+        "episodeTitle": "The Next Challenge! Naruto vs. Nine Tails!!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T03:00:00-04:00",
+        "episodeTitle": "Request x and x Wish",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T03:30:00-04:00",
+        "episodeTitle": "Small Blade: The Struggle for Trost Part 3",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T04:00:00-04:00",
+        "episodeTitle": "The Story of Catcher Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T04:30:00-04:00",
+        "episodeTitle": "A \"Apocalypse, This!\" or \"For the Pity of Fools\" a/k/\"Flashbacks Are Forever\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T05:00:00-04:00",
+        "episodeTitle": "Hate Floats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-04-13T00:00:00-04:00",
+        "datetime": "2019-04-14T05:30:00-04:00",
+        "episodeTitle": "Identifying A Body",
+        "rating": "TV-PG L",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

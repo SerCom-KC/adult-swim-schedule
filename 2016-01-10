@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-10T21:00:00-05:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-10T21:30:00-05:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-10T22:00:00-05:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-10T22:30:00-05:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-10T23:00:00-05:00",
+        "episodeTitle": "Stewie, Chris & Brian's Excellent Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-10T23:30:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T00:00:00-05:00",
+        "episodeTitle": "Blackout Window Heat Stroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T00:15:00-05:00",
+        "episodeTitle": "Greece is the Word",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T00:30:00-05:00",
+        "episodeTitle": "The Dudies",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 10,
+        "showID": 397292,
+        "showTitle": "Aqua TV Show Show"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T00:45:00-05:00",
+        "episodeTitle": "Father's Day Pie",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T01:00:00-05:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T01:30:00-05:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T02:00:00-05:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T02:30:00-05:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T03:00:00-05:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T03:30:00-05:00",
+        "episodeTitle": "Stewie, Chris & Brian's Excellent Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T04:00:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T04:30:00-05:00",
+        "episodeTitle": "Blackout Window Heat Stroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T04:45:00-05:00",
+        "episodeTitle": "Greece is the Word",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T05:00:00-05:00",
+        "episodeTitle": "Get Your Freak Off",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-10T00:00:00-05:00",
+        "datetime": "2016-01-11T05:30:00-05:00",
+        "episodeTitle": "The Fat and the Furious",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

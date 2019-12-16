@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-07T21:00:00-04:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-07T21:30:00-04:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-07T22:00:00-04:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-07T22:30:00-04:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-07T23:00:00-04:00",
+        "episodeTitle": "Up at 5",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-07T23:15:00-04:00",
+        "episodeTitle": "Koontz Is Coming",
+        "rating": "TV-14 ",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-07T23:30:00-04:00",
+        "episodeTitle": "I Gave at the Playground",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T00:00:00-04:00",
+        "episodeTitle": "True Love Will Find You",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T00:15:00-04:00",
+        "episodeTitle": "Fear is Dog Spelled Bassackwards",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T00:30:00-04:00",
+        "episodeTitle": "Hand Banana",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T00:45:00-04:00",
+        "episodeTitle": "Fatal Distraction",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T01:00:00-04:00",
+        "episodeTitle": "Surfer God",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T01:30:00-04:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T02:00:00-04:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T02:30:00-04:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T03:00:00-04:00",
+        "episodeTitle": "Hand Banana",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T03:15:00-04:00",
+        "episodeTitle": "Fatal Distraction",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T03:30:00-04:00",
+        "episodeTitle": "Surfer God",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T04:00:00-04:00",
+        "episodeTitle": "Transportation",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T04:15:00-04:00",
+        "episodeTitle": "7211",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T04:30:00-04:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T05:00:00-04:00",
+        "episodeTitle": "The Fat and the Furious",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-08-07T00:00:00-04:00",
+        "datetime": "2015-08-08T05:30:00-04:00",
+        "episodeTitle": "Get Your Freak Off",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

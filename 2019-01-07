@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-07T21:00:00-05:00",
+        "episodeTitle": "Crotchwalkers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-07T21:30:00-05:00",
+        "episodeTitle": "Two for Tina",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-07T22:00:00-05:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-07T22:30:00-05:00",
+        "episodeTitle": "Not All Dogs Go to Heaven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-07T23:00:00-05:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-07T23:30:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T00:00:00-05:00",
+        "episodeTitle": "Punctured Jugular",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T00:15:00-05:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T00:30:00-05:00",
+        "episodeTitle": "Carl",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T00:45:00-05:00",
+        "episodeTitle": "Young, Dumb and Full of Gums",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T01:00:00-05:00",
+        "episodeTitle": "The Cheeseman",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T01:15:00-05:00",
+        "episodeTitle": "Cold-Blooded",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T01:30:00-05:00",
+        "episodeTitle": "Buck, Wild",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T02:00:00-05:00",
+        "episodeTitle": "Not All Dogs Go to Heaven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T02:30:00-05:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T03:00:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T03:30:00-05:00",
+        "episodeTitle": "Punctured Jugular",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T03:45:00-05:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T04:00:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 448013,
+        "showTitle": "Chuck Deuce"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T04:15:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448452,
+        "showTitle": "Trap Universe"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T04:30:00-05:00",
+        "episodeTitle": "Carl",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T04:45:00-05:00",
+        "episodeTitle": "Young, Dumb and Full of Gums",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T05:00:00-05:00",
+        "episodeTitle": "Two for Tina",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-07T00:00:00-05:00",
+        "datetime": "2019-01-08T05:30:00-05:00",
+        "episodeTitle": "It Snakes a Village",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

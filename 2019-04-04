@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-04T21:00:00-04:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-04T21:30:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-04T22:00:00-04:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-04T22:30:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-04T23:00:00-04:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-04T23:30:00-04:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T00:00:00-04:00",
+        "episodeTitle": "Easter Basket",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T00:15:00-04:00",
+        "episodeTitle": "Celebrity Rocket",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T00:30:00-04:00",
+        "episodeTitle": "Double Truckin' The Tricky Two",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T00:45:00-04:00",
+        "episodeTitle": "Swayze Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T01:00:00-04:00",
+        "episodeTitle": "Let's Nab Oprah",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T01:30:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T02:00:00-04:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T02:30:00-04:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T03:00:00-04:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T03:30:00-04:00",
+        "episodeTitle": "Easter Basket",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T03:45:00-04:00",
+        "episodeTitle": "Celebrity Rocket",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T04:00:00-04:00",
+        "episodeTitle": "Sharpshooter",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T04:15:00-04:00",
+        "episodeTitle": "Walls of Jericho",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T04:30:00-04:00",
+        "episodeTitle": "Let's Nab Oprah",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T05:00:00-04:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-04T00:00:00-04:00",
+        "datetime": "2019-04-05T05:30:00-04:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-15T21:00:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-15T21:30:00-04:00",
+        "episodeTitle": "Escape From Goochland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-15T22:00:00-04:00",
+        "episodeTitle": "The Best Christmas Story Never Told",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-15T22:30:00-04:00",
+        "episodeTitle": "I Never Met the Dead Man",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-15T23:00:00-04:00",
+        "episodeTitle": "The Grid",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-15T23:30:00-04:00",
+        "episodeTitle": "Chitty Chitty Death Bang",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T00:00:00-04:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T00:15:00-04:00",
+        "episodeTitle": "Slaughterhouse on the Prairie",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T00:30:00-04:00",
+        "episodeTitle": "Supermodel",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T00:45:00-04:00",
+        "episodeTitle": "Pile M For Murder",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T01:00:00-04:00",
+        "episodeTitle": "The Trial of the Monarch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T01:30:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T02:00:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T02:30:00-04:00",
+        "episodeTitle": "The Best Christmas Story Never Told",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T03:00:00-04:00",
+        "episodeTitle": "Chitty Chitty Death Bang",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T03:30:00-04:00",
+        "episodeTitle": "The Grid",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T04:00:00-04:00",
+        "episodeTitle": "Gigglefudge, USA",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427332,
+        "showTitle": "Gigglefudge, USA"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T04:15:00-04:00",
+        "episodeTitle": "Fartcopter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T04:30:00-04:00",
+        "episodeTitle": "The Trial of the Monarch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T05:00:00-04:00",
+        "episodeTitle": "Escape From Goochland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-15T00:00:00-04:00",
+        "datetime": "2016-04-16T05:30:00-04:00",
+        "episodeTitle": "Manger Baby Einstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

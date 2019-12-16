@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-05T21:00:00-04:00",
+        "episodeTitle": "The Essence of Cleveland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-05T21:30:00-04:00",
+        "episodeTitle": "The People Vs. Martin Sugar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-05T22:00:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-05T22:30:00-04:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-05T23:00:00-04:00",
+        "episodeTitle": "Family Gay",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-05T23:30:00-04:00",
+        "episodeTitle": "The Juice Is Loose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T00:00:00-04:00",
+        "episodeTitle": "Rebel Appliance",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T00:15:00-04:00",
+        "episodeTitle": "Legion of Super-Gyros",
+        "rating": "TV-MA S",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T00:30:00-04:00",
+        "episodeTitle": "Ultimate Judgment Day",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T00:45:00-04:00",
+        "episodeTitle": "The Last One",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T01:00:00-04:00",
+        "episodeTitle": "Boo Boo Runs Wild",
+        "rating": "TV-G ",
+        "seasonNumber": 1,
+        "showID": 0,
+        "showTitle": "FRANCHISE NAME"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T01:30:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T02:00:00-04:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T02:30:00-04:00",
+        "episodeTitle": "Family Gay",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T03:00:00-04:00",
+        "episodeTitle": "The Juice Is Loose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T03:30:00-04:00",
+        "episodeTitle": "Merlot Down Dirty Shame",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T04:00:00-04:00",
+        "episodeTitle": "Episode 12",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 441652,
+        "showTitle": "Daytime Fighting League 2: Risky Nights"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T04:30:00-04:00",
+        "episodeTitle": "Boo Boo Runs Wild",
+        "rating": "TV-G ",
+        "seasonNumber": 1,
+        "showID": 1674,
+        "showTitle": "CTN Default"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T05:00:00-04:00",
+        "episodeTitle": "The Essence of Cleveland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-05T00:00:00-04:00",
+        "datetime": "2017-09-06T05:30:00-04:00",
+        "episodeTitle": "It's Not Easy Being Green",
+        "rating": "TV-PG LS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

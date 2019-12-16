@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-27T21:00:00-05:00",
+        "episodeTitle": "Harlottown",
+        "rating": "TV-PG D",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-27T21:30:00-05:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-27T22:00:00-05:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-27T22:30:00-05:00",
+        "episodeTitle": "Dr. Klaustus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-27T23:00:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-27T23:30:00-05:00",
+        "episodeTitle": "Brian and Stewie",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T00:00:00-05:00",
+        "episodeTitle": "Undetectable Monsters! The Androids Appear!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T00:30:00-05:00",
+        "episodeTitle": "Collector",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 426092,
+        "showTitle": "Dimension W"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T01:00:00-05:00",
+        "episodeTitle": "More Than Human",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T01:30:00-05:00",
+        "episodeTitle": "Beatbox Bandits",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T02:00:00-05:00",
+        "episodeTitle": "Everyone's Feelings",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T02:30:00-05:00",
+        "episodeTitle": "Waiting in the New World! Farewell to the Brave Pirates!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T03:00:00-05:00",
+        "episodeTitle": "Into the Night",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T03:30:00-05:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T04:00:00-05:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T04:30:00-05:00",
+        "episodeTitle": "Dr. Klaustus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T05:00:00-05:00",
+        "episodeTitle": "Bill's House",
+        "rating": "TV-PG L",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-02-27T00:00:00-05:00",
+        "datetime": "2016-02-28T05:30:00-05:00",
+        "episodeTitle": "Harlottown",
+        "rating": "TV-PG D",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

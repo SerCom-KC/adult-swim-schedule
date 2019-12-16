@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-11T21:00:00-04:00",
+        "episodeTitle": "All About Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-11T21:30:00-04:00",
+        "episodeTitle": "Into the Mild",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-11T22:00:00-04:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-11T22:30:00-04:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-11T23:00:00-04:00",
+        "episodeTitle": "Baby Got Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-11T23:30:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T00:00:00-04:00",
+        "episodeTitle": "Your Mouth Is Hanging off Your Face",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T00:15:00-04:00",
+        "episodeTitle": "No Wait, He Has a Cane",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T00:30:00-04:00",
+        "episodeTitle": "Hybrid to Hell",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T00:45:00-04:00",
+        "episodeTitle": "Jose, Can You? S\u00ed!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T01:00:00-04:00",
+        "episodeTitle": "The Fund-Raiser",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T01:30:00-04:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T02:00:00-04:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T02:30:00-04:00",
+        "episodeTitle": "Baby Got Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T03:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T03:30:00-04:00",
+        "episodeTitle": "Your Mouth Is Hanging off Your Face",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T03:45:00-04:00",
+        "episodeTitle": "No Wait, He Has a Cane",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T04:00:00-04:00",
+        "episodeTitle": "Wet City",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 454473,
+        "showTitle": "Wet City"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T04:15:00-04:00",
+        "episodeTitle": "Shop: A Pop Opera",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 454472,
+        "showTitle": "SHOP: A Pop Opera"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T04:30:00-04:00",
+        "episodeTitle": "The Fund-Raiser",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T05:00:00-04:00",
+        "episodeTitle": "Into the Mild",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-11T00:00:00-04:00",
+        "datetime": "2019-03-12T05:30:00-04:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

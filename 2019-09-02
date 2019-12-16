@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-02T21:00:00-04:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-02T21:30:00-04:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-02T22:00:00-04:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-02T22:30:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-02T23:00:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-02T23:30:00-04:00",
+        "episodeTitle": "The Toro Regatta",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T00:00:00-04:00",
+        "episodeTitle": "Double Truckin' The Tricky Two",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T00:15:00-04:00",
+        "episodeTitle": "Swayze Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T00:30:00-04:00",
+        "episodeTitle": "Krampus Nacht",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T00:45:00-04:00",
+        "episodeTitle": "Heaven",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T01:00:00-04:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T01:30:00-04:00",
+        "episodeTitle": "All About Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T02:00:00-04:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T02:30:00-04:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T03:00:00-04:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T03:30:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T04:00:00-04:00",
+        "episodeTitle": "Fashion",
+        "rating": "TV-14 V",
+        "seasonNumber": 9,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T04:15:00-04:00",
+        "episodeTitle": "Body",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T04:30:00-04:00",
+        "episodeTitle": "Krampus Nacht",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T04:45:00-04:00",
+        "episodeTitle": "Heaven",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T05:00:00-04:00",
+        "episodeTitle": "The Toro Regatta",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-09-02T00:00:00-04:00",
+        "datetime": "2019-09-03T05:30:00-04:00",
+        "episodeTitle": "XIV",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 2,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

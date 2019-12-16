@@ -1,0 +1,137 @@
+[
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-03-31T21:00:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-03-31T21:30:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-03-31T22:00:00-04:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-03-31T22:30:00-04:00",
+        "episodeTitle": "A God with an Invincible Body - The Advent of Zamasu",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-03-31T23:00:00-04:00",
+        "episodeTitle": "Emergency Escape from the Body! Buu's Retrogression into Evil!",
+        "rating": "TV-14 V",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-03-31T23:30:00-04:00",
+        "episodeTitle": "Friends",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T00:00:00-04:00",
+        "episodeTitle": "Flying Memory",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 447433,
+        "showTitle": "FLCL: Alternative"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T00:30:00-04:00",
+        "episodeTitle": "Mind Game",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 0,
+        "showID": 447438,
+        "showTitle": "Mind Game"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T02:45:00-04:00",
+        "episodeTitle": "Bast's Mariah Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T03:15:00-04:00",
+        "episodeTitle": "Interest x and x Curse",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T03:45:00-04:00",
+        "episodeTitle": "The Sixth Hokage Danzo",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T04:15:00-04:00",
+        "episodeTitle": "There's Always Tomorrow, Baby",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T04:45:00-04:00",
+        "episodeTitle": "Asteroid Blues",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T05:15:00-04:00",
+        "episodeTitle": "Fabricate Fog",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2018-03-31T00:00:00-04:00",
+        "datetime": "2018-04-01T05:45:00-04:00",
+        "episodeTitle": "Scavengers",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 433992,
+        "showTitle": "Scavengers"
+    }
+]

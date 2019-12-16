@@ -1,0 +1,245 @@
+[
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2018-12-31T21:00:00-05:00",
+        "episodeTitle": "For Black Eyes Only",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2018-12-31T21:30:00-05:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2018-12-31T22:00:00-05:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2018-12-31T22:30:00-05:00",
+        "episodeTitle": "The Former Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2018-12-31T23:00:00-05:00",
+        "episodeTitle": "Long John Peter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2018-12-31T23:30:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T00:00:00-05:00",
+        "episodeTitle": "NEWNOW",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T00:15:00-05:00",
+        "episodeTitle": "Liquid",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T00:30:00-05:00",
+        "episodeTitle": "Falling",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T00:45:00-05:00",
+        "episodeTitle": "Color",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T01:00:00-05:00",
+        "episodeTitle": "Hair",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T01:15:00-05:00",
+        "episodeTitle": "Worship",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T01:30:00-05:00",
+        "episodeTitle": "Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T01:45:00-05:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T02:00:00-05:00",
+        "episodeTitle": "Love",
+        "rating": "TV-14 DL",
+        "seasonNumber": 8,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T02:15:00-05:00",
+        "episodeTitle": "Holes",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T02:30:00-05:00",
+        "episodeTitle": "Body",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T02:45:00-05:00",
+        "episodeTitle": "Health",
+        "rating": "TV-14 ",
+        "seasonNumber": 8,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T03:00:00-05:00",
+        "episodeTitle": "Sound",
+        "rating": "TV-14 ",
+        "seasonNumber": 8,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T03:15:00-05:00",
+        "episodeTitle": "Transportation",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T03:30:00-05:00",
+        "episodeTitle": "Earth",
+        "rating": "TV-PG ",
+        "seasonNumber": 7,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T03:45:00-05:00",
+        "episodeTitle": "Nature",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T04:00:00-05:00",
+        "episodeTitle": "Winter",
+        "rating": "TV-14 ",
+        "seasonNumber": 8,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T04:15:00-05:00",
+        "episodeTitle": "Death",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T04:30:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T05:00:00-05:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-31T00:00:00-05:00",
+        "datetime": "2019-01-01T05:30:00-05:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

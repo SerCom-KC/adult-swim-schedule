@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-30T21:00:00-04:00",
+        "episodeTitle": "Best Little Horror House in Langley Falls",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-30T21:30:00-04:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-30T22:00:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-30T22:30:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-30T23:00:00-04:00",
+        "episodeTitle": "And Then There Were Fewer Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T00:00:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T00:30:00-04:00",
+        "episodeTitle": "ConstaDeath",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T00:45:00-04:00",
+        "episodeTitle": "Tow and Shell",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T01:00:00-04:00",
+        "episodeTitle": "Little Brittle",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T01:15:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T01:30:00-04:00",
+        "episodeTitle": "And Then There Were Fewer Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T02:30:00-04:00",
+        "episodeTitle": "Best Little Horror House in Langley Falls",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T03:00:00-04:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T03:30:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T04:00:00-04:00",
+        "episodeTitle": "Trash",
+        "rating": "TV-14 L",
+        "seasonNumber": 9,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T04:15:00-04:00",
+        "episodeTitle": "Death",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T04:30:00-04:00",
+        "episodeTitle": "Little Brittle",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T04:45:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T05:00:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-30T00:00:00-04:00",
+        "datetime": "2019-10-31T05:30:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

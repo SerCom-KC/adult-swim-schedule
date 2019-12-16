@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-09T21:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-09T21:30:00-04:00",
+        "episodeTitle": "Buck, Wild",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-09T22:00:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-09T22:30:00-04:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-09T23:00:00-04:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-09T23:30:00-04:00",
+        "episodeTitle": "Tom Tucker: The Man and His Dream",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T00:00:00-04:00",
+        "episodeTitle": "Metal Militia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T00:15:00-04:00",
+        "episodeTitle": "Veggies for Sloth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T00:30:00-04:00",
+        "episodeTitle": "Mystery for Hire",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T00:45:00-04:00",
+        "episodeTitle": "Carl Wash",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T01:00:00-04:00",
+        "episodeTitle": "Freaknik: The Musical",
+        "rating": "TV-MA ",
+        "seasonNumber": 0,
+        "showID": 380076,
+        "showTitle": "Freaknik: The Musical"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T02:00:00-04:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T02:30:00-04:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T03:00:00-04:00",
+        "episodeTitle": "Tom Tucker: The Man and His Dream",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T03:30:00-04:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T04:00:00-04:00",
+        "episodeTitle": "The Endorsement",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T04:15:00-04:00",
+        "episodeTitle": "Baby",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T04:30:00-04:00",
+        "episodeTitle": "Metal Militia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T04:45:00-04:00",
+        "episodeTitle": "Veggies for Sloth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T05:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-09T00:00:00-04:00",
+        "datetime": "2017-10-10T05:30:00-04:00",
+        "episodeTitle": "Maid in Arlen",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

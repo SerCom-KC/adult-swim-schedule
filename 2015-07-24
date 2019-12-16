@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-24T21:00:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-24T21:30:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-24T22:00:00-04:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-24T22:30:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-24T23:00:00-04:00",
+        "episodeTitle": "We Are Not Our DNA!",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-24T23:15:00-04:00",
+        "episodeTitle": "Fan Fiction",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-24T23:30:00-04:00",
+        "episodeTitle": "Fish and the Con Man",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T00:00:00-04:00",
+        "episodeTitle": "Shoulder Work",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T00:15:00-04:00",
+        "episodeTitle": "No Jojo No!",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T00:30:00-04:00",
+        "episodeTitle": "J-Mo",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T00:45:00-04:00",
+        "episodeTitle": "Boats",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T01:00:00-04:00",
+        "episodeTitle": "Displays of Manhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T01:30:00-04:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T02:00:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T02:30:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T03:00:00-04:00",
+        "episodeTitle": "Fish and the Con Man",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T03:30:00-04:00",
+        "episodeTitle": "Shoulder Work",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T03:45:00-04:00",
+        "episodeTitle": "No Jojo No!",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T04:00:00-04:00",
+        "episodeTitle": "Liquid",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T04:15:00-04:00",
+        "episodeTitle": "Color",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T04:30:00-04:00",
+        "episodeTitle": "Displays of Manhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T05:00:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-24T00:00:00-04:00",
+        "datetime": "2015-07-25T05:30:00-04:00",
+        "episodeTitle": "Hank's Choice",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-22T21:00:00-04:00",
+        "episodeTitle": "Bookie of the Year",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-22T21:30:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-22T22:00:00-04:00",
+        "episodeTitle": "The Boy Born with Everything",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-22T22:30:00-04:00",
+        "episodeTitle": "Awaken Your Dormant Fighting Spirit! Gohan's Fight!!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-22T23:00:00-04:00",
+        "episodeTitle": "Reply",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-22T23:30:00-04:00",
+        "episodeTitle": "Freestyle Collection",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 447433,
+        "showTitle": "FLCL: Alternative"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T00:00:00-04:00",
+        "episodeTitle": "THE AGE OF POP TEAM EPIC",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449452,
+        "showTitle": "Pop Team Epic"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T00:30:00-04:00",
+        "episodeTitle": "The Nijimura Brothers Part 3",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T01:00:00-04:00",
+        "episodeTitle": "Monster x and x Monster",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T01:30:00-04:00",
+        "episodeTitle": "Three-Leaf Salute",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T02:00:00-04:00",
+        "episodeTitle": "Kakashi Hatake, the Hokage",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T02:30:00-04:00",
+        "episodeTitle": "The Terrifying City",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T03:00:00-04:00",
+        "episodeTitle": "High School Undercover!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T03:30:00-04:00",
+        "episodeTitle": "Brain Scratch",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T04:00:00-04:00",
+        "episodeTitle": "Granddad's Fight",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T04:30:00-04:00",
+        "episodeTitle": "Heavyweight Champion of the Moon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T04:45:00-04:00",
+        "episodeTitle": "Is Magic Real?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T05:00:00-04:00",
+        "episodeTitle": "Hiatus",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    },
+    {
+        "date": "2018-09-22T00:00:00-04:00",
+        "datetime": "2018-09-23T05:30:00-04:00",
+        "episodeTitle": "Business and Pleasure",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

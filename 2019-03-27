@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-27T21:00:00-04:00",
+        "episodeTitle": "The One That Got Away",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-27T21:30:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-27T22:00:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-27T22:30:00-04:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-27T23:00:00-04:00",
+        "episodeTitle": "The Son Also Draws",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-27T23:30:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T00:00:00-04:00",
+        "episodeTitle": "Robot Chicken: DC Comics Special II: Villains in Paradise",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T00:30:00-04:00",
+        "episodeTitle": "The War on the War on Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T00:45:00-04:00",
+        "episodeTitle": "Dewey Two-ey",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T01:00:00-04:00",
+        "episodeTitle": "Granddad's Fight",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T01:30:00-04:00",
+        "episodeTitle": "1600 Candles",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T02:00:00-04:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T02:30:00-04:00",
+        "episodeTitle": "The Son Also Draws",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T03:00:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T03:30:00-04:00",
+        "episodeTitle": "Robot Chicken: DC Comics Special II: Villains in Paradise",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T04:00:00-04:00",
+        "episodeTitle": "Jason's Lyric",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T04:15:00-04:00",
+        "episodeTitle": "How Stella Got Her Groove Back",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T04:30:00-04:00",
+        "episodeTitle": "Granddad's Fight",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T05:00:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-03-27T00:00:00-04:00",
+        "datetime": "2019-03-28T05:30:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

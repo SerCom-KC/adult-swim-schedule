@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-19T21:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-19T21:30:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-19T22:00:00-04:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-19T22:30:00-04:00",
+        "episodeTitle": "Worship Me! Give Praise Unto Me! The Explosive Birth of a Merged Zamasu!!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-19T23:00:00-04:00",
+        "episodeTitle": "You Are the Savior of the World! Everybody's Spirit Bomb Completed!!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-19T23:30:00-04:00",
+        "episodeTitle": "Roaring Muscles",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T00:00:00-04:00",
+        "episodeTitle": "FLCLimax",
+        "rating": "TV-14 S",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T00:45:00-04:00",
+        "episodeTitle": "Hol Horse and Mondatta Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T01:15:00-04:00",
+        "episodeTitle": "A x Lawless x Home",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T01:45:00-04:00",
+        "episodeTitle": "The King of the Crimson Lions",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T02:15:00-04:00",
+        "episodeTitle": "Sasuke's Ninja Way",
+        "rating": "TV-PG V",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T02:45:00-04:00",
+        "episodeTitle": "Slow and Steady Wins the Race, Baby",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T03:15:00-04:00",
+        "episodeTitle": "Heavy Metal Queen",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T03:45:00-04:00",
+        "episodeTitle": "Endless Gig",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T04:15:00-04:00",
+        "episodeTitle": "Hunger Cramps on the Playing Field of Friendship",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T04:30:00-04:00",
+        "episodeTitle": "Chaste Wing of the Cold Turkey vs Flaming Fist of Indulgence!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T04:45:00-04:00",
+        "episodeTitle": "Strength through Song; Brotherhood through Blood; Redemption through Rage. Sing, Fallen Angel!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T05:00:00-04:00",
+        "episodeTitle": "Grand Theft Arlen",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-05-19T00:00:00-04:00",
+        "datetime": "2018-05-20T05:30:00-04:00",
+        "episodeTitle": "Peggy's Gone to Pots",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-09T21:00:00-04:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-09T21:30:00-04:00",
+        "episodeTitle": "Gift Me Liberty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-09T22:00:00-04:00",
+        "episodeTitle": "The New Adventures of Old Tom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-09T22:30:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-09T23:00:00-04:00",
+        "episodeTitle": "Run, Chris, Run",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-09T23:30:00-04:00",
+        "episodeTitle": "Mystery on Wall Street",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-09T23:45:00-04:00",
+        "episodeTitle": "Greece is the Word",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T00:00:00-04:00",
+        "episodeTitle": "A Grave Matter",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 439092,
+        "showTitle": "Decker: Unsealed"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T00:15:00-04:00",
+        "episodeTitle": "Origin",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T00:30:00-04:00",
+        "episodeTitle": "Stone Cold Steve Cold Stone",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T00:45:00-04:00",
+        "episodeTitle": "Walking Dead Lobster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T01:00:00-04:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T01:30:00-04:00",
+        "episodeTitle": "Gift Me Liberty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T02:00:00-04:00",
+        "episodeTitle": "The New Adventures of Old Tom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T02:30:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T03:00:00-04:00",
+        "episodeTitle": "Run, Chris, Run",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T03:30:00-04:00",
+        "episodeTitle": "Mystery on Wall Street",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T03:45:00-04:00",
+        "episodeTitle": "Greece is the Word",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T04:00:00-04:00",
+        "episodeTitle": "A Grave Matter",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 439092,
+        "showTitle": "Decker: Unsealed"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T04:15:00-04:00",
+        "episodeTitle": "Origin",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T04:30:00-04:00",
+        "episodeTitle": "Stone Cold Steve Cold Stone",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T04:45:00-04:00",
+        "episodeTitle": "Walking Dead Lobster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T05:00:00-04:00",
+        "episodeTitle": "Born Again on the 4th of July",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-07-09T00:00:00-04:00",
+        "datetime": "2017-07-10T05:30:00-04:00",
+        "episodeTitle": "Serves Me Right for Giving General George S. Patton the Bathroom Key",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

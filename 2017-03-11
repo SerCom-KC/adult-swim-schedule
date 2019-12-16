@@ -1,0 +1,153 @@
+[
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-11T21:00:00-05:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-11T21:30:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-11T22:00:00-05:00",
+        "episodeTitle": "Road to Multiverse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-11T22:30:00-05:00",
+        "episodeTitle": "Deep Throats",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-11T23:00:00-05:00",
+        "episodeTitle": "XCII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-11T23:30:00-05:00",
+        "episodeTitle": "Show Us, Goku! The Power of a Super Saiyan God!",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T00:00:00-05:00",
+        "episodeTitle": "The Junior Champ is Finally Decided! Who Will Fight Against Mr. Satan?",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T00:30:00-05:00",
+        "episodeTitle": "Young Caesar",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T01:00:00-05:00",
+        "episodeTitle": "From the Scorching Earth",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T01:30:00-05:00",
+        "episodeTitle": "Defend x and x Attack",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T03:00:00-04:00",
+        "episodeTitle": "",
+        "showID": 375774,
+        "showTitle": "Daylight Savings Time Adjustment - Spring"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T03:00:00-04:00",
+        "episodeTitle": "Separation",
+        "rating": "TV-PG V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T03:30:00-04:00",
+        "episodeTitle": "The Great Scramble for Treasure! Collapse! Spa Island!",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T04:00:00-04:00",
+        "episodeTitle": "Meme",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T04:30:00-04:00",
+        "episodeTitle": "42-Year-Old Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T05:00:00-04:00",
+        "episodeTitle": "As Old as the Hills (1)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-03-11T00:00:00-05:00",
+        "datetime": "2017-03-12T05:30:00-04:00",
+        "episodeTitle": "Peggy Hill: the Decline and Fall (2)",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

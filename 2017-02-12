@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-12T21:00:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-12T21:30:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-12T22:00:00-05:00",
+        "episodeTitle": "Bahama Mama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-12T22:30:00-05:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-12T23:00:00-05:00",
+        "episodeTitle": "The Heartbreak Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-12T23:30:00-05:00",
+        "episodeTitle": "Dr. Quymn, Medicine Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T00:00:00-05:00",
+        "episodeTitle": "A Midsummer Night's Ream",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T00:30:00-05:00",
+        "episodeTitle": "To Eris, Human!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 365995,
+        "showTitle": "Titan Maximum"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T00:45:00-05:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T01:00:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T01:30:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T02:00:00-05:00",
+        "episodeTitle": "Bahama Mama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T02:30:00-05:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T03:00:00-05:00",
+        "episodeTitle": "The Heartbreak Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T03:30:00-05:00",
+        "episodeTitle": "Dr. Quymn, Medicine Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T04:00:00-05:00",
+        "episodeTitle": "A Midsummer Night's Ream",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T04:30:00-05:00",
+        "episodeTitle": "To Eris, Human!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 365995,
+        "showTitle": "Titan Maximum"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T04:45:00-05:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T05:00:00-05:00",
+        "episodeTitle": "Nancy Does Dallas",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-02-12T00:00:00-05:00",
+        "datetime": "2017-02-13T05:30:00-05:00",
+        "episodeTitle": "Born Again on the 4th of July",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

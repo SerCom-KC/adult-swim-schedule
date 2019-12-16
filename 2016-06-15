@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-15T21:00:00-04:00",
+        "episodeTitle": "Lobsterfest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-15T21:30:00-04:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-15T22:00:00-04:00",
+        "episodeTitle": "Stan's Food Restaurant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-15T22:30:00-04:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-15T23:00:00-04:00",
+        "episodeTitle": "Peter's Two Dads",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-15T23:30:00-04:00",
+        "episodeTitle": "The Tan Aquatic with Steve Zissou",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T00:00:00-04:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T00:15:00-04:00",
+        "episodeTitle": "Heavyweight Champion of the Moon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T00:30:00-04:00",
+        "episodeTitle": "Ezekiel",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T00:45:00-04:00",
+        "episodeTitle": "Stop. Jammertime!",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T01:00:00-04:00",
+        "episodeTitle": "Tatyana Ali",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T01:15:00-04:00",
+        "episodeTitle": "Muscles for Bones",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T01:30:00-04:00",
+        "episodeTitle": "Stan's Food Restaurant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T02:00:00-04:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T02:30:00-04:00",
+        "episodeTitle": "Peter's Two Dads",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T03:00:00-04:00",
+        "episodeTitle": "The Tan Aquatic with Steve Zissou",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T03:30:00-04:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T03:45:00-04:00",
+        "episodeTitle": "Heavyweight Champion of the Moon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T04:00:00-04:00",
+        "episodeTitle": "This House Has People in It",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T04:15:00-04:00",
+        "episodeTitle": "Unedited Footage of a Bear",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T04:30:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T05:00:00-04:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-15T00:00:00-04:00",
+        "datetime": "2016-06-16T05:30:00-04:00",
+        "episodeTitle": "Lupe's Revenge",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

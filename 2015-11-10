@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-10T21:00:00-05:00",
+        "episodeTitle": "To Spank with Love",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-10T21:30:00-05:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-10T22:00:00-05:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-10T22:30:00-05:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-10T23:00:00-05:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-10T23:30:00-05:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T00:00:00-05:00",
+        "episodeTitle": "S&M Present",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T00:15:00-05:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T00:30:00-05:00",
+        "episodeTitle": "Revenge of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T00:45:00-05:00",
+        "episodeTitle": "Asses To Ashes, Sluts To Dust",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T01:00:00-05:00",
+        "episodeTitle": "Troubles with Triples",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T01:15:00-05:00",
+        "episodeTitle": "The Curse of Dethklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T01:30:00-05:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T02:00:00-05:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T02:30:00-05:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T03:00:00-05:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T03:30:00-05:00",
+        "episodeTitle": "S&M Present",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T03:45:00-05:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T04:00:00-05:00",
+        "episodeTitle": "Bloodcorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T04:15:00-05:00",
+        "episodeTitle": "Meet Antagone",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T04:30:00-05:00",
+        "episodeTitle": "Troubles with Triples",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T04:45:00-05:00",
+        "episodeTitle": "The Curse of Dethklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T05:00:00-05:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-10T00:00:00-05:00",
+        "datetime": "2015-11-11T05:30:00-05:00",
+        "episodeTitle": "To Spank with Love",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

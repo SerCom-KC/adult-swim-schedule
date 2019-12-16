@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-24T21:00:00-05:00",
+        "episodeTitle": "Yamcha's Struggle! The Terrible Saibamen!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 449272,
+        "showTitle": "Dragon Ball Z Kai"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-24T21:30:00-05:00",
+        "episodeTitle": "Bizarre! Gran Torino Appears",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-24T22:00:00-05:00",
+        "episodeTitle": "The Forgotten Island",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-24T22:30:00-05:00",
+        "episodeTitle": "The Dream's Revelation",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-24T23:00:00-05:00",
+        "episodeTitle": "Gohan and Piccolo - Master and Pupil Clash in Max Training!",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-24T23:30:00-05:00",
+        "episodeTitle": "Idiots Only Event ~Kin~",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 452152,
+        "showTitle": "Mob Psycho 100"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T00:00:00-05:00",
+        "episodeTitle": "Smoke Signal",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T00:30:00-05:00",
+        "episodeTitle": "We Picked Up Something Crazy!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T01:00:00-05:00",
+        "episodeTitle": "The Only Weapon",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T01:30:00-05:00",
+        "episodeTitle": "Fake x and x Real",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T02:00:00-05:00",
+        "episodeTitle": "Shake It Off",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 447433,
+        "showTitle": "FLCL: Alternative"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T02:30:00-05:00",
+        "episodeTitle": "Vanver - A Game in Another Dimension",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 449452,
+        "showTitle": "Pop Team Epic"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T03:00:00-05:00",
+        "episodeTitle": "I'm Going to Get You, Lupin",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T03:30:00-05:00",
+        "episodeTitle": "X",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 1,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T04:00:00-05:00",
+        "episodeTitle": "The Block Is Hot",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T04:30:00-05:00",
+        "episodeTitle": "Origin",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T04:45:00-05:00",
+        "episodeTitle": "Eros",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T05:00:00-05:00",
+        "episodeTitle": "The Bellicose Proxy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-11-24T00:00:00-05:00",
+        "datetime": "2018-11-25T05:30:00-05:00",
+        "episodeTitle": "My Cheatin' Heart",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-11T21:00:00-04:00",
+        "episodeTitle": "Four Little Words",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-11T21:30:00-04:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-11T22:00:00-04:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-11T22:30:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-11T23:00:00-04:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-11T23:30:00-04:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T00:00:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T00:30:00-04:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T00:45:00-04:00",
+        "episodeTitle": "Atta Toy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T01:00:00-04:00",
+        "episodeTitle": "The Death of Harvey",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T01:30:00-04:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T02:00:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T02:30:00-04:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T03:00:00-04:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T03:30:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Shows You How to Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T04:15:00-04:00",
+        "episodeTitle": "Health",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T04:30:00-04:00",
+        "episodeTitle": "The Death of Harvey",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T05:00:00-04:00",
+        "episodeTitle": "Four Little Words",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-11T00:00:00-04:00",
+        "datetime": "2018-10-12T05:30:00-04:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

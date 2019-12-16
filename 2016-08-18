@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-18T21:00:00-04:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-18T21:30:00-04:00",
+        "episodeTitle": "The Hurricane",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-18T22:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-18T22:30:00-04:00",
+        "episodeTitle": "Threat Levels",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-18T23:00:00-04:00",
+        "episodeTitle": "Holy Crap",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-18T23:30:00-04:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T00:00:00-04:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T00:15:00-04:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T00:30:00-04:00",
+        "episodeTitle": "Fatal Distraction",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T00:45:00-04:00",
+        "episodeTitle": "Clowny Freaks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T01:00:00-04:00",
+        "episodeTitle": "The Cubing",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T01:15:00-04:00",
+        "episodeTitle": "The Clowning",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T01:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T02:00:00-04:00",
+        "episodeTitle": "Threat Levels",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T02:30:00-04:00",
+        "episodeTitle": "Holy Crap",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T03:00:00-04:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T03:30:00-04:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T03:45:00-04:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T04:00:00-04:00",
+        "episodeTitle": "The Adult Swim Golf Classic",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 427272,
+        "showTitle": "The Adult Swim Golf Classic"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T04:30:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T05:00:00-04:00",
+        "episodeTitle": "The Hurricane",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-18T00:00:00-04:00",
+        "datetime": "2016-08-19T05:30:00-04:00",
+        "episodeTitle": "Hank's Bully",
+        "rating": "TV-PG L",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

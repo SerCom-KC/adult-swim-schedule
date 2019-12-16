@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-15T21:00:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-15T21:30:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-15T22:00:00-05:00",
+        "episodeTitle": "Father's Daze",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-15T22:30:00-05:00",
+        "episodeTitle": "Hot Pocket-Dial",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-15T23:00:00-05:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-15T23:30:00-05:00",
+        "episodeTitle": "Shadowman 9: In the Cradle of Destiny",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T00:00:00-05:00",
+        "episodeTitle": "Let's Talk About Rex",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T00:30:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 365995,
+        "showTitle": "Titan Maximum"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T01:00:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T01:30:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T02:00:00-05:00",
+        "episodeTitle": "Father's Daze",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T02:30:00-05:00",
+        "episodeTitle": "Hot Pocket-Dial",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T03:00:00-05:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T03:30:00-05:00",
+        "episodeTitle": "Shadowman 9: In the Cradle of Destiny",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T04:00:00-05:00",
+        "episodeTitle": "Let's Talk About Rex",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T04:30:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 365995,
+        "showTitle": "Titan Maximum"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T05:00:00-05:00",
+        "episodeTitle": "Cops and Robert",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-01-15T00:00:00-05:00",
+        "datetime": "2017-01-16T05:30:00-05:00",
+        "episodeTitle": "It Came From the Garage",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

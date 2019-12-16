@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-08T21:00:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-08T21:30:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-08T22:00:00-04:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-08T22:30:00-04:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-08T23:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-08T23:30:00-04:00",
+        "episodeTitle": "The Grand Surrender",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T00:00:00-04:00",
+        "episodeTitle": "Blood Barn",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T00:15:00-04:00",
+        "episodeTitle": "The Black Box",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T00:30:00-04:00",
+        "episodeTitle": "Resurrection",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T00:45:00-04:00",
+        "episodeTitle": "Words",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T01:00:00-04:00",
+        "episodeTitle": "A Star Is Reborn",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T01:30:00-04:00",
+        "episodeTitle": "Manhattan Magical Murder Mystery Tour",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T02:00:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T02:30:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T03:00:00-04:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T03:30:00-04:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T04:00:00-04:00",
+        "episodeTitle": "Swimming in Oblivion",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T04:15:00-04:00",
+        "episodeTitle": "Thrust Issues",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T04:30:00-04:00",
+        "episodeTitle": "Blood Barn",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T04:45:00-04:00",
+        "episodeTitle": "The Black Box",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T05:00:00-04:00",
+        "episodeTitle": "The Grand Surrender",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-07-08T00:00:00-04:00",
+        "datetime": "2019-07-09T05:30:00-04:00",
+        "episodeTitle": "XXVI",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 2,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

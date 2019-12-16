@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-02T21:00:00-04:00",
+        "episodeTitle": "Life: A Loser's Manual",
+        "rating": "TV-PG LS",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-02T21:30:00-04:00",
+        "episodeTitle": "BFFs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-02T22:00:00-04:00",
+        "episodeTitle": "The Hurricane",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-02T22:30:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-02T23:00:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-02T23:30:00-04:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T00:00:00-04:00",
+        "episodeTitle": "Number 17 and Number 18! The Androids Awaken!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T00:30:00-04:00",
+        "episodeTitle": "The Wind of Africa",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 426092,
+        "showTitle": "Dimension W"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T01:00:00-04:00",
+        "episodeTitle": "Life and Vows",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T01:30:00-04:00",
+        "episodeTitle": "Misguided Miscreants Part 2",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T02:00:00-04:00",
+        "episodeTitle": "Red Camellia",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T02:30:00-04:00",
+        "episodeTitle": "The Man Called a Genius! Hogback Makes His Appearance!",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T03:00:00-04:00",
+        "episodeTitle": "Imitation Gold",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T03:30:00-04:00",
+        "episodeTitle": "BFFs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T04:00:00-04:00",
+        "episodeTitle": "The Hurricane",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T04:30:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T05:00:00-04:00",
+        "episodeTitle": "It Came From the Garage",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-04-02T00:00:00-04:00",
+        "datetime": "2016-04-03T05:30:00-04:00",
+        "episodeTitle": "Life: A Loser's Manual",
+        "rating": "TV-PG LS",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

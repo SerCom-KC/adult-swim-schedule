@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-22T21:00:00-04:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-22T21:30:00-04:00",
+        "episodeTitle": "Naked to the Limit, One More Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-22T22:00:00-04:00",
+        "episodeTitle": "Killer Queen",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-22T22:30:00-04:00",
+        "episodeTitle": "Forget Me Not",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-22T23:00:00-04:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-22T23:30:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T00:00:00-04:00",
+        "episodeTitle": "Band Together",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T00:15:00-04:00",
+        "episodeTitle": "Stevie!",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T00:30:00-04:00",
+        "episodeTitle": "A Sober Sunday",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T00:45:00-04:00",
+        "episodeTitle": "Rebel With a Claus",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T01:00:00-04:00",
+        "episodeTitle": "Larry Miller Hair System",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T01:15:00-04:00",
+        "episodeTitle": "One Hundred",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T01:30:00-04:00",
+        "episodeTitle": "Killer Queen",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T02:00:00-04:00",
+        "episodeTitle": "Forget Me Not",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T02:30:00-04:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T03:00:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T03:30:00-04:00",
+        "episodeTitle": "Band Together",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T03:45:00-04:00",
+        "episodeTitle": "Stevie!",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T04:00:00-04:00",
+        "episodeTitle": "Dixie Pixie Dust Up",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 430032,
+        "showTitle": "Daytime Fighting League"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T04:30:00-04:00",
+        "episodeTitle": "Naked to the Limit, One More Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T05:00:00-04:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-22T00:00:00-04:00",
+        "datetime": "2016-07-23T05:30:00-04:00",
+        "episodeTitle": "Phish and Wildlife",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

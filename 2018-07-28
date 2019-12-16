@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-28T21:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-28T21:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-28T22:00:00-04:00",
+        "episodeTitle": "Dog Gone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-28T22:30:00-04:00",
+        "episodeTitle": "Gohan's Plight! The Preposterous Great Saiyaman Film Adaptation?!",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-28T23:00:00-04:00",
+        "episodeTitle": "All Might",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-28T23:30:00-04:00",
+        "episodeTitle": "Stone Skipping",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 447434,
+        "showTitle": "FLCL: Progressive"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T00:00:00-04:00",
+        "episodeTitle": "Donca * Sis",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449452,
+        "showTitle": "Pop Team Epic"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T00:30:00-04:00",
+        "episodeTitle": "Dio's World Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T01:00:00-04:00",
+        "episodeTitle": "Resolve x and x Awakening",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T01:30:00-04:00",
+        "episodeTitle": "Three-Leaf Sprouts",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T02:00:00-04:00",
+        "episodeTitle": "Sakura's Resolve",
+        "rating": "TV-PG V",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T02:30:00-04:00",
+        "episodeTitle": "Dandy's Day in Court, Baby",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T03:00:00-04:00",
+        "episodeTitle": "Black Dog Serenade",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T03:30:00-04:00",
+        "episodeTitle": "Welcome to the Haunted Hotel",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T04:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T04:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T05:00:00-04:00",
+        "episodeTitle": "Brotherly Love",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-07-28T00:00:00-04:00",
+        "datetime": "2018-07-29T05:30:00-04:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

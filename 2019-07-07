@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-07T21:00:00-04:00",
+        "episodeTitle": "Brunchsquatch",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-07T21:30:00-04:00",
+        "episodeTitle": "The Silence of the Louise",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-07T22:00:00-04:00",
+        "episodeTitle": "Stompe Le Monde",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-07T22:30:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-07T23:00:00-04:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-07T23:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T00:00:00-04:00",
+        "episodeTitle": "The Bucket List",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T00:15:00-04:00",
+        "episodeTitle": "The Missing Package",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T00:30:00-04:00",
+        "episodeTitle": "Last Reggie on Earth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T00:45:00-04:00",
+        "episodeTitle": "The Storm",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T01:00:00-04:00",
+        "episodeTitle": "Stan the Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T01:15:00-04:00",
+        "episodeTitle": "Gary Bunda: Demon Killer",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T01:30:00-04:00",
+        "episodeTitle": "Stompe Le Monde",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T02:00:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T02:30:00-04:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T03:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T03:30:00-04:00",
+        "episodeTitle": "The Bucket List",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T03:45:00-04:00",
+        "episodeTitle": "The Missing Package",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T04:00:00-04:00",
+        "episodeTitle": "Last Reggie on Earth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T04:15:00-04:00",
+        "episodeTitle": "The Storm",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T04:30:00-04:00",
+        "episodeTitle": "Stan the Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T04:45:00-04:00",
+        "episodeTitle": "Gary Bunda: Demon Killer",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T05:00:00-04:00",
+        "episodeTitle": "Brunchsquatch",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-07T00:00:00-04:00",
+        "datetime": "2019-07-08T05:30:00-04:00",
+        "episodeTitle": "The Silence of the Louise",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

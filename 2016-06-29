@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-29T21:00:00-04:00",
+        "episodeTitle": "Mother Daughter Laser Razor",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-29T21:30:00-04:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-29T22:00:00-04:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-29T22:30:00-04:00",
+        "episodeTitle": "Hurricane",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-29T23:00:00-04:00",
+        "episodeTitle": "The Former Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-29T23:30:00-04:00",
+        "episodeTitle": "Long John Peter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T00:00:00-04:00",
+        "episodeTitle": "Secret of the Booze",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T00:15:00-04:00",
+        "episodeTitle": "Serial Killers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T00:30:00-04:00",
+        "episodeTitle": "Bible Fruit",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T00:45:00-04:00",
+        "episodeTitle": "Sheriff-in-Law",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T01:00:00-04:00",
+        "episodeTitle": "Lou Ferrigno & Downtown Julie Brown",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T01:15:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T01:30:00-04:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T02:00:00-04:00",
+        "episodeTitle": "Hurricane",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T02:30:00-04:00",
+        "episodeTitle": "The Former Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T03:00:00-04:00",
+        "episodeTitle": "Long John Peter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T03:30:00-04:00",
+        "episodeTitle": "Secret of the Booze",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T03:45:00-04:00",
+        "episodeTitle": "Serial Killers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T04:00:00-04:00",
+        "episodeTitle": "Tools/Drawing Comics/Spin Class",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T04:15:00-04:00",
+        "episodeTitle": "Nightmares",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T04:30:00-04:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T05:00:00-04:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-29T00:00:00-04:00",
+        "datetime": "2016-06-30T05:30:00-04:00",
+        "episodeTitle": "Returning Japanese (1)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-10T21:00:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-10T21:30:00-04:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-10T22:00:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-10T22:30:00-04:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-10T23:00:00-04:00",
+        "episodeTitle": "The Son Also Draws",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-10T23:30:00-04:00",
+        "episodeTitle": "Brian: Portrait of a Dog",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T00:00:00-04:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T00:15:00-04:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T00:30:00-04:00",
+        "episodeTitle": "Love Mummy",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T00:45:00-04:00",
+        "episodeTitle": "Swayze Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T01:00:00-04:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T01:15:00-04:00",
+        "episodeTitle": "Prankklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T01:30:00-04:00",
+        "episodeTitle": "The Son Also Draws",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T02:00:00-04:00",
+        "episodeTitle": "Brian: Portrait of a Dog",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T02:30:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T03:00:00-04:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T03:30:00-04:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T03:45:00-04:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T04:00:00-04:00",
+        "episodeTitle": "Unedited Footage of a Bear",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T04:15:00-04:00",
+        "episodeTitle": "Rooster",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T04:30:00-04:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T04:45:00-04:00",
+        "episodeTitle": "Prankklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T05:00:00-04:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-10T00:00:00-04:00",
+        "datetime": "2015-06-11T05:30:00-04:00",
+        "episodeTitle": "Life: A Loser's Manual",
+        "rating": "TV-PG LS",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

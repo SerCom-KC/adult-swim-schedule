@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-30T21:00:00-04:00",
+        "episodeTitle": "E Peterbus Unum",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-30T21:30:00-04:00",
+        "episodeTitle": "The Story on Page One",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-30T22:00:00-04:00",
+        "episodeTitle": "It's a Black President, Huey Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-30T22:30:00-04:00",
+        "episodeTitle": "Bitches to Rags",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-30T23:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-30T23:30:00-04:00",
+        "episodeTitle": "The Reenactment of the Repulsion of the Siege of Cuyler Mountain",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-30T23:45:00-04:00",
+        "episodeTitle": "Rich Dan, Poor Dan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T00:00:00-04:00",
+        "episodeTitle": "Woomba",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T00:15:00-04:00",
+        "episodeTitle": "Wild Bill",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T00:30:00-04:00",
+        "episodeTitle": "Naturi Naughton; Ryan Phillippe",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T00:45:00-04:00",
+        "episodeTitle": "Jimmy Kimmel; Tyler the Creator",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T01:00:00-04:00",
+        "episodeTitle": "Mystery on Wall Street",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T01:15:00-04:00",
+        "episodeTitle": "A Dog's Life",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T01:30:00-04:00",
+        "episodeTitle": "Deacon Stan, Jesus Man",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T02:00:00-04:00",
+        "episodeTitle": "E Peterbus Unum",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T02:30:00-04:00",
+        "episodeTitle": "The Story on Page One",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T03:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T03:30:00-04:00",
+        "episodeTitle": "The Reenactment of the Repulsion of the Siege of Cuyler Mountain",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T03:45:00-04:00",
+        "episodeTitle": "Rich Dan, Poor Dan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T04:00:00-04:00",
+        "episodeTitle": "FishCenter - 8/30/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 8/30/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449335,
+        "showTitle": "Development Meeting"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T04:30:00-04:00",
+        "episodeTitle": "Woomba",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T04:45:00-04:00",
+        "episodeTitle": "Wild Bill",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T05:00:00-04:00",
+        "episodeTitle": "Bullocks to Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-30T00:00:00-04:00",
+        "datetime": "2019-08-31T05:30:00-04:00",
+        "episodeTitle": "XIII",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 1,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

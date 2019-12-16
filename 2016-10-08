@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-08T21:00:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-08T21:30:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-08T22:00:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-08T22:30:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-08T23:00:00-04:00",
+        "episodeTitle": "Barely Legal",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-08T23:30:00-04:00",
+        "episodeTitle": "Road to Rupert",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T00:00:00-04:00",
+        "episodeTitle": "Battle at the Highest Level! Goku Goes All Out!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T00:30:00-04:00",
+        "episodeTitle": "The Strongest Hero",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T01:00:00-04:00",
+        "episodeTitle": "Kudelia's Decision",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T01:30:00-04:00",
+        "episodeTitle": "The x Guard's x Duty",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T02:00:00-04:00",
+        "episodeTitle": "The Man Who Became God",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T02:30:00-04:00",
+        "episodeTitle": "Oars Roars! Come Out, Straw Hat Crew",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T03:00:00-04:00",
+        "episodeTitle": "The Strongest Hero",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T03:30:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T04:00:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T04:30:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T05:00:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-08T00:00:00-04:00",
+        "datetime": "2016-10-09T05:30:00-04:00",
+        "episodeTitle": "Sleight of Hank",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

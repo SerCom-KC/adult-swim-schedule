@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-19T21:00:00-04:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-19T21:30:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-19T22:00:00-04:00",
+        "episodeTitle": "Coffee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-19T22:30:00-04:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-19T23:00:00-04:00",
+        "episodeTitle": "Fresh Heir",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-19T23:30:00-04:00",
+        "episodeTitle": "Charlize",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T00:00:00-04:00",
+        "episodeTitle": "Rocket Horse and Jet Chicken",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T00:15:00-04:00",
+        "episodeTitle": "Hybrid to Hell",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T00:30:00-04:00",
+        "episodeTitle": "Black Squirrels",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 413632,
+        "showTitle": "Unsupervised"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T01:00:00-04:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T01:30:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T02:00:00-04:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T02:30:00-04:00",
+        "episodeTitle": "Fresh Heir",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T03:00:00-04:00",
+        "episodeTitle": "Charlize",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T03:30:00-04:00",
+        "episodeTitle": "Rocket Horse and Jet Chicken",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T03:45:00-04:00",
+        "episodeTitle": "Hybrid to Hell",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T04:00:00-04:00",
+        "episodeTitle": "Black Squirrels",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 413632,
+        "showTitle": "Unsupervised"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T04:30:00-04:00",
+        "episodeTitle": "Coffee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T05:00:00-04:00",
+        "episodeTitle": "The Texas Skillsaw Massacre",
+        "rating": "TV-PG LV",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-04-19T00:00:00-04:00",
+        "datetime": "2015-04-20T05:30:00-04:00",
+        "episodeTitle": "Full Metal Dust Jacket",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

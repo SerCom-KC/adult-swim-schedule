@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-06T21:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-06T21:30:00-04:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-06T22:00:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-06T22:30:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-06T23:00:00-04:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-06T23:30:00-04:00",
+        "episodeTitle": "Brian Wallows and Peter's Swallows",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T00:00:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T00:30:00-04:00",
+        "episodeTitle": "Book of Corinne",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T00:45:00-04:00",
+        "episodeTitle": "Werewolf vs. Unicorn",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T01:00:00-04:00",
+        "episodeTitle": "DOY",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T01:15:00-04:00",
+        "episodeTitle": "Extra Terrorist-rial",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T01:30:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T02:00:00-04:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T02:30:00-04:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T03:00:00-04:00",
+        "episodeTitle": "Brian Wallows and Peter's Swallows",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T03:30:00-04:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T04:00:00-04:00",
+        "episodeTitle": "A Message from the Future",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T04:15:00-04:00",
+        "episodeTitle": "Live Forever as You Are Now with Alan Resnick",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T04:30:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T05:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-06T00:00:00-04:00",
+        "datetime": "2018-06-07T05:30:00-04:00",
+        "episodeTitle": "Cops and Robert",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T21:00:00-04:00",
+        "episodeTitle": "Let's Go to the Hop",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T21:30:00-04:00",
+        "episodeTitle": "Dammit Janet",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T22:00:00-04:00",
+        "episodeTitle": "Dragon Nuts",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T22:15:00-04:00",
+        "episodeTitle": "1987",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T22:30:00-04:00",
+        "episodeTitle": "Super Hero",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T22:45:00-04:00",
+        "episodeTitle": "Super Bowl",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T23:00:00-04:00",
+        "episodeTitle": "Creamy Zeus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T23:15:00-04:00",
+        "episodeTitle": "The Moon Masters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-05T23:30:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T00:00:00-04:00",
+        "episodeTitle": "The Tree-Huger Bomber",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T00:15:00-04:00",
+        "episodeTitle": "Torture",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T00:30:00-04:00",
+        "episodeTitle": "The Hand Gobbler",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T00:45:00-04:00",
+        "episodeTitle": "The Night of the Fang",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T01:00:00-04:00",
+        "episodeTitle": "The Bard's Curse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T01:15:00-04:00",
+        "episodeTitle": "Save Me!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T01:30:00-04:00",
+        "episodeTitle": "Let's Go to the Hop",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T02:00:00-04:00",
+        "episodeTitle": "Dammit Janet",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T02:30:00-04:00",
+        "episodeTitle": "Dragon Nuts",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T02:45:00-04:00",
+        "episodeTitle": "1987",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T03:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T03:30:00-04:00",
+        "episodeTitle": "The Tree-Huger Bomber",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T03:45:00-04:00",
+        "episodeTitle": "Torture",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T04:00:00-04:00",
+        "episodeTitle": "Digikiss - 4/5/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449336,
+        "showTitle": "Digikiss"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T04:15:00-04:00",
+        "episodeTitle": "Bloodfeast - 4/5/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449332,
+        "showTitle": "Bloodfeast"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T04:30:00-04:00",
+        "episodeTitle": "Creamy Zeus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T04:45:00-04:00",
+        "episodeTitle": "The Moon Masters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T05:00:00-04:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-05T00:00:00-04:00",
+        "datetime": "2019-04-06T05:30:00-04:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

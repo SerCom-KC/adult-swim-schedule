@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-19T21:00:00-05:00",
+        "episodeTitle": "The Exterminator",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-19T21:30:00-05:00",
+        "episodeTitle": "Squirt's Honor",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-19T22:00:00-05:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-19T22:30:00-05:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-19T23:00:00-05:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-19T23:30:00-05:00",
+        "episodeTitle": "Peter Griffin: Husband, Father, Brother?",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T00:00:00-05:00",
+        "episodeTitle": "A Boundary-Pushing Brawl!\u00a0Goku, Frieza, and Ginyu Again?!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T00:30:00-05:00",
+        "episodeTitle": "Kaio-ken Times Twenty! An All-Or-Nothing Kamehame-Ha!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T01:00:00-05:00",
+        "episodeTitle": "The Final Trump Card!\u00a0Goku's Ultimate Spirit Bomb!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T01:30:00-05:00",
+        "episodeTitle": "Awaken, Legendary Warrior! Goku the Super Saiyan!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T02:00:00-05:00",
+        "episodeTitle": "The Angry Super Saiyan!\u00a0Goku Throws Down the Gauntlet!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T02:30:00-05:00",
+        "episodeTitle": "Avenge the Fallen, Goku!\u00a0Countdown to the Planet's Destruction!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T03:00:00-05:00",
+        "episodeTitle": "Full-Power Frieza! Shenron, Grant Our Wish!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T03:30:00-05:00",
+        "episodeTitle": "Squirt's Honor",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T04:00:00-05:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T04:30:00-05:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T05:00:00-05:00",
+        "episodeTitle": "When Cotton Comes Marching Home",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-12-19T00:00:00-05:00",
+        "datetime": "2015-12-20T05:30:00-05:00",
+        "episodeTitle": "The Exterminator",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

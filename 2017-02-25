@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-25T21:00:00-05:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-25T21:30:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-25T22:00:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-25T22:30:00-05:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-25T23:00:00-05:00",
+        "episodeTitle": "When You Wish Upon a Weinstein",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-25T23:30:00-05:00",
+        "episodeTitle": "Goku Makes an Entrance! A Last Chance from Lord Beerus?!",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T00:00:00-05:00",
+        "episodeTitle": "Who Is the World's Greatest? The Tournament Preliminaries Begin!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T00:30:00-05:00",
+        "episodeTitle": "Von Stroheim's Revenge",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T01:00:00-05:00",
+        "episodeTitle": "Laplace, Where It All Began",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T01:30:00-05:00",
+        "episodeTitle": "Nen x Users x Unite?",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T02:00:00-05:00",
+        "episodeTitle": "Rogue Ninja's Past",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T02:30:00-05:00",
+        "episodeTitle": "A New Crewmate! The Musician, Humming Brook",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T03:00:00-05:00",
+        "episodeTitle": "Intercepter",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T03:30:00-05:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T04:00:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T04:30:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T05:00:00-05:00",
+        "episodeTitle": "Peggy's Pageant Fever",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-02-25T00:00:00-05:00",
+        "datetime": "2017-02-26T05:30:00-05:00",
+        "episodeTitle": "Good Hill Hunting",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

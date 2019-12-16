@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-02T21:00:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-02T21:30:00-04:00",
+        "episodeTitle": "Spies Reminiscent of Us",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-02T22:00:00-04:00",
+        "episodeTitle": "Family Goy",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-02T22:30:00-04:00",
+        "episodeTitle": "Terror Under the Blood Moon",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 459852,
+        "showTitle": "Genndy Tartakovksy's Primal"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-02T23:00:00-04:00",
+        "episodeTitle": "A Miraculous Conclusion! Farewell Goku! Until We Meet Again!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-02T23:30:00-04:00",
+        "episodeTitle": "The Metal Bat",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T00:00:00-04:00",
+        "episodeTitle": "Clear World",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 459432,
+        "showTitle": "Dr. Stone"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T00:30:00-04:00",
+        "episodeTitle": "For Whom the Flames Burn",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 458812,
+        "showTitle": "Fire Force"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T01:00:00-05:00",
+        "episodeTitle": "Sensual Fried Chicken",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T01:30:00-05:00",
+        "episodeTitle": "Final Selection",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 460432,
+        "showTitle": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T02:00:00-05:00",
+        "episodeTitle": "Julius Novachrono",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T02:15:00-05:00",
+        "episodeTitle": "Bucciarati Appears",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 460433,
+        "showTitle": "JoJo's Bizarre Adventure: Golden Wind"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T02:30:00-05:00",
+        "episodeTitle": "True Kindness",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T02:45:00-05:00",
+        "episodeTitle": "Zenigata, Gentleman Thief",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 457432,
+        "showTitle": "Lupin the 3rd Part 5"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T03:00:00-05:00",
+        "episodeTitle": "Unrivaled",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T03:30:00-05:00",
+        "episodeTitle": "Wet City",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 454473,
+        "showTitle": "Wet City"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T03:45:00-05:00",
+        "episodeTitle": "Shop: A Pop Opera",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 454472,
+        "showTitle": "SHOP: A Pop Opera"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T04:00:00-05:00",
+        "episodeTitle": "May I Please Enter",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 452032,
+        "showTitle": "May I Please Enter"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T04:15:00-05:00",
+        "episodeTitle": "Jamir at Home",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 460532,
+        "showTitle": "Jamir At Home"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T04:30:00-05:00",
+        "episodeTitle": "Time-Police 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T04:45:00-05:00",
+        "episodeTitle": "Demon",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T05:00:00-05:00",
+        "episodeTitle": "Gee Whiz",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T05:15:00-05:00",
+        "episodeTitle": "eDork",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-02T00:00:00-04:00",
+        "datetime": "2019-11-03T05:30:00-05:00",
+        "episodeTitle": "Psycho-Delicate",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

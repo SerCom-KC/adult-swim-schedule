@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-23T21:00:00-04:00",
+        "episodeTitle": "Dancing with the Stools",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-23T21:30:00-04:00",
+        "episodeTitle": "Next of Pin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-23T22:00:00-04:00",
+        "episodeTitle": "Standard Deviation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-23T22:30:00-04:00",
+        "episodeTitle": "Burgerboss",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-23T23:00:00-04:00",
+        "episodeTitle": "You Can't Do That on Television, Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-23T23:30:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Stewie",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T00:00:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T00:30:00-04:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T00:45:00-04:00",
+        "episodeTitle": "Bullies",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T01:00:00-04:00",
+        "episodeTitle": "Jack Black; Jennette McCurdy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T01:15:00-04:00",
+        "episodeTitle": "Tommy",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T01:30:00-04:00",
+        "episodeTitle": "Burgerboss",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T02:00:00-04:00",
+        "episodeTitle": "You Can't Do That on Television, Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T02:30:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Stewie",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T03:00:00-04:00",
+        "episodeTitle": "Next of Pin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T03:30:00-04:00",
+        "episodeTitle": "Standard Deviation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 3/23/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 3/15/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T04:30:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T05:00:00-04:00",
+        "episodeTitle": "Dancing with the Stools",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-23T00:00:00-04:00",
+        "datetime": "2018-03-24T05:30:00-04:00",
+        "episodeTitle": "The Texas Skillsaw Massacre",
+        "rating": "TV-PG LV",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

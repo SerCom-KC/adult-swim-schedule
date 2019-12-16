@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-17T21:00:00-05:00",
+        "episodeTitle": "Yard, She Blows!",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-17T21:30:00-05:00",
+        "episodeTitle": "Tearjerker",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-17T22:00:00-05:00",
+        "episodeTitle": "Tom, Sarah and Usher",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-17T22:30:00-05:00",
+        "episodeTitle": "The Return of the King",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-17T23:00:00-05:00",
+        "episodeTitle": "Running Mates",
+        "rating": "TV-14 LS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-17T23:30:00-05:00",
+        "episodeTitle": "Idol: The Struggle for Trost Part 7",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T00:00:00-05:00",
+        "episodeTitle": "The Battle with Ten-Times Gravity! Goku's Race Against the Clock!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T00:30:00-05:00",
+        "episodeTitle": "The Picture Book's Story",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T01:00:00-05:00",
+        "episodeTitle": "The End of Moryomaru",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T01:30:00-05:00",
+        "episodeTitle": "I'm Not Gonna Hand Over the Blueprints! Franky's Decision!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T02:00:00-05:00",
+        "episodeTitle": "Tell Me the Secrets of This World",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 409612,
+        "showTitle": "Gurren Lagann"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T02:30:00-05:00",
+        "episodeTitle": "G Block",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 387012,
+        "showTitle": "Deadman Wonderland"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T03:00:00-05:00",
+        "episodeTitle": "Episode 292",
+        "rating": "TV-14 V",
+        "seasonNumber": 0,
+        "showID": 343790,
+        "showTitle": "Bleach"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T03:30:00-05:00",
+        "episodeTitle": "I'm Never Remembering You, Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T04:00:00-05:00",
+        "episodeTitle": "Honky Tonk Women",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T04:30:00-05:00",
+        "episodeTitle": "Pat",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T05:00:00-05:00",
+        "episodeTitle": "Black Egg",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 0,
+        "showID": 336811,
+        "showTitle": "IGPX"
+    },
+    {
+        "date": "2015-01-17T00:00:00-05:00",
+        "datetime": "2015-01-18T05:30:00-05:00",
+        "episodeTitle": "XLIX",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 4,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

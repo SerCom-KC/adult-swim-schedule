@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-14T21:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-14T21:30:00-04:00",
+        "episodeTitle": "Stan-Dan Deliver",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-14T22:00:00-04:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-14T22:30:00-04:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-14T23:00:00-04:00",
+        "episodeTitle": "Screams of Silence: The Story of Brenda Q",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-14T23:30:00-04:00",
+        "episodeTitle": "Stewie Goes for a Drive",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T00:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T00:30:00-04:00",
+        "episodeTitle": "Some Like It Hitman",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T00:45:00-04:00",
+        "episodeTitle": "Momma's Boy",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T01:00:00-04:00",
+        "episodeTitle": "Howie Mandel; Malaysia Pargo",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T01:15:00-04:00",
+        "episodeTitle": "Muscles for Bones",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T01:30:00-04:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T02:00:00-04:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T02:30:00-04:00",
+        "episodeTitle": "Screams of Silence: The Story of Brenda Q",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T03:00:00-04:00",
+        "episodeTitle": "Stewie Goes for a Drive",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T03:30:00-04:00",
+        "episodeTitle": "The Devil Wears a Lapel Pin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T04:00:00-04:00",
+        "episodeTitle": "Animals",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T04:15:00-04:00",
+        "episodeTitle": "Mu-Mu-Mu-Meat",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T04:30:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T05:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-14T00:00:00-04:00",
+        "datetime": "2018-03-15T05:30:00-04:00",
+        "episodeTitle": "Fun with Jane and Jane",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-18T21:00:00-05:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-18T21:30:00-05:00",
+        "episodeTitle": "Blonde Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-18T22:00:00-05:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-18T22:30:00-05:00",
+        "episodeTitle": "Brian Griffin's House of Payne",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-18T23:00:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-18T23:30:00-05:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T00:00:00-05:00",
+        "episodeTitle": "Joe Pera Answers Your Questions About Cold Weather Sports",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T00:30:00-05:00",
+        "episodeTitle": "The Human Bat",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T00:45:00-05:00",
+        "episodeTitle": "Once in a Wattle",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T01:00:00-05:00",
+        "episodeTitle": "Tigtone and His Fellowship Of",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T01:15:00-05:00",
+        "episodeTitle": "Tigtone and the Beautiful War",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T01:30:00-05:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T02:00:00-05:00",
+        "episodeTitle": "Brian Griffin's House of Payne",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T02:30:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T03:00:00-05:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T03:30:00-05:00",
+        "episodeTitle": "Joe Pera Answers Your Questions About Cold Weather Sports",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T04:00:00-05:00",
+        "episodeTitle": "FishCenter - 1/18/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T04:15:00-05:00",
+        "episodeTitle": "Bloodfeast - 1/18/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449332,
+        "showTitle": "Bloodfeast"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T04:30:00-05:00",
+        "episodeTitle": "Tigtone and His Fellowship Of",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T04:45:00-05:00",
+        "episodeTitle": "Tigtone and the Beautiful War",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T05:00:00-05:00",
+        "episodeTitle": "Blagsnarst: A Love Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-18T00:00:00-05:00",
+        "datetime": "2019-01-19T05:30:00-05:00",
+        "episodeTitle": "Blonde Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

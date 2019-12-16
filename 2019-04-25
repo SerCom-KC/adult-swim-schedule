@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-25T21:00:00-04:00",
+        "episodeTitle": "In Country...Club",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-25T21:30:00-04:00",
+        "episodeTitle": "Slumber Party",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-25T22:00:00-04:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-25T22:30:00-04:00",
+        "episodeTitle": "The Cleveland-Loretta Quagmire",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-25T23:00:00-04:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-25T23:30:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T00:00:00-04:00",
+        "episodeTitle": "Tubba Bubba's Now Hubba Hubba",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T00:15:00-04:00",
+        "episodeTitle": "Boo Cocky",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T00:30:00-04:00",
+        "episodeTitle": "Armageddon It On!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T00:45:00-04:00",
+        "episodeTitle": "Gimmicky Magazine Show Spoof Parody About Dan Halen",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T01:00:00-04:00",
+        "episodeTitle": "Chapter 2B: Second Set",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T01:30:00-04:00",
+        "episodeTitle": "Slumber Party",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T02:00:00-04:00",
+        "episodeTitle": "The Cleveland-Loretta Quagmire",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T02:30:00-04:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T03:00:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T03:30:00-04:00",
+        "episodeTitle": "Tubba Bubba's Now Hubba Hubba",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T03:45:00-04:00",
+        "episodeTitle": "Boo Cocky",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T04:00:00-04:00",
+        "episodeTitle": "Di Bibl",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 456454,
+        "showTitle": "Di Bibl"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T04:15:00-04:00",
+        "episodeTitle": "Mulchtown",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T04:30:00-04:00",
+        "episodeTitle": "Chapter 2B: Second Set",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T05:00:00-04:00",
+        "episodeTitle": "In Country...Club",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-25T00:00:00-04:00",
+        "datetime": "2019-04-26T05:30:00-04:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

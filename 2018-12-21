@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-21T21:00:00-05:00",
+        "episodeTitle": "The Most Adequate Christmas Ever",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-21T21:30:00-05:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-21T22:00:00-05:00",
+        "episodeTitle": "Nice-Capades",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-21T22:30:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-21T23:00:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-21T23:30:00-05:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T00:00:00-05:00",
+        "episodeTitle": "Joe Pera Reads You The Church Announcements",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T00:15:00-05:00",
+        "episodeTitle": "Joe Pera Shows You Iron",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T00:30:00-05:00",
+        "episodeTitle": "Get Worse Soon",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T00:45:00-05:00",
+        "episodeTitle": "Creeps",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T01:00:00-05:00",
+        "episodeTitle": "Ogled Inklings",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T01:15:00-05:00",
+        "episodeTitle": "ConstaDeath",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T01:30:00-05:00",
+        "episodeTitle": "Nice-Capades",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T02:00:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T02:30:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T03:00:00-05:00",
+        "episodeTitle": "Joe Pera Reads You The Church Announcements",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T03:15:00-05:00",
+        "episodeTitle": "Joe Pera Shows You Iron",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T03:30:00-05:00",
+        "episodeTitle": "Get Worse Soon",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T03:45:00-05:00",
+        "episodeTitle": "Creeps",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T04:00:00-05:00",
+        "episodeTitle": "FishCenter - 12/21/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T04:15:00-05:00",
+        "episodeTitle": "Digikiss - 12/21/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449336,
+        "showTitle": "Digikiss"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T04:30:00-05:00",
+        "episodeTitle": "Ogled Inklings",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T04:45:00-05:00",
+        "episodeTitle": "ConstaDeath",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T05:00:00-05:00",
+        "episodeTitle": "The Most Adequate Christmas Ever",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-21T00:00:00-05:00",
+        "datetime": "2018-12-22T05:30:00-05:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

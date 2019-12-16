@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-04T21:00:00-04:00",
+        "episodeTitle": "Meet the Propaniacs",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-04T21:30:00-04:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-04T22:00:00-04:00",
+        "episodeTitle": "Shallow Vows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-04T22:30:00-04:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-04T23:00:00-04:00",
+        "episodeTitle": "Family Goy",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-04T23:30:00-04:00",
+        "episodeTitle": "Spies Reminiscent of Us",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T00:00:00-04:00",
+        "episodeTitle": "Circle Jerk MCMXCVIII",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T00:15:00-04:00",
+        "episodeTitle": "The Smoking Nun",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T00:30:00-04:00",
+        "episodeTitle": "Squidbilly Manfishing",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T00:45:00-04:00",
+        "episodeTitle": "Green and Sober",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T01:00:00-04:00",
+        "episodeTitle": "Video Ouija",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T01:15:00-04:00",
+        "episodeTitle": "For Johansson",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T01:30:00-04:00",
+        "episodeTitle": "Son of Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T02:00:00-04:00",
+        "episodeTitle": "Spies Reminiscent of Us",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T02:30:00-04:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T03:00:00-04:00",
+        "episodeTitle": "Shallow Vows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T03:30:00-04:00",
+        "episodeTitle": "Circle Jerk MCMXCVIII",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T03:45:00-04:00",
+        "episodeTitle": "The Smoking Nun",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T04:00:00-04:00",
+        "episodeTitle": "Robert Louis Stevenson's Belushi!",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T04:15:00-04:00",
+        "episodeTitle": "The Special Fathers vs. the Vampire Altar Boys",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T04:30:00-04:00",
+        "episodeTitle": "Video Ouija",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T04:45:00-04:00",
+        "episodeTitle": "For Johansson",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T05:00:00-04:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-04T00:00:00-04:00",
+        "datetime": "2016-11-05T05:30:00-04:00",
+        "episodeTitle": "Meet the Propaniacs",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

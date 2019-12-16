@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-25T21:00:00-05:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-25T21:30:00-05:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-25T22:00:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-25T22:30:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-25T23:00:00-05:00",
+        "episodeTitle": "Extra Large Medium",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-25T23:30:00-05:00",
+        "episodeTitle": "Go, Stewie, Go!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T00:00:00-05:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T00:15:00-05:00",
+        "episodeTitle": "Eaten by Cats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T00:30:00-05:00",
+        "episodeTitle": "Fry Legs",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T00:45:00-05:00",
+        "episodeTitle": "Take This Job and Love It",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T01:00:00-05:00",
+        "episodeTitle": "Superhell!",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T01:15:00-05:00",
+        "episodeTitle": "Dethgov",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T01:30:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T02:00:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T02:30:00-05:00",
+        "episodeTitle": "Extra Large Medium",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T03:00:00-05:00",
+        "episodeTitle": "Go, Stewie, Go!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T03:30:00-05:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T03:45:00-05:00",
+        "episodeTitle": "Eaten by Cats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T04:00:00-05:00",
+        "episodeTitle": "In Search of Miracle Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T04:15:00-05:00",
+        "episodeTitle": "Propofol, Telescopes, and Abraham Lincoln",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T04:30:00-05:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T05:00:00-05:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-25T00:00:00-05:00",
+        "datetime": "2016-02-26T05:30:00-05:00",
+        "episodeTitle": "Hank's On Board",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

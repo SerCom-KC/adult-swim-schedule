@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-18T21:00:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-18T21:30:00-04:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-18T22:00:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-18T22:30:00-04:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-18T23:00:00-04:00",
+        "episodeTitle": "Chick Cancer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-18T23:30:00-04:00",
+        "episodeTitle": "Barely Legal",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T00:00:00-04:00",
+        "episodeTitle": "Fight Club Paradise",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T00:15:00-04:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T00:30:00-04:00",
+        "episodeTitle": "Save Me!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T00:45:00-04:00",
+        "episodeTitle": "Total Re-Carl",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T01:00:00-04:00",
+        "episodeTitle": "God's Bro",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T01:15:00-04:00",
+        "episodeTitle": "Be Fruitful and Multiply",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T01:30:00-04:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T02:00:00-04:00",
+        "episodeTitle": "Chick Cancer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T02:30:00-04:00",
+        "episodeTitle": "Barely Legal",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T03:00:00-04:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T03:30:00-04:00",
+        "episodeTitle": "G-String Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 8/18/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 8/17/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T04:30:00-04:00",
+        "episodeTitle": "Save Me!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T04:45:00-04:00",
+        "episodeTitle": "Total Re-Carl",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T05:00:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-18T00:00:00-04:00",
+        "datetime": "2017-08-19T05:30:00-04:00",
+        "episodeTitle": "Bill of Sales",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

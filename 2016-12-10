@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-10T21:00:00-05:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-10T21:30:00-05:00",
+        "episodeTitle": "Stan's Best Friend",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-10T22:00:00-05:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-10T22:30:00-05:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-10T23:00:00-05:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-10T23:30:00-05:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T00:00:00-05:00",
+        "episodeTitle": "A Bittersweet Victory! Until We Meet Again!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T00:30:00-05:00",
+        "episodeTitle": "Bloody Battle! JoJo & Dio",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T01:00:00-05:00",
+        "episodeTitle": "Tekkadan",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T01:30:00-05:00",
+        "episodeTitle": "Destiny x and x Tenacity",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T02:00:00-05:00",
+        "episodeTitle": "The End",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T02:30:00-05:00",
+        "episodeTitle": "The Incredible Battle Starts! Luffy vs. Luffy",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T03:00:00-05:00",
+        "episodeTitle": "The Ultimate Disciple",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T03:30:00-05:00",
+        "episodeTitle": "Stan's Best Friend",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T04:00:00-05:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T04:30:00-05:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T05:00:00-05:00",
+        "episodeTitle": "Dang Ol' Love",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-12-10T00:00:00-05:00",
+        "datetime": "2016-12-11T05:30:00-05:00",
+        "episodeTitle": "Get Your Freak Off",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

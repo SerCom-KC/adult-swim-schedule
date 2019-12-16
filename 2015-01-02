@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-02T21:00:00-05:00",
+        "episodeTitle": "Ladies' Night",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-02T21:30:00-05:00",
+        "episodeTitle": "From Bed to Worse",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-02T22:00:00-05:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-02T22:30:00-05:00",
+        "episodeTitle": "Of Ice and Men",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-02T23:00:00-05:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-02T23:30:00-05:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T00:00:00-05:00",
+        "episodeTitle": "Motorboating Dads; The Negative $100,000 Question",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T00:15:00-05:00",
+        "episodeTitle": "Lauren Conrad; Reese Witherspoon",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T00:30:00-05:00",
+        "episodeTitle": "Groaning Amore",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T00:45:00-05:00",
+        "episodeTitle": "Toes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T01:00:00-05:00",
+        "episodeTitle": "Bright Lights, Dean City",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T01:30:00-05:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T02:00:00-05:00",
+        "episodeTitle": "Of Ice and Men",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T02:30:00-05:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T03:00:00-05:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T03:30:00-05:00",
+        "episodeTitle": "Motorboating Dads; The Negative $100,000 Question",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T03:45:00-05:00",
+        "episodeTitle": "Lauren Conrad; Reese Witherspoon",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T04:00:00-05:00",
+        "episodeTitle": "Death",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T04:15:00-05:00",
+        "episodeTitle": "Universe",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T04:30:00-05:00",
+        "episodeTitle": "Bright Lights, Dean City",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T05:00:00-05:00",
+        "episodeTitle": "Ladies' Night",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-02T00:00:00-05:00",
+        "datetime": "2015-01-03T05:30:00-05:00",
+        "episodeTitle": "An Officer and a Gentle Boy",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

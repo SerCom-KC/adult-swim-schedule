@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-16T21:00:00-05:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-16T21:30:00-05:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-16T22:00:00-05:00",
+        "episodeTitle": "Screams of Silence: The Story of Brenda Q",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-16T22:30:00-05:00",
+        "episodeTitle": "Stewie Goes for a Drive",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-16T23:00:00-05:00",
+        "episodeTitle": "Overhaul",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-16T23:30:00-05:00",
+        "episodeTitle": "The Monster Uprising",
+        "rating": "TV-MA S",
+        "seasonNumber": 2,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T00:00:00-05:00",
+        "episodeTitle": "Masked Warrior",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 459432,
+        "showTitle": "Dr. Stone"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T00:30:00-05:00",
+        "episodeTitle": "We Are Family",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 458812,
+        "showTitle": "Fire Force"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T01:00:00-05:00",
+        "episodeTitle": "The Chosen One",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T01:30:00-05:00",
+        "episodeTitle": "Swordsman Accompanying a Demon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 460432,
+        "showTitle": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T02:00:00-05:00",
+        "episodeTitle": "Reincarnation",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T02:30:00-05:00",
+        "episodeTitle": "Joining the Famiglia",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 460433,
+        "showTitle": "JoJo's Bizarre Adventure: Golden Wind"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T03:00:00-05:00",
+        "episodeTitle": "A Message from the Heart",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T03:30:00-05:00",
+        "episodeTitle": "Answer Me, Zantetsuken",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 457432,
+        "showTitle": "Lupin the 3rd Part 5"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T04:00:00-05:00",
+        "episodeTitle": "That Day: The Fall of Shiganshina Part 2",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T04:30:00-05:00",
+        "episodeTitle": "Mayhem Donor",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T04:45:00-05:00",
+        "episodeTitle": "A Shooting Star Named Gaz Digzy Falls Fast and Hard",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T05:00:00-05:00",
+        "episodeTitle": "The South Bronx Paradise Diet",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T05:15:00-05:00",
+        "episodeTitle": "Dusty Gozongas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-16T00:00:00-05:00",
+        "datetime": "2019-11-17T05:30:00-05:00",
+        "episodeTitle": "Honkey Magoo",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

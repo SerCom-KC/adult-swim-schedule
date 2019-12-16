@@ -1,0 +1,254 @@
+[
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T21:00:00-04:00",
+        "episodeTitle": "Padre de Familia",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T21:30:00-04:00",
+        "episodeTitle": "Peter's Daughter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T22:00:00-04:00",
+        "episodeTitle": "The Curious Case of the Box",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T22:15:00-04:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T22:30:00-04:00",
+        "episodeTitle": "The Last One",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T22:45:00-04:00",
+        "episodeTitle": "Video Ouija",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T23:00:00-04:00",
+        "episodeTitle": "My Brother's Keeper",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T23:15:00-04:00",
+        "episodeTitle": "Jellystripper",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-24T23:30:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T00:00:00-04:00",
+        "episodeTitle": "The Flip",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T00:15:00-04:00",
+        "episodeTitle": "The Poor Horsemen of the Apocalypse",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T00:30:00-04:00",
+        "episodeTitle": "Dennis Rodman; Haley Joel Osment",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T00:45:00-04:00",
+        "episodeTitle": "Jack Black; Jennette McCurdy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T01:00:00-04:00",
+        "episodeTitle": "Spring Break",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T01:15:00-04:00",
+        "episodeTitle": "At the Car Wash",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T01:30:00-04:00",
+        "episodeTitle": "Padre de Familia",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T02:00:00-04:00",
+        "episodeTitle": "Peter's Daughter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T02:30:00-04:00",
+        "episodeTitle": "The Curious Case of the Box",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T02:45:00-04:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T03:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T03:30:00-04:00",
+        "episodeTitle": "The Flip",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T03:45:00-04:00",
+        "episodeTitle": "The Poor Horsemen of the Apocalypse",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 5/24/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 5/24/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449335,
+        "showTitle": "Development Meeting"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T04:30:00-04:00",
+        "episodeTitle": "My Brother's Keeper",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T04:45:00-04:00",
+        "episodeTitle": "Jellystripper",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T05:00:00-04:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-24T00:00:00-04:00",
+        "datetime": "2019-05-25T05:30:00-04:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-04T21:00:00-05:00",
+        "episodeTitle": "For Black Eyes Only",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-04T21:30:00-05:00",
+        "episodeTitle": "Spelling Bee My Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-04T22:00:00-05:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-04T22:30:00-05:00",
+        "episodeTitle": "The Frond Files",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-04T23:00:00-05:00",
+        "episodeTitle": "You Can't Do That on Television, Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-04T23:30:00-05:00",
+        "episodeTitle": "Mr. and Mrs. Stewie",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T00:00:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T00:30:00-05:00",
+        "episodeTitle": "Joe Pera Lights Up the Night With You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T00:45:00-05:00",
+        "episodeTitle": "Joe Pera Talks To You About The Rat Wars of Alberta, Canada, 1950 - Present Day",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T01:00:00-05:00",
+        "episodeTitle": "Stan the Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T01:15:00-05:00",
+        "episodeTitle": "Gary Bunda: Demon Killer",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T01:30:00-05:00",
+        "episodeTitle": "You Can't Do That on Television, Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T02:00:00-05:00",
+        "episodeTitle": "Mr. and Mrs. Stewie",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T02:30:00-05:00",
+        "episodeTitle": "For Black Eyes Only",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T03:00:00-05:00",
+        "episodeTitle": "Spelling Bee My Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T03:30:00-05:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T04:00:00-05:00",
+        "episodeTitle": "The Blessed Union",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T04:15:00-05:00",
+        "episodeTitle": "Omnipresence",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T04:30:00-05:00",
+        "episodeTitle": "Stan the Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T04:45:00-05:00",
+        "episodeTitle": "Gary Bunda: Demon Killer",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T05:00:00-05:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-04T00:00:00-05:00",
+        "datetime": "2019-12-05T05:30:00-05:00",
+        "episodeTitle": "The Frond Files",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

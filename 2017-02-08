@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-08T21:00:00-05:00",
+        "episodeTitle": "Threat Levels",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-08T21:30:00-05:00",
+        "episodeTitle": "Stan Knows Best",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-08T22:00:00-05:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-08T22:30:00-05:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-08T23:00:00-05:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-08T23:30:00-05:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T00:00:00-05:00",
+        "episodeTitle": "Chirlaxx",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T00:15:00-05:00",
+        "episodeTitle": "Help Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T00:30:00-05:00",
+        "episodeTitle": "The The",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T00:45:00-05:00",
+        "episodeTitle": "The Cloning",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T01:00:00-05:00",
+        "episodeTitle": "Lou Ferrigno & Downtown Julie Brown",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T01:15:00-05:00",
+        "episodeTitle": "Untitled",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T01:30:00-05:00",
+        "episodeTitle": "Threat Levels",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T02:00:00-05:00",
+        "episodeTitle": "Stan Knows Best",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T02:30:00-05:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T03:00:00-05:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T03:30:00-05:00",
+        "episodeTitle": "Road to Rhode Island",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T04:00:00-05:00",
+        "episodeTitle": "\"Taxes and Death\" or \"Get Him to the Sunset Strip!\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T04:30:00-05:00",
+        "episodeTitle": "Lou Ferrigno & Downtown Julie Brown",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T04:45:00-05:00",
+        "episodeTitle": "Untitled",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T05:00:00-05:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-02-08T00:00:00-05:00",
+        "datetime": "2017-02-09T05:30:00-05:00",
+        "episodeTitle": "Lucky See, Monkey Do",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

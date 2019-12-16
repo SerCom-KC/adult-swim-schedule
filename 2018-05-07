@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-07T21:00:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-07T21:30:00-04:00",
+        "episodeTitle": "Joint Custody",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-07T22:00:00-04:00",
+        "episodeTitle": "Tina Tailor Soldier Spy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-07T22:30:00-04:00",
+        "episodeTitle": "Midday Run",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-07T23:00:00-04:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-07T23:30:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T00:00:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T00:30:00-04:00",
+        "episodeTitle": "Chapter Ten",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T01:00:00-04:00",
+        "episodeTitle": "A Shooting Star Named Gaz Digzy Falls Fast and Hard",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T01:15:00-04:00",
+        "episodeTitle": "With the Burning Spirit of Teamwork in Her Heart",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T01:30:00-04:00",
+        "episodeTitle": "Tina Tailor Soldier Spy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T02:00:00-04:00",
+        "episodeTitle": "Midday Run",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T02:30:00-04:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T03:00:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T03:30:00-04:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T04:00:00-04:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T04:15:00-04:00",
+        "episodeTitle": "For-Profit Online University",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T04:30:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T05:00:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-07T00:00:00-04:00",
+        "datetime": "2018-05-08T05:30:00-04:00",
+        "episodeTitle": "The Year of Washing Dangerously",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

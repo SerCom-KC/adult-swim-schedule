@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-27T21:00:00-04:00",
+        "episodeTitle": "Jack's Back",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-27T21:30:00-04:00",
+        "episodeTitle": "Bar Mitzvah Shuffle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-27T22:00:00-04:00",
+        "episodeTitle": "Boyz 4 Now",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-27T22:30:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-27T23:00:00-04:00",
+        "episodeTitle": "No Chris Left Behind",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-27T23:30:00-04:00",
+        "episodeTitle": "It Takes a Village Idiot, and I Married One",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T00:00:00-04:00",
+        "episodeTitle": "Rodiggity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T00:15:00-04:00",
+        "episodeTitle": "Jason B. Sucks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T00:30:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T01:00:00-04:00",
+        "episodeTitle": "Dumber Dolls",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T01:15:00-04:00",
+        "episodeTitle": "Bad Replicant",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T01:30:00-04:00",
+        "episodeTitle": "Jack's Back",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T02:00:00-04:00",
+        "episodeTitle": "Bar Mitzvah Shuffle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T02:30:00-04:00",
+        "episodeTitle": "Boyz 4 Now",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T03:00:00-04:00",
+        "episodeTitle": "No Chris Left Behind",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T03:30:00-04:00",
+        "episodeTitle": "It Takes a Village Idiot, and I Married One",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T04:00:00-04:00",
+        "episodeTitle": "Bloodfeast - Week of 3/20/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T04:15:00-04:00",
+        "episodeTitle": "Showdown in Magic City",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344844,
+        "showTitle": "Assy McGee"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T04:30:00-04:00",
+        "episodeTitle": "Dumber Dolls",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T04:45:00-04:00",
+        "episodeTitle": "Bad Replicant",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T05:00:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-03-27T00:00:00-04:00",
+        "datetime": "2017-03-28T05:30:00-04:00",
+        "episodeTitle": "Transnational Amusements Presents: Peggy's Magic Sex Feet",
+        "rating": "TV-PG D",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-02T21:00:00-04:00",
+        "episodeTitle": "The Bleakening Part 1",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-02T21:30:00-04:00",
+        "episodeTitle": "The Bleakening Part 2",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-02T22:00:00-04:00",
+        "episodeTitle": "Shark?!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-02T22:30:00-04:00",
+        "episodeTitle": "Vestigial Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-02T23:00:00-04:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-02T23:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T00:00:00-04:00",
+        "episodeTitle": "Last Reggie on Earth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T00:15:00-04:00",
+        "episodeTitle": "My Brother's Keeper",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T00:30:00-04:00",
+        "episodeTitle": "Prolly for the Best",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T00:45:00-04:00",
+        "episodeTitle": "Keep It Moving",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T01:00:00-04:00",
+        "episodeTitle": "Stan the Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T01:15:00-04:00",
+        "episodeTitle": "Gary Bunda: Demon Killer",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T01:30:00-04:00",
+        "episodeTitle": "Shark?!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T02:00:00-04:00",
+        "episodeTitle": "Vestigial Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T02:30:00-04:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T03:00:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T03:30:00-04:00",
+        "episodeTitle": "Last Reggie on Earth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T03:45:00-04:00",
+        "episodeTitle": "My Brother's Keeper",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T04:00:00-04:00",
+        "episodeTitle": "Prolly for the Best",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T04:15:00-04:00",
+        "episodeTitle": "Keep It Moving",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T04:30:00-04:00",
+        "episodeTitle": "Stan the Man",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T04:45:00-04:00",
+        "episodeTitle": "Gary Bunda: Demon Killer",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T05:00:00-04:00",
+        "episodeTitle": "The Bleakening Part 1",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-02T00:00:00-04:00",
+        "datetime": "2019-06-03T05:30:00-04:00",
+        "episodeTitle": "The Bleakening Part 2",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

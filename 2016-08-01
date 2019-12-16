@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-01T21:00:00-04:00",
+        "episodeTitle": "The Devil Wears a Lapel Pin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-01T21:30:00-04:00",
+        "episodeTitle": "Stan-Dan Deliver",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-01T22:00:00-04:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-01T23:00:00-04:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-01T23:30:00-04:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T00:00:00-04:00",
+        "episodeTitle": "Blackout Window Heat Stroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T00:15:00-04:00",
+        "episodeTitle": "The Unnamed One",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T00:30:00-04:00",
+        "episodeTitle": "The Unbearable Heatness of Fire",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T00:45:00-04:00",
+        "episodeTitle": "Tuscaloosa Dumpling",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T01:00:00-04:00",
+        "episodeTitle": "Bad Replicant",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T01:15:00-04:00",
+        "episodeTitle": "Circus",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T01:30:00-04:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T02:30:00-04:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T03:00:00-04:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T03:30:00-04:00",
+        "episodeTitle": "Blackout Window Heat Stroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T03:45:00-04:00",
+        "episodeTitle": "The Unnamed One",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T04:00:00-04:00",
+        "episodeTitle": "Nightmare Ball",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 430032,
+        "showTitle": "Daytime Fighting League"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T04:30:00-04:00",
+        "episodeTitle": "Stan-Dan Deliver",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T05:00:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-01T00:00:00-04:00",
+        "datetime": "2016-08-02T05:30:00-04:00",
+        "episodeTitle": "The Petriot Act",
+        "rating": "TV-PG ",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

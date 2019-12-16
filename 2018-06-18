@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-18T21:00:00-04:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-18T21:30:00-04:00",
+        "episodeTitle": "For Whom the Sleigh Bell Tolls",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-18T22:00:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-18T22:30:00-04:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-18T23:00:00-04:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-18T23:30:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T00:00:00-04:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T00:30:00-04:00",
+        "episodeTitle": "Boo Cocky",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T00:45:00-04:00",
+        "episodeTitle": "Bionic Cow",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T01:00:00-04:00",
+        "episodeTitle": "Joe Pera Shows You Iron",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T01:15:00-04:00",
+        "episodeTitle": "Joe Pera Takes You to Breakfast",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T01:30:00-04:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T02:00:00-04:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T02:30:00-04:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T03:00:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T03:30:00-04:00",
+        "episodeTitle": "The People Vs. Martin Sugar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T04:00:00-04:00",
+        "episodeTitle": "Dayworld",
+        "rating": "TV-PG S",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T04:15:00-04:00",
+        "episodeTitle": "In Search of Miracle Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T04:30:00-04:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T05:00:00-04:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-18T00:00:00-04:00",
+        "datetime": "2018-06-19T05:30:00-04:00",
+        "episodeTitle": "Born Again on the 4th of July",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

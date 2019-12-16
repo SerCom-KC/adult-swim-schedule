@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-24T21:00:00-04:00",
+        "episodeTitle": "Foxcroft Academy for Boys",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-24T21:15:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-24T21:30:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-24T22:00:00-04:00",
+        "episodeTitle": "Stan of Arabia Part 1",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-24T22:30:00-04:00",
+        "episodeTitle": "Stan of Arabia Part 2",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-24T23:00:00-04:00",
+        "episodeTitle": "American Gigg-olo",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-24T23:30:00-04:00",
+        "episodeTitle": "Inside Family Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T00:00:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T00:30:00-04:00",
+        "episodeTitle": "Joel Hurwitz",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T00:45:00-04:00",
+        "episodeTitle": "Blackout Window Heat Stroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T01:00:00-04:00",
+        "episodeTitle": "Evolutionary War",
+        "rating": "TV-PG S",
+        "seasonNumber": 3,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T01:15:00-04:00",
+        "episodeTitle": "Spharktasm",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T01:30:00-04:00",
+        "episodeTitle": "Stan of Arabia Part 1",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T02:00:00-04:00",
+        "episodeTitle": "Stan of Arabia Part 2",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T02:30:00-04:00",
+        "episodeTitle": "American Gigg-olo",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T03:00:00-04:00",
+        "episodeTitle": "Inside Family Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T03:30:00-04:00",
+        "episodeTitle": "Foxcroft Academy for Boys",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T03:45:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T04:00:00-04:00",
+        "episodeTitle": "\"Warriors Come Out\" or \"Mean Queens of Halloween\"",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T04:30:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T05:00:00-04:00",
+        "episodeTitle": "Casablankman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T05:15:00-04:00",
+        "episodeTitle": "The Core, the Thief, His Wife and Her Lover",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-24T00:00:00-04:00",
+        "datetime": "2018-09-25T05:30:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

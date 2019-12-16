@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-22T21:00:00-04:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-22T21:30:00-04:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-22T22:00:00-04:00",
+        "episodeTitle": "Blonde Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-22T22:30:00-04:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-22T23:00:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-22T23:30:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T00:00:00-04:00",
+        "episodeTitle": "Robot Chicken's ATM Christmas Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T00:15:00-04:00",
+        "episodeTitle": "Papercut to Aorta",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T00:30:00-04:00",
+        "episodeTitle": "Super Birthday Snake",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T00:45:00-04:00",
+        "episodeTitle": "Burned And Reburned Again",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T01:00:00-04:00",
+        "episodeTitle": "Bi-Topping-Ality",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T01:30:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T02:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T02:30:00-04:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T03:00:00-04:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T03:30:00-04:00",
+        "episodeTitle": "Robot Chicken's ATM Christmas Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T03:45:00-04:00",
+        "episodeTitle": "Papercut to Aorta",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T04:00:00-04:00",
+        "episodeTitle": "Finding Love",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T04:15:00-04:00",
+        "episodeTitle": "Surgery Circus",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T04:30:00-04:00",
+        "episodeTitle": "Bi-Topping-Ality",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T05:00:00-04:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-22T00:00:00-04:00",
+        "datetime": "2015-06-23T05:30:00-04:00",
+        "episodeTitle": "Just Another Manic Kahn-Day",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

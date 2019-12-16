@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-02T21:00:00-04:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-02T21:30:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-02T22:00:00-04:00",
+        "episodeTitle": "Deacon Stan, Jesus Man",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-02T22:30:00-04:00",
+        "episodeTitle": "Bullocks to Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-02T23:00:00-04:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-02T23:30:00-04:00",
+        "episodeTitle": "I Dream of Jesus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T00:00:00-04:00",
+        "episodeTitle": "1987",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T00:15:00-04:00",
+        "episodeTitle": "Celebrity Rocket",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T00:30:00-04:00",
+        "episodeTitle": "Laser Lenses",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T00:45:00-04:00",
+        "episodeTitle": "Atone Deaf",
+        "rating": "TV-14 SV",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T01:00:00-04:00",
+        "episodeTitle": "Wild Hogs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T01:30:00-04:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T02:00:00-04:00",
+        "episodeTitle": "I Dream of Jesus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T02:30:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T03:00:00-04:00",
+        "episodeTitle": "Bullocks to Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T03:30:00-04:00",
+        "episodeTitle": "1987",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T03:45:00-04:00",
+        "episodeTitle": "Celebrity Rocket",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T04:00:00-04:00",
+        "episodeTitle": "Smart Pipe",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T04:15:00-04:00",
+        "episodeTitle": "Dads",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T04:30:00-04:00",
+        "episodeTitle": "Wild Hogs",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T05:00:00-04:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-02T00:00:00-04:00",
+        "datetime": "2015-04-03T05:30:00-04:00",
+        "episodeTitle": "The Exterminator",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

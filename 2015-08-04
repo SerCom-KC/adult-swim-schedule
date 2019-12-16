@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-04T21:00:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-04T21:30:00-04:00",
+        "episodeTitle": "Like a Boss",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-04T22:00:00-04:00",
+        "episodeTitle": "All About Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-04T22:30:00-04:00",
+        "episodeTitle": "Rodger Codger",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-04T23:00:00-04:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-04T23:30:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T00:00:00-04:00",
+        "episodeTitle": "Sausage Fest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T00:15:00-04:00",
+        "episodeTitle": "Drippy Pony",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T00:30:00-04:00",
+        "episodeTitle": "The The",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T00:45:00-04:00",
+        "episodeTitle": "The Okaleechee Dam Jam",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T01:00:00-04:00",
+        "episodeTitle": "Kenny Winker Rules",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T01:30:00-04:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T02:00:00-04:00",
+        "episodeTitle": "Brian Goes Back to College",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T02:30:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T03:00:00-04:00",
+        "episodeTitle": "Rodger Codger",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T03:30:00-04:00",
+        "episodeTitle": "Sausage Fest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T03:45:00-04:00",
+        "episodeTitle": "Drippy Pony",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T04:00:00-04:00",
+        "episodeTitle": "SPF",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T04:15:00-04:00",
+        "episodeTitle": "Bizarro",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T04:30:00-04:00",
+        "episodeTitle": "Kenny Winker Rules",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T05:00:00-04:00",
+        "episodeTitle": "Like a Boss",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-04T00:00:00-04:00",
+        "datetime": "2015-08-05T05:30:00-04:00",
+        "episodeTitle": "Fun with Jane and Jane",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

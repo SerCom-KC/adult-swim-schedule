@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-13T21:00:00-05:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-13T21:30:00-05:00",
+        "episodeTitle": "Here Comes the Bribe",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-13T22:00:00-05:00",
+        "episodeTitle": "One Little Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-13T22:30:00-05:00",
+        "episodeTitle": "Wife Insurance",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-13T23:00:00-05:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-13T23:30:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T00:00:00-05:00",
+        "episodeTitle": "The Creepiest Man Alive, Bomb Sniffing Dogs",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T00:15:00-05:00",
+        "episodeTitle": "The Hannibal Buress Show",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T00:30:00-05:00",
+        "episodeTitle": "Dinner with Family with Brett Gelman and Brett Gelman's Family",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 414712,
+        "showTitle": "Dinner With Family With Brett Gelman and Brett Gelman's Family"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T01:00:00-05:00",
+        "episodeTitle": "Ice Station Impossible",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T01:30:00-05:00",
+        "episodeTitle": "One Little Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T02:00:00-05:00",
+        "episodeTitle": "Wife Insurance",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T02:30:00-05:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T03:00:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T03:30:00-05:00",
+        "episodeTitle": "The Creepiest Man Alive, Bomb Sniffing Dogs",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T03:45:00-05:00",
+        "episodeTitle": "The Hannibal Buress Show",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T04:00:00-05:00",
+        "episodeTitle": "February 13, 2015 Part 1",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T04:15:00-05:00",
+        "episodeTitle": "Color",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T04:30:00-05:00",
+        "episodeTitle": "Ice Station Impossible",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T05:00:00-05:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-13T00:00:00-05:00",
+        "datetime": "2015-02-14T05:30:00-05:00",
+        "episodeTitle": "The Accidental Terrorist",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-13T21:00:00-04:00",
+        "episodeTitle": "Straight as an Arrow",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-13T21:30:00-04:00",
+        "episodeTitle": "All You Can Eat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-13T22:00:00-04:00",
+        "episodeTitle": "Escape From Goochland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-13T22:30:00-04:00",
+        "episodeTitle": "It's Goin' Down",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-13T23:00:00-04:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-13T23:30:00-04:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T00:00:00-04:00",
+        "episodeTitle": "The Countdown to Battle Begins! Enter, the Ginyu Force!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T00:30:00-04:00",
+        "episodeTitle": "Into the Night",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T01:00:00-04:00",
+        "episodeTitle": "What It Means to Be Strong",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T01:30:00-04:00",
+        "episodeTitle": "Toward Tomorrow",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T02:00:00-04:00",
+        "episodeTitle": "Resonance",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T02:30:00-04:00",
+        "episodeTitle": "I Can't Protect Anyone Unless I Win! Third Gear Activated!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T03:00:00-04:00",
+        "episodeTitle": "Idol: The Struggle for Trost Part 7",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T03:30:00-04:00",
+        "episodeTitle": "All You Can Eat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T04:00:00-04:00",
+        "episodeTitle": "Escape From Goochland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T04:30:00-04:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T05:00:00-04:00",
+        "episodeTitle": "A Bill Full Of Dollars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-13T00:00:00-04:00",
+        "datetime": "2015-06-14T05:30:00-04:00",
+        "episodeTitle": "Straight as an Arrow",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-01T21:00:00-04:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-01T21:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-01T22:00:00-04:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-01T22:30:00-04:00",
+        "episodeTitle": "Weiner of Our Discontent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-01T23:00:00-04:00",
+        "episodeTitle": "Road to Germany",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-01T23:30:00-04:00",
+        "episodeTitle": "Baby Not on Board",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T00:00:00-04:00",
+        "episodeTitle": "Showdown! Cell vs. Goku!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T00:30:00-04:00",
+        "episodeTitle": "The Dominator of the Universe",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T01:00:00-04:00",
+        "episodeTitle": "Fumitan Admoss",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T01:30:00-04:00",
+        "episodeTitle": "A x Dangerous x Watchdog",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T02:00:00-04:00",
+        "episodeTitle": "Infiltrate! The Village Hidden in the Rain",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T02:30:00-04:00",
+        "episodeTitle": "Chopper Is Furious!! Hogback's Evil Medical Practices",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T03:00:00-04:00",
+        "episodeTitle": "Repose and Awakening",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T03:30:00-04:00",
+        "episodeTitle": "Life and Vows",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T04:00:00-04:00",
+        "episodeTitle": "Parasitic Beasts",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T04:30:00-04:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T05:00:00-04:00",
+        "episodeTitle": "Weiner of Our Discontent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-01T00:00:00-04:00",
+        "datetime": "2016-10-02T05:30:00-04:00",
+        "episodeTitle": "Next of Shin",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

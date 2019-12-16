@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-16T21:00:00-04:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-16T21:30:00-04:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-16T22:00:00-04:00",
+        "episodeTitle": "The Millie-Churian Candidate",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-16T22:30:00-04:00",
+        "episodeTitle": "Fox-y Lady",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-16T23:00:00-04:00",
+        "episodeTitle": "Peter's Two Dads",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-16T23:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T00:00:00-04:00",
+        "episodeTitle": "Kramer vs. Showgirls",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T00:15:00-04:00",
+        "episodeTitle": "Malcolm X: Fully Loaded",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T00:30:00-04:00",
+        "episodeTitle": "Fatal Distraction",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T00:45:00-04:00",
+        "episodeTitle": "Clowny Freaks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T01:00:00-04:00",
+        "episodeTitle": "A Date with the Booty Warrior",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T01:30:00-04:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T02:00:00-04:00",
+        "episodeTitle": "Fox-y Lady",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T02:30:00-04:00",
+        "episodeTitle": "Peter's Two Dads",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T03:00:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T03:30:00-04:00",
+        "episodeTitle": "Kramer vs. Showgirls",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T03:45:00-04:00",
+        "episodeTitle": "Malcolm X: Fully Loaded",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T04:00:00-04:00",
+        "episodeTitle": "The Salad Mixxxer",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T04:15:00-04:00",
+        "episodeTitle": "Fartcopter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T04:30:00-04:00",
+        "episodeTitle": "A Date with the Booty Warrior",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T05:00:00-04:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-16T00:00:00-04:00",
+        "datetime": "2019-05-17T05:30:00-04:00",
+        "episodeTitle": "The Millie-Churian Candidate",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

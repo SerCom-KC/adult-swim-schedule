@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-02T21:00:00-04:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-02T21:30:00-04:00",
+        "episodeTitle": "From Bed to Worse",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-02T22:00:00-04:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-02T22:30:00-04:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-02T23:00:00-04:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-02T23:30:00-04:00",
+        "episodeTitle": "I Dream of Jesus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T00:00:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T00:15:00-04:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T00:30:00-04:00",
+        "episodeTitle": "Boost Mobile",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T00:45:00-04:00",
+        "episodeTitle": "Young, Dumb and Full of Gums",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T01:00:00-04:00",
+        "episodeTitle": "Mayhem Donor",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T01:15:00-04:00",
+        "episodeTitle": "Church of the Black Klok",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T01:30:00-04:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T02:00:00-04:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T02:30:00-04:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T03:00:00-04:00",
+        "episodeTitle": "I Dream of Jesus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T03:30:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T03:45:00-04:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T04:00:00-04:00",
+        "episodeTitle": "Sebben and Sebben Employee Orientation",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T04:15:00-04:00",
+        "episodeTitle": "Let Em Eat Corn",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T04:30:00-04:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T05:00:00-04:00",
+        "episodeTitle": "From Bed to Worse",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-02T00:00:00-04:00",
+        "datetime": "2015-09-03T05:30:00-04:00",
+        "episodeTitle": "Yard, She Blows!",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

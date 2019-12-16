@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-25T21:00:00-04:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-25T21:30:00-04:00",
+        "episodeTitle": "Y Tu Junior Tambien",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-25T22:00:00-04:00",
+        "episodeTitle": "The Full Cognitive Redaction of Avery Bullock by the Coward Stan Smith",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-25T22:30:00-04:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-25T23:00:00-04:00",
+        "episodeTitle": "Moving Out",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-25T23:30:00-04:00",
+        "episodeTitle": "Believe It or Not Joe's Walking on Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T00:00:00-04:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T00:15:00-04:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T00:30:00-04:00",
+        "episodeTitle": "Carl Wash",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T00:45:00-04:00",
+        "episodeTitle": "Anabolic-holic",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T01:00:00-04:00",
+        "episodeTitle": "The Diamond Castle",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T01:30:00-04:00",
+        "episodeTitle": "Moving Out",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T02:00:00-04:00",
+        "episodeTitle": "Believe It or Not Joe's Walking on Air",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T02:30:00-04:00",
+        "episodeTitle": "The Full Cognitive Redaction of Avery Bullock by the Coward Stan Smith",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T03:00:00-04:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T03:30:00-04:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T03:45:00-04:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T04:00:00-04:00",
+        "episodeTitle": "DDWIWDD",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T04:15:00-04:00",
+        "episodeTitle": "Nature",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T04:30:00-04:00",
+        "episodeTitle": "The Diamond Castle",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T05:00:00-04:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-25T00:00:00-04:00",
+        "datetime": "2015-03-26T05:30:00-04:00",
+        "episodeTitle": "Flush with Power",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

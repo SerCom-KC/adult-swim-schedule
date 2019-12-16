@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-05T21:00:00-05:00",
+        "episodeTitle": "Mama Drama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-05T21:30:00-05:00",
+        "episodeTitle": "All You Can Eat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-05T22:00:00-05:00",
+        "episodeTitle": "Brains, Brains, and Automobiles",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-05T22:30:00-05:00",
+        "episodeTitle": "Man in the Moonbounce",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-05T23:00:00-05:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-05T23:30:00-05:00",
+        "episodeTitle": "Peter Griffin: Husband, Father, Brother?",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T00:00:00-05:00",
+        "episodeTitle": "The Core, the Thief, His Wife and Her Lover",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T00:15:00-05:00",
+        "episodeTitle": "Casablankman II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T00:30:00-05:00",
+        "episodeTitle": "Foul Ball",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T00:45:00-05:00",
+        "episodeTitle": "Stingstress",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T01:00:00-05:00",
+        "episodeTitle": "Unremarkable Voyage",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T01:15:00-05:00",
+        "episodeTitle": "Beast Implants",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T01:30:00-05:00",
+        "episodeTitle": "Brains, Brains, and Automobiles",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T02:00:00-05:00",
+        "episodeTitle": "Man in the Moonbounce",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T02:30:00-05:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T03:00:00-05:00",
+        "episodeTitle": "Peter Griffin: Husband, Father, Brother?",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T03:30:00-05:00",
+        "episodeTitle": "The Core, the Thief, His Wife and Her Lover",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T03:45:00-05:00",
+        "episodeTitle": "Casablankman II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T04:00:00-05:00",
+        "episodeTitle": "Live Forever as You Are Now with Alan Resnick",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T04:15:00-05:00",
+        "episodeTitle": "Missing",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T04:30:00-05:00",
+        "episodeTitle": "Unremarkable Voyage",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T04:45:00-05:00",
+        "episodeTitle": "Beast Implants",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T05:00:00-05:00",
+        "episodeTitle": "Mama Drama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-05T00:00:00-05:00",
+        "datetime": "2015-02-06T05:30:00-05:00",
+        "episodeTitle": "Peggy's Gone to Pots",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

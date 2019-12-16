@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-16T21:00:00-04:00",
+        "episodeTitle": "Easy Com-Mercial, Easy Go-Mercial",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-16T21:30:00-04:00",
+        "episodeTitle": "Brown History Month",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-16T22:00:00-04:00",
+        "episodeTitle": "Buck, Wild",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-16T22:30:00-04:00",
+        "episodeTitle": "Daesong Heavy Industries",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-16T23:00:00-04:00",
+        "episodeTitle": "The New Adventures of Old Tom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-16T23:30:00-04:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T00:00:00-04:00",
+        "episodeTitle": "Malcolm X: Fully Loaded",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T00:15:00-04:00",
+        "episodeTitle": "Mite Tyson",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T00:30:00-04:00",
+        "episodeTitle": "Unremarkable Voyage",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T00:45:00-04:00",
+        "episodeTitle": "Lean Green Touchdown Makifying Machine",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T01:00:00-04:00",
+        "episodeTitle": "Slop",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T01:15:00-04:00",
+        "episodeTitle": "Friendship",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T01:30:00-04:00",
+        "episodeTitle": "Buck, Wild",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T02:00:00-04:00",
+        "episodeTitle": "Daesong Heavy Industries",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T02:30:00-04:00",
+        "episodeTitle": "The New Adventures of Old Tom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T03:00:00-04:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T03:30:00-04:00",
+        "episodeTitle": "Malcolm X: Fully Loaded",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T03:45:00-04:00",
+        "episodeTitle": "Mite Tyson",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T04:00:00-04:00",
+        "episodeTitle": "May 16, 2016",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T04:15:00-04:00",
+        "episodeTitle": "Smart Pipe",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T04:30:00-04:00",
+        "episodeTitle": "Presto Tina-O",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T05:00:00-04:00",
+        "episodeTitle": "Brown History Month",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-16T00:00:00-04:00",
+        "datetime": "2016-05-17T05:30:00-04:00",
+        "episodeTitle": "To Kill a Ladybird",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

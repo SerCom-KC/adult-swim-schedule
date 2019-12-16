@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-11T21:00:00-04:00",
+        "episodeTitle": "The Hurricane",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-11T21:30:00-04:00",
+        "episodeTitle": "Bully for Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-11T22:00:00-04:00",
+        "episodeTitle": "Lobsterfest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-11T22:30:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-11T23:00:00-04:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-11T23:30:00-04:00",
+        "episodeTitle": "Blind Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T00:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T00:30:00-04:00",
+        "episodeTitle": "Endless Breadsticks",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T00:45:00-04:00",
+        "episodeTitle": "Yancy the Yo-Yo- Boy",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T01:00:00-04:00",
+        "episodeTitle": "Childrens Horsepital",
+        "rating": "TV-14 ",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T01:15:00-04:00",
+        "episodeTitle": "The Great Train Stoppery",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T01:30:00-04:00",
+        "episodeTitle": "Lobsterfest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T02:00:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T02:30:00-04:00",
+        "episodeTitle": "Fast Times at Buddy Cianci Jr. High",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T03:00:00-04:00",
+        "episodeTitle": "Blind Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T03:30:00-04:00",
+        "episodeTitle": "Merlot Down Dirty Shame",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T04:00:00-04:00",
+        "episodeTitle": "Cool Dad - Official Trailer",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T04:15:00-04:00",
+        "episodeTitle": "The Salad Mixxxer",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T04:30:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T05:00:00-04:00",
+        "episodeTitle": "The Hurricane",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-11T00:00:00-04:00",
+        "datetime": "2018-06-12T05:30:00-04:00",
+        "episodeTitle": "No Bobby Left Behind",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

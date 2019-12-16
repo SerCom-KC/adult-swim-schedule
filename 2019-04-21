@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-21T21:00:00-04:00",
+        "episodeTitle": "Are You There Bob? It's Me Birthday",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-21T21:30:00-04:00",
+        "episodeTitle": "V for Valentine-detta",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-21T22:00:00-04:00",
+        "episodeTitle": "Fantasy Baseball",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-21T22:30:00-04:00",
+        "episodeTitle": "Passenger Fatty-Seven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-21T23:00:00-04:00",
+        "episodeTitle": "Gronkowsbees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-21T23:30:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T00:00:00-04:00",
+        "episodeTitle": "We Good!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T00:15:00-04:00",
+        "episodeTitle": "Where You From?",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T00:30:00-04:00",
+        "episodeTitle": "Blood Barn",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T00:45:00-04:00",
+        "episodeTitle": "The Black Box",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T01:00:00-04:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T01:15:00-04:00",
+        "episodeTitle": "Hammerman",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T01:30:00-04:00",
+        "episodeTitle": "Fantasy Baseball",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T02:00:00-04:00",
+        "episodeTitle": "Passenger Fatty-Seven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T02:30:00-04:00",
+        "episodeTitle": "Gronkowsbees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T03:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T03:30:00-04:00",
+        "episodeTitle": "We Good!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T03:45:00-04:00",
+        "episodeTitle": "Where You From?",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T04:00:00-04:00",
+        "episodeTitle": "Blood Barn",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T04:15:00-04:00",
+        "episodeTitle": "The Black Box",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T04:30:00-04:00",
+        "episodeTitle": "Chapter Two",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T05:00:00-04:00",
+        "episodeTitle": "Are You There Bob? It's Me Birthday",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-21T00:00:00-04:00",
+        "datetime": "2019-04-22T05:30:00-04:00",
+        "episodeTitle": "V for Valentine-detta",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

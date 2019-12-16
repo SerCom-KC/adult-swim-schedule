@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-01T21:00:00-04:00",
+        "episodeTitle": "Brotherly Love",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-01T21:30:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-01T22:00:00-04:00",
+        "episodeTitle": "Dope and Faith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-01T22:30:00-04:00",
+        "episodeTitle": "Big Trouble in Little Langley",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-01T23:00:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-01T23:30:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T00:00:00-04:00",
+        "episodeTitle": "Up at 5",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T00:15:00-04:00",
+        "episodeTitle": "Jellyfish Sting, David Hasselhoff",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T00:30:00-04:00",
+        "episodeTitle": "The Hannibal Buress Show",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T00:45:00-04:00",
+        "episodeTitle": "Scandal",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 398352,
+        "showTitle": "Hot Package"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T01:00:00-04:00",
+        "episodeTitle": "Twenty Years to Midnight",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T01:30:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T02:00:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T02:30:00-04:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T03:00:00-04:00",
+        "episodeTitle": "Big Trouble in Little Langley",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T03:30:00-04:00",
+        "episodeTitle": "Up at 5",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T03:45:00-04:00",
+        "episodeTitle": "Jellyfish Sting, David Hasselhoff",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T04:00:00-04:00",
+        "episodeTitle": "Food",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T04:15:00-04:00",
+        "episodeTitle": "Comic-Con-Flict",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T04:30:00-04:00",
+        "episodeTitle": "Twenty Years to Midnight",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T05:00:00-04:00",
+        "episodeTitle": "Brotherly Love",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-01T00:00:00-04:00",
+        "datetime": "2015-05-02T05:30:00-04:00",
+        "episodeTitle": "Rich Hank, Poor Hank",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

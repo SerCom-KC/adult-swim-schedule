@@ -1,0 +1,254 @@
+[
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T21:00:00-04:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T21:30:00-04:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T22:00:00-04:00",
+        "episodeTitle": "Due to Constraints of Time and Budget",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T22:15:00-04:00",
+        "episodeTitle": "The Ramblings of Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T22:30:00-04:00",
+        "episodeTitle": "The Clowning",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T22:45:00-04:00",
+        "episodeTitle": "The Dressing",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T23:00:00-04:00",
+        "episodeTitle": "They Ain't Know",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T23:15:00-04:00",
+        "episodeTitle": "It Is What It Is",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-10T23:30:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T00:00:00-04:00",
+        "episodeTitle": "OMGouija",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T00:15:00-04:00",
+        "episodeTitle": "The High Heel",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T00:30:00-04:00",
+        "episodeTitle": "Jesse Williams; Jillian Michaels",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T00:45:00-04:00",
+        "episodeTitle": "Warren G; Kelly Osbourne",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T01:00:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T01:15:00-04:00",
+        "episodeTitle": "Ring of Fire",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T01:30:00-04:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T02:00:00-04:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T02:30:00-04:00",
+        "episodeTitle": "Due to Constraints of Time and Budget",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T02:45:00-04:00",
+        "episodeTitle": "The Ramblings of Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T03:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T03:30:00-04:00",
+        "episodeTitle": "OMGouija",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T03:45:00-04:00",
+        "episodeTitle": "The High Heel",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T04:00:00-04:00",
+        "episodeTitle": "FishCenter - 5/10/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T04:15:00-04:00",
+        "episodeTitle": "Digikiss - 5/10/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449336,
+        "showTitle": "Digikiss"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T04:30:00-04:00",
+        "episodeTitle": "They Ain't Know",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T04:45:00-04:00",
+        "episodeTitle": "It Is What It Is",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T05:00:00-04:00",
+        "episodeTitle": "Stan's Food Restaurant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-10T00:00:00-04:00",
+        "datetime": "2019-05-11T05:30:00-04:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

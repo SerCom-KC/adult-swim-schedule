@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-25T21:00:00-05:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-25T21:30:00-05:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-25T22:00:00-05:00",
+        "episodeTitle": "Road To Europe",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-25T22:30:00-05:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-25T23:00:00-05:00",
+        "episodeTitle": "False Witness",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-25T23:30:00-05:00",
+        "episodeTitle": "Neon Nights",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T00:00:00-05:00",
+        "episodeTitle": "Lauren Conrad; Reese Witherspoon",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T00:15:00-05:00",
+        "episodeTitle": "Puberty",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T00:30:00-05:00",
+        "episodeTitle": "The Clowning",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T00:45:00-05:00",
+        "episodeTitle": "Lerm",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T01:00:00-05:00",
+        "episodeTitle": "Uh-Oh, It's Magic",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T01:15:00-05:00",
+        "episodeTitle": "Dethsources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T01:30:00-05:00",
+        "episodeTitle": "Art Crawl",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T02:00:00-05:00",
+        "episodeTitle": "Spaghetti Western and Meatballs",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T02:30:00-05:00",
+        "episodeTitle": "Road To Europe",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T03:00:00-05:00",
+        "episodeTitle": "False Witness",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T03:30:00-05:00",
+        "episodeTitle": "Neon Nights",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T04:00:00-05:00",
+        "episodeTitle": "World of Hurt, BC",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T04:15:00-05:00",
+        "episodeTitle": "Meet Killface",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T04:30:00-05:00",
+        "episodeTitle": "Uh-Oh, It's Magic",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T04:45:00-05:00",
+        "episodeTitle": "Dethsources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T05:00:00-05:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-25T00:00:00-05:00",
+        "datetime": "2015-12-26T05:30:00-05:00",
+        "episodeTitle": "Kidney Boy and Hamster Girl: A Love Story",
+        "rating": "TV-PG D",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

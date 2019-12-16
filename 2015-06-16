@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-16T21:00:00-04:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-16T21:30:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-16T22:00:00-04:00",
+        "episodeTitle": "There Will Be Bad Blood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-16T22:30:00-04:00",
+        "episodeTitle": "The People Vs. Martin Sugar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-16T23:00:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-16T23:30:00-04:00",
+        "episodeTitle": "The King Is Dead",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T00:00:00-04:00",
+        "episodeTitle": "In Bed Surrounded by Loved Ones",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T00:15:00-04:00",
+        "episodeTitle": "Choked on Multi-Colored Scarves",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T00:30:00-04:00",
+        "episodeTitle": "PDA",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T00:45:00-04:00",
+        "episodeTitle": "The Tiniest Princess",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T01:00:00-04:00",
+        "episodeTitle": "Best Face Forward",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T01:30:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T02:00:00-04:00",
+        "episodeTitle": "The King Is Dead",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T02:30:00-04:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T03:00:00-04:00",
+        "episodeTitle": "The People Vs. Martin Sugar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T03:30:00-04:00",
+        "episodeTitle": "In Bed Surrounded by Loved Ones",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T03:45:00-04:00",
+        "episodeTitle": "Choked on Multi-Colored Scarves",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T04:00:00-04:00",
+        "episodeTitle": "Finger Puppets/Saxophone/Fish Tank",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T04:15:00-04:00",
+        "episodeTitle": "Spharktasm",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T04:30:00-04:00",
+        "episodeTitle": "Best Face Forward",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T05:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-16T00:00:00-04:00",
+        "datetime": "2015-06-17T05:30:00-04:00",
+        "episodeTitle": "Uncool Customer",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

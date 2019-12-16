@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-17T21:00:00-04:00",
+        "episodeTitle": "Christmas in the Car",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-17T21:30:00-04:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-17T22:00:00-04:00",
+        "episodeTitle": "For Whom the Sleigh Bell Tolls",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-17T22:30:00-04:00",
+        "episodeTitle": "Fartbreak Hotel",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-17T23:00:00-04:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-17T23:30:00-04:00",
+        "episodeTitle": "If I'm Dyin', I'm Lyin'",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T00:00:00-04:00",
+        "episodeTitle": "Hemlock, Gin, & Juice",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T00:15:00-04:00",
+        "episodeTitle": "Collateral Damage in Gang Turf War",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T00:30:00-04:00",
+        "episodeTitle": "Mail Order Bride",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T00:45:00-04:00",
+        "episodeTitle": "Asses To Ashes, Sluts To Dust",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T01:00:00-04:00",
+        "episodeTitle": "Charlize",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T01:30:00-04:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T02:00:00-04:00",
+        "episodeTitle": "If I'm Dyin', I'm Lyin'",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T02:30:00-04:00",
+        "episodeTitle": "Christmas in the Car",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T03:00:00-04:00",
+        "episodeTitle": "Fartbreak Hotel",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T03:30:00-04:00",
+        "episodeTitle": "Hemlock, Gin, & Juice",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T03:45:00-04:00",
+        "episodeTitle": "Collateral Damage in Gang Turf War",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T04:00:00-04:00",
+        "episodeTitle": "Tools/Drawing Comics/Spin Class",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T04:15:00-04:00",
+        "episodeTitle": "Adventure Mouse",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T04:30:00-04:00",
+        "episodeTitle": "Charlize",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T05:00:00-04:00",
+        "episodeTitle": "'Tis The Cleveland To Be Sorry",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-17T00:00:00-04:00",
+        "datetime": "2015-06-18T05:30:00-04:00",
+        "episodeTitle": "Born Again on the 4th of July",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

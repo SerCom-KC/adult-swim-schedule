@@ -1,0 +1,155 @@
+[
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-26T21:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-26T21:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-26T22:00:00-04:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-26T22:30:00-04:00",
+        "episodeTitle": "Fooly Cooly",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-26T23:00:00-04:00",
+        "episodeTitle": "Fire Starter",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-26T23:30:00-04:00",
+        "episodeTitle": "Marquis de Carabas",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T00:00:00-04:00",
+        "episodeTitle": "Full Swing",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T00:30:00-04:00",
+        "episodeTitle": "Brittle Bullet",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T01:00:00-04:00",
+        "episodeTitle": "FLCLimax",
+        "rating": "TV-14 S",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T01:45:00-04:00",
+        "episodeTitle": "Fooly Cooly",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T02:15:00-04:00",
+        "episodeTitle": "Fire Starter",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T02:45:00-04:00",
+        "episodeTitle": "Marquis de Carabas",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T03:15:00-04:00",
+        "episodeTitle": "Full Swing",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T03:45:00-04:00",
+        "episodeTitle": "Brittle Bullet",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T04:15:00-04:00",
+        "episodeTitle": "FLCLimax",
+        "rating": "TV-14 S",
+        "seasonNumber": 1,
+        "showID": 447432,
+        "showTitle": "FLCL"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T05:00:00-04:00",
+        "episodeTitle": "Death Picks Cotton",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-05-26T00:00:00-04:00",
+        "datetime": "2018-05-27T05:30:00-04:00",
+        "episodeTitle": "Raise the Steaks",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

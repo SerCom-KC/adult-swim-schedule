@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-03T21:00:00-04:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-03T21:30:00-04:00",
+        "episodeTitle": "Another Bad Thanksgiving",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-03T22:00:00-04:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-03T22:30:00-04:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-03T23:00:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-03T23:30:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T00:00:00-04:00",
+        "episodeTitle": "Triple Hot Dog Sandwich on Wheat",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T00:15:00-04:00",
+        "episodeTitle": "Joel Hurwitz Returns",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T00:30:00-04:00",
+        "episodeTitle": "Flight of the Deep Fried Pine Booby",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T00:45:00-04:00",
+        "episodeTitle": "An Officer and a Dental Dam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T01:00:00-04:00",
+        "episodeTitle": "Interfection",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T01:15:00-04:00",
+        "episodeTitle": "PDA",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T01:30:00-04:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T02:00:00-04:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T02:30:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T03:00:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T03:30:00-04:00",
+        "episodeTitle": "Triple Hot Dog Sandwich on Wheat",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T03:45:00-04:00",
+        "episodeTitle": "Joel Hurwitz Returns",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T04:00:00-04:00",
+        "episodeTitle": "Jorts On, Jorts Off",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 430032,
+        "showTitle": "Daytime Fighting League"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T04:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T05:00:00-04:00",
+        "episodeTitle": "Another Bad Thanksgiving",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-03T00:00:00-04:00",
+        "datetime": "2016-08-04T05:30:00-04:00",
+        "episodeTitle": "Mutual of OmAbwah",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

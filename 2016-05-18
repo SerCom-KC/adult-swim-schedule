@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-18T21:00:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-18T21:30:00-04:00",
+        "episodeTitle": "You're the Best Man, Cleveland Brown!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-18T22:00:00-04:00",
+        "episodeTitle": "Family Affair",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-18T22:30:00-04:00",
+        "episodeTitle": "Live and Let Fry",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-18T23:00:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-18T23:30:00-04:00",
+        "episodeTitle": "When You Wish Upon a Weinstein",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T00:00:00-04:00",
+        "episodeTitle": "Catch Me If You Kangaroo Jack",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T00:15:00-04:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T00:30:00-04:00",
+        "episodeTitle": "Gee Whiz",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T00:45:00-04:00",
+        "episodeTitle": "Class of '86",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T01:00:00-04:00",
+        "episodeTitle": "Anniversary",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T01:15:00-04:00",
+        "episodeTitle": "Pleasure",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T01:30:00-04:00",
+        "episodeTitle": "Family Affair",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T02:00:00-04:00",
+        "episodeTitle": "Live and Let Fry",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T02:30:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T03:00:00-04:00",
+        "episodeTitle": "When You Wish Upon a Weinstein",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T03:30:00-04:00",
+        "episodeTitle": "Catch Me If You Kangaroo Jack",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T03:45:00-04:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T04:00:00-04:00",
+        "episodeTitle": "May 18, 2016",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T04:15:00-04:00",
+        "episodeTitle": "Smart Pipe",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T04:30:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T05:00:00-04:00",
+        "episodeTitle": "You're the Best Man, Cleveland Brown!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-18T00:00:00-04:00",
+        "datetime": "2016-05-19T05:30:00-04:00",
+        "episodeTitle": "Old Glory",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

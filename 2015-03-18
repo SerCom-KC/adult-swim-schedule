@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-18T21:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-18T21:30:00-04:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-18T22:00:00-04:00",
+        "episodeTitle": "Finger Lenting Good",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-18T22:30:00-04:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-18T23:00:00-04:00",
+        "episodeTitle": "Airport '07",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-18T23:30:00-04:00",
+        "episodeTitle": "Bill and Peter's Bogus Journey",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T00:00:00-04:00",
+        "episodeTitle": "Nutcracker Sweet",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T00:15:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T00:30:00-04:00",
+        "episodeTitle": "Mite Tyson",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T00:45:00-04:00",
+        "episodeTitle": "Grim Reaper Gutters",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T01:00:00-04:00",
+        "episodeTitle": "The Dream Reamer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T01:15:00-04:00",
+        "episodeTitle": "Turn the Other Cheek",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T01:30:00-04:00",
+        "episodeTitle": "Airport '07",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T02:00:00-04:00",
+        "episodeTitle": "Bill and Peter's Bogus Journey",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T02:30:00-04:00",
+        "episodeTitle": "Finger Lenting Good",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T03:00:00-04:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T03:30:00-04:00",
+        "episodeTitle": "Nutcracker Sweet",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T03:45:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T04:00:00-04:00",
+        "episodeTitle": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T04:15:00-04:00",
+        "episodeTitle": "Hair",
+        "rating": "TV-14 ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T04:30:00-04:00",
+        "episodeTitle": "The Dream Reamer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T04:45:00-04:00",
+        "episodeTitle": "Turn the Other Cheek",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T05:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-03-18T00:00:00-04:00",
+        "datetime": "2015-03-19T05:30:00-04:00",
+        "episodeTitle": "Not in My Back Hoe",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

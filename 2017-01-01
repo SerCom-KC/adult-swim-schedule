@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-01T21:00:00-05:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-01T21:30:00-05:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-01T22:00:00-05:00",
+        "episodeTitle": "Pilling Them Softly",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-01T22:30:00-05:00",
+        "episodeTitle": "Papa Has a Rollin' Son",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-01T23:00:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-01T23:30:00-05:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-01T23:45:00-05:00",
+        "episodeTitle": "The Predator",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T00:00:00-05:00",
+        "episodeTitle": "Groaner's Wild",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T00:30:00-05:00",
+        "episodeTitle": "The Trial of Robert Kelly",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T01:00:00-05:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T01:30:00-05:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T02:00:00-05:00",
+        "episodeTitle": "Pilling Them Softly",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T02:30:00-05:00",
+        "episodeTitle": "Papa Has a Rollin' Son",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T03:00:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T03:30:00-05:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T03:45:00-05:00",
+        "episodeTitle": "The Predator",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T04:00:00-05:00",
+        "episodeTitle": "Groaner's Wild",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T04:30:00-05:00",
+        "episodeTitle": "The Trial of Robert Kelly",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T05:00:00-05:00",
+        "episodeTitle": "Girl, You'll Be a Giant Soon",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-01-01T00:00:00-05:00",
+        "datetime": "2017-01-02T05:30:00-05:00",
+        "episodeTitle": "Stressed For Success",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

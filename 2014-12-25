@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-25T21:00:00-05:00",
+        "episodeTitle": "Who Done Did It?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-25T21:30:00-05:00",
+        "episodeTitle": "Squirt's Honor",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-25T22:00:00-05:00",
+        "episodeTitle": "Rough Trade",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-25T22:30:00-05:00",
+        "episodeTitle": "Finances with Wolves",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-25T23:00:00-05:00",
+        "episodeTitle": "You Can't Do That on Television, Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-25T23:30:00-05:00",
+        "episodeTitle": "Mr. and Mrs. Stewie",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T00:00:00-05:00",
+        "episodeTitle": "Rabbits on a Rollercoaster",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T00:15:00-05:00",
+        "episodeTitle": "Tapping a Hero",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T00:30:00-05:00",
+        "episodeTitle": "Super Squatter",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T00:45:00-05:00",
+        "episodeTitle": "Family Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T01:00:00-05:00",
+        "episodeTitle": "The Better Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T01:30:00-05:00",
+        "episodeTitle": "Rough Trade",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T02:00:00-05:00",
+        "episodeTitle": "Finances with Wolves",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T02:30:00-05:00",
+        "episodeTitle": "You Can't Do That on Television, Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T03:00:00-05:00",
+        "episodeTitle": "Mr. and Mrs. Stewie",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T03:30:00-05:00",
+        "episodeTitle": "Rabbits on a Rollercoaster",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T03:45:00-05:00",
+        "episodeTitle": "Tapping a Hero",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T04:00:00-05:00",
+        "episodeTitle": "Sports",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T04:15:00-05:00",
+        "episodeTitle": "Muscles for Bones",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T04:30:00-05:00",
+        "episodeTitle": "The Better Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T05:00:00-05:00",
+        "episodeTitle": "Who Done Did It?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2014-12-25T00:00:00-05:00",
+        "datetime": "2014-12-26T05:30:00-05:00",
+        "episodeTitle": "Sug Night",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

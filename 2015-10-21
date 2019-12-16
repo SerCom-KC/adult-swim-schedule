@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-21T21:00:00-04:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-21T21:30:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-21T22:00:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-21T22:30:00-04:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-21T23:00:00-04:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-21T23:30:00-04:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T00:00:00-04:00",
+        "episodeTitle": "El Skeletorito",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T00:15:00-04:00",
+        "episodeTitle": "Snarfer Image",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T00:30:00-04:00",
+        "episodeTitle": "Larry Miller Hair System",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T00:45:00-04:00",
+        "episodeTitle": "This Show Is Called Squidbillies",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T01:00:00-04:00",
+        "episodeTitle": "Mayhem Donor",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T01:15:00-04:00",
+        "episodeTitle": "Dethdad",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T01:30:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T02:00:00-04:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T02:30:00-04:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T03:00:00-04:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T03:30:00-04:00",
+        "episodeTitle": "El Skeletorito",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T03:45:00-04:00",
+        "episodeTitle": "Snarfer Image",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T04:00:00-04:00",
+        "episodeTitle": "LBJFK",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T04:15:00-04:00",
+        "episodeTitle": "The Special Fathers vs. the Vampire Altar Boys",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T04:30:00-04:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T05:00:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-21T00:00:00-04:00",
+        "datetime": "2015-10-22T05:30:00-04:00",
+        "episodeTitle": "What Happens at the National Propane Gas Convention",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

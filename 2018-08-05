@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-05T21:00:00-04:00",
+        "episodeTitle": "They Serve Horses, Don't They?",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-05T21:30:00-04:00",
+        "episodeTitle": "Mean Francine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-05T22:00:00-04:00",
+        "episodeTitle": "A House Full of Peters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-05T22:30:00-04:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-05T23:00:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-05T23:30:00-04:00",
+        "episodeTitle": "Shall I Visit the Dinosaurs?",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-05T23:45:00-04:00",
+        "episodeTitle": "Things Look Bad for the Streepster",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T00:00:00-04:00",
+        "episodeTitle": "The Venture Bros. & the Curse of the Haunted Problem",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T00:30:00-04:00",
+        "episodeTitle": "Spring Break",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T00:45:00-04:00",
+        "episodeTitle": "Got a Minute for Love?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T01:00:00-04:00",
+        "episodeTitle": "Stacey Dash; Jack McBrayer",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T01:15:00-04:00",
+        "episodeTitle": "Feelings & Emotions",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T01:30:00-04:00",
+        "episodeTitle": "A House Full of Peters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T02:00:00-04:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T02:30:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T03:00:00-04:00",
+        "episodeTitle": "Shall I Visit the Dinosaurs?",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T03:15:00-04:00",
+        "episodeTitle": "Things Look Bad for the Streepster",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T03:30:00-04:00",
+        "episodeTitle": "The Venture Bros. & the Curse of the Haunted Problem",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T04:00:00-04:00",
+        "episodeTitle": "Spring Break",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T04:15:00-04:00",
+        "episodeTitle": "Got a Minute for Love?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T04:30:00-04:00",
+        "episodeTitle": "Stacey Dash; Jack McBrayer",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T04:45:00-04:00",
+        "episodeTitle": "Feelings & Emotions",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T05:00:00-04:00",
+        "episodeTitle": "Mean Francine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-05T00:00:00-04:00",
+        "datetime": "2018-08-06T05:30:00-04:00",
+        "episodeTitle": "They Serve Horses, Don't They?",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

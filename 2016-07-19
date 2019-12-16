@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-19T21:00:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-19T21:30:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-19T22:00:00-04:00",
+        "episodeTitle": "Adventures in Hayleysitting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-19T22:30:00-04:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-19T23:00:00-04:00",
+        "episodeTitle": "Jungle Love",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-19T23:30:00-04:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T00:00:00-04:00",
+        "episodeTitle": "Victoria's Secret of NIMH",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T00:15:00-04:00",
+        "episodeTitle": "The Robot Chicken Bitch Pudding Special",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T00:30:00-04:00",
+        "episodeTitle": "The Tiniest Princess",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T00:45:00-04:00",
+        "episodeTitle": "Asses To Ashes, Sluts To Dust",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T01:00:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T01:15:00-04:00",
+        "episodeTitle": "Hands on a Hamburger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T01:30:00-04:00",
+        "episodeTitle": "Adventures in Hayleysitting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T02:00:00-04:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T02:30:00-04:00",
+        "episodeTitle": "Jungle Love",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T03:00:00-04:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T03:30:00-04:00",
+        "episodeTitle": "Victoria's Secret of NIMH",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T03:45:00-04:00",
+        "episodeTitle": "The Robot Chicken Bitch Pudding Special",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T04:00:00-04:00",
+        "episodeTitle": "Battle Bulge",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 430032,
+        "showTitle": "Daytime Fighting League"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T04:30:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T05:00:00-04:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-19T00:00:00-04:00",
+        "datetime": "2016-07-20T05:30:00-04:00",
+        "episodeTitle": "Ceci N'est Pas Une King of the Hill",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

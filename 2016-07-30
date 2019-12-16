@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-30T21:00:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-30T21:30:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-30T22:00:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-30T22:30:00-04:00",
+        "episodeTitle": "Joe's Revenge",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-30T23:00:00-04:00",
+        "episodeTitle": "Lois Comes Out of Her Shell",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-30T23:30:00-04:00",
+        "episodeTitle": "The Tables Are Turned! Witness the Power of Perfection!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T00:00:00-04:00",
+        "episodeTitle": "The Obsessive Scientist",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T00:30:00-04:00",
+        "episodeTitle": "The Form of Closeness",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T01:00:00-04:00",
+        "episodeTitle": "Hit x the x Target",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T01:30:00-04:00",
+        "episodeTitle": "Assemble",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T02:00:00-04:00",
+        "episodeTitle": "Food, Nami and Shadows!! Luffy's Enraged Counterattack",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T02:30:00-04:00",
+        "episodeTitle": "The Selfish Gene",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T03:00:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T03:30:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T04:00:00-04:00",
+        "episodeTitle": "Mulchtown",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T04:15:00-04:00",
+        "episodeTitle": "Body",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T04:30:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T05:00:00-04:00",
+        "episodeTitle": "Ms. Wakefield",
+        "rating": "TV-PG ",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-07-30T00:00:00-04:00",
+        "datetime": "2016-07-31T05:30:00-04:00",
+        "episodeTitle": "Death Buys a Timeshare",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

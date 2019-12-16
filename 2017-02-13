@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-13T21:00:00-05:00",
+        "episodeTitle": "One Little Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-13T21:30:00-05:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-13T22:00:00-05:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-13T22:30:00-05:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-13T23:00:00-05:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-13T23:30:00-05:00",
+        "episodeTitle": "Fore Father",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T00:00:00-05:00",
+        "episodeTitle": "PS: Yes, in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T00:15:00-05:00",
+        "episodeTitle": "Love, Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T00:30:00-05:00",
+        "episodeTitle": "Gee Whiz",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T00:45:00-05:00",
+        "episodeTitle": "eDork",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T01:00:00-05:00",
+        "episodeTitle": "James Van Der Beek & Steve-O",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T01:15:00-05:00",
+        "episodeTitle": "Suckup",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T01:30:00-05:00",
+        "episodeTitle": "One Little Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T02:00:00-05:00",
+        "episodeTitle": "A Smith in the Hand",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T02:30:00-05:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T03:00:00-05:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T03:30:00-05:00",
+        "episodeTitle": "Fore Father",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T04:00:00-05:00",
+        "episodeTitle": "\"The Race War\" or \"Big Black Cannon, Balls Run!\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T04:30:00-05:00",
+        "episodeTitle": "James Van Der Beek & Steve-O",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T04:45:00-05:00",
+        "episodeTitle": "Suckup",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T05:00:00-05:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-02-13T00:00:00-05:00",
+        "datetime": "2017-02-14T05:30:00-05:00",
+        "episodeTitle": "Serves Me Right for Giving General George S. Patton the Bathroom Key",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-24T21:00:00-04:00",
+        "episodeTitle": "Nancy Does Dallas",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-24T21:30:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-24T22:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-24T22:30:00-04:00",
+        "episodeTitle": "Stan's Food Restaurant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-24T23:00:00-04:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-24T23:30:00-04:00",
+        "episodeTitle": "Burning Down the Bayit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T00:00:00-04:00",
+        "episodeTitle": "Kaio-ken Times Twenty! An All-Or-Nothing Kamehame-Ha!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T00:30:00-04:00",
+        "episodeTitle": "Kill the Mad Scientist",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T01:00:00-04:00",
+        "episodeTitle": "Tangled Hair",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T01:30:00-04:00",
+        "episodeTitle": "Buckets of Blood!\u00a0Opera that Stirs the Heart",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 419352,
+        "showTitle": "Michiko & Hatchin"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T02:00:00-04:00",
+        "episodeTitle": "When You Curse Someone, You Dig Your Own Grave",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T02:30:00-04:00",
+        "episodeTitle": "The King of Animals that Overlooks the Sea! The Dream Ship Magnificently Completed!",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T03:00:00-04:00",
+        "episodeTitle": "Dawn of a Miserable Morning",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T03:30:00-04:00",
+        "episodeTitle": "Stan's Food Restaurant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T04:00:00-04:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T04:30:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T05:00:00-04:00",
+        "episodeTitle": "Uncool Customer",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-10-24T00:00:00-04:00",
+        "datetime": "2015-10-25T05:30:00-04:00",
+        "episodeTitle": "Nancy Does Dallas",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

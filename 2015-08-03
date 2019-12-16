@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-03T21:00:00-04:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-03T21:30:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-03T22:00:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-03T22:30:00-04:00",
+        "episodeTitle": "The Shrink",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-03T23:00:00-04:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T00:00:00-04:00",
+        "episodeTitle": "Metal Militia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T00:15:00-04:00",
+        "episodeTitle": "Veggies for Sloth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T00:30:00-04:00",
+        "episodeTitle": "The Dressing",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T00:45:00-04:00",
+        "episodeTitle": "An Officer and a Dental Dam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T01:00:00-04:00",
+        "episodeTitle": "The Diamond Castle",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T01:30:00-04:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T02:30:00-04:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T03:00:00-04:00",
+        "episodeTitle": "The Shrink",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T03:30:00-04:00",
+        "episodeTitle": "Metal Militia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T03:45:00-04:00",
+        "episodeTitle": "Veggies for Sloth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T04:00:00-04:00",
+        "episodeTitle": "High Speed Buggy Chase",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T04:15:00-04:00",
+        "episodeTitle": "Hail Squishface",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T04:30:00-04:00",
+        "episodeTitle": "The Diamond Castle",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T05:00:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-03T00:00:00-04:00",
+        "datetime": "2015-08-04T05:30:00-04:00",
+        "episodeTitle": "A Man Without a Country Club",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

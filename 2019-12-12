@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-12T21:00:00-05:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-12T21:30:00-05:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-12T22:00:00-05:00",
+        "episodeTitle": "Friends with Burger-Fits",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-12T22:30:00-05:00",
+        "episodeTitle": "Best Burger",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-12T23:00:00-05:00",
+        "episodeTitle": "Lois Comes Out of Her Shell",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-12T23:30:00-05:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T00:00:00-05:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T00:30:00-05:00",
+        "episodeTitle": "Robot Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T00:45:00-05:00",
+        "episodeTitle": "Born Again Virgin Christmas Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T01:00:00-05:00",
+        "episodeTitle": "The Christmas Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T01:15:00-05:00",
+        "episodeTitle": "A PE Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T01:30:00-05:00",
+        "episodeTitle": "Lois Comes Out of Her Shell",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T02:00:00-05:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T02:30:00-05:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T03:00:00-05:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T03:30:00-05:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T04:00:00-05:00",
+        "episodeTitle": "Offensiveness",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T04:15:00-05:00",
+        "episodeTitle": "God's Blunders",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T04:30:00-05:00",
+        "episodeTitle": "The Christmas Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T04:45:00-05:00",
+        "episodeTitle": "A PE Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T05:00:00-05:00",
+        "episodeTitle": "Friends with Burger-Fits",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-12T00:00:00-05:00",
+        "datetime": "2019-12-13T05:30:00-05:00",
+        "episodeTitle": "Best Burger",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-23T21:00:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-23T21:30:00-04:00",
+        "episodeTitle": "The Two Hundred",
+        "rating": "TV-14 V",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-23T22:00:00-04:00",
+        "episodeTitle": "Peter, Chris, & Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-23T22:30:00-04:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-23T23:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-23T23:30:00-04:00",
+        "episodeTitle": "Straight Outta Hades",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-23T23:45:00-04:00",
+        "episodeTitle": "Episode One",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T00:00:00-04:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T00:15:00-04:00",
+        "episodeTitle": "Unsolved Situations",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T00:30:00-04:00",
+        "episodeTitle": "Mother Daughter Laser Razor",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T01:00:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T01:30:00-04:00",
+        "episodeTitle": "The Two Hundred",
+        "rating": "TV-14 V",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T02:00:00-04:00",
+        "episodeTitle": "Peter, Chris, & Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T02:30:00-04:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T03:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T03:30:00-04:00",
+        "episodeTitle": "Straight Outta Hades",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T03:45:00-04:00",
+        "episodeTitle": "Episode One",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T04:00:00-04:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T04:15:00-04:00",
+        "episodeTitle": "Unsolved Situations",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T04:30:00-04:00",
+        "episodeTitle": "Mother Daughter Laser Razor",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T05:00:00-04:00",
+        "episodeTitle": "Old Glory",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-10-23T00:00:00-04:00",
+        "datetime": "2016-10-24T05:30:00-04:00",
+        "episodeTitle": "Rodeo Days",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

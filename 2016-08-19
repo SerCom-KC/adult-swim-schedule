@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-19T21:00:00-04:00",
+        "episodeTitle": "A Nightmare on Grace Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-19T21:30:00-04:00",
+        "episodeTitle": "Stan Knows Best",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-19T22:00:00-04:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-19T22:30:00-04:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-19T23:00:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-19T23:30:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T00:00:00-04:00",
+        "episodeTitle": "Howie Mandel; Malaysia Pargo",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T00:15:00-04:00",
+        "episodeTitle": "3 Down 47 To Go Countdown to Mass Funeral",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 430612,
+        "showTitle": "Million Dollar Extreme presents: WORLD PEACE"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T00:30:00-04:00",
+        "episodeTitle": "Lean Green Touchdown Makifying Machine",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T00:45:00-04:00",
+        "episodeTitle": "Asbestos I Can",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T01:00:00-04:00",
+        "episodeTitle": "The Dressing",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T01:15:00-04:00",
+        "episodeTitle": "The The",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T01:30:00-04:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T02:00:00-04:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T02:30:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T03:00:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T03:30:00-04:00",
+        "episodeTitle": "Howie Mandel; Malaysia Pargo",
+        "rating": "TV-MA LV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T03:45:00-04:00",
+        "episodeTitle": "3 Down 47 To Go Countdown to Mass Funeral",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 430612,
+        "showTitle": "Million Dollar Extreme presents: WORLD PEACE"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T04:00:00-04:00",
+        "episodeTitle": "Bag Boy",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415072,
+        "showTitle": "Bag Boy (2015)"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T04:30:00-04:00",
+        "episodeTitle": "Stan Knows Best",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T05:00:00-04:00",
+        "episodeTitle": "A Nightmare on Grace Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-19T00:00:00-04:00",
+        "datetime": "2016-08-20T05:30:00-04:00",
+        "episodeTitle": "Edu-macating Lucky",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

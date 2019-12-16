@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-30T21:00:00-04:00",
+        "episodeTitle": "The Witches of Langley",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-30T21:30:00-04:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-30T22:00:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-30T22:30:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-30T23:00:00-04:00",
+        "episodeTitle": "Fat Guy Strangler",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-30T23:30:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T00:00:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T00:30:00-04:00",
+        "episodeTitle": "That Hurts Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T00:45:00-04:00",
+        "episodeTitle": "Tubba Bubba's Now Hubba Hubba",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T01:00:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T01:15:00-04:00",
+        "episodeTitle": "Squash B'Gosh",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T01:30:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T02:00:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T02:30:00-04:00",
+        "episodeTitle": "Fat Guy Strangler",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T03:00:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T03:30:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T04:00:00-04:00",
+        "episodeTitle": "Sound",
+        "rating": "TV-14 ",
+        "seasonNumber": 8,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T04:15:00-04:00",
+        "episodeTitle": "May I Please Enter",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 452032,
+        "showTitle": "May I Please Enter"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T04:30:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T04:45:00-04:00",
+        "episodeTitle": "Squash B'Gosh",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T05:00:00-04:00",
+        "episodeTitle": "The Witches of Langley",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-30T00:00:00-04:00",
+        "datetime": "2018-10-31T05:30:00-04:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

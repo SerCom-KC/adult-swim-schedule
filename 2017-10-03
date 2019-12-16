@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-03T21:00:00-04:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-03T21:30:00-04:00",
+        "episodeTitle": "For Black Eyes Only",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-03T22:00:00-04:00",
+        "episodeTitle": "Pro Tiki/Con Tiki",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-03T22:30:00-04:00",
+        "episodeTitle": "Bye Bye Boo Boo",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-03T23:00:00-04:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-03T23:30:00-04:00",
+        "episodeTitle": "Big Man on Hippocampus",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T00:00:00-04:00",
+        "episodeTitle": "Dragon Nuts",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T00:15:00-04:00",
+        "episodeTitle": "1987",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T00:30:00-04:00",
+        "episodeTitle": "Unsolved Situations",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T00:45:00-04:00",
+        "episodeTitle": "Moonajuana",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T01:00:00-04:00",
+        "episodeTitle": "Rage Cage",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 357349,
+        "showTitle": "Delocated"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T01:15:00-04:00",
+        "episodeTitle": "Blue Screen of Death",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 345184,
+        "showTitle": "Fat Guy Stuck In Internet"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T01:30:00-04:00",
+        "episodeTitle": "Pro Tiki/Con Tiki",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T02:00:00-04:00",
+        "episodeTitle": "Bye Bye Boo Boo",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T02:30:00-04:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T03:00:00-04:00",
+        "episodeTitle": "Big Man on Hippocampus",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T03:30:00-04:00",
+        "episodeTitle": "Naked to the Limit, One More Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T04:00:00-04:00",
+        "episodeTitle": "Hole",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T04:15:00-04:00",
+        "episodeTitle": "Toes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T04:30:00-04:00",
+        "episodeTitle": "Rage Cage",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 357349,
+        "showTitle": "Delocated"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T04:45:00-04:00",
+        "episodeTitle": "Blue Screen of Death",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 345184,
+        "showTitle": "Fat Guy Stuck In Internet"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T05:00:00-04:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-03T00:00:00-04:00",
+        "datetime": "2017-10-04T05:30:00-04:00",
+        "episodeTitle": "Board Games",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

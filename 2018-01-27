@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-27T21:00:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-27T21:30:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-27T22:00:00-05:00",
+        "episodeTitle": "Airport '07",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-27T22:30:00-05:00",
+        "episodeTitle": "Hope!! Redux - Awaken in the Present, Trunks",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-27T23:00:00-05:00",
+        "episodeTitle": "On a Roll!  Buu-Buu-Volleyball",
+        "rating": "TV-14 ",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-27T23:30:00-05:00",
+        "episodeTitle": "The Other New Recruit",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T00:00:00-05:00",
+        "episodeTitle": "Judgment Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T00:30:00-05:00",
+        "episodeTitle": "Hunter of Angels",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T01:00:00-05:00",
+        "episodeTitle": "The x Fight x Begins",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T01:30:00-05:00",
+        "episodeTitle": "Record of the Gutsy Ninja Master and Student",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T02:00:00-05:00",
+        "episodeTitle": "Law and Lawlessness",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T02:30:00-05:00",
+        "episodeTitle": "Live With the Flow, Baby",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T03:00:00-05:00",
+        "episodeTitle": "Mushroom Samba",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T03:30:00-05:00",
+        "episodeTitle": "Affection",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T04:00:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T04:30:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T05:00:00-05:00",
+        "episodeTitle": "Revenge of the Lutefisk",
+        "rating": "TV-PG D",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-01-27T00:00:00-05:00",
+        "datetime": "2018-01-28T05:30:00-05:00",
+        "episodeTitle": "Death and Texas",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

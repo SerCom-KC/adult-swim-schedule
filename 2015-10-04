@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-04T21:00:00-04:00",
+        "episodeTitle": "Brown Magic",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-04T21:30:00-04:00",
+        "episodeTitle": "Big Stan on Campus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-04T22:00:00-04:00",
+        "episodeTitle": "Now and Gwen",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-04T22:30:00-04:00",
+        "episodeTitle": "Meg Stinks!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-04T23:00:00-04:00",
+        "episodeTitle": "He's Bla-ack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-04T23:30:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T00:00:00-04:00",
+        "episodeTitle": "Rabbit, not Rabbot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T00:15:00-04:00",
+        "episodeTitle": "Krampus Nacht",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T00:30:00-04:00",
+        "episodeTitle": "Coma",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T00:45:00-04:00",
+        "episodeTitle": "House Haunters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T01:00:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T01:30:00-04:00",
+        "episodeTitle": "Big Stan on Campus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T02:00:00-04:00",
+        "episodeTitle": "Now and Gwen",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T02:30:00-04:00",
+        "episodeTitle": "Meg Stinks!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T03:00:00-04:00",
+        "episodeTitle": "He's Bla-ack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T03:30:00-04:00",
+        "episodeTitle": "The Wedding Squanchers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T04:00:00-04:00",
+        "episodeTitle": "Rabbit, not Rabbot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T04:15:00-04:00",
+        "episodeTitle": "Krampus Nacht",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T04:30:00-04:00",
+        "episodeTitle": "Coma",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T04:45:00-04:00",
+        "episodeTitle": "House Haunters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T05:00:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-04T00:00:00-04:00",
+        "datetime": "2015-10-05T05:30:00-04:00",
+        "episodeTitle": "Untitled Blake McCormick Project",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

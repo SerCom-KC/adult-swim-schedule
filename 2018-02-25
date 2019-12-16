@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-25T21:00:00-05:00",
+        "episodeTitle": "The Quirk-Ducers",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-25T21:30:00-05:00",
+        "episodeTitle": "Paranoid_Frandroid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-25T22:00:00-05:00",
+        "episodeTitle": "The Dating Game",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-25T22:30:00-05:00",
+        "episodeTitle": "Cop and a Half-Wit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-25T23:00:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-25T23:30:00-05:00",
+        "episodeTitle": "Factory Where Nuts Are Handled",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-25T23:45:00-05:00",
+        "episodeTitle": "Joel Hurwitz",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T00:00:00-05:00",
+        "episodeTitle": "Brain Download",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T00:15:00-05:00",
+        "episodeTitle": "Momma's Boy",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T00:30:00-05:00",
+        "episodeTitle": "Super Agent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T00:45:00-05:00",
+        "episodeTitle": "The Egg",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T01:00:00-05:00",
+        "episodeTitle": "The Gurman Files",
+        "rating": "TV-MA LS",
+        "seasonNumber": 2,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T01:30:00-05:00",
+        "episodeTitle": "The Quirk-Ducers",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T02:00:00-05:00",
+        "episodeTitle": "Paranoid_Frandroid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T02:30:00-05:00",
+        "episodeTitle": "The Dating Game",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T03:00:00-05:00",
+        "episodeTitle": "Cop and a Half-Wit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T03:30:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T04:00:00-05:00",
+        "episodeTitle": "Factory Where Nuts Are Handled",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T04:15:00-05:00",
+        "episodeTitle": "Joel Hurwitz",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T04:30:00-05:00",
+        "episodeTitle": "Brain Download",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T04:45:00-05:00",
+        "episodeTitle": "Momma's Boy",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T05:00:00-05:00",
+        "episodeTitle": "The Exterminator",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-02-25T00:00:00-05:00",
+        "datetime": "2018-02-26T05:30:00-05:00",
+        "episodeTitle": "Luanne Virgin 2.0",
+        "rating": "TV-PG DS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

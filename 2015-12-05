@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-05T21:00:00-05:00",
+        "episodeTitle": "Bill of Sales",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-05T21:30:00-05:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-05T22:00:00-05:00",
+        "episodeTitle": "Mama Drama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-05T22:30:00-05:00",
+        "episodeTitle": "The American Dad After School Special",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-05T23:00:00-05:00",
+        "episodeTitle": "Fore Father",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-05T23:30:00-05:00",
+        "episodeTitle": "Dammit Janet",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T00:00:00-05:00",
+        "episodeTitle": "Avenge the Fallen, Goku!\u00a0Countdown to the Planet's Destruction!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T00:30:00-05:00",
+        "episodeTitle": "Kill the Religion",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T01:00:00-05:00",
+        "episodeTitle": "Freezing Point",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T01:30:00-05:00",
+        "episodeTitle": "Last Waltz Blooming Out of Season",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 419352,
+        "showTitle": "Michiko & Hatchin"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T02:00:00-05:00",
+        "episodeTitle": "Orochimaru's Hideout Discovered",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T02:30:00-05:00",
+        "episodeTitle": "The Most Heinous Power! Blackbeard's Darkness Attacks Ace!",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T03:00:00-05:00",
+        "episodeTitle": "I'll Wipe My Own Tears",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T03:30:00-05:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T04:00:00-05:00",
+        "episodeTitle": "Mama Drama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T04:30:00-05:00",
+        "episodeTitle": "The American Dad After School Special",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T05:00:00-05:00",
+        "episodeTitle": "Movin' On Up",
+        "rating": "TV-PG LS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-12-05T00:00:00-05:00",
+        "datetime": "2015-12-06T05:30:00-05:00",
+        "episodeTitle": "Bill of Sales",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

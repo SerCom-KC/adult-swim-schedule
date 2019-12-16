@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-07T21:00:00-04:00",
+        "episodeTitle": "The Oeder Games",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-07T21:30:00-04:00",
+        "episodeTitle": "Skip Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-07T22:00:00-04:00",
+        "episodeTitle": "May the Best Stan Win",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-07T22:30:00-04:00",
+        "episodeTitle": "Return of the Bling",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-07T23:00:00-04:00",
+        "episodeTitle": "Stewie B. Goode Part 1",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-07T23:30:00-04:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T00:00:00-04:00",
+        "episodeTitle": "Collateral Damage in Gang Turf War",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T00:15:00-04:00",
+        "episodeTitle": "Tent Revival",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T00:30:00-04:00",
+        "episodeTitle": "Party All the Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T00:45:00-04:00",
+        "episodeTitle": "From Russia With Stud",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T01:00:00-04:00",
+        "episodeTitle": "Chan",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T01:15:00-04:00",
+        "episodeTitle": "Health",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T01:30:00-04:00",
+        "episodeTitle": "May the Best Stan Win",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T02:00:00-04:00",
+        "episodeTitle": "Return of the Bling",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T02:30:00-04:00",
+        "episodeTitle": "Stewie B. Goode Part 1",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T03:00:00-04:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T03:30:00-04:00",
+        "episodeTitle": "Collateral Damage in Gang Turf War",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T03:45:00-04:00",
+        "episodeTitle": "Tent Revival",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T04:00:00-04:00",
+        "episodeTitle": "Mulchtown",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T04:15:00-04:00",
+        "episodeTitle": "Frank Pierre Presents: Pierre Resort & Casino",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T04:30:00-04:00",
+        "episodeTitle": "Hawk & Chick",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T05:00:00-04:00",
+        "episodeTitle": "Skip Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-07T00:00:00-04:00",
+        "datetime": "2016-06-08T05:30:00-04:00",
+        "episodeTitle": "Ho Yeah!",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

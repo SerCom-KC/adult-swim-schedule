@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-14T21:00:00-05:00",
+        "episodeTitle": "May the Best Stan Win",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-14T21:30:00-05:00",
+        "episodeTitle": "Wife Insurance",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-14T22:00:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-14T22:30:00-05:00",
+        "episodeTitle": "Valentine's Day in Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-14T23:00:00-05:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-14T23:30:00-05:00",
+        "episodeTitle": "Joel Hurwitz",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-14T23:45:00-05:00",
+        "episodeTitle": "Jason B. Sucks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T00:00:00-05:00",
+        "episodeTitle": "Faking Miracles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T00:30:00-05:00",
+        "episodeTitle": "Skins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 397292,
+        "showTitle": "Aqua TV Show Show"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T00:45:00-05:00",
+        "episodeTitle": "Loose Tooth",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T01:00:00-05:00",
+        "episodeTitle": "There Goes El Neighborhood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T01:30:00-05:00",
+        "episodeTitle": "May the Best Stan Win",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T02:00:00-05:00",
+        "episodeTitle": "Wife Insurance",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T02:30:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T03:00:00-05:00",
+        "episodeTitle": "Valentine's Day in Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T03:30:00-05:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T04:00:00-05:00",
+        "episodeTitle": "Joel Hurwitz",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T04:15:00-05:00",
+        "episodeTitle": "Jason B. Sucks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T04:30:00-05:00",
+        "episodeTitle": "Faking Miracles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T05:00:00-05:00",
+        "episodeTitle": "I'm with Cupid",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-02-14T00:00:00-05:00",
+        "datetime": "2016-02-15T05:30:00-05:00",
+        "episodeTitle": "Death Buys a Timeshare",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-18T21:00:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-18T21:30:00-05:00",
+        "episodeTitle": "Thanks-hoarding",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-18T22:00:00-05:00",
+        "episodeTitle": "Kung Pao Turkey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-18T22:30:00-05:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-18T23:00:00-05:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-18T23:30:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T00:00:00-05:00",
+        "episodeTitle": "Staff Infection",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T00:15:00-05:00",
+        "episodeTitle": "Pickle Trip",
+        "rating": "TV-14 LS",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T00:30:00-05:00",
+        "episodeTitle": "The High Cost of Loathing",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T01:00:00-05:00",
+        "episodeTitle": "Thanks-Taking",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T01:15:00-05:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T01:30:00-05:00",
+        "episodeTitle": "Kung Pao Turkey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T02:00:00-05:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T02:30:00-05:00",
+        "episodeTitle": "Peter's Sister",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T03:00:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T03:30:00-05:00",
+        "episodeTitle": "Staff Infection",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T03:45:00-05:00",
+        "episodeTitle": "Pickle Trip",
+        "rating": "TV-14 LS",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T04:00:00-05:00",
+        "episodeTitle": "The High Cost of Loathing",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T04:30:00-05:00",
+        "episodeTitle": "Thanks-Taking",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T04:45:00-05:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T05:00:00-05:00",
+        "episodeTitle": "Thanks-hoarding",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-18T00:00:00-05:00",
+        "datetime": "2018-11-19T05:30:00-05:00",
+        "episodeTitle": "Renaissance",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

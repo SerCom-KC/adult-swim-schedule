@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-28T21:00:00-05:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-28T21:30:00-05:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-28T22:00:00-05:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-28T22:30:00-05:00",
+        "episodeTitle": "Blood Crieth Unto Heaven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-28T23:00:00-05:00",
+        "episodeTitle": "The Story on Page One",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-28T23:30:00-05:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T00:00:00-05:00",
+        "episodeTitle": "The Metamorphosis",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T00:30:00-05:00",
+        "episodeTitle": "The Devil in the Flesh",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T01:00:00-05:00",
+        "episodeTitle": "Symposium",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T01:30:00-05:00",
+        "episodeTitle": "Tangled Hair",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T02:00:00-05:00",
+        "episodeTitle": "The Stranger",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T02:30:00-05:00",
+        "episodeTitle": "The Sun Also Rises",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T03:00:00-05:00",
+        "episodeTitle": "A Dark Night's Passing",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T03:30:00-05:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T04:00:00-05:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T04:30:00-05:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T05:00:00-05:00",
+        "episodeTitle": "Blood Crieth Unto Heaven",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-28T00:00:00-05:00",
+        "datetime": "2015-11-29T05:30:00-05:00",
+        "episodeTitle": "Not in My Back Hoe",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

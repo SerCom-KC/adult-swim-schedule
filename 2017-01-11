@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-11T21:00:00-05:00",
+        "episodeTitle": "A Boy Named Michael",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-11T21:30:00-05:00",
+        "episodeTitle": "Roger Passes the Bar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-11T22:00:00-05:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-11T22:30:00-05:00",
+        "episodeTitle": "Lindapendent Woman",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-11T23:00:00-05:00",
+        "episodeTitle": "Inside Family Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-11T23:30:00-05:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T00:00:00-05:00",
+        "episodeTitle": "That Hurts Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T00:15:00-05:00",
+        "episodeTitle": "The Black Cherry",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T00:30:00-05:00",
+        "episodeTitle": "Juggalo",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T00:45:00-05:00",
+        "episodeTitle": "Multiple Meat",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T01:00:00-05:00",
+        "episodeTitle": "Raymond Cruz; Amber Rose",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T01:15:00-05:00",
+        "episodeTitle": "Fire Drill",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T01:30:00-05:00",
+        "episodeTitle": "A Boy Named Michael",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T02:00:00-05:00",
+        "episodeTitle": "Roger Passes the Bar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T02:30:00-05:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T03:00:00-05:00",
+        "episodeTitle": "Inside Family Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T03:30:00-05:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T04:00:00-05:00",
+        "episodeTitle": "Conflict",
+        "rating": "TV-14 L",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T04:15:00-05:00",
+        "episodeTitle": "Weapons Grade Life",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T04:30:00-05:00",
+        "episodeTitle": "Raymond Cruz; Amber Rose",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T04:45:00-05:00",
+        "episodeTitle": "Fire Drill",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T05:00:00-05:00",
+        "episodeTitle": "The One About Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-11T00:00:00-05:00",
+        "datetime": "2017-01-12T05:30:00-05:00",
+        "episodeTitle": "Hank's On Board",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

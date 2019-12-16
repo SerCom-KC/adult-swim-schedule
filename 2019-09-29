@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-29T21:00:00-04:00",
+        "episodeTitle": "The Legend of Old Ulysses",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-29T21:30:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-29T22:00:00-04:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-29T22:30:00-04:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-29T23:00:00-04:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-29T23:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T00:00:00-04:00",
+        "episodeTitle": "Ginger Hill in: Bursting Pipes",
+        "rating": "TV-MA L",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T00:15:00-04:00",
+        "episodeTitle": "Bugs Keith in: I Can't Call Heaven, Doug",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T00:30:00-04:00",
+        "episodeTitle": "The Reenactment of the Repulsion of the Siege of Cuyler Mountain",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T00:45:00-04:00",
+        "episodeTitle": "Rich Dan, Poor Dan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T01:00:00-04:00",
+        "episodeTitle": "Vatican Guys",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T01:30:00-04:00",
+        "episodeTitle": "The Legend of Old Ulysses",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T02:00:00-04:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T02:30:00-04:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T03:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T03:30:00-04:00",
+        "episodeTitle": "Ginger Hill in: Bursting Pipes",
+        "rating": "TV-MA L",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T03:45:00-04:00",
+        "episodeTitle": "Bugs Keith in: I Can't Call Heaven, Doug",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T04:00:00-04:00",
+        "episodeTitle": "The Reenactment of the Repulsion of the Siege of Cuyler Mountain",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T04:15:00-04:00",
+        "episodeTitle": "Rich Dan, Poor Dan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T04:30:00-04:00",
+        "episodeTitle": "Vatican Guys",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T05:00:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-29T00:00:00-04:00",
+        "datetime": "2019-09-30T05:30:00-04:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

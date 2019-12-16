@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-19T21:00:00-05:00",
+        "episodeTitle": "Revenge of the Lutefisk",
+        "rating": "TV-PG D",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-19T21:30:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-19T22:00:00-05:00",
+        "episodeTitle": "Ricky Spanish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-19T22:30:00-05:00",
+        "episodeTitle": "Toy Whorey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-19T23:00:00-05:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-19T23:30:00-05:00",
+        "episodeTitle": "Death Has a Shadow",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T00:00:00-05:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T00:15:00-05:00",
+        "episodeTitle": "Federated Resources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T00:30:00-05:00",
+        "episodeTitle": "Super Birthday Snake",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T00:45:00-05:00",
+        "episodeTitle": "Beast Implants",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T01:00:00-05:00",
+        "episodeTitle": "Jean & Paul & Beefy & Alice",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T01:15:00-05:00",
+        "episodeTitle": "Performance Klok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T01:30:00-05:00",
+        "episodeTitle": "Ricky Spanish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T02:00:00-05:00",
+        "episodeTitle": "Toy Whorey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T02:30:00-05:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T03:00:00-05:00",
+        "episodeTitle": "Death Has a Shadow",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T03:30:00-05:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T03:45:00-05:00",
+        "episodeTitle": "Federated Resources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T04:00:00-05:00",
+        "episodeTitle": "Haunted Tonk",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T04:15:00-05:00",
+        "episodeTitle": "Behold a Dark Horse",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T04:30:00-05:00",
+        "episodeTitle": "Jean & Paul & Beefy & Alice",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T04:45:00-05:00",
+        "episodeTitle": "Performance Klok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T05:00:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-19T00:00:00-05:00",
+        "datetime": "2015-11-20T05:30:00-05:00",
+        "episodeTitle": "Revenge of the Lutefisk",
+        "rating": "TV-PG D",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

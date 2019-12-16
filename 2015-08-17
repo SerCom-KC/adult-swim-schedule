@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-17T21:00:00-04:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-17T21:30:00-04:00",
+        "episodeTitle": "Turkey Pot Die",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-17T22:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-17T22:30:00-04:00",
+        "episodeTitle": "American Fung",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-17T23:00:00-04:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-17T23:30:00-04:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T00:00:00-04:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T00:15:00-04:00",
+        "episodeTitle": "Moesha Poppins",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T00:30:00-04:00",
+        "episodeTitle": "eDork",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T00:45:00-04:00",
+        "episodeTitle": "Anabolic-holic",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T01:00:00-04:00",
+        "episodeTitle": "Crow College",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T01:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T02:00:00-04:00",
+        "episodeTitle": "American Fung",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T02:30:00-04:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T03:00:00-04:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T03:30:00-04:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T03:45:00-04:00",
+        "episodeTitle": "Moesha Poppins",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T04:00:00-04:00",
+        "episodeTitle": "Booty Noir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T04:15:00-04:00",
+        "episodeTitle": "Return To Oblivion",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T04:30:00-04:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T05:00:00-04:00",
+        "episodeTitle": "Turkey Pot Die",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-17T00:00:00-04:00",
+        "datetime": "2015-08-18T05:30:00-04:00",
+        "episodeTitle": "Be True to Your Fool",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

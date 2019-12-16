@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-14T21:00:00-04:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-14T21:30:00-04:00",
+        "episodeTitle": "Tearjerker",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-14T22:00:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-14T22:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-14T23:00:00-04:00",
+        "episodeTitle": "Mind Over Murder",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-14T23:30:00-04:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T00:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T00:30:00-04:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T00:45:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T01:00:00-04:00",
+        "episodeTitle": "We Are Not Our DNA!",
+        "rating": "TV-14 DS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T01:15:00-04:00",
+        "episodeTitle": "16 Hop Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T01:30:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T02:00:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T02:30:00-04:00",
+        "episodeTitle": "Mind Over Murder",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T03:00:00-04:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T03:30:00-04:00",
+        "episodeTitle": "Franny 911",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T04:00:00-04:00",
+        "episodeTitle": "In Search of Miracle Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T04:15:00-04:00",
+        "episodeTitle": "Smart Pipe",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T04:30:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T05:00:00-04:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-14T00:00:00-04:00",
+        "datetime": "2018-05-15T05:30:00-04:00",
+        "episodeTitle": "Blood and Sauce",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

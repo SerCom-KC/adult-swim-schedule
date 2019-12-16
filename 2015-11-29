@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-29T21:00:00-05:00",
+        "episodeTitle": "A River Runs Through Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-29T21:30:00-05:00",
+        "episodeTitle": "Li'l Hard Dad",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-29T22:00:00-05:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-29T22:30:00-05:00",
+        "episodeTitle": "Herpe the Love Sore",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-29T23:00:00-05:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-29T23:30:00-05:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T00:00:00-05:00",
+        "episodeTitle": "Garbage Sushi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T00:15:00-05:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T00:30:00-05:00",
+        "episodeTitle": "Rabbit, not Rabbot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T00:45:00-05:00",
+        "episodeTitle": "N\u00fc-Byle",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T01:00:00-05:00",
+        "episodeTitle": "A River Runs Through Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T01:30:00-05:00",
+        "episodeTitle": "Li'l Hard Dad",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T02:00:00-05:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T02:30:00-05:00",
+        "episodeTitle": "Herpe the Love Sore",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T03:00:00-05:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T03:30:00-05:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T04:00:00-05:00",
+        "episodeTitle": "Garbage Sushi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T04:15:00-05:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T04:30:00-05:00",
+        "episodeTitle": "Rabbit, not Rabbot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T04:45:00-05:00",
+        "episodeTitle": "N\u00fc-Byle",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T05:00:00-05:00",
+        "episodeTitle": "Nancy Boys",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-29T00:00:00-05:00",
+        "datetime": "2015-11-30T05:30:00-05:00",
+        "episodeTitle": "To Kill a Ladybird",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

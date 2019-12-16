@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-21T21:00:00-05:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-21T21:30:00-05:00",
+        "episodeTitle": "Honey, I'm Homeland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-21T22:00:00-05:00",
+        "episodeTitle": "The Gayle Tales",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-21T22:30:00-05:00",
+        "episodeTitle": "Li'l Hard Dad",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-21T23:00:00-05:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-21T23:30:00-05:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T00:00:00-05:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T00:30:00-05:00",
+        "episodeTitle": "The Ramblings of Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T00:45:00-05:00",
+        "episodeTitle": "Cannot Be Erased, So Sorry",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T01:00:00-05:00",
+        "episodeTitle": "Joey Fatone & Richard Hatch",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T01:15:00-05:00",
+        "episodeTitle": "Dolls",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T01:30:00-05:00",
+        "episodeTitle": "The Gayle Tales",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T02:00:00-05:00",
+        "episodeTitle": "Li'l Hard Dad",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T02:30:00-05:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T03:00:00-05:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T03:30:00-05:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T04:00:00-05:00",
+        "episodeTitle": "Good for Nothing",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T04:30:00-05:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T05:00:00-05:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-02-21T00:00:00-05:00",
+        "datetime": "2018-02-22T05:30:00-05:00",
+        "episodeTitle": "Chasing Bobby",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-12T21:00:00-05:00",
+        "episodeTitle": "In Country...Club",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-12T21:30:00-05:00",
+        "episodeTitle": "Moon Over Isla Island",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-12T22:00:00-05:00",
+        "episodeTitle": "Wag the Hog",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-12T22:30:00-05:00",
+        "episodeTitle": "The Hormone-Iums",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-12T23:00:00-05:00",
+        "episodeTitle": "Stuck Together, Torn Apart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-12T23:30:00-05:00",
+        "episodeTitle": "Road To Europe",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T00:00:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T00:30:00-05:00",
+        "episodeTitle": "More Blood, More Chocolate",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T00:45:00-05:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T01:00:00-05:00",
+        "episodeTitle": "Super Birthday Snake",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T01:15:00-05:00",
+        "episodeTitle": "A Sober Sunday",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T01:30:00-05:00",
+        "episodeTitle": "Wag the Hog",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T02:00:00-05:00",
+        "episodeTitle": "The Hormone-Iums",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T02:30:00-05:00",
+        "episodeTitle": "Stuck Together, Torn Apart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T03:00:00-05:00",
+        "episodeTitle": "Road To Europe",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T03:30:00-05:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T04:00:00-05:00",
+        "episodeTitle": "Joe Pera Lights Up the Night With You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T04:15:00-05:00",
+        "episodeTitle": "Horse",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T04:30:00-05:00",
+        "episodeTitle": "Super Birthday Snake",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T04:45:00-05:00",
+        "episodeTitle": "A Sober Sunday",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T05:00:00-05:00",
+        "episodeTitle": "In Country...Club",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-12T00:00:00-05:00",
+        "datetime": "2018-11-13T05:30:00-05:00",
+        "episodeTitle": "Moon Over Isla Island",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

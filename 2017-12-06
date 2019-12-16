@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-06T21:00:00-05:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-06T21:30:00-05:00",
+        "episodeTitle": "Red October Sky",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-06T22:00:00-05:00",
+        "episodeTitle": "Adventures in Chinchilla-Sitting",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-06T22:30:00-05:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-06T23:00:00-05:00",
+        "episodeTitle": "Brian: Portrait of a Dog",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-06T23:30:00-05:00",
+        "episodeTitle": "Peter Peter Caviar Eater",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T00:00:00-05:00",
+        "episodeTitle": "Papercut to Aorta",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T00:15:00-05:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T00:30:00-05:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T00:45:00-05:00",
+        "episodeTitle": "The Legend of Kid Squid",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T01:00:00-05:00",
+        "episodeTitle": "The Miracle",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T01:15:00-05:00",
+        "episodeTitle": "The Lord's Prayer",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T01:30:00-05:00",
+        "episodeTitle": "Adventures in Chinchilla-Sitting",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T02:00:00-05:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T02:30:00-05:00",
+        "episodeTitle": "Brian: Portrait of a Dog",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T03:00:00-05:00",
+        "episodeTitle": "Peter Peter Caviar Eater",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T03:30:00-05:00",
+        "episodeTitle": "Widowmaker",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T04:00:00-05:00",
+        "episodeTitle": "Paradise",
+        "rating": "TV-PG S",
+        "seasonNumber": 7,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T04:15:00-05:00",
+        "episodeTitle": "Conflict",
+        "rating": "TV-14 L",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T04:30:00-05:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T04:45:00-05:00",
+        "episodeTitle": "The Legend of Kid Squid",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T05:00:00-05:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-06T00:00:00-05:00",
+        "datetime": "2017-12-07T05:30:00-05:00",
+        "episodeTitle": "Raise the Steaks",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

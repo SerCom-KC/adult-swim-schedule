@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-07T21:00:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-07T21:30:00-04:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-07T22:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-07T22:30:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-07T23:00:00-04:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-07T23:30:00-04:00",
+        "episodeTitle": "Encyclopedia Griffin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T00:00:00-04:00",
+        "episodeTitle": "Unionizing Our Labor",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T00:15:00-04:00",
+        "episodeTitle": "President Hu Forbids it",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T00:30:00-04:00",
+        "episodeTitle": "Bart Oats",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T00:45:00-04:00",
+        "episodeTitle": "Velvet Messiah",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T01:00:00-04:00",
+        "episodeTitle": "Gay Wedding",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T01:15:00-04:00",
+        "episodeTitle": "Birthdayface",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T01:30:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T02:00:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T02:30:00-04:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T03:00:00-04:00",
+        "episodeTitle": "Encyclopedia Griffin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T03:30:00-04:00",
+        "episodeTitle": "Unionizing Our Labor",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T03:45:00-04:00",
+        "episodeTitle": "President Hu Forbids it",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T04:00:00-04:00",
+        "episodeTitle": "Shazzan",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T04:15:00-04:00",
+        "episodeTitle": "Joy of Grief",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T04:30:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T05:00:00-04:00",
+        "episodeTitle": "Flush of Genius",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-07T00:00:00-04:00",
+        "datetime": "2015-09-08T05:30:00-04:00",
+        "episodeTitle": "Gone With the Windstorm",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

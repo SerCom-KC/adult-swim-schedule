@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-14T21:00:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-14T21:30:00-04:00",
+        "episodeTitle": "In Country...Club",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-14T22:00:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-14T22:30:00-04:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-14T23:00:00-04:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-14T23:30:00-04:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T00:00:00-04:00",
+        "episodeTitle": "Casablankman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T00:15:00-04:00",
+        "episodeTitle": "The Departy Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T00:30:00-04:00",
+        "episodeTitle": "Yves Klein Blues",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T00:45:00-04:00",
+        "episodeTitle": "Super Squatter",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T01:00:00-04:00",
+        "episodeTitle": "Anabolic-holic",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T01:15:00-04:00",
+        "episodeTitle": "God's Blunders",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T01:30:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T02:00:00-04:00",
+        "episodeTitle": "Bob Rest Ye Merry Gentle-Mannequins",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T02:30:00-04:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T03:00:00-04:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T03:30:00-04:00",
+        "episodeTitle": "Stan's Night Out",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T04:00:00-04:00",
+        "episodeTitle": "Hole",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T04:15:00-04:00",
+        "episodeTitle": "Toes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T04:30:00-04:00",
+        "episodeTitle": "Yves Klein Blues",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T04:45:00-04:00",
+        "episodeTitle": "Super Squatter",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T05:00:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-14T00:00:00-04:00",
+        "datetime": "2017-08-15T05:30:00-04:00",
+        "episodeTitle": "Hanky Panky (1)",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-25T21:00:00-04:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-25T21:30:00-04:00",
+        "episodeTitle": "Manhattan Magical Murder Mystery Tour",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-25T22:00:00-04:00",
+        "episodeTitle": "The Shrink",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-25T22:30:00-04:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-25T23:00:00-04:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-25T23:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T00:00:00-04:00",
+        "episodeTitle": "Garbage Sushi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T00:15:00-04:00",
+        "episodeTitle": "Ty-Stunned",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T00:30:00-04:00",
+        "episodeTitle": "Mouth Quest",
+        "rating": "TV-MA L",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T00:45:00-04:00",
+        "episodeTitle": "Jett Copperhead, Six-Pack Magician",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T01:00:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T01:30:00-04:00",
+        "episodeTitle": "Manhattan Magical Murder Mystery Tour",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T02:00:00-04:00",
+        "episodeTitle": "The Shrink",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T02:30:00-04:00",
+        "episodeTitle": "A Fistful of Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T03:00:00-04:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T03:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T04:00:00-04:00",
+        "episodeTitle": "Garbage Sushi",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T04:15:00-04:00",
+        "episodeTitle": "Ty-Stunned",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T04:30:00-04:00",
+        "episodeTitle": "Mouth Quest",
+        "rating": "TV-MA L",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T04:45:00-04:00",
+        "episodeTitle": "Jett Copperhead, Six-Pack Magician",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T05:00:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-25T00:00:00-04:00",
+        "datetime": "2015-10-26T05:30:00-04:00",
+        "episodeTitle": "Born Again on the 4th of July",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

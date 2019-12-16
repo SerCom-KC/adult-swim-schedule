@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-09T21:00:00-04:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-09T21:30:00-04:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-09T22:00:00-04:00",
+        "episodeTitle": "The Unbrave One",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-09T22:30:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-09T23:00:00-04:00",
+        "episodeTitle": "Mother Tucker",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-09T23:30:00-04:00",
+        "episodeTitle": "Hell Comes to Quahog",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T00:00:00-04:00",
+        "episodeTitle": "Butchered in Burbank",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T00:15:00-04:00",
+        "episodeTitle": "Ogopogo!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T00:30:00-04:00",
+        "episodeTitle": "Grim Reaper Gutters",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T00:45:00-04:00",
+        "episodeTitle": "Ga-Ga-Ghost",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T01:00:00-04:00",
+        "episodeTitle": "Spagett",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T01:15:00-04:00",
+        "episodeTitle": "Friendship",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T01:30:00-04:00",
+        "episodeTitle": "The Unbrave One",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T02:00:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T02:30:00-04:00",
+        "episodeTitle": "Mother Tucker",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T03:00:00-04:00",
+        "episodeTitle": "Hell Comes to Quahog",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T03:30:00-04:00",
+        "episodeTitle": "Butchered in Burbank",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T03:45:00-04:00",
+        "episodeTitle": "Ogopogo!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T04:00:00-04:00",
+        "episodeTitle": "Mulchtown",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T04:15:00-04:00",
+        "episodeTitle": "Frank Pierre Presents: Pierre Resort & Casino",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T04:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T05:00:00-04:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-09T00:00:00-04:00",
+        "datetime": "2016-06-10T05:30:00-04:00",
+        "episodeTitle": "Luanne Virgin 2.0",
+        "rating": "TV-PG DS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

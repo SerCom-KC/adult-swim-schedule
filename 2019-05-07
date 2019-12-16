@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-07T21:00:00-04:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-07T21:30:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-07T22:00:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-07T22:30:00-04:00",
+        "episodeTitle": "Deep Throats",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-07T23:00:00-04:00",
+        "episodeTitle": "Peterotica",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-07T23:30:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T00:00:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T00:15:00-04:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T00:30:00-04:00",
+        "episodeTitle": "Confessions of a Gangrenous Mind",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T00:45:00-04:00",
+        "episodeTitle": "The Big Gay Throwdown",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T01:00:00-04:00",
+        "episodeTitle": "Chapter 5B: Foot Fault",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T01:30:00-04:00",
+        "episodeTitle": "Bully for Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T02:00:00-04:00",
+        "episodeTitle": "Deep Throats",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T02:30:00-04:00",
+        "episodeTitle": "Peterotica",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T03:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T03:30:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T03:45:00-04:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T04:00:00-04:00",
+        "episodeTitle": "M.O.P.Z.",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T04:15:00-04:00",
+        "episodeTitle": "Big Grams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T04:30:00-04:00",
+        "episodeTitle": "Chapter 5B: Foot Fault",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T05:00:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-07T00:00:00-04:00",
+        "datetime": "2019-05-08T05:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

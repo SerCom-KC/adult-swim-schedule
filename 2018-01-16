@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-16T21:00:00-05:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-16T21:30:00-05:00",
+        "episodeTitle": "Flirting With Disaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-16T22:00:00-05:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-16T22:30:00-05:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-16T23:00:00-05:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-16T23:30:00-05:00",
+        "episodeTitle": "I Take Thee, Quagmire",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T00:00:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T00:30:00-05:00",
+        "episodeTitle": "Easter Basket",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T00:45:00-05:00",
+        "episodeTitle": "Celebrity Rocket",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T01:00:00-05:00",
+        "episodeTitle": "Stacey Dash; Jack McBrayer",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T01:15:00-05:00",
+        "episodeTitle": "Liquid",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T01:30:00-05:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T02:00:00-05:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T02:30:00-05:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T03:00:00-05:00",
+        "episodeTitle": "I Take Thee, Quagmire",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T03:30:00-05:00",
+        "episodeTitle": "Home Wrecker",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T04:00:00-05:00",
+        "episodeTitle": "Janky Cable",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T04:30:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T05:00:00-05:00",
+        "episodeTitle": "Jesus Walks",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-01-16T00:00:00-05:00",
+        "datetime": "2018-01-17T05:30:00-05:00",
+        "episodeTitle": "Peggy's Pageant Fever",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-14T21:00:00-04:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-14T21:30:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-14T22:00:00-04:00",
+        "episodeTitle": "Helping Handis",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-14T22:30:00-04:00",
+        "episodeTitle": "With Friends Like Steve's",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-14T23:00:00-04:00",
+        "episodeTitle": "Three Kings",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-14T23:30:00-04:00",
+        "episodeTitle": "Peter's Progress",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T00:00:00-04:00",
+        "episodeTitle": "The Munnery",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T00:15:00-04:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T00:30:00-04:00",
+        "episodeTitle": "Shake Like Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T00:45:00-04:00",
+        "episodeTitle": "The Many Loves of Early Cuyler",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T01:00:00-04:00",
+        "episodeTitle": "Terrorarium",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T01:15:00-04:00",
+        "episodeTitle": "Dethkomedy",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T01:30:00-04:00",
+        "episodeTitle": "Three Kings",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T02:00:00-04:00",
+        "episodeTitle": "Peter's Progress",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T02:30:00-04:00",
+        "episodeTitle": "Bed & Breakfast",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T03:00:00-04:00",
+        "episodeTitle": "With Friends Like Steve's",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T03:30:00-04:00",
+        "episodeTitle": "The Munnery",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T03:45:00-04:00",
+        "episodeTitle": "Adoptions an Option",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T04:00:00-04:00",
+        "episodeTitle": "Book of Christ",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T04:15:00-04:00",
+        "episodeTitle": "Full Hauser",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T04:30:00-04:00",
+        "episodeTitle": "Terrorarium",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T04:45:00-04:00",
+        "episodeTitle": "Dethkomedy",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T05:00:00-04:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-14T00:00:00-04:00",
+        "datetime": "2015-04-15T05:30:00-04:00",
+        "episodeTitle": "Sug Night",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

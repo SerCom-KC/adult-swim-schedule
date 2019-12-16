@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-25T21:00:00-04:00",
+        "episodeTitle": "Friends with Burger-Fits",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-25T21:30:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-25T22:00:00-04:00",
+        "episodeTitle": "Weiner of Our Discontent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-25T22:30:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-25T23:00:00-04:00",
+        "episodeTitle": "Breaking Out Is Hard to Do",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-25T23:30:00-04:00",
+        "episodeTitle": "Model Misbehavior",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T00:00:00-04:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T00:15:00-04:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T00:30:00-04:00",
+        "episodeTitle": "The South Bronx Paradise Diet",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T00:45:00-04:00",
+        "episodeTitle": "Ballmart",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T01:00:00-04:00",
+        "episodeTitle": "Dolls",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T01:15:00-04:00",
+        "episodeTitle": "Planes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T01:30:00-04:00",
+        "episodeTitle": "Weiner of Our Discontent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T02:00:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T02:30:00-04:00",
+        "episodeTitle": "Breaking Out Is Hard to Do",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T03:00:00-04:00",
+        "episodeTitle": "Model Misbehavior",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T03:30:00-04:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T03:45:00-04:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T04:00:00-04:00",
+        "episodeTitle": "Shapes",
+        "rating": "TV-14 V",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T04:15:00-04:00",
+        "episodeTitle": "Liquid",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T04:30:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T05:00:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-05-25T00:00:00-04:00",
+        "datetime": "2016-05-26T05:30:00-04:00",
+        "episodeTitle": "Meet the Propaniacs",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

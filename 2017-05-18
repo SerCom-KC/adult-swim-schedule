@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-18T21:00:00-04:00",
+        "episodeTitle": "Terry Unmarried",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-18T21:30:00-04:00",
+        "episodeTitle": "The Boring Identity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-18T22:00:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-18T22:30:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-18T23:00:00-04:00",
+        "episodeTitle": "Forget Me Not",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-18T23:30:00-04:00",
+        "episodeTitle": "You Can't Do That on Television, Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T00:00:00-04:00",
+        "episodeTitle": "Yves Klein Blues",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T00:15:00-04:00",
+        "episodeTitle": "Bitches to Rags",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T00:45:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T01:00:00-04:00",
+        "episodeTitle": "The Squid Stays in the Picture",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T01:15:00-04:00",
+        "episodeTitle": "Snow Job",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T01:30:00-04:00",
+        "episodeTitle": "The Missing Kink",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T02:00:00-04:00",
+        "episodeTitle": "The Boring Identity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T02:30:00-04:00",
+        "episodeTitle": "Torpedo",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T03:00:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T03:30:00-04:00",
+        "episodeTitle": "You Can't Do That on Television, Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T04:00:00-04:00",
+        "episodeTitle": "Development Meeting - 5/4/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T04:15:00-04:00",
+        "episodeTitle": "Run Dr. Lola Spratt, Run",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T04:30:00-04:00",
+        "episodeTitle": "Bitches to Rags",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T05:00:00-04:00",
+        "episodeTitle": "Terry Unmarried",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-18T00:00:00-04:00",
+        "datetime": "2017-05-19T05:30:00-04:00",
+        "episodeTitle": "Redcorn Gambles With His Future",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

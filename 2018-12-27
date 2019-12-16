@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-27T21:00:00-05:00",
+        "episodeTitle": "Finger Lenting Good",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-27T21:30:00-05:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-27T22:00:00-05:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-27T22:30:00-05:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-27T23:00:00-05:00",
+        "episodeTitle": "Peter's Daughter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-27T23:30:00-05:00",
+        "episodeTitle": "McStroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T00:00:00-05:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T00:30:00-05:00",
+        "episodeTitle": "The Core, the Thief, His Wife and Her Lover",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T00:45:00-05:00",
+        "episodeTitle": "The Godfather of the Bride II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T01:00:00-05:00",
+        "episodeTitle": "The Mooninites: Final Mooning",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T01:15:00-05:00",
+        "episodeTitle": "Not Without My Cash Cow!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T01:30:00-05:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T02:00:00-05:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T02:30:00-05:00",
+        "episodeTitle": "Peter's Daughter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T03:00:00-05:00",
+        "episodeTitle": "McStroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T03:30:00-05:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T04:00:00-05:00",
+        "episodeTitle": "Pervert Everything",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T04:15:00-05:00",
+        "episodeTitle": "Flayaway",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T04:30:00-05:00",
+        "episodeTitle": "The Mooninites: Final Mooning",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T04:45:00-05:00",
+        "episodeTitle": "Not Without My Cash Cow!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T05:00:00-05:00",
+        "episodeTitle": "Finger Lenting Good",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-27T00:00:00-05:00",
+        "datetime": "2018-12-28T05:30:00-05:00",
+        "episodeTitle": "The Adventures of Twill Ongenbone and His Boy Jabari",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

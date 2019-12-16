@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-23T21:00:00-04:00",
+        "episodeTitle": "Pregnant Paws",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-23T21:30:00-04:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-23T22:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-23T22:30:00-04:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-23T23:00:00-04:00",
+        "episodeTitle": "The King Is Dead",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-23T23:30:00-04:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T00:00:00-04:00",
+        "episodeTitle": "Another Time Machine! Bulma Uncovers a Mystery!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T00:30:00-04:00",
+        "episodeTitle": "The Key to Adrastea",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 426092,
+        "showTitle": "Dimension W"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T01:00:00-04:00",
+        "episodeTitle": "Test x of x Tests",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T01:30:00-04:00",
+        "episodeTitle": "Lullabies of the Lost Verse 2",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T02:00:00-04:00",
+        "episodeTitle": "Counterattack of the Curse Mark",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T02:30:00-04:00",
+        "episodeTitle": "His Name Is Moria! The Great Shadow-Seizing Pirate's Trap",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T03:00:00-04:00",
+        "episodeTitle": "The Devil in the Flesh",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T03:30:00-04:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T04:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T04:30:00-04:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T05:00:00-04:00",
+        "episodeTitle": "Peggy's Headache",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-04-23T00:00:00-04:00",
+        "datetime": "2016-04-24T05:30:00-04:00",
+        "episodeTitle": "Pregnant Paws",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

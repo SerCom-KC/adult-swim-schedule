@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-29T21:00:00-04:00",
+        "episodeTitle": "Daesong Heavy Industries",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-29T21:30:00-04:00",
+        "episodeTitle": "Daesong Heavy Industries II: Return to Innocence",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-29T22:00:00-04:00",
+        "episodeTitle": "Our Idiot Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-29T22:30:00-04:00",
+        "episodeTitle": "This Little Piggy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-29T23:00:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-29T23:30:00-04:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T00:00:00-04:00",
+        "episodeTitle": "Suck It",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T00:15:00-04:00",
+        "episodeTitle": "Federated Resources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T00:30:00-04:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T00:45:00-04:00",
+        "episodeTitle": "Squidbilly Manfishing",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T01:00:00-04:00",
+        "episodeTitle": "The South Bronx Paradise Diet",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T01:15:00-04:00",
+        "episodeTitle": "Dusty Gozongas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T01:30:00-04:00",
+        "episodeTitle": "Our Idiot Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T02:00:00-04:00",
+        "episodeTitle": "This Little Piggy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T02:30:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T03:00:00-04:00",
+        "episodeTitle": "Housetrap",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T03:30:00-04:00",
+        "episodeTitle": "Suck It",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T03:45:00-04:00",
+        "episodeTitle": "Federated Resources",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T04:00:00-04:00",
+        "episodeTitle": "Cabana Boy",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 389373,
+        "showTitle": "The Restless Bell"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T04:15:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 363131,
+        "showTitle": "Rising Son"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T04:30:00-04:00",
+        "episodeTitle": "Daesong Heavy Industries II: Return to Innocence",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T05:00:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-29T00:00:00-04:00",
+        "datetime": "2016-08-30T05:30:00-04:00",
+        "episodeTitle": "Four Wave Intersection",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

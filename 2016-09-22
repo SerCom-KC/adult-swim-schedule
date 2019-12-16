@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-22T21:00:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-22T21:30:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-22T22:00:00-04:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-22T22:30:00-04:00",
+        "episodeTitle": "Joint Custody",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-22T23:00:00-04:00",
+        "episodeTitle": "Breaking Out Is Hard to Do",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-22T23:30:00-04:00",
+        "episodeTitle": "Model Misbehavior",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T00:00:00-04:00",
+        "episodeTitle": "Ban on the Fun",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T00:15:00-04:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T00:30:00-04:00",
+        "episodeTitle": "Giant Foam Dickhat Trouble",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T00:45:00-04:00",
+        "episodeTitle": "Meth O.D. To My Madness",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T01:00:00-04:00",
+        "episodeTitle": "A PE Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T01:15:00-04:00",
+        "episodeTitle": "Rabbot Redux",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T01:30:00-04:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T02:00:00-04:00",
+        "episodeTitle": "Joint Custody",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T02:30:00-04:00",
+        "episodeTitle": "Breaking Out Is Hard to Do",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T03:00:00-04:00",
+        "episodeTitle": "Model Misbehavior",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T03:30:00-04:00",
+        "episodeTitle": "Ban on the Fun",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T03:45:00-04:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T04:00:00-04:00",
+        "episodeTitle": "Clowns",
+        "rating": "TV-14 ",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T04:15:00-04:00",
+        "episodeTitle": "NEWNOW",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T04:30:00-04:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T05:00:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-22T00:00:00-04:00",
+        "datetime": "2016-09-23T05:30:00-04:00",
+        "episodeTitle": "Serves Me Right for Giving General George S. Patton the Bathroom Key",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

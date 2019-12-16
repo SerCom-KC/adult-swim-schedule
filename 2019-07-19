@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-19T21:00:00-04:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-19T21:30:00-04:00",
+        "episodeTitle": "Joe's Revenge",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-19T22:00:00-04:00",
+        "episodeTitle": "Tom, Sarah and Usher",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-19T22:30:00-04:00",
+        "episodeTitle": "Thank You for Not Snitching",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-19T23:00:00-04:00",
+        "episodeTitle": "Pits and Peaks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-19T23:15:00-04:00",
+        "episodeTitle": "The Monahans and MacGoverns",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-19T23:30:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T00:00:00-04:00",
+        "episodeTitle": "Conceal and Gary",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T00:15:00-04:00",
+        "episodeTitle": "Fried Alive",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T00:30:00-04:00",
+        "episodeTitle": "James Van Der Beek & Steve-O",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T00:45:00-04:00",
+        "episodeTitle": "Wink Martindale & Sarah Burns",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T01:00:00-04:00",
+        "episodeTitle": "Tigtone and Those Elemental Kings",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T01:15:00-04:00",
+        "episodeTitle": "Tigtone and the Wizard Hunt",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T01:30:00-04:00",
+        "episodeTitle": "Widow's Pique",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T02:00:00-04:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T02:30:00-04:00",
+        "episodeTitle": "Joe's Revenge",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T03:00:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T03:30:00-04:00",
+        "episodeTitle": "Pits and Peaks",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T03:45:00-04:00",
+        "episodeTitle": "The Monahans and MacGoverns",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T04:00:00-04:00",
+        "episodeTitle": "Jamir at Home",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 458592,
+        "showTitle": "Adult Swim Smalls Presents"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T04:15:00-04:00",
+        "episodeTitle": "Wet City",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 458592,
+        "showTitle": "Adult Swim Smalls Presents"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T04:30:00-04:00",
+        "episodeTitle": "Conceal and Gary",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T04:45:00-04:00",
+        "episodeTitle": "Fried Alive",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T05:00:00-04:00",
+        "episodeTitle": "The Nova Centauris-burgh Board of Tourism Presents: American Dad",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-19T00:00:00-04:00",
+        "datetime": "2019-07-20T05:30:00-04:00",
+        "episodeTitle": "XXXV",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 3,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

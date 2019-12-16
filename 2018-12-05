@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-05T21:00:00-05:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-05T21:30:00-05:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-05T22:00:00-05:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-05T22:30:00-05:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-05T23:00:00-05:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-05T23:30:00-05:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T00:00:00-05:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T00:30:00-05:00",
+        "episodeTitle": "Maurice Was Caught",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T00:45:00-05:00",
+        "episodeTitle": "Unionizing Our Labor",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T01:00:00-05:00",
+        "episodeTitle": "Frat Aliens",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T01:15:00-05:00",
+        "episodeTitle": "An Officer and a Dental Dam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T01:30:00-05:00",
+        "episodeTitle": "Human Flesh",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T02:00:00-05:00",
+        "episodeTitle": "Crawl Space",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T02:30:00-05:00",
+        "episodeTitle": "Bango Was His Name Oh Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T03:00:00-05:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T03:30:00-05:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T04:00:00-05:00",
+        "episodeTitle": "Don't Die Alone",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 452572,
+        "showTitle": "Hunky Boys Go Ding-Dong"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T04:15:00-05:00",
+        "episodeTitle": "Big Grams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T04:30:00-05:00",
+        "episodeTitle": "Frat Aliens",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T04:45:00-05:00",
+        "episodeTitle": "An Officer and a Dental Dam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T05:00:00-05:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-05T00:00:00-05:00",
+        "datetime": "2018-12-06T05:30:00-05:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

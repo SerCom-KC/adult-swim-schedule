@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-08T21:00:00-04:00",
+        "episodeTitle": "Irregarding Steve",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-08T21:30:00-04:00",
+        "episodeTitle": "Mother Daughter Laser Razor",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-08T22:00:00-04:00",
+        "episodeTitle": "Nude Beach",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-08T22:30:00-04:00",
+        "episodeTitle": "E Peterbus Unum",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-08T23:00:00-04:00",
+        "episodeTitle": "The Story on Page One",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-08T23:30:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T00:00:00-04:00",
+        "episodeTitle": "Cracked China",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T00:15:00-04:00",
+        "episodeTitle": "Rodiggity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T00:30:00-04:00",
+        "episodeTitle": "Giant Foam Dickhat Trouble",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T00:45:00-04:00",
+        "episodeTitle": "Meth O.D. To My Madness",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T01:00:00-04:00",
+        "episodeTitle": "Riley Wuz Here",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T01:30:00-04:00",
+        "episodeTitle": "Of Ice and Men",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T02:00:00-04:00",
+        "episodeTitle": "E Peterbus Unum",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T02:30:00-04:00",
+        "episodeTitle": "The Story on Page One",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T03:00:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T03:30:00-04:00",
+        "episodeTitle": "Cracked China",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T03:45:00-04:00",
+        "episodeTitle": "Rodiggity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T04:00:00-04:00",
+        "episodeTitle": "Rock Bottom/People's Elbow",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T04:15:00-04:00",
+        "episodeTitle": "Stone Cold Stunner",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T04:30:00-04:00",
+        "episodeTitle": "Riley Wuz Here",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T05:00:00-04:00",
+        "episodeTitle": "Mother Daughter Laser Razor",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-08T00:00:00-04:00",
+        "datetime": "2019-04-09T05:30:00-04:00",
+        "episodeTitle": "Nude Beach",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

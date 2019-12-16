@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-07T21:00:00-05:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-07T21:30:00-05:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-07T22:00:00-05:00",
+        "episodeTitle": "Black Mystery Month",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-07T22:30:00-05:00",
+        "episodeTitle": "An Apocalypse to Remember",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-07T23:00:00-05:00",
+        "episodeTitle": "Chitty Chitty Death Bang",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-07T23:30:00-05:00",
+        "episodeTitle": "Mind Over Murder",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T00:00:00-05:00",
+        "episodeTitle": "President Evil",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T00:15:00-05:00",
+        "episodeTitle": "Chirlaxx",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T00:30:00-05:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T00:45:00-05:00",
+        "episodeTitle": "Mr. Grumpy-Pants",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T01:00:00-05:00",
+        "episodeTitle": "Very Venture Halloween",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T01:30:00-05:00",
+        "episodeTitle": "Black Mystery Month",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T02:00:00-05:00",
+        "episodeTitle": "An Apocalypse to Remember",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T02:30:00-05:00",
+        "episodeTitle": "Chitty Chitty Death Bang",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T03:00:00-05:00",
+        "episodeTitle": "Mind Over Murder",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T03:30:00-05:00",
+        "episodeTitle": "President Evil",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T03:45:00-05:00",
+        "episodeTitle": "Chirlaxx",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T04:00:00-05:00",
+        "episodeTitle": "Transportation",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T04:15:00-05:00",
+        "episodeTitle": "Brothers Cinco",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T04:30:00-05:00",
+        "episodeTitle": "Very Venture Halloween",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T05:00:00-05:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-07T00:00:00-05:00",
+        "datetime": "2015-01-08T05:30:00-05:00",
+        "episodeTitle": "Reborn To Be Wild",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

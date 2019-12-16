@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-28T21:00:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-28T21:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-28T22:00:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-28T22:30:00-04:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-28T23:00:00-04:00",
+        "episodeTitle": "XCII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-28T23:30:00-04:00",
+        "episodeTitle": "XCIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T00:00:00-04:00",
+        "episodeTitle": "XCIV",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T00:30:00-04:00",
+        "episodeTitle": "XCV",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T01:00:00-04:00",
+        "episodeTitle": "XCVI",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T01:30:00-04:00",
+        "episodeTitle": "XCVII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T02:00:00-04:00",
+        "episodeTitle": "XCVIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T02:30:00-04:00",
+        "episodeTitle": "XCIX",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T03:00:00-04:00",
+        "episodeTitle": "C",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T03:30:00-04:00",
+        "episodeTitle": "CI",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T04:00:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T04:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T05:00:00-04:00",
+        "episodeTitle": "Death Buys a Timeshare",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-10-28T00:00:00-04:00",
+        "datetime": "2017-10-29T05:30:00-04:00",
+        "episodeTitle": "Yard, She Blows!",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

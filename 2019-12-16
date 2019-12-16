@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-16T21:00:00-05:00",
+        "episodeTitle": "Cock of the Sleepwalk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-16T21:30:00-05:00",
+        "episodeTitle": "For Whom the Sleigh Bell Tolls",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-16T22:00:00-05:00",
+        "episodeTitle": "The Gayle Tales",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-16T22:30:00-05:00",
+        "episodeTitle": "Li'l Hard Dad",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-16T23:00:00-05:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-16T23:30:00-05:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T00:00:00-05:00",
+        "episodeTitle": "Rattlestar Ricklactica",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T00:30:00-05:00",
+        "episodeTitle": "Robot Chicken's ATM Christmas Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T00:45:00-05:00",
+        "episodeTitle": "Robot Chicken's DP Christmas Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T01:00:00-05:00",
+        "episodeTitle": "A Huey Freeman Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T01:30:00-05:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T02:00:00-05:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T02:30:00-05:00",
+        "episodeTitle": "Cock of the Sleepwalk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T03:00:00-05:00",
+        "episodeTitle": "For Whom the Sleigh Bell Tolls",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T03:30:00-05:00",
+        "episodeTitle": "Rattlestar Ricklactica",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T04:00:00-05:00",
+        "episodeTitle": "When Panties Fly",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T04:15:00-05:00",
+        "episodeTitle": "Flayaway",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T04:30:00-05:00",
+        "episodeTitle": "A Huey Freeman Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T05:00:00-05:00",
+        "episodeTitle": "The Gayle Tales",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-16T00:00:00-05:00",
+        "datetime": "2019-12-17T05:30:00-05:00",
+        "episodeTitle": "Li'l Hard Dad",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-11-30T21:00:00-05:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-11-30T21:30:00-05:00",
+        "episodeTitle": "My Big Fat Greek Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-11-30T22:00:00-05:00",
+        "episodeTitle": "Be Careful What You Fish For",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-11-30T22:30:00-05:00",
+        "episodeTitle": "Burning Down the Bayit",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-11-30T23:00:00-05:00",
+        "episodeTitle": "Fighting Fate",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-11-30T23:30:00-05:00",
+        "episodeTitle": "The Resistance of the Strong",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T00:00:00-05:00",
+        "episodeTitle": "The Memory of a Single Dish",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T00:30:00-05:00",
+        "episodeTitle": "Eggs Before the Dawn",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T01:00:00-05:00",
+        "episodeTitle": "Metamorphose",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T01:30:00-05:00",
+        "episodeTitle": "The Man Called \"Carnage\"",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T02:00:00-05:00",
+        "episodeTitle": "The Cook Who Traveled Thousands of Miles",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T02:30:00-05:00",
+        "episodeTitle": "Sensual Fried Chicken",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T03:00:00-05:00",
+        "episodeTitle": "The Fried Chicken of Youth",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T03:30:00-05:00",
+        "episodeTitle": "The Chosen One",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T04:00:00-05:00",
+        "episodeTitle": "Dragon Lies Prone then Ascends to the Sky",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T04:30:00-05:00",
+        "episodeTitle": "Hotchick",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T04:45:00-05:00",
+        "episodeTitle": "Very Special Balls",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T05:00:00-05:00",
+        "episodeTitle": "Dirtfoot",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T05:15:00-05:00",
+        "episodeTitle": "Boost Mobile",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-11-30T00:00:00-05:00",
+        "datetime": "2019-12-01T05:30:00-05:00",
+        "episodeTitle": "Cho and  The Adventures of Amy Lee",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-03T21:00:00-05:00",
+        "episodeTitle": "The Grand Mama-Pest Hotel",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-03T21:30:00-05:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-03T22:00:00-05:00",
+        "episodeTitle": "The Boys in the Band",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-03T22:30:00-05:00",
+        "episodeTitle": "Bookie of the Year",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-03T23:00:00-05:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-03T23:30:00-05:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T00:00:00-05:00",
+        "episodeTitle": "Duel of the Dimwits",
+        "rating": "TV-MA ",
+        "seasonNumber": 11,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T00:15:00-05:00",
+        "episodeTitle": "Cornell Gets a Dog",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T00:30:00-05:00",
+        "episodeTitle": "Origin",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T00:45:00-05:00",
+        "episodeTitle": "Eros",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T01:00:00-05:00",
+        "episodeTitle": "Joel Hurwitz Returns",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T01:15:00-05:00",
+        "episodeTitle": "Hopefully Salt",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T01:30:00-05:00",
+        "episodeTitle": "The Grand Mama-Pest Hotel",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T02:00:00-05:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T02:30:00-05:00",
+        "episodeTitle": "The Boys in the Band",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T03:00:00-05:00",
+        "episodeTitle": "Bookie of the Year",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T03:30:00-05:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T04:00:00-05:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T04:30:00-05:00",
+        "episodeTitle": "Duel of the Dimwits",
+        "rating": "TV-MA ",
+        "seasonNumber": 11,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T04:45:00-05:00",
+        "episodeTitle": "Cornell Gets a Dog",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T05:00:00-05:00",
+        "episodeTitle": "Joel Hurwitz Returns",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T05:15:00-05:00",
+        "episodeTitle": "Hopefully Salt",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-03T00:00:00-05:00",
+        "datetime": "2017-12-04T05:30:00-05:00",
+        "episodeTitle": "The Powder Puff Boys",
+        "rating": "TV-PG D",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

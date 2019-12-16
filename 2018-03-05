@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-05T21:00:00-05:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-05T21:30:00-05:00",
+        "episodeTitle": "My Affair Lady",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-05T22:00:00-05:00",
+        "episodeTitle": "Lice Things Are Lice",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-05T22:30:00-05:00",
+        "episodeTitle": "House of 1000 Bounces",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-05T23:00:00-05:00",
+        "episodeTitle": "New Kidney in Town",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-05T23:30:00-05:00",
+        "episodeTitle": "And I'm Joyce Kinney",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T00:00:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T00:30:00-05:00",
+        "episodeTitle": "Chapter Two",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T01:00:00-05:00",
+        "episodeTitle": "Wiz Khalifa; Aubrey Peeples",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T01:15:00-05:00",
+        "episodeTitle": "Resurrection",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T01:30:00-05:00",
+        "episodeTitle": "Lice Things Are Lice",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T02:00:00-05:00",
+        "episodeTitle": "House of 1000 Bounces",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T02:30:00-05:00",
+        "episodeTitle": "New Kidney in Town",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T03:00:00-05:00",
+        "episodeTitle": "And I'm Joyce Kinney",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T03:30:00-05:00",
+        "episodeTitle": "Morning Mimosa",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T04:00:00-05:00",
+        "episodeTitle": "Fear",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T04:15:00-05:00",
+        "episodeTitle": "Death Begins at Conception",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T04:30:00-05:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T05:00:00-05:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-05T00:00:00-05:00",
+        "datetime": "2018-03-06T05:30:00-05:00",
+        "episodeTitle": "Flush with Power",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

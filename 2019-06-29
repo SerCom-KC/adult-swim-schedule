@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-29T21:00:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-29T21:30:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-29T22:00:00-04:00",
+        "episodeTitle": "Foreign Affairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-29T22:30:00-04:00",
+        "episodeTitle": "RUSH!",
+        "rating": "TV-14 L",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-29T23:00:00-04:00",
+        "episodeTitle": "Showdown of Love! The Androids vs. the 2nd Universe!",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-29T23:30:00-04:00",
+        "episodeTitle": "Midnight Sun",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T00:00:00-04:00",
+        "episodeTitle": "150146",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 456292,
+        "showTitle": "The Promised Neverland"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T00:30:00-04:00",
+        "episodeTitle": "Titan of the Sword",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T01:00:00-04:00",
+        "episodeTitle": "The Killers Gather in the Wasteland",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 457432,
+        "showTitle": "Lupin the 3rd Part 5"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T01:30:00-04:00",
+        "episodeTitle": "Mage X",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T02:00:00-04:00",
+        "episodeTitle": "A Shinobi's Resolve",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T02:30:00-04:00",
+        "episodeTitle": "Assemble! Allied Shinobi Forces!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T03:00:00-04:00",
+        "episodeTitle": "This Person x and x This Moment",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T03:30:00-04:00",
+        "episodeTitle": "Chapter 3B: Back Spin",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T04:00:00-04:00",
+        "episodeTitle": "To Catch a Princess",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T04:15:00-04:00",
+        "episodeTitle": "Tigtone and the Wine Crisis",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T04:30:00-04:00",
+        "episodeTitle": "Showdown at Cremation Creek Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T05:00:00-04:00",
+        "episodeTitle": "Dusty Gozongas",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T05:15:00-04:00",
+        "episodeTitle": "T-Shirt of the Dead",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-06-29T00:00:00-04:00",
+        "datetime": "2019-06-30T05:30:00-04:00",
+        "episodeTitle": "The Wedding",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

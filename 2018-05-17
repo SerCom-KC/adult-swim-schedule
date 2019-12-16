@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-17T21:00:00-04:00",
+        "episodeTitle": "Cleveland's Angels",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-17T21:30:00-04:00",
+        "episodeTitle": "Spring Break-Up",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-17T22:00:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-17T22:30:00-04:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-17T23:00:00-04:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-17T23:30:00-04:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T00:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T00:30:00-04:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T00:45:00-04:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T01:00:00-04:00",
+        "episodeTitle": "Just Like Cyrano de Bergerac",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T01:15:00-04:00",
+        "episodeTitle": "Lights, Camera, Assassination",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T01:30:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T02:00:00-04:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T02:30:00-04:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T03:00:00-04:00",
+        "episodeTitle": "Brian in Love",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T03:30:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Helps You Find the Perfect Christmas Tree",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 433512,
+        "showTitle": "Joe Pera Helps Find You The Perfect Christmas Tree"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T04:30:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T05:00:00-04:00",
+        "episodeTitle": "Cleveland's Angels",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-17T00:00:00-04:00",
+        "datetime": "2018-05-18T05:30:00-04:00",
+        "episodeTitle": "Glen Peggy Glen Ross",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

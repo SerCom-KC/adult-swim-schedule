@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-27T21:00:00-04:00",
+        "episodeTitle": "BFFs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-27T21:30:00-04:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-27T22:00:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-27T22:30:00-04:00",
+        "episodeTitle": "Stan's Night Out",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-27T23:00:00-04:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-27T23:30:00-04:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T00:00:00-04:00",
+        "episodeTitle": "Kramer vs. Showgirls",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T00:15:00-04:00",
+        "episodeTitle": "Malcolm X: Fully Loaded",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T00:30:00-04:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T00:45:00-04:00",
+        "episodeTitle": "Take This Job and Love It",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T01:00:00-04:00",
+        "episodeTitle": "Superhell!",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T01:15:00-04:00",
+        "episodeTitle": "Dethrace",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T01:30:00-04:00",
+        "episodeTitle": "The Blind Side",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T02:00:00-04:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T02:30:00-04:00",
+        "episodeTitle": "Topsy",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T03:00:00-04:00",
+        "episodeTitle": "Stan's Night Out",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T03:30:00-04:00",
+        "episodeTitle": "Kramer vs. Showgirls",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T03:45:00-04:00",
+        "episodeTitle": "Malcolm X: Fully Loaded",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T04:00:00-04:00",
+        "episodeTitle": "May 27, 2015",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T04:15:00-04:00",
+        "episodeTitle": "How Piper Got Her Groove Initially",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T04:30:00-04:00",
+        "episodeTitle": "Superhell!",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T04:45:00-04:00",
+        "episodeTitle": "Dethrace",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T05:00:00-04:00",
+        "episodeTitle": "BFFs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-27T00:00:00-04:00",
+        "datetime": "2015-05-28T05:30:00-04:00",
+        "episodeTitle": "Glen Peggy Glen Ross",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

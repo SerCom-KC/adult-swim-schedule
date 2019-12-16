@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-27T21:00:00-05:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-27T21:30:00-05:00",
+        "episodeTitle": "I Can't Stan You",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-27T22:00:00-05:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-27T22:30:00-05:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-27T23:00:00-05:00",
+        "episodeTitle": "The Peanut Butter Kid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-27T23:30:00-05:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T00:00:00-05:00",
+        "episodeTitle": "Casablankman II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T00:15:00-05:00",
+        "episodeTitle": "Fight Club Paradise",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T00:30:00-05:00",
+        "episodeTitle": "Multiple Meat",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T00:45:00-05:00",
+        "episodeTitle": "The Pharaoh's Wad",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T01:00:00-05:00",
+        "episodeTitle": "Grate Escape",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T01:15:00-05:00",
+        "episodeTitle": "God's Image",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T01:30:00-05:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T02:00:00-05:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T02:30:00-05:00",
+        "episodeTitle": "The Peanut Butter Kid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T03:00:00-05:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T03:30:00-05:00",
+        "episodeTitle": "When Stan Loves a Woman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T04:00:00-05:00",
+        "episodeTitle": "Technology",
+        "rating": "TV-PG ",
+        "seasonNumber": 7,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T04:15:00-05:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T04:30:00-05:00",
+        "episodeTitle": "Multiple Meat",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T04:45:00-05:00",
+        "episodeTitle": "The Pharaoh's Wad",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T05:00:00-05:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-11-27T00:00:00-05:00",
+        "datetime": "2017-11-28T05:30:00-05:00",
+        "episodeTitle": "The Passion of Dauterive",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

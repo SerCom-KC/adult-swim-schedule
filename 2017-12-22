@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-22T21:00:00-05:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-22T21:30:00-05:00",
+        "episodeTitle": "Minstrel Krampus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-22T22:00:00-05:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-22T22:30:00-05:00",
+        "episodeTitle": "Nice-Capades",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-22T23:00:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-22T23:30:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T00:00:00-05:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T00:30:00-05:00",
+        "episodeTitle": "Monodecathedron Floors",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 443692,
+        "showTitle": "Tender Touches"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T00:45:00-05:00",
+        "episodeTitle": "Monodecathedron Floors: Operetta",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 443692,
+        "showTitle": "Tender Touches"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T01:00:00-05:00",
+        "episodeTitle": "Nature Part 2",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T01:15:00-05:00",
+        "episodeTitle": "Up Up and Buffet",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T01:30:00-05:00",
+        "episodeTitle": "Nice-Capades",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T02:00:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T02:30:00-05:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T03:00:00-05:00",
+        "episodeTitle": "Minstrel Krampus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T03:30:00-05:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T04:00:00-05:00",
+        "episodeTitle": "A Very Special Christmas in Compton",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T04:30:00-05:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T05:00:00-05:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-12-22T00:00:00-05:00",
+        "datetime": "2017-12-23T05:30:00-05:00",
+        "episodeTitle": "Ms. Wakefield",
+        "rating": "TV-PG ",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

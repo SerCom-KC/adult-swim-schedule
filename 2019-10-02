@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-02T21:00:00-04:00",
+        "episodeTitle": "Red October Sky",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-02T21:30:00-04:00",
+        "episodeTitle": "Office Spaceman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-02T22:00:00-04:00",
+        "episodeTitle": "Large Brother, Where Fart Thou?",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-02T22:30:00-04:00",
+        "episodeTitle": "Ex Machtina",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-02T23:00:00-04:00",
+        "episodeTitle": "Whistle While Your Wife Works",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-02T23:30:00-04:00",
+        "episodeTitle": "Prick Up Your Ears",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T00:00:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T00:30:00-04:00",
+        "episodeTitle": "Dead Man's Curve",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T00:45:00-04:00",
+        "episodeTitle": "Loose Tooth",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T01:00:00-04:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T01:15:00-04:00",
+        "episodeTitle": "Space Conflict from Beyond Pluto",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T01:30:00-04:00",
+        "episodeTitle": "Whistle While Your Wife Works",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T02:00:00-04:00",
+        "episodeTitle": "Prick Up Your Ears",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T02:30:00-04:00",
+        "episodeTitle": "Red October Sky",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T03:00:00-04:00",
+        "episodeTitle": "Office Spaceman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T03:30:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T04:00:00-04:00",
+        "episodeTitle": "Dare to Holler",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T04:15:00-04:00",
+        "episodeTitle": "Tow and Shell",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T04:30:00-04:00",
+        "episodeTitle": "Dead Man's Curve",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T04:45:00-04:00",
+        "episodeTitle": "Loose Tooth",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T05:00:00-04:00",
+        "episodeTitle": "Large Brother, Where Fart Thou?",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-02T00:00:00-04:00",
+        "datetime": "2019-10-03T05:30:00-04:00",
+        "episodeTitle": "Ex Machtina",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

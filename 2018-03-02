@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-02T21:00:00-05:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-02T21:30:00-05:00",
+        "episodeTitle": "Now and Gwen",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-02T22:00:00-05:00",
+        "episodeTitle": "LGBSteve",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-02T22:30:00-05:00",
+        "episodeTitle": "Sacred Couch",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-02T23:00:00-05:00",
+        "episodeTitle": "Excellence in Broadcasting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-02T23:30:00-05:00",
+        "episodeTitle": "Welcome Back, Carter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T00:00:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T00:30:00-05:00",
+        "episodeTitle": "Casablankman",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T00:45:00-05:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T01:00:00-05:00",
+        "episodeTitle": "The Hannibal Buress Show",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T01:15:00-05:00",
+        "episodeTitle": "Embarrassed",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T01:30:00-05:00",
+        "episodeTitle": "Sacred Couch",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T02:00:00-05:00",
+        "episodeTitle": "Excellence in Broadcasting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T02:30:00-05:00",
+        "episodeTitle": "Welcome Back, Carter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T03:00:00-05:00",
+        "episodeTitle": "Now and Gwen",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T03:30:00-05:00",
+        "episodeTitle": "LGBSteve",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T04:00:00-05:00",
+        "episodeTitle": "As Seen on Adult Swim - 3/2/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T04:15:00-05:00",
+        "episodeTitle": "Development Meeting - 2/22/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T04:30:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T05:00:00-05:00",
+        "episodeTitle": "Little Man on Campus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-03-02T00:00:00-05:00",
+        "datetime": "2018-03-03T05:30:00-05:00",
+        "episodeTitle": "Kidney Boy and Hamster Girl: A Love Story",
+        "rating": "TV-PG D",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

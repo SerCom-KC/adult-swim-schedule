@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-18T21:00:00-05:00",
+        "episodeTitle": "Whole Slotta Love",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-18T21:30:00-05:00",
+        "episodeTitle": "Stand by Gene",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-18T22:00:00-05:00",
+        "episodeTitle": "Wag the Hog",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-18T22:30:00-05:00",
+        "episodeTitle": "Mr. and Mrs. Stewie",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-18T23:00:00-05:00",
+        "episodeTitle": "Leggo My Meg-O",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-18T23:30:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T00:00:00-05:00",
+        "episodeTitle": "Triple Hot Dog Sandwich on Wheat",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T00:15:00-05:00",
+        "episodeTitle": "Joel Hurwitz Returns",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T00:30:00-05:00",
+        "episodeTitle": "Rusty and Tammi Sitting in a Tree, B-A-S-T-A-R-D",
+        "rating": "TV-14 L",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T00:45:00-05:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T01:00:00-05:00",
+        "episodeTitle": "Shinin",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T01:30:00-05:00",
+        "episodeTitle": "Roger's Baby",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T02:00:00-05:00",
+        "episodeTitle": "Mr. and Mrs. Stewie",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T02:30:00-05:00",
+        "episodeTitle": "Leggo My Meg-O",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T03:00:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T03:30:00-05:00",
+        "episodeTitle": "Triple Hot Dog Sandwich on Wheat",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T03:45:00-05:00",
+        "episodeTitle": "Joel Hurwitz Returns",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T04:00:00-05:00",
+        "episodeTitle": "A \"Apocalypse, This!\" or \"For the Pity of Fools\" a/k/\"Flashbacks Are Forever\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T04:30:00-05:00",
+        "episodeTitle": "Shinin",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T05:00:00-05:00",
+        "episodeTitle": "Stand by Gene",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-02-18T00:00:00-05:00",
+        "datetime": "2019-02-19T05:30:00-05:00",
+        "episodeTitle": "Wag the Hog",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

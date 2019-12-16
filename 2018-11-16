@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-16T21:00:00-05:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-16T21:30:00-05:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-16T22:00:00-05:00",
+        "episodeTitle": "Sea Me Now",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-16T22:30:00-05:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-16T23:00:00-05:00",
+        "episodeTitle": "Brian the Bachelor",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-16T23:30:00-05:00",
+        "episodeTitle": "Peter's Two Dads",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T00:00:00-05:00",
+        "episodeTitle": "Guys and Dads",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T00:15:00-05:00",
+        "episodeTitle": "88's Weekly",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T00:30:00-05:00",
+        "episodeTitle": "Angel Boy",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T00:45:00-05:00",
+        "episodeTitle": "Angel Man",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T01:00:00-05:00",
+        "episodeTitle": "Supermodel",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T01:15:00-05:00",
+        "episodeTitle": "Wing Nut",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T01:30:00-05:00",
+        "episodeTitle": "Sea Me Now",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T02:00:00-05:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T02:30:00-05:00",
+        "episodeTitle": "Brian the Bachelor",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T03:00:00-05:00",
+        "episodeTitle": "Guys and Dads",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T03:15:00-05:00",
+        "episodeTitle": "88's Weekly",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T03:30:00-05:00",
+        "episodeTitle": "Angel Boy",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T03:45:00-05:00",
+        "episodeTitle": "Angel Man",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T04:00:00-05:00",
+        "episodeTitle": "As Seen on Adult Swim - 11/16/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T04:15:00-05:00",
+        "episodeTitle": "Digikiss - 11/16/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449336,
+        "showTitle": "Digikiss"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T04:30:00-05:00",
+        "episodeTitle": "Supermodel",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T04:45:00-05:00",
+        "episodeTitle": "Wing Nut",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T05:00:00-05:00",
+        "episodeTitle": "Rapture's Delight",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-16T00:00:00-05:00",
+        "datetime": "2018-11-17T05:30:00-05:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

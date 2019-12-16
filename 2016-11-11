@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-11T21:00:00-05:00",
+        "episodeTitle": "Peggy Makes the Big Leagues",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-11T21:30:00-05:00",
+        "episodeTitle": "The Show of Shows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-11T22:00:00-05:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-11T22:30:00-05:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-11T23:00:00-05:00",
+        "episodeTitle": "Peter-assment",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-11T23:30:00-05:00",
+        "episodeTitle": "Brian Griffin's House of Payne",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T00:00:00-05:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T00:15:00-05:00",
+        "episodeTitle": "The Predator",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T00:30:00-05:00",
+        "episodeTitle": "The Squid Stays in the Picture",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T00:45:00-05:00",
+        "episodeTitle": "Gun of a Son",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T01:00:00-05:00",
+        "episodeTitle": "Little Brittle",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T01:15:00-05:00",
+        "episodeTitle": "For Charlize",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T01:30:00-05:00",
+        "episodeTitle": "Home Wrecker",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T02:00:00-05:00",
+        "episodeTitle": "Brian Griffin's House of Payne",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T02:30:00-05:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T03:00:00-05:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T03:30:00-05:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T03:45:00-05:00",
+        "episodeTitle": "The Predator",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T04:00:00-05:00",
+        "episodeTitle": "Work",
+        "rating": "TV-14 L",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T04:15:00-05:00",
+        "episodeTitle": "Worship",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T04:30:00-05:00",
+        "episodeTitle": "Little Brittle",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T04:45:00-05:00",
+        "episodeTitle": "For Charlize",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T05:00:00-05:00",
+        "episodeTitle": "The Show of Shows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-11T00:00:00-05:00",
+        "datetime": "2016-11-12T05:30:00-05:00",
+        "episodeTitle": "Peggy Makes the Big Leagues",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-07T21:00:00-05:00",
+        "episodeTitle": "B.M.O.C.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-07T21:30:00-05:00",
+        "episodeTitle": "The Hormone-Iums",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-07T22:00:00-05:00",
+        "episodeTitle": "Portrait of Francine's Genitals",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-07T22:30:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-07T23:00:00-05:00",
+        "episodeTitle": "The Boys in the Band",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-07T23:30:00-05:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T00:00:00-05:00",
+        "episodeTitle": "Victoria's Secret of NIMH",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T00:15:00-05:00",
+        "episodeTitle": "The Robot Chicken Bitch Pudding Special",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T00:30:00-05:00",
+        "episodeTitle": "Mephistopheles Traveled Below To A Southern State Whose State Motto Is Wisdom, Justice, & Moderation",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T00:45:00-05:00",
+        "episodeTitle": "Earth Worst",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T01:00:00-05:00",
+        "episodeTitle": "Ezekiel",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T01:15:00-05:00",
+        "episodeTitle": "The Tree-Huger Bomber",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T01:30:00-05:00",
+        "episodeTitle": "The Hormone-Iums",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T02:00:00-05:00",
+        "episodeTitle": "The Boys in the Band",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T02:30:00-05:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T03:00:00-05:00",
+        "episodeTitle": "Portrait of Francine's Genitals",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T03:30:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T04:00:00-05:00",
+        "episodeTitle": "Giles Vanderhoot",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T04:15:00-05:00",
+        "episodeTitle": "Live at the Necropolis: Lords of Synth",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T04:30:00-05:00",
+        "episodeTitle": "Ezekiel",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T04:45:00-05:00",
+        "episodeTitle": "The Tree-Huger Bomber",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T05:00:00-05:00",
+        "episodeTitle": "B.M.O.C.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-07T00:00:00-05:00",
+        "datetime": "2016-12-08T05:30:00-05:00",
+        "episodeTitle": "Beer and Loathing",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

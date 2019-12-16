@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-02T21:00:00-04:00",
+        "episodeTitle": "Skip Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-02T21:30:00-04:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-02T22:00:00-04:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-02T22:30:00-04:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-02T23:00:00-04:00",
+        "episodeTitle": "Vestigial Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-02T23:30:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T00:00:00-04:00",
+        "episodeTitle": "Rabbit, not Rabbot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T00:15:00-04:00",
+        "episodeTitle": "True Love Will Find You",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T00:30:00-04:00",
+        "episodeTitle": "Where is Mr. Pickles?",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T00:45:00-04:00",
+        "episodeTitle": "Night Moves",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T01:00:00-04:00",
+        "episodeTitle": "The Story of Gangstalicious",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T01:30:00-04:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T02:00:00-04:00",
+        "episodeTitle": "Familyland",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T02:30:00-04:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T03:00:00-04:00",
+        "episodeTitle": "Vestigial Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T03:30:00-04:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T04:00:00-04:00",
+        "episodeTitle": "Rabbit, not Rabbot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T04:15:00-04:00",
+        "episodeTitle": "True Love Will Find You",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T04:30:00-04:00",
+        "episodeTitle": "Where is Mr. Pickles?",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T04:45:00-04:00",
+        "episodeTitle": "Night Moves",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T05:00:00-04:00",
+        "episodeTitle": "A Nightmare on Grace Street",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-02T00:00:00-04:00",
+        "datetime": "2015-08-03T05:30:00-04:00",
+        "episodeTitle": "Of Mice and Little Green Men",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

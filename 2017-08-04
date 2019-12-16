@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-04T21:00:00-04:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-04T21:30:00-04:00",
+        "episodeTitle": "Stan Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-04T22:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-04T22:30:00-04:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-04T23:00:00-04:00",
+        "episodeTitle": "Jungle Love",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-04T23:30:00-04:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T00:00:00-04:00",
+        "episodeTitle": "Especially the Animal Keith Crofford!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T00:15:00-04:00",
+        "episodeTitle": "Dear Consumer",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T00:30:00-04:00",
+        "episodeTitle": "Tent Revival",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T00:45:00-04:00",
+        "episodeTitle": "Super Hero",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T01:00:00-04:00",
+        "episodeTitle": "Pile M For Murder",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T01:15:00-04:00",
+        "episodeTitle": "The Best Christmas Ever",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T01:30:00-04:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T02:00:00-04:00",
+        "episodeTitle": "Jungle Love",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T02:30:00-04:00",
+        "episodeTitle": "PTV",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T03:00:00-04:00",
+        "episodeTitle": "Stan Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T03:30:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 8/4/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T04:15:00-04:00",
+        "episodeTitle": "Bloodfeast - 8/4/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T04:30:00-04:00",
+        "episodeTitle": "Tent Revival",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T04:45:00-04:00",
+        "episodeTitle": "Super Hero",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T05:00:00-04:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-04T00:00:00-04:00",
+        "datetime": "2017-08-05T05:30:00-04:00",
+        "episodeTitle": "Take Me out of the Ball Game",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

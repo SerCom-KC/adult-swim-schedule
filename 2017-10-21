@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-21T21:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-21T21:30:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-21T22:00:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-21T22:30:00-04:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-21T23:00:00-04:00",
+        "episodeTitle": "The 6th Universe's Mightiest Warrior! Engage the Enforcer Hit!!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-21T23:30:00-04:00",
+        "episodeTitle": "Gohan Located! Intensive Training in the World of the Kais!",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T00:00:00-04:00",
+        "episodeTitle": "The Empress",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T00:30:00-04:00",
+        "episodeTitle": "Battle Before Dawn",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T01:00:00-04:00",
+        "episodeTitle": "Bargain x and x Deal",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T01:30:00-04:00",
+        "episodeTitle": "Lupin's Day Off",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T02:00:00-04:00",
+        "episodeTitle": "Iruka's Decision",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T02:30:00-04:00",
+        "episodeTitle": "A Journey of Adventure? Huh?",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T03:00:00-04:00",
+        "episodeTitle": "Heavy Metal Queen",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T03:30:00-04:00",
+        "episodeTitle": "Reembody",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T04:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T04:30:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T05:00:00-04:00",
+        "episodeTitle": "Apr\u00e8s Hank, le Deluge",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-10-21T00:00:00-04:00",
+        "datetime": "2017-10-22T05:30:00-04:00",
+        "episodeTitle": "Daletech",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-23T21:00:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-23T21:30:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-23T22:00:00-05:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-23T22:30:00-05:00",
+        "episodeTitle": "Vestigial Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-23T23:00:00-05:00",
+        "episodeTitle": "Show Them! Krillin's Underlying Strength!!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-23T23:30:00-05:00",
+        "episodeTitle": "Sarada Uchiha",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T00:00:00-05:00",
+        "episodeTitle": "Encounter",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T00:30:00-05:00",
+        "episodeTitle": "The End Mountains",
+        "rating": "TV-PG V",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T01:00:00-05:00",
+        "episodeTitle": "A Dead Flower Shall Never Bloom",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 452492,
+        "showTitle": "Megalobox"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T01:30:00-05:00",
+        "episodeTitle": "Heart Attack Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T02:00:00-05:00",
+        "episodeTitle": "The Battlefield Decision",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T02:30:00-05:00",
+        "episodeTitle": "Anger x and x Light",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T03:00:00-05:00",
+        "episodeTitle": "Sai's Day Off",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T03:30:00-05:00",
+        "episodeTitle": "Night of the Battle to Retake the Wall",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T04:00:00-05:00",
+        "episodeTitle": "The Story of Thugnificent",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T04:30:00-05:00",
+        "episodeTitle": "\"Bullhorn Nights\" or \" Murder She Throats\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T05:00:00-05:00",
+        "episodeTitle": "Midlife Chrysalis",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-02-23T00:00:00-05:00",
+        "datetime": "2019-02-24T05:30:00-05:00",
+        "episodeTitle": "It Was Supposed to be Funny",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

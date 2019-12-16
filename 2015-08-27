@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-27T21:00:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-27T21:30:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-27T22:00:00-04:00",
+        "episodeTitle": "Bush Comes to Dinner",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-27T22:30:00-04:00",
+        "episodeTitle": "American Dream Factory",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-27T23:00:00-04:00",
+        "episodeTitle": "Stewie Kills Lois Part 1",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-27T23:30:00-04:00",
+        "episodeTitle": "Lois Kills Stewie Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T00:00:00-04:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T00:15:00-04:00",
+        "episodeTitle": "In a DVD Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T00:30:00-04:00",
+        "episodeTitle": "Hypno-Germ",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T00:45:00-04:00",
+        "episodeTitle": "The Need for Weed",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T01:00:00-04:00",
+        "episodeTitle": "Dream Machine",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T01:15:00-04:00",
+        "episodeTitle": "Dethvanity",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T01:30:00-04:00",
+        "episodeTitle": "Bush Comes to Dinner",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T02:00:00-04:00",
+        "episodeTitle": "American Dream Factory",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T02:30:00-04:00",
+        "episodeTitle": "Stewie Kills Lois Part 1",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T03:00:00-04:00",
+        "episodeTitle": "Lois Kills Stewie Part 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T03:30:00-04:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T03:45:00-04:00",
+        "episodeTitle": "In a DVD Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T04:00:00-04:00",
+        "episodeTitle": "Free Magilla",
+        "rating": "TV-PG DV",
+        "seasonNumber": 3,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T04:15:00-04:00",
+        "episodeTitle": "ASHDTV",
+        "rating": "TV-14 DS",
+        "seasonNumber": 4,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T04:30:00-04:00",
+        "episodeTitle": "O.T. the Outside Toilet",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T05:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-08-27T00:00:00-04:00",
+        "datetime": "2015-08-28T05:30:00-04:00",
+        "episodeTitle": "Apr\u00e8s Hank, le Deluge",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

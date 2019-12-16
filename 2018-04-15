@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-15T21:00:00-04:00",
+        "episodeTitle": "There's No Business Like Mr. Business Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-15T21:30:00-04:00",
+        "episodeTitle": "Paranoid_Frandroid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-15T22:00:00-04:00",
+        "episodeTitle": "Carter and Tricia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-15T22:30:00-04:00",
+        "episodeTitle": "How the Griffin Stole Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-15T23:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-15T23:30:00-04:00",
+        "episodeTitle": "Carol",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-15T23:45:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T00:00:00-04:00",
+        "episodeTitle": "Very Special Balls",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T00:15:00-04:00",
+        "episodeTitle": "To Catch a Princess",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T00:30:00-04:00",
+        "episodeTitle": "Gorzoth",
+        "rating": "TV-MA SV",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T00:45:00-04:00",
+        "episodeTitle": "Tommy Goes to School",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T01:00:00-04:00",
+        "episodeTitle": "The Bractegon",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T01:15:00-04:00",
+        "episodeTitle": "The Ballad of Autumn Gold",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T01:30:00-04:00",
+        "episodeTitle": "There's No Business Like Mr. Business Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T02:00:00-04:00",
+        "episodeTitle": "Paranoid_Frandroid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T02:30:00-04:00",
+        "episodeTitle": "Carter and Tricia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T03:00:00-04:00",
+        "episodeTitle": "How the Griffin Stole Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T03:30:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T04:00:00-04:00",
+        "episodeTitle": "Carol",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T04:15:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T04:30:00-04:00",
+        "episodeTitle": "Very Special Balls",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T04:45:00-04:00",
+        "episodeTitle": "To Catch a Princess",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T05:00:00-04:00",
+        "episodeTitle": "Daletech",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-04-15T00:00:00-04:00",
+        "datetime": "2018-04-16T05:30:00-04:00",
+        "episodeTitle": "How I Learned To Stop Worrying and Love the Alamo",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

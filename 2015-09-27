@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-27T21:00:00-04:00",
+        "episodeTitle": "The Show of Shows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-27T21:30:00-04:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-27T22:00:00-04:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-27T22:30:00-04:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-27T23:00:00-04:00",
+        "episodeTitle": "Baby Got Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-27T23:30:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T00:00:00-04:00",
+        "episodeTitle": "Knapsack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T00:15:00-04:00",
+        "episodeTitle": "Spunk",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T00:30:00-04:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T00:45:00-04:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T01:00:00-04:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T01:30:00-04:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T02:00:00-04:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T02:30:00-04:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T03:00:00-04:00",
+        "episodeTitle": "Baby Got Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T03:30:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T04:00:00-04:00",
+        "episodeTitle": "Knapsack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T04:15:00-04:00",
+        "episodeTitle": "Spunk",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T04:30:00-04:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T04:45:00-04:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T05:00:00-04:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-09-27T00:00:00-04:00",
+        "datetime": "2015-09-28T05:30:00-04:00",
+        "episodeTitle": "Four Wave Intersection",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-27T21:00:00-05:00",
+        "episodeTitle": "Brotherly Love",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-27T21:30:00-05:00",
+        "episodeTitle": "Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-27T22:00:00-05:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-27T22:30:00-05:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-27T23:00:00-05:00",
+        "episodeTitle": "Fighting Irish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-27T23:30:00-05:00",
+        "episodeTitle": "Take My Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T00:00:00-05:00",
+        "episodeTitle": "Rabbits on a Rollercoaster",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T00:15:00-05:00",
+        "episodeTitle": "Tapping a Hero",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T00:30:00-05:00",
+        "episodeTitle": "Super Computer",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T00:45:00-05:00",
+        "episodeTitle": "Supermodel",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T01:00:00-05:00",
+        "episodeTitle": "Episode One",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T01:15:00-05:00",
+        "episodeTitle": "Straight Outta Hades",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T01:30:00-05:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T02:00:00-05:00",
+        "episodeTitle": "I Get Psy-Chic Out of You",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T02:30:00-05:00",
+        "episodeTitle": "Fighting Irish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T03:00:00-05:00",
+        "episodeTitle": "Take My Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T03:30:00-05:00",
+        "episodeTitle": "Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T04:00:00-05:00",
+        "episodeTitle": "Color",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T04:15:00-05:00",
+        "episodeTitle": "Free Range Manibalism",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T04:30:00-05:00",
+        "episodeTitle": "Episode One",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T04:45:00-05:00",
+        "episodeTitle": "Straight Outta Hades",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T05:00:00-05:00",
+        "episodeTitle": "Gone with the Wind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-27T00:00:00-05:00",
+        "datetime": "2017-01-28T05:30:00-05:00",
+        "episodeTitle": "Four Wave Intersection",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

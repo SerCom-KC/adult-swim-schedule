@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-05T21:00:00-04:00",
+        "episodeTitle": "Ladies' Night",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-05T21:30:00-04:00",
+        "episodeTitle": "A Brown Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-05T22:00:00-04:00",
+        "episodeTitle": "Kung Pao Turkey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-05T22:30:00-04:00",
+        "episodeTitle": "Turban Cowboy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-05T23:00:00-04:00",
+        "episodeTitle": "12 and a Half Angry Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-05T23:30:00-04:00",
+        "episodeTitle": "Dumber Dolls",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-05T23:45:00-04:00",
+        "episodeTitle": "Broodwich",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T00:00:00-04:00",
+        "episodeTitle": "Mouth Quest",
+        "rating": "TV-MA L",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T00:15:00-04:00",
+        "episodeTitle": "People in Hell Want Ice Water",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T00:30:00-04:00",
+        "episodeTitle": "Dead Man's Curve",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T00:45:00-04:00",
+        "episodeTitle": "Mite Tyson",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T01:00:00-04:00",
+        "episodeTitle": "Ladies' Night",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T01:30:00-04:00",
+        "episodeTitle": "A Brown Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T02:00:00-04:00",
+        "episodeTitle": "Kung Pao Turkey",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T02:30:00-04:00",
+        "episodeTitle": "Turban Cowboy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T03:00:00-04:00",
+        "episodeTitle": "12 and a Half Angry Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T03:30:00-04:00",
+        "episodeTitle": "Dumber Dolls",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T03:45:00-04:00",
+        "episodeTitle": "Broodwich",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T04:00:00-04:00",
+        "episodeTitle": "Mouth Quest",
+        "rating": "TV-MA L",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T04:15:00-04:00",
+        "episodeTitle": "People in Hell Want Ice Water",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T04:30:00-04:00",
+        "episodeTitle": "Dead Man's Curve",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T04:45:00-04:00",
+        "episodeTitle": "Mite Tyson",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T05:00:00-04:00",
+        "episodeTitle": "Cotton's Plot",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-07-05T00:00:00-04:00",
+        "datetime": "2015-07-06T05:30:00-04:00",
+        "episodeTitle": "Bills are Made to be Broken",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

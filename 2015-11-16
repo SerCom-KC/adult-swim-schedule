@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-16T21:00:00-05:00",
+        "episodeTitle": "Love Hurts and So Does Art",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-16T21:30:00-05:00",
+        "episodeTitle": "Terry Unmarried",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-16T22:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-16T22:30:00-05:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-16T23:00:00-05:00",
+        "episodeTitle": "Peter, Chris, & Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-16T23:30:00-05:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T00:00:00-05:00",
+        "episodeTitle": "Kiddie Pool",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T00:15:00-05:00",
+        "episodeTitle": "Nightmare Generator",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T00:30:00-05:00",
+        "episodeTitle": "Dumber Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T00:45:00-05:00",
+        "episodeTitle": "Survival of the Dumbest",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T01:00:00-05:00",
+        "episodeTitle": "Burnstoolie Burn",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T01:15:00-05:00",
+        "episodeTitle": "Murdering Outside the Box",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T01:30:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T02:00:00-05:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T02:30:00-05:00",
+        "episodeTitle": "Peter, Chris, & Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T03:00:00-05:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T03:30:00-05:00",
+        "episodeTitle": "Kiddie Pool",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T03:45:00-05:00",
+        "episodeTitle": "Nightmare Generator",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T04:00:00-05:00",
+        "episodeTitle": "Vibracaust",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T04:15:00-05:00",
+        "episodeTitle": "Grate Escape",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T04:30:00-05:00",
+        "episodeTitle": "Burnstoolie Burn",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T04:45:00-05:00",
+        "episodeTitle": "Murdering Outside the Box",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T05:00:00-05:00",
+        "episodeTitle": "Terry Unmarried",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-16T00:00:00-05:00",
+        "datetime": "2015-11-17T05:30:00-05:00",
+        "episodeTitle": "Love Hurts and So Does Art",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

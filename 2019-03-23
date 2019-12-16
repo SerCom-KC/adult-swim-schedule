@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-23T21:00:00-04:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-23T21:30:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-23T22:00:00-04:00",
+        "episodeTitle": "Fighting Irish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-23T22:30:00-04:00",
+        "episodeTitle": "Take My Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-23T23:00:00-04:00",
+        "episodeTitle": "Gohan, Get Ruthless! Showdown with the 10th Universe!!",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-23T23:30:00-04:00",
+        "episodeTitle": "Bonds Come in All Shapes",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T00:00:00-04:00",
+        "episodeTitle": "My Hero",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T00:30:00-04:00",
+        "episodeTitle": "Project Alicization",
+        "rating": "TV-PG V",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T01:00:00-04:00",
+        "episodeTitle": "Born to Die",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 452492,
+        "showTitle": "Megalobox"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T01:30:00-04:00",
+        "episodeTitle": "Highway Go Go Part 1",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T02:00:00-04:00",
+        "episodeTitle": "Bettering One Another",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T02:30:00-04:00",
+        "episodeTitle": "This Person x and x This Moment",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T03:00:00-04:00",
+        "episodeTitle": "Naruto's Vow",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T03:30:00-04:00",
+        "episodeTitle": "The Night of the Closing Ceremony: Humanity's Comeback Part 2",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T04:00:00-04:00",
+        "episodeTitle": "The Invasion of the Katrinas",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T04:30:00-04:00",
+        "episodeTitle": "\"The Race War\" or \"Big Black Cannon, Balls Run!\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T05:00:00-04:00",
+        "episodeTitle": "The Trial of the Monarch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-03-23T00:00:00-04:00",
+        "datetime": "2019-03-24T05:30:00-04:00",
+        "episodeTitle": "Law and Boarders",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

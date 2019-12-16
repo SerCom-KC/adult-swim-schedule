@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-29T21:00:00-04:00",
+        "episodeTitle": "A Short Story and a Tall Tale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-29T21:30:00-04:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-29T22:00:00-04:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-29T22:30:00-04:00",
+        "episodeTitle": "Christmas in the Car",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-29T23:00:00-04:00",
+        "episodeTitle": "McStroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-29T23:30:00-04:00",
+        "episodeTitle": "Back to the Woods",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T00:00:00-04:00",
+        "episodeTitle": "Papercut to Aorta",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T00:15:00-04:00",
+        "episodeTitle": "Caffeine-Induced Aneurysm",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T00:30:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T00:45:00-04:00",
+        "episodeTitle": "Frat Aliens",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T01:00:00-04:00",
+        "episodeTitle": "Frivolacious Squidigation?",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T01:15:00-04:00",
+        "episodeTitle": "Presents For God",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T01:30:00-04:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T02:00:00-04:00",
+        "episodeTitle": "Christmas in the Car",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T02:30:00-04:00",
+        "episodeTitle": "McStroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T03:00:00-04:00",
+        "episodeTitle": "Back to the Woods",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T03:30:00-04:00",
+        "episodeTitle": "Stan's Food Restaurant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T04:00:00-04:00",
+        "episodeTitle": "Episode 7",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 441652,
+        "showTitle": "Daytime Fighting League 2: Risky Nights"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T04:30:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T04:45:00-04:00",
+        "episodeTitle": "Frat Aliens",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T05:00:00-04:00",
+        "episodeTitle": "A Short Story and a Tall Tale",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-29T00:00:00-04:00",
+        "datetime": "2017-08-30T05:30:00-04:00",
+        "episodeTitle": "'Twas the Nut Before Christmas",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

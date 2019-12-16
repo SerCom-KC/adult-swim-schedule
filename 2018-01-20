@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-20T21:00:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-20T21:30:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-20T22:00:00-05:00",
+        "episodeTitle": "Stu & Stewie's Excellent Adventure Part 3",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-20T22:30:00-05:00",
+        "episodeTitle": "SOS from the Future! A Dark New Enemy Appears!!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-20T23:00:00-05:00",
+        "episodeTitle": "Gotenks's Ace in the Hole! Transformation! Super Gotenks 3!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-20T23:30:00-05:00",
+        "episodeTitle": "The Black Bulls",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T00:00:00-05:00",
+        "episodeTitle": "Judgment Part 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T00:30:00-05:00",
+        "episodeTitle": "Battle for Chryse",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T01:00:00-05:00",
+        "episodeTitle": "Evil x and x Terrible",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T01:30:00-05:00",
+        "episodeTitle": "World Dissection Part 2",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T02:00:00-05:00",
+        "episodeTitle": "Gutsy Master and Student: The Training",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T02:30:00-05:00",
+        "episodeTitle": "The Strongest Woman in the Universe",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T03:00:00-05:00",
+        "episodeTitle": "Black Dog Serenade",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T03:30:00-05:00",
+        "episodeTitle": "Trial",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T04:00:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T04:30:00-05:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T05:00:00-05:00",
+        "episodeTitle": "Three Coaches and a Bobby",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-01-20T00:00:00-05:00",
+        "datetime": "2018-01-21T05:30:00-05:00",
+        "episodeTitle": "De-Kahnstructing Henry",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

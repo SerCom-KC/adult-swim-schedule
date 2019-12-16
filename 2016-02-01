@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-01T21:00:00-05:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-01T21:30:00-05:00",
+        "episodeTitle": "Brown History Month",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-01T22:00:00-05:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-01T22:30:00-05:00",
+        "episodeTitle": "Roots",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-01T23:00:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-01T23:30:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T00:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Clerks 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T00:15:00-05:00",
+        "episodeTitle": "Kramer vs. Showgirls",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T00:30:00-05:00",
+        "episodeTitle": "Ezekiel",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T00:45:00-05:00",
+        "episodeTitle": "The Pharaoh's Wad",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T01:00:00-05:00",
+        "episodeTitle": "Lord Stingray Crash Party",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T01:15:00-05:00",
+        "episodeTitle": "Skwisklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T01:30:00-05:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T02:00:00-05:00",
+        "episodeTitle": "Roots",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T02:30:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T03:00:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T03:30:00-05:00",
+        "episodeTitle": "Big Trouble in Little Clerks 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T03:45:00-05:00",
+        "episodeTitle": "Kramer vs. Showgirls",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T04:00:00-05:00",
+        "episodeTitle": "The Salad Mixxxer",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T04:15:00-05:00",
+        "episodeTitle": "Lemonade, Fishing, and Cupcakes",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T04:30:00-05:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T05:00:00-05:00",
+        "episodeTitle": "Brown History Month",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-01T00:00:00-05:00",
+        "datetime": "2016-02-02T05:30:00-05:00",
+        "episodeTitle": "Ceci N'est Pas Une King of the Hill",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

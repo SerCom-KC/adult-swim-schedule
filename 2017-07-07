@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-07T21:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-07T21:30:00-04:00",
+        "episodeTitle": "Failure Is Not a Factory-Installed Option",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-07T22:00:00-04:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-07T22:30:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-07T23:00:00-04:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-07T23:30:00-04:00",
+        "episodeTitle": "If I'm Dyin', I'm Lyin'",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T00:00:00-04:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T00:30:00-04:00",
+        "episodeTitle": "Mystery for Hire",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T00:45:00-04:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T01:00:00-04:00",
+        "episodeTitle": "Survival of the Dumbest",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T01:15:00-04:00",
+        "episodeTitle": "The Lair",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T01:30:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T02:00:00-04:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T02:30:00-04:00",
+        "episodeTitle": "If I'm Dyin', I'm Lyin'",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T03:00:00-04:00",
+        "episodeTitle": "Failure Is Not a Factory-Installed Option",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T03:30:00-04:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 7/7/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 7/6/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T04:30:00-04:00",
+        "episodeTitle": "Mystery for Hire",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T04:45:00-04:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T05:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-07T00:00:00-04:00",
+        "datetime": "2017-07-08T05:30:00-04:00",
+        "episodeTitle": "Bwah My Nose",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

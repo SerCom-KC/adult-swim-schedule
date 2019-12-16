@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-09T21:00:00-05:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-09T21:30:00-05:00",
+        "episodeTitle": "Santa, Schmanta",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-09T22:00:00-05:00",
+        "episodeTitle": "The Bleakening Part 1",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-09T22:30:00-05:00",
+        "episodeTitle": "The Bleakening Part 2",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-09T23:00:00-05:00",
+        "episodeTitle": "Road to the North Pole Part 1 & 2",
+        "rating": "TV-14 S",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T00:00:00-05:00",
+        "episodeTitle": "Claw and Hoarder: Special Ricktim's Morty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T00:30:00-05:00",
+        "episodeTitle": "Robot Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T00:45:00-05:00",
+        "episodeTitle": "Freshly Baked: The Robot Chicken Santa Claus Pot Cookie Freakout Special: Special Edition",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T01:00:00-05:00",
+        "episodeTitle": "The Christmas Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T01:15:00-05:00",
+        "episodeTitle": "Mail Order Bride",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T01:30:00-05:00",
+        "episodeTitle": "Road to the North Pole Part 1 & 2",
+        "rating": "TV-14 S",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T02:30:00-05:00",
+        "episodeTitle": "Ninety North, Zero West",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T03:00:00-05:00",
+        "episodeTitle": "Santa, Schmanta",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T03:30:00-05:00",
+        "episodeTitle": "Claw and Hoarder: Special Ricktim's Morty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T04:00:00-05:00",
+        "episodeTitle": "Maturity",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T04:15:00-05:00",
+        "episodeTitle": "The Best Christmas Ever",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T04:30:00-05:00",
+        "episodeTitle": "The Christmas Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T04:45:00-05:00",
+        "episodeTitle": "Mail Order Bride",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T05:00:00-05:00",
+        "episodeTitle": "The Bleakening Part 1",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-09T00:00:00-05:00",
+        "datetime": "2019-12-10T05:30:00-05:00",
+        "episodeTitle": "The Bleakening Part 2",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

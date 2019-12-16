@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-14T21:00:00-04:00",
+        "episodeTitle": "Bar Mitzvah Shuffle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-14T21:30:00-04:00",
+        "episodeTitle": "DeLorean Story-An",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-14T22:00:00-04:00",
+        "episodeTitle": "Mom, Lies, and Videotape",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-14T22:30:00-04:00",
+        "episodeTitle": "Paraders of the Lost Float",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-14T23:00:00-04:00",
+        "episodeTitle": "McStroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-14T23:30:00-04:00",
+        "episodeTitle": "Back to the Woods",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T00:00:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T00:30:00-04:00",
+        "episodeTitle": "My Dear Boy",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T00:45:00-04:00",
+        "episodeTitle": "Vegans",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T01:00:00-04:00",
+        "episodeTitle": "Supermodel",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T01:15:00-04:00",
+        "episodeTitle": "Super Spore",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T01:30:00-04:00",
+        "episodeTitle": "McStroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T02:00:00-04:00",
+        "episodeTitle": "Back to the Woods",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T02:30:00-04:00",
+        "episodeTitle": "Bar Mitzvah Shuffle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T03:00:00-04:00",
+        "episodeTitle": "DeLorean Story-An",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T03:30:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T04:00:00-04:00",
+        "episodeTitle": "Pequiem for a Recker",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T04:15:00-04:00",
+        "episodeTitle": "Pet Siouxicide",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T04:30:00-04:00",
+        "episodeTitle": "Supermodel",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T04:45:00-04:00",
+        "episodeTitle": "Super Spore",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T05:00:00-04:00",
+        "episodeTitle": "Mom, Lies, and Videotape",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-14T00:00:00-04:00",
+        "datetime": "2019-10-15T05:30:00-04:00",
+        "episodeTitle": "Paraders of the Lost Float",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

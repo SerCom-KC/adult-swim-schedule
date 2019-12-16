@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-18T21:00:00-05:00",
+        "episodeTitle": "Rough Trade",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-18T21:30:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-18T22:00:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-18T22:30:00-05:00",
+        "episodeTitle": "Mr. Saturday Knight",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-18T23:00:00-05:00",
+        "episodeTitle": "Fish Out of Water",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-18T23:30:00-05:00",
+        "episodeTitle": "How Dare You Do That to my Bulma! Vegeta's Metamorphosis of Fury!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T00:00:00-05:00",
+        "episodeTitle": "The Dragon Team Fully Assembled! Goku Has Come Back!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T00:30:00-05:00",
+        "episodeTitle": "The Deeper Plan",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T01:00:00-05:00",
+        "episodeTitle": "The Battle at Palau",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T01:30:00-05:00",
+        "episodeTitle": "Wish x and x Promise",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T02:00:00-05:00",
+        "episodeTitle": "The Successor's Wish",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T02:30:00-05:00",
+        "episodeTitle": "Bink's Brew! The Song that Connects the Past with the Present",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T03:00:00-05:00",
+        "episodeTitle": "Android and I",
+        "rating": "TV-14 S",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T03:30:00-05:00",
+        "episodeTitle": "Rough Trade",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T04:00:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T04:30:00-05:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T05:00:00-05:00",
+        "episodeTitle": "To Sirloin With Love",
+        "rating": "TV-PG ",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-02-18T00:00:00-05:00",
+        "datetime": "2017-02-19T05:30:00-05:00",
+        "episodeTitle": "The Honeymooners",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

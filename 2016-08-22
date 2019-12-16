@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-22T21:00:00-04:00",
+        "episodeTitle": "Widow's Pique",
+        "rating": "TV-14 LV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-22T21:30:00-04:00",
+        "episodeTitle": "The Nova Centauris-burgh Board of Tourism Presents: American Dad",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-22T22:00:00-04:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-22T22:30:00-04:00",
+        "episodeTitle": "Stewie, Chris & Brian's Excellent Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-22T23:00:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-22T23:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T00:00:00-04:00",
+        "episodeTitle": "Atta Toy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T00:15:00-04:00",
+        "episodeTitle": "Joint Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T00:30:00-04:00",
+        "episodeTitle": "Class of '86",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T00:45:00-04:00",
+        "episodeTitle": "Velvet Messiah",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T01:00:00-04:00",
+        "episodeTitle": "The Cloning",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T01:15:00-04:00",
+        "episodeTitle": "The Last One",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T01:30:00-04:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T02:00:00-04:00",
+        "episodeTitle": "Stewie, Chris & Brian's Excellent Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T02:30:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T03:00:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T03:30:00-04:00",
+        "episodeTitle": "Atta Toy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T03:45:00-04:00",
+        "episodeTitle": "Joint Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T04:00:00-04:00",
+        "episodeTitle": "Saddle Rash",
+        "rating": "TV-PG L",
+        "seasonNumber": 0,
+        "showID": 324534,
+        "showTitle": "SPECIAL:"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T04:30:00-04:00",
+        "episodeTitle": "The Nova Centauris-burgh Board of Tourism Presents: American Dad",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T05:00:00-04:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-22T00:00:00-04:00",
+        "datetime": "2016-08-23T05:30:00-04:00",
+        "episodeTitle": "Glen Peggy Glen Ross",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

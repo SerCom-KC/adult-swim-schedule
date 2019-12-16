@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-10T21:00:00-05:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-10T21:30:00-05:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-10T22:00:00-05:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-10T22:30:00-05:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-10T23:00:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-10T23:30:00-05:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T00:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T00:30:00-05:00",
+        "episodeTitle": "Robot Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T00:45:00-05:00",
+        "episodeTitle": "The Robot Chicken Christmas Special: X-Mas United",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T01:00:00-05:00",
+        "episodeTitle": "The Christmas Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T01:15:00-05:00",
+        "episodeTitle": "Cybernetic Ghost of Christmas Past",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T01:30:00-05:00",
+        "episodeTitle": "April in Quahog",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T02:00:00-05:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T02:30:00-05:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T03:00:00-05:00",
+        "episodeTitle": "Steve and Snot's Test-Tubular Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T03:30:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T04:00:00-05:00",
+        "episodeTitle": "God's Image",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T04:15:00-05:00",
+        "episodeTitle": "Love",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T04:30:00-05:00",
+        "episodeTitle": "The Christmas Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T04:45:00-05:00",
+        "episodeTitle": "Cybernetic Ghost of Christmas Past",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T05:00:00-05:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-10T00:00:00-05:00",
+        "datetime": "2019-12-11T05:30:00-05:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

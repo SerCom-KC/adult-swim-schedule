@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-22T21:00:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-22T21:30:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-22T22:00:00-04:00",
+        "episodeTitle": "Big Man on Hippocampus",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-22T22:30:00-04:00",
+        "episodeTitle": "Dial Meg for Murder",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-22T23:00:00-04:00",
+        "episodeTitle": "XCVII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-22T23:30:00-04:00",
+        "episodeTitle": "Valiant Hercule, Work a Miracle! A Challenge from Outer Space",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T00:00:00-04:00",
+        "episodeTitle": "The Terrifying Secret of the Majin. The Mastermind Revealed!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T00:30:00-04:00",
+        "episodeTitle": "Beast Titan",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T01:00:00-04:00",
+        "episodeTitle": "Supper",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 437892,
+        "showTitle": "Tokyo Ghoul"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T01:30:00-04:00",
+        "episodeTitle": "Very x Sharp x Eye",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T02:00:00-04:00",
+        "episodeTitle": "The Side Co-Prosperity Sphere",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T02:30:00-04:00",
+        "episodeTitle": "The First Challenge",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T03:00:00-04:00",
+        "episodeTitle": "Escape From",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T03:30:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T04:00:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T04:30:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T05:00:00-04:00",
+        "episodeTitle": "An Officer and a Gentle Boy",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-04-22T00:00:00-04:00",
+        "datetime": "2017-04-23T05:30:00-04:00",
+        "episodeTitle": "The Miseducation of Bobby Hill",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

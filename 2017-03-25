@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-25T21:00:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-25T21:30:00-04:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-25T22:00:00-04:00",
+        "episodeTitle": "No Meals on Wheels",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-25T22:30:00-04:00",
+        "episodeTitle": "Boys Do Cry",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-25T23:00:00-04:00",
+        "episodeTitle": "XCIV",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-25T23:30:00-04:00",
+        "episodeTitle": "The Universe Will Shatter? Clash! Destroyer vs. Super Saiyan God!",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T00:00:00-04:00",
+        "episodeTitle": "Day 2 - Search and Destroy",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 437132,
+        "showTitle": "Sand Whale and Me"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T00:05:00-04:00",
+        "episodeTitle": "What Happened, Piccolo? An Unexpected Outcome in the First Round",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T00:30:00-04:00",
+        "episodeTitle": "A True Warrior",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T01:00:00-04:00",
+        "episodeTitle": "Tragedy",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 437892,
+        "showTitle": "Tokyo Ghoul"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T01:30:00-04:00",
+        "episodeTitle": "Buildup x to a x Fierce Battle!",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T02:00:00-04:00",
+        "episodeTitle": "A Private War",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T02:30:00-04:00",
+        "episodeTitle": "Master and Student",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T03:00:00-04:00",
+        "episodeTitle": "Missing Hearts",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T03:30:00-04:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T04:00:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T04:30:00-04:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T05:00:00-04:00",
+        "episodeTitle": "Hank's Bad Hair Day",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-03-25T00:00:00-04:00",
+        "datetime": "2017-03-26T05:30:00-04:00",
+        "episodeTitle": "Meet the Propaniacs",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-24T21:00:00-04:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-24T21:30:00-04:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-24T22:00:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-24T22:30:00-04:00",
+        "episodeTitle": "Eat, Spray, Linda",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-24T23:00:00-04:00",
+        "episodeTitle": "Extra Large Medium",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-24T23:30:00-04:00",
+        "episodeTitle": "Go, Stewie, Go!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T00:00:00-04:00",
+        "episodeTitle": "House Haunters",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T00:15:00-04:00",
+        "episodeTitle": "The Fried Chicken Flu",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T00:45:00-04:00",
+        "episodeTitle": "Laser Lenses",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T01:00:00-04:00",
+        "episodeTitle": "Snow Daddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T01:15:00-04:00",
+        "episodeTitle": "Witches",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T01:30:00-04:00",
+        "episodeTitle": "Flirting With Disaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T02:00:00-04:00",
+        "episodeTitle": "Gorillas in the Mist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T02:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T03:00:00-04:00",
+        "episodeTitle": "Extra Large Medium",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T03:30:00-04:00",
+        "episodeTitle": "Go, Stewie, Go!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T04:00:00-04:00",
+        "episodeTitle": "Bloodfeast - Week of 4/17/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T04:15:00-04:00",
+        "episodeTitle": "Corndog Chronicles",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T04:30:00-04:00",
+        "episodeTitle": "The Fried Chicken Flu",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T05:00:00-04:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-04-24T00:00:00-04:00",
+        "datetime": "2017-04-25T05:30:00-04:00",
+        "episodeTitle": "Be True to Your Fool",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

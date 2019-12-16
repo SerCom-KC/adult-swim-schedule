@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-06-30T21:00:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-06-30T21:30:00-04:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-06-30T22:00:00-04:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-06-30T22:30:00-04:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-06-30T23:00:00-04:00",
+        "episodeTitle": "Mr. Griffin Goes to Washington",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-06-30T23:30:00-04:00",
+        "episodeTitle": "One If by Clam, Two If by Sea",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T00:00:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T00:15:00-04:00",
+        "episodeTitle": "Plastic Buffet",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T00:30:00-04:00",
+        "episodeTitle": "Super Spore",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T00:45:00-04:00",
+        "episodeTitle": "The Big Gay Throwdown",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T01:00:00-04:00",
+        "episodeTitle": "The Perfect Lecture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T01:30:00-04:00",
+        "episodeTitle": "Mr. Griffin Goes to Washington",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T02:00:00-04:00",
+        "episodeTitle": "One If by Clam, Two If by Sea",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T02:30:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T03:00:00-04:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T03:30:00-04:00",
+        "episodeTitle": "Gold Dust Gasoline",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T03:45:00-04:00",
+        "episodeTitle": "Plastic Buffet",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T04:00:00-04:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T04:15:00-04:00",
+        "episodeTitle": "Meat Warrior",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T04:30:00-04:00",
+        "episodeTitle": "The Perfect Lecture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T05:00:00-04:00",
+        "episodeTitle": "Wheel! Of! Family!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-30T00:00:00-04:00",
+        "datetime": "2015-07-01T05:30:00-04:00",
+        "episodeTitle": "Escape from Party Island",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

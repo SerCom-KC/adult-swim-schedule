@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-18T21:00:00-04:00",
+        "episodeTitle": "Harder, Better, Faster, Browner",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-18T21:30:00-04:00",
+        "episodeTitle": "1600 Candles",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-18T22:00:00-04:00",
+        "episodeTitle": "The One That Got Away",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-18T22:30:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-18T23:00:00-04:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-18T23:30:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T00:00:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T00:30:00-04:00",
+        "episodeTitle": "Atta Toy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T00:45:00-04:00",
+        "episodeTitle": "Joint Point",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T01:00:00-04:00",
+        "episodeTitle": "Up at 5",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T01:15:00-04:00",
+        "episodeTitle": "Time Angels",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T01:30:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T02:00:00-04:00",
+        "episodeTitle": "Love Thy Trophy",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T02:30:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T03:00:00-04:00",
+        "episodeTitle": "1600 Candles",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T03:30:00-04:00",
+        "episodeTitle": "The One That Got Away",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T04:00:00-04:00",
+        "episodeTitle": "Digikiss - 5/18/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T04:15:00-04:00",
+        "episodeTitle": "FishCenter - 5/18/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T04:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T05:00:00-04:00",
+        "episodeTitle": "Harder, Better, Faster, Browner",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-18T00:00:00-04:00",
+        "datetime": "2018-05-19T05:30:00-04:00",
+        "episodeTitle": "The Passion of Dauterive",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

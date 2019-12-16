@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-27T21:00:00-04:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-27T21:30:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-27T22:00:00-04:00",
+        "episodeTitle": "Breaking Out Is Hard to Do",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-27T22:30:00-04:00",
+        "episodeTitle": "Model Misbehavior",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-27T23:00:00-04:00",
+        "episodeTitle": "Frieza and Frost! A Mutual Malevolence?",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-27T23:30:00-04:00",
+        "episodeTitle": "All for One",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T00:00:00-04:00",
+        "episodeTitle": "181045",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 456292,
+        "showTitle": "The Promised Neverland"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T00:30:00-04:00",
+        "episodeTitle": "Ruler and Mediator",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T01:00:00-04:00",
+        "episodeTitle": "July 15th (Thurs) Part 3",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T01:30:00-04:00",
+        "episodeTitle": "A Fun Festival Double Date",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T02:00:00-04:00",
+        "episodeTitle": "Declaration of War",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T02:30:00-04:00",
+        "episodeTitle": "Target: Nine Tails",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T03:00:00-04:00",
+        "episodeTitle": "Joining the Fray x And x Open Hostilities",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T03:30:00-04:00",
+        "episodeTitle": "Whereabouts of His Left Arm: The Struggle for Trost Part 5",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T04:00:00-04:00",
+        "episodeTitle": "It's a Black President, Huey Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T04:30:00-04:00",
+        "episodeTitle": "\"Roots: The White Album\" or \"The Blacker the Community the Deeper the Roots!\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T05:00:00-04:00",
+        "episodeTitle": "Escape to the House of Mummies Part 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-04-27T00:00:00-04:00",
+        "datetime": "2019-04-28T05:30:00-04:00",
+        "episodeTitle": "Business and Pleasure",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

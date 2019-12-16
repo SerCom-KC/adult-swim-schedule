@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-17T21:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-17T21:30:00-04:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-17T22:00:00-04:00",
+        "episodeTitle": "Fresh Heir",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-17T22:30:00-04:00",
+        "episodeTitle": "Secondhand Spoke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-17T23:00:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-17T23:30:00-04:00",
+        "episodeTitle": "Yogurt in a Bag",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-17T23:45:00-04:00",
+        "episodeTitle": "Life is But a Dream",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T00:00:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T00:15:00-04:00",
+        "episodeTitle": "The Granite Family",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T00:30:00-04:00",
+        "episodeTitle": "Faking Miracles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T01:00:00-04:00",
+        "episodeTitle": "Turkey Pot Die",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T01:30:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T02:00:00-04:00",
+        "episodeTitle": "The Longest Distance Relationship",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T02:30:00-04:00",
+        "episodeTitle": "Fresh Heir",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T03:00:00-04:00",
+        "episodeTitle": "Secondhand Spoke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T03:30:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T04:00:00-04:00",
+        "episodeTitle": "Yogurt in a Bag",
+        "rating": "TV-MA L",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T04:15:00-04:00",
+        "episodeTitle": "Life is But a Dream",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T04:30:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T04:45:00-04:00",
+        "episodeTitle": "The Granite Family",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T05:00:00-04:00",
+        "episodeTitle": "The Boy Can't Help It",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-04-17T00:00:00-04:00",
+        "datetime": "2016-04-18T05:30:00-04:00",
+        "episodeTitle": "To Sirloin With Love",
+        "rating": "TV-PG ",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-19T21:00:00-04:00",
+        "episodeTitle": "Little Horrors of Shop",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-19T21:30:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-19T22:00:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-19T22:30:00-04:00",
+        "episodeTitle": "The Gene & Courtney Show",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-19T23:00:00-04:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-19T23:30:00-04:00",
+        "episodeTitle": "McStroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T00:00:00-04:00",
+        "episodeTitle": "Terms of Endaredevil",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T00:15:00-04:00",
+        "episodeTitle": "Big Trouble in Little Clerks 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T00:30:00-04:00",
+        "episodeTitle": "Reunited, And It Feels No Good",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T00:45:00-04:00",
+        "episodeTitle": "Not Without My Cash Cow!",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T01:00:00-04:00",
+        "episodeTitle": "Frat Aliens",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T01:15:00-04:00",
+        "episodeTitle": "Mad at Dad? GOMAD for Chad MGTOW",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 430612,
+        "showTitle": "Million Dollar Extreme presents: WORLD PEACE"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T01:30:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T02:00:00-04:00",
+        "episodeTitle": "The Gene & Courtney Show",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T02:30:00-04:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T03:00:00-04:00",
+        "episodeTitle": "McStroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T03:30:00-04:00",
+        "episodeTitle": "Terms of Endaredevil",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T03:45:00-04:00",
+        "episodeTitle": "Big Trouble in Little Clerks 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T04:00:00-04:00",
+        "episodeTitle": "Hyralius, Mutant Monster!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T04:15:00-04:00",
+        "episodeTitle": "The Busboy",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T04:30:00-04:00",
+        "episodeTitle": "Frat Aliens",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T04:45:00-04:00",
+        "episodeTitle": "Mad at Dad? GOMAD for Chad MGTOW",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 430612,
+        "showTitle": "Million Dollar Extreme presents: WORLD PEACE"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T05:00:00-04:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-10-19T00:00:00-04:00",
+        "datetime": "2016-10-20T05:30:00-04:00",
+        "episodeTitle": "Little Horrors of Shop",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

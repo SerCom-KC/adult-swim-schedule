@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-09T21:00:00-04:00",
+        "episodeTitle": "There's No Business Like Mr. Business Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-09T21:30:00-04:00",
+        "episodeTitle": "(You Gotta) Strike for Your Right",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-09T22:00:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-09T22:30:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-09T23:00:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-09T23:30:00-04:00",
+        "episodeTitle": "He's Not Even Aiming at the Toilet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-09T23:45:00-04:00",
+        "episodeTitle": "Ext. Forest - Day",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T00:00:00-04:00",
+        "episodeTitle": "The Bellicose Proxy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T00:30:00-04:00",
+        "episodeTitle": "Carol",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T00:45:00-04:00",
+        "episodeTitle": "Operation: Large and in Charge",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T01:00:00-04:00",
+        "episodeTitle": "Episode One",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T01:15:00-04:00",
+        "episodeTitle": "Responsibility",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T01:30:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T02:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T02:30:00-04:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T03:00:00-04:00",
+        "episodeTitle": "He's Not Even Aiming at the Toilet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T03:15:00-04:00",
+        "episodeTitle": "Ext. Forest - Day",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T03:30:00-04:00",
+        "episodeTitle": "The Bellicose Proxy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T04:00:00-04:00",
+        "episodeTitle": "Carol",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T04:15:00-04:00",
+        "episodeTitle": "Operation: Large and in Charge",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T04:30:00-04:00",
+        "episodeTitle": "Episode One",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T04:45:00-04:00",
+        "episodeTitle": "Responsibility",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 1,
+        "showID": 448733,
+        "showTitle": "Mostly 4 Millennials"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T05:00:00-04:00",
+        "episodeTitle": "(You Gotta) Strike for Your Right",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-09T00:00:00-04:00",
+        "datetime": "2018-09-10T05:30:00-04:00",
+        "episodeTitle": "There's No Business Like Mr. Business Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

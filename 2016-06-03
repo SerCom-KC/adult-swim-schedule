@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-03T21:00:00-04:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-03T21:30:00-04:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-03T22:00:00-04:00",
+        "episodeTitle": "Peterotica",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-03T22:30:00-04:00",
+        "episodeTitle": "You May Now Kiss the...Uh...Guy Who Receives",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-03T23:00:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-03T23:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T00:00:00-04:00",
+        "episodeTitle": "The Grid",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T00:30:00-04:00",
+        "episodeTitle": "Dickesode",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T00:45:00-04:00",
+        "episodeTitle": "Green and Sober",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T01:00:00-04:00",
+        "episodeTitle": "Embarrassed",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T01:15:00-04:00",
+        "episodeTitle": "Relationships",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T01:30:00-04:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T02:00:00-04:00",
+        "episodeTitle": "Peterotica",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T02:30:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T03:00:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T03:30:00-04:00",
+        "episodeTitle": "The Grid",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T04:00:00-04:00",
+        "episodeTitle": "NewsHits",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T04:15:00-04:00",
+        "episodeTitle": "Book of Christ",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T04:30:00-04:00",
+        "episodeTitle": "Embarrassed",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T04:45:00-04:00",
+        "episodeTitle": "Relationships",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T05:00:00-04:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-03T00:00:00-04:00",
+        "datetime": "2016-06-04T05:30:00-04:00",
+        "episodeTitle": "What Makes Bobby Run?",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

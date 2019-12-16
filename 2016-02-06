@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-06T21:00:00-05:00",
+        "episodeTitle": "Apr\u00e8s Hank, le Deluge",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-06T21:30:00-05:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-06T22:00:00-05:00",
+        "episodeTitle": "Menace II Secret Society",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-06T22:30:00-05:00",
+        "episodeTitle": "You Debt Your Life",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-06T23:00:00-05:00",
+        "episodeTitle": "Baby Not on Board",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-06T23:30:00-05:00",
+        "episodeTitle": "The Man with Two Brians",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T00:00:00-05:00",
+        "episodeTitle": "I Will Defeat Frieza! Another Super Saiyan!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T00:30:00-05:00",
+        "episodeTitle": "Kill the Little Sister",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T01:00:00-05:00",
+        "episodeTitle": "Something Wicked This Way Comes",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T01:30:00-05:00",
+        "episodeTitle": "Stranger Searching",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T02:00:00-05:00",
+        "episodeTitle": "The Target Appears",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T02:30:00-05:00",
+        "episodeTitle": "Mansion of Great Chaos! The Enraged Don and the Captured Crew!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T03:00:00-05:00",
+        "episodeTitle": "Don't Stop Me Now",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T03:30:00-05:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T04:00:00-05:00",
+        "episodeTitle": "Menace II Secret Society",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T04:30:00-05:00",
+        "episodeTitle": "You Debt Your Life",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T05:00:00-05:00",
+        "episodeTitle": "Dale Be Not Proud",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-02-06T00:00:00-05:00",
+        "datetime": "2016-02-07T05:30:00-05:00",
+        "episodeTitle": "Apr\u00e8s Hank, le Deluge",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

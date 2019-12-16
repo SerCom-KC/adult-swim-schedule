@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-23T21:00:00-04:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-23T21:30:00-04:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-23T22:00:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-23T22:30:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-23T23:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-23T23:30:00-04:00",
+        "episodeTitle": "Not Enough Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-23T23:45:00-04:00",
+        "episodeTitle": "The Angelic Sounds of Mike Giggling",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T00:00:00-04:00",
+        "episodeTitle": "Dying to Eat",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T00:15:00-04:00",
+        "episodeTitle": "That Was Today. This Is Tomorrow.",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T00:30:00-04:00",
+        "episodeTitle": "Brownies",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T00:45:00-04:00",
+        "episodeTitle": "Friendship",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T01:00:00-04:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T01:30:00-04:00",
+        "episodeTitle": "Mine Struggle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T02:00:00-04:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T02:30:00-04:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T03:00:00-04:00",
+        "episodeTitle": "Space Cadet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T03:30:00-04:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T04:00:00-04:00",
+        "episodeTitle": "Brainswitch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T04:15:00-04:00",
+        "episodeTitle": "A Take on 'Hooper'",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T04:30:00-04:00",
+        "episodeTitle": "Dying to Eat",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T04:45:00-04:00",
+        "episodeTitle": "That Was Today. This Is Tomorrow.",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T05:00:00-04:00",
+        "episodeTitle": "Not Enough Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T05:15:00-04:00",
+        "episodeTitle": "The Angelic Sounds of Mike Giggling",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-07-23T00:00:00-04:00",
+        "datetime": "2019-07-24T05:30:00-04:00",
+        "episodeTitle": "XXXVII",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 3,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-12T21:00:00-04:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-12T21:30:00-04:00",
+        "episodeTitle": "Deacon Stan, Jesus Man",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-12T22:00:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-12T22:30:00-04:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-12T23:00:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-12T23:30:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T00:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T00:30:00-04:00",
+        "episodeTitle": "Snarfer Image",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T00:45:00-04:00",
+        "episodeTitle": "Up Up and Buffet",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T01:00:00-04:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T01:15:00-04:00",
+        "episodeTitle": "Going Downklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T01:30:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T02:00:00-04:00",
+        "episodeTitle": "The Unnatural",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T02:30:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T03:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T03:30:00-04:00",
+        "episodeTitle": "Homeland Insecurity",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T04:00:00-04:00",
+        "episodeTitle": "Health",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T04:15:00-04:00",
+        "episodeTitle": "The Comening",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T04:30:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T05:00:00-04:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-04-12T00:00:00-04:00",
+        "datetime": "2018-04-13T05:30:00-04:00",
+        "episodeTitle": "Phish and Wildlife",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

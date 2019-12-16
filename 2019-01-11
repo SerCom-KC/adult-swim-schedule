@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-11T21:00:00-05:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-11T21:30:00-05:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-11T22:00:00-05:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-11T22:30:00-05:00",
+        "episodeTitle": "Spies Reminiscent of Us",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-11T23:00:00-05:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-11T23:30:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T00:00:00-05:00",
+        "episodeTitle": "Joe Pera Talks You Back to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T00:15:00-05:00",
+        "episodeTitle": "Joe Pera Talks To You About The Rat Wars of Alberta, Canada, 1950 - Present Day",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T00:30:00-05:00",
+        "episodeTitle": "Chris & Susie & Brett & Malice",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T00:45:00-05:00",
+        "episodeTitle": "Susie's Song",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T01:00:00-05:00",
+        "episodeTitle": "Tigtone and the Pilot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T01:15:00-05:00",
+        "episodeTitle": "Chaos Beknownst",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T01:30:00-05:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T02:00:00-05:00",
+        "episodeTitle": "Spies Reminiscent of Us",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T02:30:00-05:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T03:00:00-05:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T03:30:00-05:00",
+        "episodeTitle": "Joe Pera Talks You Back to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T03:45:00-05:00",
+        "episodeTitle": "Joe Pera Talks To You About The Rat Wars of Alberta, Canada, 1950 - Present Day",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T04:00:00-05:00",
+        "episodeTitle": "FishCenter - 1/11/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T04:15:00-05:00",
+        "episodeTitle": "Digikiss - 1/11/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449336,
+        "showTitle": "Digikiss"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T04:30:00-05:00",
+        "episodeTitle": "Tigtone and the Pilot",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T04:45:00-05:00",
+        "episodeTitle": "Chaos Beknownst",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T05:00:00-05:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-11T00:00:00-05:00",
+        "datetime": "2019-01-12T05:30:00-05:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

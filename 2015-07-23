@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-23T21:00:00-04:00",
+        "episodeTitle": "Lobsterfest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-23T21:30:00-04:00",
+        "episodeTitle": "Ain't Nothin' But Mutton Bustin'",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-23T22:00:00-04:00",
+        "episodeTitle": "Max Jets",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-23T22:30:00-04:00",
+        "episodeTitle": "Naked to the Limit, One More Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-23T23:00:00-04:00",
+        "episodeTitle": "The Perfect Castaway",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-23T23:30:00-04:00",
+        "episodeTitle": "Jungle Love",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T00:00:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T00:30:00-04:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T01:00:00-04:00",
+        "episodeTitle": "Parent's Day",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T01:30:00-04:00",
+        "episodeTitle": "The Perfect Castaway",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T02:00:00-04:00",
+        "episodeTitle": "Jungle Love",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T02:30:00-04:00",
+        "episodeTitle": "Lobsterfest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T03:00:00-04:00",
+        "episodeTitle": "Naked to the Limit, One More Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T03:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T04:00:00-04:00",
+        "episodeTitle": "Liquid",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T04:15:00-04:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T04:30:00-04:00",
+        "episodeTitle": "Parent's Day",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T05:00:00-04:00",
+        "episodeTitle": "Ain't Nothin' But Mutton Bustin'",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-23T00:00:00-04:00",
+        "datetime": "2015-07-24T05:30:00-04:00",
+        "episodeTitle": "The Exterminator",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

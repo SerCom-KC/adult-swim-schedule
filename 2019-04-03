@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-03T21:00:00-04:00",
+        "episodeTitle": "The American Dad After School Special",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-03T21:30:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-03T22:00:00-04:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-03T22:30:00-04:00",
+        "episodeTitle": "Running Mates",
+        "rating": "TV-14 LS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-03T23:00:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-03T23:30:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T00:00:00-04:00",
+        "episodeTitle": "The Black Cherry",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T00:15:00-04:00",
+        "episodeTitle": "Suck It",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T00:30:00-04:00",
+        "episodeTitle": "Government Brain Voodoo Trouble",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T00:45:00-04:00",
+        "episodeTitle": "Butt Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T01:00:00-04:00",
+        "episodeTitle": "The Itis",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T01:30:00-04:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T02:00:00-04:00",
+        "episodeTitle": "Running Mates",
+        "rating": "TV-14 LS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T02:30:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T03:00:00-04:00",
+        "episodeTitle": "Close Rick-Counters of the Rick Kind",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T03:30:00-04:00",
+        "episodeTitle": "The Black Cherry",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T03:45:00-04:00",
+        "episodeTitle": "Suck It",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T04:00:00-04:00",
+        "episodeTitle": "Sweet Chin Music",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T04:15:00-04:00",
+        "episodeTitle": "Figure Four Leg Lock",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T04:30:00-04:00",
+        "episodeTitle": "The Itis",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T05:00:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-04-03T00:00:00-04:00",
+        "datetime": "2019-04-04T05:30:00-04:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

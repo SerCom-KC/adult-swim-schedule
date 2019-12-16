@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-10T21:00:00-04:00",
+        "episodeTitle": "Black Mystery Month",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-10T21:30:00-04:00",
+        "episodeTitle": "An Apocalypse to Remember",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-10T22:00:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-10T22:30:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-10T23:00:00-04:00",
+        "episodeTitle": "Holy Crap",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-10T23:30:00-04:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T00:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T00:30:00-04:00",
+        "episodeTitle": "Badunkadunk",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T00:45:00-04:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T01:00:00-04:00",
+        "episodeTitle": "Juror in Court",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T01:15:00-04:00",
+        "episodeTitle": "Pre-Reckoning",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T01:30:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T02:00:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T02:30:00-04:00",
+        "episodeTitle": "Holy Crap",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T03:00:00-04:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T03:30:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Takes You on a Fall Drive",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T04:15:00-04:00",
+        "episodeTitle": "Family",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T04:30:00-04:00",
+        "episodeTitle": "Juror in Court",
+        "rating": "TV-14 D",
+        "seasonNumber": 4,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T04:45:00-04:00",
+        "episodeTitle": "Pre-Reckoning",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T05:00:00-04:00",
+        "episodeTitle": "Black Mystery Month",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-10-10T00:00:00-04:00",
+        "datetime": "2018-10-11T05:30:00-04:00",
+        "episodeTitle": "An Apocalypse to Remember",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

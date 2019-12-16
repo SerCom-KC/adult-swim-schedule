@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-18T21:00:00-05:00",
+        "episodeTitle": "Stanny Tendergrass",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-18T21:30:00-05:00",
+        "episodeTitle": "Wheels & the Legman and the Case of Grandpa's Key",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-18T22:00:00-05:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-18T22:30:00-05:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-18T23:00:00-05:00",
+        "episodeTitle": "Friends of Peter G.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-18T23:30:00-05:00",
+        "episodeTitle": "German Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T00:00:00-05:00",
+        "episodeTitle": "The Old Man And The Seat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T00:30:00-05:00",
+        "episodeTitle": "Talent Show",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T00:45:00-05:00",
+        "episodeTitle": "Season 2 Finale",
+        "rating": "TV-MA SV",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T01:00:00-05:00",
+        "episodeTitle": "Straight Outta Hades",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T01:15:00-05:00",
+        "episodeTitle": "Circle Jerk MCMXCVIII",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T01:30:00-05:00",
+        "episodeTitle": "Friends of Peter G.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T02:00:00-05:00",
+        "episodeTitle": "German Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T02:30:00-05:00",
+        "episodeTitle": "Stanny Tendergrass",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T03:00:00-05:00",
+        "episodeTitle": "Wheels & the Legman and the Case of Grandpa's Key",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T03:30:00-05:00",
+        "episodeTitle": "The Old Man And The Seat",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T04:00:00-05:00",
+        "episodeTitle": "The Comening",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T04:15:00-05:00",
+        "episodeTitle": "What Life D-D-Doth",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T04:30:00-05:00",
+        "episodeTitle": "Straight Outta Hades",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T04:45:00-05:00",
+        "episodeTitle": "Circle Jerk MCMXCVIII",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T05:00:00-05:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-18T00:00:00-05:00",
+        "datetime": "2019-11-19T05:30:00-05:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-01T21:00:00-04:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-01T21:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-01T22:00:00-04:00",
+        "episodeTitle": "Season's Beatings",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-01T22:30:00-04:00",
+        "episodeTitle": "The Unbrave One",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-01T23:00:00-04:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-01T23:30:00-04:00",
+        "episodeTitle": "Death Lives",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T00:00:00-04:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T00:15:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T00:30:00-04:00",
+        "episodeTitle": "Super Sirloin",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T00:45:00-04:00",
+        "episodeTitle": "Beast Implants",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T01:00:00-04:00",
+        "episodeTitle": "Is College Worth It?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T01:30:00-04:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T02:00:00-04:00",
+        "episodeTitle": "Death Lives",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T02:30:00-04:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T03:00:00-04:00",
+        "episodeTitle": "The Unbrave One",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T03:30:00-04:00",
+        "episodeTitle": "Toyz in the Hood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T03:45:00-04:00",
+        "episodeTitle": "Vegetable Fun Fest",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T04:00:00-04:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T04:15:00-04:00",
+        "episodeTitle": "Meaty Dreamy",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T04:30:00-04:00",
+        "episodeTitle": "Is College Worth It?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T05:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-01T00:00:00-04:00",
+        "datetime": "2015-07-02T05:30:00-04:00",
+        "episodeTitle": "Hank's Cowboy Movie",
+        "rating": "TV-PG D",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-22T21:00:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-22T21:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-22T22:00:00-04:00",
+        "episodeTitle": "Persona Assistant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-22T22:30:00-04:00",
+        "episodeTitle": "Stewie Is Enceinte",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-22T23:00:00-04:00",
+        "episodeTitle": "Dr. C & the Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-22T23:30:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T00:00:00-04:00",
+        "episodeTitle": "The Robot Chicken Walking Dead Special: Look Who's Walking",
+        "rating": "TV-MA LV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T00:30:00-04:00",
+        "episodeTitle": "Muscadine Wine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T01:00:00-04:00",
+        "episodeTitle": "The Compton Carter",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T01:30:00-04:00",
+        "episodeTitle": "Persona Assistant",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T02:00:00-04:00",
+        "episodeTitle": "Stewie Is Enceinte",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T02:30:00-04:00",
+        "episodeTitle": "Dr. C & the Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T03:00:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T03:30:00-04:00",
+        "episodeTitle": "The Robot Chicken Walking Dead Special: Look Who's Walking",
+        "rating": "TV-MA LV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T04:00:00-04:00",
+        "episodeTitle": "Muscadine Wine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T04:30:00-04:00",
+        "episodeTitle": "The Compton Carter",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T05:00:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-22T00:00:00-04:00",
+        "datetime": "2019-09-23T05:30:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

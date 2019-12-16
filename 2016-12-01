@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-01T21:00:00-05:00",
+        "episodeTitle": "Torch Song Hillogy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-01T21:30:00-05:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-01T22:00:00-05:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-01T22:30:00-05:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-01T23:00:00-05:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-01T23:30:00-05:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T00:00:00-05:00",
+        "episodeTitle": "Panthropologie",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T00:15:00-05:00",
+        "episodeTitle": "Catdog on a Stick",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T00:30:00-05:00",
+        "episodeTitle": "Survival of the Dumbest",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T00:45:00-05:00",
+        "episodeTitle": "A Sober Sunday",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T01:00:00-05:00",
+        "episodeTitle": "Grim Reaper Gutters",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T01:15:00-05:00",
+        "episodeTitle": "Jack Black; Jennette McCurdy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T01:30:00-05:00",
+        "episodeTitle": "Hot Water",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T02:00:00-05:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T02:30:00-05:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T03:00:00-05:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T03:30:00-05:00",
+        "episodeTitle": "Panthropologie",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T03:45:00-05:00",
+        "episodeTitle": "Catdog on a Stick",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T04:00:00-05:00",
+        "episodeTitle": "Sports",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T04:15:00-05:00",
+        "episodeTitle": "Haunted Tonk",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T04:30:00-05:00",
+        "episodeTitle": "Grim Reaper Gutters",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T04:45:00-05:00",
+        "episodeTitle": "Jack Black; Jennette McCurdy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T05:00:00-05:00",
+        "episodeTitle": "March Dadness",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-01T00:00:00-05:00",
+        "datetime": "2016-12-02T05:30:00-05:00",
+        "episodeTitle": "Torch Song Hillogy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

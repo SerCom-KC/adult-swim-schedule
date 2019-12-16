@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-08T21:00:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-08T21:30:00-04:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-08T22:00:00-04:00",
+        "episodeTitle": "Powerless in the Face of Death",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-08T22:30:00-04:00",
+        "episodeTitle": "Running Mates",
+        "rating": "TV-14 LS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-08T23:00:00-04:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-08T23:30:00-04:00",
+        "episodeTitle": "Clash! Frieza vs. Goku -- This Is the Result of My Training!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T00:00:00-04:00",
+        "episodeTitle": "The Seal is Released?! Gohan's Kamehame-Ha of Resistance",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T00:30:00-04:00",
+        "episodeTitle": "Children",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T01:00:00-04:00",
+        "episodeTitle": "New Surge",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 437892,
+        "showTitle": "Tokyo Ghoul"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T01:30:00-04:00",
+        "episodeTitle": "Initiative x and x Law",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T02:00:00-04:00",
+        "episodeTitle": "0.2% Chance of Survival",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T02:30:00-04:00",
+        "episodeTitle": "Danger! Sage Mode Limit Reached",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T03:00:00-04:00",
+        "episodeTitle": "Eraser",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T03:30:00-04:00",
+        "episodeTitle": "XCIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T04:00:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T04:30:00-04:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T05:00:00-04:00",
+        "episodeTitle": "Uncool Customer",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-07-08T00:00:00-04:00",
+        "datetime": "2017-07-09T05:30:00-04:00",
+        "episodeTitle": "Nancy Does Dallas",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

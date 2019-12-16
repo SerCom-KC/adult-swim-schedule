@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-05T21:00:00-05:00",
+        "episodeTitle": "The Texas Panhandler",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-05T21:30:00-05:00",
+        "episodeTitle": "Love Rollercoaster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-05T22:00:00-05:00",
+        "episodeTitle": "Our Gang",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-05T22:30:00-05:00",
+        "episodeTitle": "Killer Vacation",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-05T23:00:00-05:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-05T23:30:00-05:00",
+        "episodeTitle": "New Kidney in Town",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T00:00:00-05:00",
+        "episodeTitle": "The Unbeatable Enemy Within! Goku vs. Android 19!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T00:30:00-05:00",
+        "episodeTitle": "Loser",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 426092,
+        "showTitle": "Dimension W"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T01:00:00-05:00",
+        "episodeTitle": "In Cold Blood",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T01:30:00-05:00",
+        "episodeTitle": "Lethal Lunacy",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T02:00:00-05:00",
+        "episodeTitle": "Regroup",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T02:30:00-05:00",
+        "episodeTitle": "Chopperman to the Rescue! Protect the TV Station by the Shore!",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T03:00:00-05:00",
+        "episodeTitle": "Raindrops Keep Falling on My Head",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T03:30:00-05:00",
+        "episodeTitle": "Love Rollercoaster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T04:00:00-05:00",
+        "episodeTitle": "Our Gang",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T04:30:00-05:00",
+        "episodeTitle": "Killer Vacation",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T05:00:00-05:00",
+        "episodeTitle": "24 Hour Propane People",
+        "rating": "TV-PG DS",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-03-05T00:00:00-05:00",
+        "datetime": "2016-03-06T05:30:00-05:00",
+        "episodeTitle": "The Texas Panhandler",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

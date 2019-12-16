@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-04T21:00:00-04:00",
+        "episodeTitle": "The Itty Bitty Ditty Committee",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-04T21:30:00-04:00",
+        "episodeTitle": "Dancing with the Stools",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-04T22:00:00-04:00",
+        "episodeTitle": "Manhattan Magical Murder Mystery Tour",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-04T22:30:00-04:00",
+        "episodeTitle": "The Two Hundred",
+        "rating": "TV-14 V",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-04T23:00:00-04:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T00:00:00-04:00",
+        "episodeTitle": "Veggies for Sloth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T00:15:00-04:00",
+        "episodeTitle": "Sausage Fest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T00:30:00-04:00",
+        "episodeTitle": "Dumber Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T00:45:00-04:00",
+        "episodeTitle": "Condition: Demolition!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T01:00:00-04:00",
+        "episodeTitle": "Home Insecurity",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T01:30:00-04:00",
+        "episodeTitle": "Manhattan Magical Murder Mystery Tour",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T02:00:00-04:00",
+        "episodeTitle": "The Two Hundred",
+        "rating": "TV-14 V",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T02:30:00-04:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T03:30:00-04:00",
+        "episodeTitle": "Veggies for Sloth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T03:45:00-04:00",
+        "episodeTitle": "Sausage Fest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T04:00:00-04:00",
+        "episodeTitle": "M.O.P.Z.",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T04:15:00-04:00",
+        "episodeTitle": "Live Forever as You Are Now with Alan Resnick",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T04:30:00-04:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T05:00:00-04:00",
+        "episodeTitle": "Dancing with the Stools",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-04-04T00:00:00-04:00",
+        "datetime": "2016-04-05T05:30:00-04:00",
+        "episodeTitle": "Square-Footed Monster",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-07T21:00:00-04:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-07T21:30:00-04:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-07T22:00:00-04:00",
+        "episodeTitle": "Tears of a Clooney",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-07T22:30:00-04:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-07T23:00:00-04:00",
+        "episodeTitle": "Mr. Saturday Knight",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-07T23:30:00-04:00",
+        "episodeTitle": "Fish Out of Water",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T00:00:00-04:00",
+        "episodeTitle": "Metal Militia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T00:15:00-04:00",
+        "episodeTitle": "Veggies for Sloth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T00:30:00-04:00",
+        "episodeTitle": "The Squid Stays in the Picture",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T00:45:00-04:00",
+        "episodeTitle": "Gun of a Son",
+        "rating": "TV-14 LV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T01:00:00-04:00",
+        "episodeTitle": "Antenna",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T01:15:00-04:00",
+        "episodeTitle": "Ezekiel",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T01:30:00-04:00",
+        "episodeTitle": "Tears of a Clooney",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T02:00:00-04:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T02:30:00-04:00",
+        "episodeTitle": "Mr. Saturday Knight",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T03:00:00-04:00",
+        "episodeTitle": "Fish Out of Water",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T03:30:00-04:00",
+        "episodeTitle": "Metal Militia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T03:45:00-04:00",
+        "episodeTitle": "Veggies for Sloth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T04:00:00-04:00",
+        "episodeTitle": "The Art of the Sucker Punch",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T04:30:00-04:00",
+        "episodeTitle": "Boyz 4 Now",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T05:00:00-04:00",
+        "episodeTitle": "A General Thanksgiving Episode",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-07T00:00:00-04:00",
+        "datetime": "2016-09-08T05:30:00-04:00",
+        "episodeTitle": "Pour Some Sugar on Kahn",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

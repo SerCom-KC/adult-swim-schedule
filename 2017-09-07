@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-07T21:00:00-04:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-07T21:30:00-04:00",
+        "episodeTitle": "School Lies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-07T22:00:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-07T22:30:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-07T23:00:00-04:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-07T23:30:00-04:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T00:00:00-04:00",
+        "episodeTitle": "Up Up and Buffet",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T00:15:00-04:00",
+        "episodeTitle": "Panthropologie",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T00:30:00-04:00",
+        "episodeTitle": "Is Magic Real?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T00:45:00-04:00",
+        "episodeTitle": "Unremarkable Voyage",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T01:00:00-04:00",
+        "episodeTitle": "Goldfish",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 312481,
+        "showTitle": "Brak Show "
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T01:15:00-04:00",
+        "episodeTitle": "We Ski in Peace",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 312481,
+        "showTitle": "Brak Show "
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T01:30:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T02:00:00-04:00",
+        "episodeTitle": "World Wharf II: The Wharfening",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T02:30:00-04:00",
+        "episodeTitle": "Episode 420",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T03:00:00-04:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T03:30:00-04:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T04:00:00-04:00",
+        "episodeTitle": "Episode 14",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 441652,
+        "showTitle": "Daytime Fighting League 2: Risky Nights"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T04:30:00-04:00",
+        "episodeTitle": "Goldfish",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 312481,
+        "showTitle": "Brak Show "
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T04:45:00-04:00",
+        "episodeTitle": "We Ski in Peace",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 312481,
+        "showTitle": "Brak Show "
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T05:00:00-04:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-07T00:00:00-04:00",
+        "datetime": "2017-09-08T05:30:00-04:00",
+        "episodeTitle": "Hank's Back Story",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

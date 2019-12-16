@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-09T21:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-09T21:30:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-09T22:00:00-04:00",
+        "episodeTitle": "Peter's Progress",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-09T22:30:00-04:00",
+        "episodeTitle": "Road to Multiverse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-09T23:00:00-04:00",
+        "episodeTitle": "The Matches Begin! We're All Off To the \"Planet With No Name!\"",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-09T23:30:00-04:00",
+        "episodeTitle": "Find the Nuisances: Babidi's Retaliation Begins!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T00:00:00-04:00",
+        "episodeTitle": "Dark Blue Moon",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T00:30:00-04:00",
+        "episodeTitle": "City in Waiting",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 437892,
+        "showTitle": "Tokyo Ghoul"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T01:00:00-04:00",
+        "episodeTitle": "Evil Fist x and x Rock, Paper, Scissors",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T01:30:00-04:00",
+        "episodeTitle": "The Lovesick Pig",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T02:00:00-04:00",
+        "episodeTitle": "Meeting",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T02:30:00-04:00",
+        "episodeTitle": "Into Burning Space",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 441673,
+        "showTitle": "Outlaw Star (2017)"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T03:00:00-04:00",
+        "episodeTitle": "Asteroid Blues",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T03:30:00-04:00",
+        "episodeTitle": "Close Combat",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T04:00:00-04:00",
+        "episodeTitle": "Rickmancing the Stone",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T04:30:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T05:00:00-04:00",
+        "episodeTitle": "Bobby Goes Nuts",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-09-09T00:00:00-04:00",
+        "datetime": "2017-09-10T05:30:00-04:00",
+        "episodeTitle": "Soldier of Misfortune",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

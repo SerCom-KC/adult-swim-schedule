@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-18T21:00:00-05:00",
+        "episodeTitle": "Dr. Yap",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-18T21:30:00-05:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-18T22:00:00-05:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-18T22:30:00-05:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-18T23:00:00-05:00",
+        "episodeTitle": "Family Goy",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-18T23:30:00-05:00",
+        "episodeTitle": "Spies Reminiscent of Us",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T00:00:00-05:00",
+        "episodeTitle": "Disemboweled by an Orphan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T00:15:00-05:00",
+        "episodeTitle": "In Bed Surrounded by Loved Ones",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T00:30:00-05:00",
+        "episodeTitle": "She Creature",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T00:45:00-05:00",
+        "episodeTitle": "A Jailhouse Divided",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T01:00:00-05:00",
+        "episodeTitle": "Troubles with Triples",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T01:15:00-05:00",
+        "episodeTitle": "Dethfashion",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T01:30:00-05:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T02:00:00-05:00",
+        "episodeTitle": "Virtual In-Stanity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T02:30:00-05:00",
+        "episodeTitle": "Family Goy",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T03:00:00-05:00",
+        "episodeTitle": "Spies Reminiscent of Us",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T03:30:00-05:00",
+        "episodeTitle": "Disemboweled by an Orphan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T03:45:00-05:00",
+        "episodeTitle": "In Bed Surrounded by Loved Ones",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T04:00:00-05:00",
+        "episodeTitle": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T04:15:00-05:00",
+        "episodeTitle": "Attitude",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T04:30:00-05:00",
+        "episodeTitle": "Food Truckin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T05:00:00-05:00",
+        "episodeTitle": "The Hangover Part Tubbs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-18T00:00:00-05:00",
+        "datetime": "2016-02-19T05:30:00-05:00",
+        "episodeTitle": "Enrique-cilable Differences",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

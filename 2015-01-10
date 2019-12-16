@@ -1,0 +1,155 @@
+[
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-10T21:00:00-05:00",
+        "episodeTitle": "My Hair Lady",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-10T21:30:00-05:00",
+        "episodeTitle": "Joint Custody",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-10T22:00:00-05:00",
+        "episodeTitle": "Kiss Seen 'Round the World",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-10T22:30:00-05:00",
+        "episodeTitle": "\"The Wizard of Watts\" or \"Oz Ain't Got S&@# On The Wiz\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-10T23:30:00-05:00",
+        "episodeTitle": "Response: The Struggle for Trost Part 6",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T00:00:00-05:00",
+        "episodeTitle": "The End of Snake Way! King Kai's Bizarre Test!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T00:30:00-05:00",
+        "episodeTitle": "Something Important...",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T01:00:00-05:00",
+        "episodeTitle": "The Great Holy Demon Spirit's Test",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T01:30:00-05:00",
+        "episodeTitle": "Everything Is for Her Friends! Robin in the Darkness!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T02:00:00-05:00",
+        "episodeTitle": "You Don't Know Anything",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 409612,
+        "showTitle": "Gurren Lagann"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T02:30:00-05:00",
+        "episodeTitle": "Antidote - Candy",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 387012,
+        "showTitle": "Deadman Wonderland"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T03:00:00-05:00",
+        "episodeTitle": "Episode 291",
+        "rating": "TV-14 V",
+        "seasonNumber": 0,
+        "showID": 343790,
+        "showTitle": "Bleach"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T03:30:00-05:00",
+        "episodeTitle": "There's Always Tomorrow, Baby",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T04:00:00-05:00",
+        "episodeTitle": "Stray Dog Strut",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T04:30:00-05:00",
+        "episodeTitle": "Poker Face",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T05:00:00-05:00",
+        "episodeTitle": "Win or Lose",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 0,
+        "showID": 336811,
+        "showTitle": "IGPX"
+    },
+    {
+        "date": "2015-01-10T00:00:00-05:00",
+        "datetime": "2015-01-11T05:30:00-05:00",
+        "episodeTitle": "XLVIII",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 4,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

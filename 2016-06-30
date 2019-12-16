@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-06-30T21:00:00-04:00",
+        "episodeTitle": "Broadcast Wagstaff School News",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-06-30T21:30:00-04:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-06-30T22:00:00-04:00",
+        "episodeTitle": "A Ward Show",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-06-30T22:30:00-04:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-06-30T23:00:00-04:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-06-30T23:30:00-04:00",
+        "episodeTitle": "I Dream of Jesus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T00:00:00-04:00",
+        "episodeTitle": "Rebel Appliance",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T00:15:00-04:00",
+        "episodeTitle": "Sh\u00f6venpucker",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T00:30:00-04:00",
+        "episodeTitle": "Gene E",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T00:45:00-04:00",
+        "episodeTitle": "Hybrid to Hell",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T01:00:00-04:00",
+        "episodeTitle": "Jodie Sweetin & Vivica A. Fox",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T01:15:00-04:00",
+        "episodeTitle": "Plastic Buffet",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T01:30:00-04:00",
+        "episodeTitle": "A Ward Show",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T02:00:00-04:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T02:30:00-04:00",
+        "episodeTitle": "Love Blactually",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T03:00:00-04:00",
+        "episodeTitle": "I Dream of Jesus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T03:30:00-04:00",
+        "episodeTitle": "Rebel Appliance",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T03:45:00-04:00",
+        "episodeTitle": "Sh\u00f6venpucker",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T04:00:00-04:00",
+        "episodeTitle": "Droppin' the \"g\"/Ancient Egypt/Puffy Paints",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T04:15:00-04:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T04:30:00-04:00",
+        "episodeTitle": "Nude Beach",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T05:00:00-04:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-30T00:00:00-04:00",
+        "datetime": "2016-07-01T05:30:00-04:00",
+        "episodeTitle": "Returning Japanese (2)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

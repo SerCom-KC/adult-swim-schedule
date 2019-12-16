@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-03T21:00:00-05:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-03T21:30:00-05:00",
+        "episodeTitle": "American Prankster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-03T22:00:00-05:00",
+        "episodeTitle": "Spelling Bee My Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-03T22:30:00-05:00",
+        "episodeTitle": "The Missing Kink",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-03T23:00:00-05:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-03T23:30:00-05:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T00:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T00:30:00-05:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T01:00:00-05:00",
+        "episodeTitle": "Mr. Grumpy-Pants",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T01:15:00-05:00",
+        "episodeTitle": "Girlfriendklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T01:30:00-05:00",
+        "episodeTitle": "Spelling Bee My Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T02:00:00-05:00",
+        "episodeTitle": "The Missing Kink",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T02:30:00-05:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T03:00:00-05:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T03:30:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T04:00:00-05:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T04:30:00-05:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T05:00:00-05:00",
+        "episodeTitle": "American Prankster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-03T00:00:00-05:00",
+        "datetime": "2015-12-04T05:30:00-05:00",
+        "episodeTitle": "High Anxiety (2)",
+        "rating": "TV-14 ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

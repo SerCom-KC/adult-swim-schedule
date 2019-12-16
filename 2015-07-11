@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-11T21:00:00-04:00",
+        "episodeTitle": "High Anxiety (2)",
+        "rating": "TV-14 ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-11T21:30:00-04:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-11T22:00:00-04:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-11T22:30:00-04:00",
+        "episodeTitle": "Granddad's Fight",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-11T23:00:00-04:00",
+        "episodeTitle": "The Kidney Stays in the Picture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-11T23:30:00-04:00",
+        "episodeTitle": "Road To Europe",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T00:00:00-04:00",
+        "episodeTitle": "Goku Arrives at Last! Take Down the Ginyu Force!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T00:30:00-04:00",
+        "episodeTitle": "Incomplete",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T01:00:00-04:00",
+        "episodeTitle": "Like a Frantic Pinball",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 419352,
+        "showTitle": "Michiko & Hatchin"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T01:30:00-04:00",
+        "episodeTitle": "One Little Step",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T02:00:00-04:00",
+        "episodeTitle": "Akatsuki's Invasion",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T02:30:00-04:00",
+        "episodeTitle": "Cannon Fire Sinks the Island! Franky's Lamentation!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T03:00:00-04:00",
+        "episodeTitle": "Special Operations Squad: Eve of the Counterattack Part 2",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T03:30:00-04:00",
+        "episodeTitle": "The Curious Case of Jr. Working at the Stool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T04:00:00-04:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T04:30:00-04:00",
+        "episodeTitle": "The Kidney Stays in the Picture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T05:00:00-04:00",
+        "episodeTitle": "Hanky Panky (1)",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-07-11T00:00:00-04:00",
+        "datetime": "2015-07-12T05:30:00-04:00",
+        "episodeTitle": "High Anxiety (2)",
+        "rating": "TV-14 ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-07T21:00:00-05:00",
+        "episodeTitle": "Peggy's Fan Fair",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-07T21:30:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-07T22:00:00-05:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-07T22:30:00-05:00",
+        "episodeTitle": "My Big Fat Greek Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-07T23:00:00-05:00",
+        "episodeTitle": "Quagmire's Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-07T23:30:00-05:00",
+        "episodeTitle": "Jerome Is the New Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T00:00:00-05:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T00:15:00-05:00",
+        "episodeTitle": "Casablankman II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T00:30:00-05:00",
+        "episodeTitle": "The Legend of Kid Squid",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T00:45:00-05:00",
+        "episodeTitle": "From Russia With Stud",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T01:00:00-05:00",
+        "episodeTitle": "Unremarkable Voyage",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T01:15:00-05:00",
+        "episodeTitle": "Mouth Quest",
+        "rating": "TV-MA L",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T01:30:00-05:00",
+        "episodeTitle": "Don't Look a Smith Horse in the Mouth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T02:00:00-05:00",
+        "episodeTitle": "My Big Fat Greek Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T02:30:00-05:00",
+        "episodeTitle": "Quagmire's Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T03:00:00-05:00",
+        "episodeTitle": "Jerome Is the New Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T03:30:00-05:00",
+        "episodeTitle": "Fool's Goldfinger",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T03:45:00-05:00",
+        "episodeTitle": "Casablankman II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T04:00:00-05:00",
+        "episodeTitle": "Work",
+        "rating": "TV-14 L",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T04:15:00-05:00",
+        "episodeTitle": "Conflict",
+        "rating": "TV-14 L",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T04:30:00-05:00",
+        "episodeTitle": "Unremarkable Voyage",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T04:45:00-05:00",
+        "episodeTitle": "Mouth Quest",
+        "rating": "TV-MA L",
+        "seasonNumber": 11,
+        "showID": 418932,
+        "showTitle": "Aqua Teen Hunger Force Forever"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T05:00:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-07T00:00:00-05:00",
+        "datetime": "2016-11-08T05:30:00-05:00",
+        "episodeTitle": "Peggy's Fan Fair",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

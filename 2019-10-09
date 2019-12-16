@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-09T21:00:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-09T21:30:00-04:00",
+        "episodeTitle": "Stan Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-09T22:00:00-04:00",
+        "episodeTitle": "Eggs for Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-09T22:30:00-04:00",
+        "episodeTitle": "Zero Larp Thirty",
+        "rating": "TV-PG LV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-09T23:00:00-04:00",
+        "episodeTitle": "It Takes a Village Idiot, and I Married One",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-09T23:30:00-04:00",
+        "episodeTitle": "Meet the Quagmires",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T00:00:00-04:00",
+        "episodeTitle": "A Cold Death",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 459852,
+        "showTitle": "Genndy Tartakovksy's Primal"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T00:30:00-04:00",
+        "episodeTitle": "Serial Killers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T00:45:00-04:00",
+        "episodeTitle": "Sh\u00f6venpucker",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T01:00:00-04:00",
+        "episodeTitle": "Interfection",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T01:15:00-04:00",
+        "episodeTitle": "PDA",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T01:30:00-04:00",
+        "episodeTitle": "It Takes a Village Idiot, and I Married One",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T02:00:00-04:00",
+        "episodeTitle": "Meet the Quagmires",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T02:30:00-04:00",
+        "episodeTitle": "Chimdale",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T03:00:00-04:00",
+        "episodeTitle": "Stan Time",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T03:30:00-04:00",
+        "episodeTitle": "A Cold Death",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 459852,
+        "showTitle": "Genndy Tartakovksy's Primal"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T04:00:00-04:00",
+        "episodeTitle": "The Telltale Butthole",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T04:15:00-04:00",
+        "episodeTitle": "Weapons Grade Life",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T04:30:00-04:00",
+        "episodeTitle": "Interfection",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T04:45:00-04:00",
+        "episodeTitle": "PDA",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T05:00:00-04:00",
+        "episodeTitle": "Eggs for Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-09T00:00:00-04:00",
+        "datetime": "2019-10-10T05:30:00-04:00",
+        "episodeTitle": "Zero Larp Thirty",
+        "rating": "TV-PG LV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

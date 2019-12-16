@@ -1,0 +1,245 @@
+[
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-27T21:00:00-05:00",
+        "episodeTitle": "'Twas the Nut Before Christmas",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-27T21:30:00-05:00",
+        "episodeTitle": "Murray Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-27T22:00:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-27T22:30:00-05:00",
+        "episodeTitle": "The 2000-Year-Old-Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-27T23:00:00-05:00",
+        "episodeTitle": "A Very Special Christmas in Compton",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-27T23:30:00-05:00",
+        "episodeTitle": "The Endorsement",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-27T23:45:00-05:00",
+        "episodeTitle": "Baby",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T00:00:00-05:00",
+        "episodeTitle": "Cerberus",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T00:15:00-05:00",
+        "episodeTitle": "The Endginning",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T00:30:00-05:00",
+        "episodeTitle": "A PE Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T00:45:00-05:00",
+        "episodeTitle": "Rebel With a Claus",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T01:00:00-05:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T01:15:00-05:00",
+        "episodeTitle": "Bluesklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T01:30:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T02:00:00-05:00",
+        "episodeTitle": "A Very Special Christmas in Compton",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T02:30:00-05:00",
+        "episodeTitle": "The Endorsement",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T02:45:00-05:00",
+        "episodeTitle": "Baby",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T03:00:00-05:00",
+        "episodeTitle": "Cerberus",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T03:15:00-05:00",
+        "episodeTitle": "The Endginning",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T03:30:00-05:00",
+        "episodeTitle": "A PE Christmas",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T03:45:00-05:00",
+        "episodeTitle": "Rebel With a Claus",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T04:00:00-05:00",
+        "episodeTitle": "Holes",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T04:15:00-05:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T04:30:00-05:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T04:45:00-05:00",
+        "episodeTitle": "Bluesklok",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T05:00:00-05:00",
+        "episodeTitle": "Murray Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-11-27T00:00:00-05:00",
+        "datetime": "2015-11-28T05:30:00-05:00",
+        "episodeTitle": "'Twas the Nut Before Christmas",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

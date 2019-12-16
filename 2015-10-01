@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-01T21:00:00-04:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-01T21:30:00-04:00",
+        "episodeTitle": "Skip Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-01T22:00:00-04:00",
+        "episodeTitle": "DeLorean Story-An",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-01T22:30:00-04:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-01T23:00:00-04:00",
+        "episodeTitle": "German Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-01T23:30:00-04:00",
+        "episodeTitle": "Hand That Rocks the Wheelchair",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T00:00:00-04:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T00:15:00-04:00",
+        "episodeTitle": "Hurtled from a Helicopter into a Speeding Train",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T00:30:00-04:00",
+        "episodeTitle": "Time Machine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T00:45:00-04:00",
+        "episodeTitle": "A Jailhouse Divided",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T01:00:00-04:00",
+        "episodeTitle": "The Superjail Inquisitor",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T01:15:00-04:00",
+        "episodeTitle": "Dethecution",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T01:30:00-04:00",
+        "episodeTitle": "DeLorean Story-An",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T02:00:00-04:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T02:30:00-04:00",
+        "episodeTitle": "German Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T03:00:00-04:00",
+        "episodeTitle": "Hand That Rocks the Wheelchair",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T03:30:00-04:00",
+        "episodeTitle": "Poisoned by Relatives",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T03:45:00-04:00",
+        "episodeTitle": "Hurtled from a Helicopter into a Speeding Train",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T04:00:00-04:00",
+        "episodeTitle": "October 1, 2015",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T04:15:00-04:00",
+        "episodeTitle": "Irish Wake",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344844,
+        "showTitle": "Assy McGee"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T04:30:00-04:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T05:00:00-04:00",
+        "episodeTitle": "Skip Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-10-01T00:00:00-04:00",
+        "datetime": "2015-10-02T05:30:00-04:00",
+        "episodeTitle": "The Minh Who Knew Too Much",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

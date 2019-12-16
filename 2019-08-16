@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-16T21:00:00-04:00",
+        "episodeTitle": "Death Has a Shadow",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-16T21:30:00-04:00",
+        "episodeTitle": "I Never Met the Dead Man",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-16T22:00:00-04:00",
+        "episodeTitle": "Home Alone",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-16T22:30:00-04:00",
+        "episodeTitle": "The S Word",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-16T23:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-16T23:30:00-04:00",
+        "episodeTitle": "Forever Autumn",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-16T23:45:00-04:00",
+        "episodeTitle": "Galvin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T00:00:00-04:00",
+        "episodeTitle": "Deep Impact",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T00:15:00-04:00",
+        "episodeTitle": "The Bullied",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T00:30:00-04:00",
+        "episodeTitle": "Ryan Kwanten; Beyonce & Jay-Z",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T00:45:00-04:00",
+        "episodeTitle": "Jillian Barberie; Victor Ortiz",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T01:00:00-04:00",
+        "episodeTitle": "Foxcroft Academy for Boys",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T01:15:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T01:30:00-04:00",
+        "episodeTitle": "The Never-Ending Stories",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T02:00:00-04:00",
+        "episodeTitle": "Death Has a Shadow",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T02:30:00-04:00",
+        "episodeTitle": "I Never Met the Dead Man",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T03:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T03:30:00-04:00",
+        "episodeTitle": "Forever Autumn",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T03:45:00-04:00",
+        "episodeTitle": "Galvin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T04:00:00-04:00",
+        "episodeTitle": "FishCenter - 8/16/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 8/16/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449335,
+        "showTitle": "Development Meeting"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T04:30:00-04:00",
+        "episodeTitle": "Deep Impact",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T04:45:00-04:00",
+        "episodeTitle": "The Bullied",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T05:00:00-04:00",
+        "episodeTitle": "Railroaded",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-16T00:00:00-04:00",
+        "datetime": "2019-08-17T05:30:00-04:00",
+        "episodeTitle": "III",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 1,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

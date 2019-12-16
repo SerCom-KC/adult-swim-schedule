@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-24T21:00:00-05:00",
+        "episodeTitle": "Goodbye Normal Jeans",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-24T21:30:00-05:00",
+        "episodeTitle": "Turkey Pot Die",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-24T22:00:00-05:00",
+        "episodeTitle": "There Will Be Bad Blood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-24T22:30:00-05:00",
+        "episodeTitle": "An Indecent Thanksgiving Proposal",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-24T23:00:00-05:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-24T23:30:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T00:00:00-05:00",
+        "episodeTitle": "G.I. Gogurt",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T00:15:00-05:00",
+        "episodeTitle": "Link's Sausages",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T00:30:00-05:00",
+        "episodeTitle": "Government Brain Voodoo Trouble",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T00:45:00-05:00",
+        "episodeTitle": "Butt Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T01:00:00-05:00",
+        "episodeTitle": "The Dressing",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T01:15:00-05:00",
+        "episodeTitle": "Dennis Rodman; Haley Joel Osment",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T01:30:00-05:00",
+        "episodeTitle": "There Will Be Bad Blood",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T02:00:00-05:00",
+        "episodeTitle": "An Indecent Thanksgiving Proposal",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T02:30:00-05:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T03:00:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T03:30:00-05:00",
+        "episodeTitle": "G.I. Gogurt",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T03:45:00-05:00",
+        "episodeTitle": "Link's Sausages",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T04:00:00-05:00",
+        "episodeTitle": "Light",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T04:15:00-05:00",
+        "episodeTitle": "Signs From Godrilla",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T04:30:00-05:00",
+        "episodeTitle": "The Dressing",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T04:45:00-05:00",
+        "episodeTitle": "Dennis Rodman; Haley Joel Osment",
+        "rating": "TV-MA L",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T05:00:00-05:00",
+        "episodeTitle": "Turkey Pot Die",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-24T00:00:00-05:00",
+        "datetime": "2016-11-25T05:30:00-05:00",
+        "episodeTitle": "Goodbye Normal Jeans",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

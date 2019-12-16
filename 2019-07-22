@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-22T21:00:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-22T21:30:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-22T22:00:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-22T22:30:00-04:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-22T23:00:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-22T23:30:00-04:00",
+        "episodeTitle": "The Notorious Mrs. Goodspeed",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T00:00:00-04:00",
+        "episodeTitle": "They Ain't Know",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T00:15:00-04:00",
+        "episodeTitle": "It Is What It Is",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T00:30:00-04:00",
+        "episodeTitle": "Larry",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T00:45:00-04:00",
+        "episodeTitle": "Fear",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T01:00:00-04:00",
+        "episodeTitle": "Daesong Heavy Industries",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T01:30:00-04:00",
+        "episodeTitle": "Daesong Heavy Industries II: Return to Innocence",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T02:00:00-04:00",
+        "episodeTitle": "Ear-sy Rider",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T02:30:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T03:00:00-04:00",
+        "episodeTitle": "Friends Without Benefits",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T03:30:00-04:00",
+        "episodeTitle": "Jesus, Mary and Joseph!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T04:00:00-04:00",
+        "episodeTitle": "Feast of Alvis",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T04:15:00-04:00",
+        "episodeTitle": "The Debate Part 2",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T04:30:00-04:00",
+        "episodeTitle": "They Ain't Know",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T04:45:00-04:00",
+        "episodeTitle": "It Is What It Is",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T05:00:00-04:00",
+        "episodeTitle": "The Notorious Mrs. Goodspeed",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-07-22T00:00:00-04:00",
+        "datetime": "2019-07-23T05:30:00-04:00",
+        "episodeTitle": "XXXVI",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 3,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

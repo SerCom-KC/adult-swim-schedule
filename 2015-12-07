@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-07T21:00:00-05:00",
+        "episodeTitle": "The Runway Club",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-07T21:30:00-05:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-07T22:00:00-05:00",
+        "episodeTitle": "Blonde Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-07T22:30:00-05:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-07T23:00:00-05:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-07T23:30:00-05:00",
+        "episodeTitle": "Baking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T00:00:00-05:00",
+        "episodeTitle": "Made Ya Look",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T00:30:00-05:00",
+        "episodeTitle": "Super Spore",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T00:45:00-05:00",
+        "episodeTitle": "Sharif",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T01:00:00-05:00",
+        "episodeTitle": "Time-Police 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T01:15:00-05:00",
+        "episodeTitle": "The Metalocalypse Has Begun",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T01:30:00-05:00",
+        "episodeTitle": "Blonde Ambition",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T02:00:00-05:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T02:30:00-05:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T03:00:00-05:00",
+        "episodeTitle": "Baking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T03:30:00-05:00",
+        "episodeTitle": "Made Ya Look",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T04:00:00-05:00",
+        "episodeTitle": "Damnesia Vu",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T04:15:00-05:00",
+        "episodeTitle": "The Issues",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T04:30:00-05:00",
+        "episodeTitle": "My Big Fat Greek Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T05:00:00-05:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-07T00:00:00-05:00",
+        "datetime": "2015-12-08T05:30:00-05:00",
+        "episodeTitle": "Flush with Power",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

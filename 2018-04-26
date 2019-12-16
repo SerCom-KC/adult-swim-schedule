@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-26T21:00:00-04:00",
+        "episodeTitle": "Crazy Train",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-26T21:30:00-04:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-26T22:00:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-26T22:30:00-04:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-26T23:00:00-04:00",
+        "episodeTitle": "Stewie Is Enceinte",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-26T23:30:00-04:00",
+        "episodeTitle": "Dr. C & the Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T00:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T00:30:00-04:00",
+        "episodeTitle": "Cheese Puff Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T00:45:00-04:00",
+        "episodeTitle": "Cake Pillow",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T01:00:00-04:00",
+        "episodeTitle": "Lord Stingray Crash Party",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T01:15:00-04:00",
+        "episodeTitle": "Dethfam",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T01:30:00-04:00",
+        "episodeTitle": "Equestranauts",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T02:00:00-04:00",
+        "episodeTitle": "Ambergris",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T02:30:00-04:00",
+        "episodeTitle": "Stewie Is Enceinte",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T03:00:00-04:00",
+        "episodeTitle": "Dr. C & the Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T03:30:00-04:00",
+        "episodeTitle": "Failure Is Not a Factory-Installed Option",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T04:00:00-04:00",
+        "episodeTitle": "Dinner with Family with Brett Gelman and Brett Gelman's Family",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 414712,
+        "showTitle": "Dinner With Family With Brett Gelman and Brett Gelman's Family"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T04:30:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T05:00:00-04:00",
+        "episodeTitle": "Crazy Train",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-04-26T00:00:00-04:00",
+        "datetime": "2018-04-27T05:30:00-04:00",
+        "episodeTitle": "Care-Takin' Care of Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

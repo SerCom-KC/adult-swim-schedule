@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-19T21:00:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-19T21:30:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-19T22:00:00-04:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-19T22:30:00-04:00",
+        "episodeTitle": "The Son Also Draws",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-19T23:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-19T23:30:00-04:00",
+        "episodeTitle": "The Closer You Get",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T00:00:00-04:00",
+        "episodeTitle": "Groaner's Wild",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T00:30:00-04:00",
+        "episodeTitle": "Welcome to Hell",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T00:45:00-04:00",
+        "episodeTitle": "Bone Garden",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T01:00:00-04:00",
+        "episodeTitle": "My Purity Ball and Chain",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T01:30:00-04:00",
+        "episodeTitle": "OreTron Trail",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T02:00:00-04:00",
+        "episodeTitle": "Uncle Teddy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T02:30:00-04:00",
+        "episodeTitle": "The Kids Rob a Train",
+        "rating": "TV-PG DL",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T03:00:00-04:00",
+        "episodeTitle": "A Hero Sits Next Door",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T03:30:00-04:00",
+        "episodeTitle": "The Son Also Draws",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T04:00:00-04:00",
+        "episodeTitle": "Craptastic Voyage",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T04:15:00-04:00",
+        "episodeTitle": "Penultimate Fighting",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T04:30:00-04:00",
+        "episodeTitle": "Welcome to Hell",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T04:45:00-04:00",
+        "episodeTitle": "Bone Garden",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T05:00:00-04:00",
+        "episodeTitle": "The Closer You Get",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 444812,
+        "showTitle": "Final Space"
+    },
+    {
+        "date": "2019-08-19T00:00:00-04:00",
+        "datetime": "2019-08-20T05:30:00-04:00",
+        "episodeTitle": "IV",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 1,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

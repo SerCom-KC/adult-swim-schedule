@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-25T21:00:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-25T21:15:00-04:00",
+        "episodeTitle": "Ring of Fire",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-25T21:30:00-04:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-25T22:00:00-04:00",
+        "episodeTitle": "Star Trek",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-25T22:30:00-04:00",
+        "episodeTitle": "Not Particularly Desperate Housewives",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-25T23:00:00-04:00",
+        "episodeTitle": "Chris Has Got a Date, Date, Date, Date, Date",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-25T23:30:00-04:00",
+        "episodeTitle": "Hot Shots",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T00:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T00:30:00-04:00",
+        "episodeTitle": "The Unnamed One",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T00:45:00-04:00",
+        "episodeTitle": "Fridge Smell",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T01:00:00-04:00",
+        "episodeTitle": "Turner Classic Birdman aka: Busy day for Birdman",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T01:15:00-04:00",
+        "episodeTitle": "Adventure Mouse",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T01:30:00-04:00",
+        "episodeTitle": "Star Trek",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T02:00:00-04:00",
+        "episodeTitle": "Not Particularly Desperate Housewives",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T02:30:00-04:00",
+        "episodeTitle": "Chris Has Got a Date, Date, Date, Date, Date",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T03:00:00-04:00",
+        "episodeTitle": "Hot Shots",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T03:30:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T03:45:00-04:00",
+        "episodeTitle": "Ring of Fire",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T04:00:00-04:00",
+        "episodeTitle": "\"How Honeybee Got Her Groove Back\" or \"Night of the Living D#@! Heads\"",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T04:30:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T05:00:00-04:00",
+        "episodeTitle": "The Godfather of the Bride II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T05:15:00-04:00",
+        "episodeTitle": "Casablankman II",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-25T00:00:00-04:00",
+        "datetime": "2018-09-26T05:30:00-04:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

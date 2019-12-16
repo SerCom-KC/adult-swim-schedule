@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-09T21:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-09T21:30:00-04:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-09T22:00:00-04:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-09T22:30:00-04:00",
+        "episodeTitle": "Peter Griffin: Husband, Father, Brother?",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-09T23:00:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-09T23:30:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T00:00:00-04:00",
+        "episodeTitle": "Jesse Williams; Jillian Michaels",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T00:15:00-04:00",
+        "episodeTitle": "Not Everyone Thinks You're a Hero",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 430612,
+        "showTitle": "Million Dollar Extreme presents: WORLD PEACE"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T00:30:00-04:00",
+        "episodeTitle": "Taint Misbehavin'",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T00:45:00-04:00",
+        "episodeTitle": "Ink is Thicker Than Blood, Which is Thicker Than Water",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T01:00:00-04:00",
+        "episodeTitle": "Sirens",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T01:15:00-04:00",
+        "episodeTitle": "Couples Skate",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T01:30:00-04:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T02:00:00-04:00",
+        "episodeTitle": "Peter Griffin: Husband, Father, Brother?",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T02:30:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T03:00:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T03:30:00-04:00",
+        "episodeTitle": "Jesse Williams; Jillian Michaels",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T03:45:00-04:00",
+        "episodeTitle": "Not Everyone Thinks You're a Hero",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 430612,
+        "showTitle": "Million Dollar Extreme presents: WORLD PEACE"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T04:00:00-04:00",
+        "episodeTitle": "Yoko",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T04:30:00-04:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T05:00:00-04:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-09-09T00:00:00-04:00",
+        "datetime": "2016-09-10T05:30:00-04:00",
+        "episodeTitle": "The Courtship of Joseph's Father",
+        "rating": "TV-PG ",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

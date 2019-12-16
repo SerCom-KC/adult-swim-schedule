@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-18T21:00:00-05:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-18T21:30:00-05:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-18T22:00:00-05:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-18T22:30:00-05:00",
+        "episodeTitle": "The People Vs. Martin Sugar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-18T23:00:00-05:00",
+        "episodeTitle": "The Cleveland-Loretta Quagmire",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-18T23:30:00-05:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T00:00:00-05:00",
+        "episodeTitle": "Collateral Damage in Gang Turf War",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T00:15:00-05:00",
+        "episodeTitle": "Butchered in Burbank",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T00:30:00-05:00",
+        "episodeTitle": "Der Inflatable Fuhrer",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T00:45:00-05:00",
+        "episodeTitle": "Global Grilling",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T01:00:00-05:00",
+        "episodeTitle": "Condition: Demolition!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T01:15:00-05:00",
+        "episodeTitle": "God-Fearing",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T01:30:00-05:00",
+        "episodeTitle": "The Cleveland-Loretta Quagmire",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T02:00:00-05:00",
+        "episodeTitle": "Petarded",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T02:30:00-05:00",
+        "episodeTitle": "White Rice",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T03:00:00-05:00",
+        "episodeTitle": "The People Vs. Martin Sugar",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T03:30:00-05:00",
+        "episodeTitle": "Collateral Damage in Gang Turf War",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T03:45:00-05:00",
+        "episodeTitle": "Butchered in Burbank",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T04:00:00-05:00",
+        "episodeTitle": "February 18, 2015",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T04:15:00-05:00",
+        "episodeTitle": "Innernette",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T04:30:00-05:00",
+        "episodeTitle": "Der Inflatable Fuhrer",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T04:45:00-05:00",
+        "episodeTitle": "Global Grilling",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T05:00:00-05:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-18T00:00:00-05:00",
+        "datetime": "2015-02-19T05:30:00-05:00",
+        "episodeTitle": "It Came From the Garage",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

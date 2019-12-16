@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-11T21:00:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-11T21:30:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-11T22:00:00-04:00",
+        "episodeTitle": "Stewie Loves Lois",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-11T22:30:00-04:00",
+        "episodeTitle": "Mother Tucker",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-11T23:00:00-04:00",
+        "episodeTitle": "Goku Enkindled! The Awakened One's New Ultra Instinct!",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-11T23:30:00-04:00",
+        "episodeTitle": "One for All",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T00:00:00-04:00",
+        "episodeTitle": "301045",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 456292,
+        "showTitle": "The Promised Neverland"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T00:30:00-04:00",
+        "episodeTitle": "The Relentless Knight",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T01:00:00-04:00",
+        "episodeTitle": "Bites the Dust Part 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T01:30:00-04:00",
+        "episodeTitle": "The Briar Maiden's Melancholy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T02:00:00-04:00",
+        "episodeTitle": "The Sharingan vs. The Lightning Blade, Kiba the Fang!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T02:30:00-04:00",
+        "episodeTitle": "Thank You",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T03:00:00-04:00",
+        "episodeTitle": "Needles x and x Debt",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T03:30:00-04:00",
+        "episodeTitle": "Idol: The Struggle for Trost Part 7",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T04:00:00-04:00",
+        "episodeTitle": "The Red Ball",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T04:30:00-04:00",
+        "episodeTitle": "\"Warriors Come Out\" or \"Mean Queens of Halloween\"",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T05:00:00-04:00",
+        "episodeTitle": "Victor Echo November",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-05-11T00:00:00-04:00",
+        "datetime": "2019-05-12T05:30:00-04:00",
+        "episodeTitle": "Impressions",
+        "rating": "TV-PG L",
+        "seasonNumber": 2,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

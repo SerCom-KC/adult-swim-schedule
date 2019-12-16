@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-20T21:00:00-04:00",
+        "episodeTitle": "Brown Magic",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-20T21:30:00-04:00",
+        "episodeTitle": "You Debt Your Life",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-20T22:00:00-04:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-20T22:30:00-04:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-20T23:00:00-04:00",
+        "episodeTitle": "The Father, the Son and the Holy Fonz",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-20T23:30:00-04:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T00:00:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T00:30:00-04:00",
+        "episodeTitle": "Chirlaxx",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T00:45:00-04:00",
+        "episodeTitle": "Help Me",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T01:00:00-04:00",
+        "episodeTitle": "Joe Pera Talks You Back to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T01:15:00-04:00",
+        "episodeTitle": "Joe Pera Reads You The Church Announcements",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T01:30:00-04:00",
+        "episodeTitle": "Bob Fires the Kids",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T02:00:00-04:00",
+        "episodeTitle": "Mutiny on the Windbreaker",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T02:30:00-04:00",
+        "episodeTitle": "The Father, the Son and the Holy Fonz",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T03:00:00-04:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T03:30:00-04:00",
+        "episodeTitle": "A Pinata Named Desire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T04:00:00-04:00",
+        "episodeTitle": "Dayworld",
+        "rating": "TV-PG S",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T04:15:00-04:00",
+        "episodeTitle": "Book of Christ",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T04:30:00-04:00",
+        "episodeTitle": "The ABC's of Beth",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T05:00:00-04:00",
+        "episodeTitle": "Brown Magic",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-20T00:00:00-04:00",
+        "datetime": "2018-06-21T05:30:00-04:00",
+        "episodeTitle": "Manger Baby Einstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-02T21:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-02T21:30:00-04:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-02T22:00:00-04:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-02T22:30:00-04:00",
+        "episodeTitle": "The Man with Two Brians",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-02T23:00:00-04:00",
+        "episodeTitle": "Tales of a Third Grade Nothing",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-02T23:30:00-04:00",
+        "episodeTitle": "Departure x and x Friends",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T00:00:00-04:00",
+        "episodeTitle": "Test x of x Tests",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T00:30:00-04:00",
+        "episodeTitle": "Rivals x in x Survival",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T01:00:00-04:00",
+        "episodeTitle": "Hope x and x Ambition",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T01:30:00-04:00",
+        "episodeTitle": "Hisoka x Is x Sneaky",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T02:00:00-04:00",
+        "episodeTitle": "A x Surprising x Challenge",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T02:30:00-04:00",
+        "episodeTitle": "Showdown x on x the Airship",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T03:00:00-04:00",
+        "episodeTitle": "Total Rickall",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T03:30:00-04:00",
+        "episodeTitle": "The Scarlett Getter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T04:00:00-04:00",
+        "episodeTitle": "M.O.P.Z.",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T04:15:00-04:00",
+        "episodeTitle": "Animals",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T04:30:00-04:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T05:00:00-04:00",
+        "episodeTitle": "The Fat and the Furious",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-07-02T00:00:00-04:00",
+        "datetime": "2016-07-03T05:30:00-04:00",
+        "episodeTitle": "Bad Girls, Bad Girls, Whatcha Gonna Do",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

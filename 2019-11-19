@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-19T21:00:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-19T21:30:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-19T22:00:00-05:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-19T22:30:00-05:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-19T23:00:00-05:00",
+        "episodeTitle": "Hand That Rocks the Wheelchair",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-19T23:30:00-05:00",
+        "episodeTitle": "Jungle Love",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T00:00:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T00:30:00-05:00",
+        "episodeTitle": "Brain Download",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T00:45:00-05:00",
+        "episodeTitle": "Momma's Boy",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T01:00:00-05:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T01:15:00-05:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T01:30:00-05:00",
+        "episodeTitle": "Hand That Rocks the Wheelchair",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T02:00:00-05:00",
+        "episodeTitle": "Jungle Love",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T02:30:00-05:00",
+        "episodeTitle": "Old Stan in the Mountain",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T03:00:00-05:00",
+        "episodeTitle": "The Wrestler",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T03:30:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T04:00:00-05:00",
+        "episodeTitle": "And so it Begends",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T04:15:00-05:00",
+        "episodeTitle": "Chief Beef Loco",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T04:30:00-05:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T04:45:00-05:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T05:00:00-05:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-11-19T00:00:00-05:00",
+        "datetime": "2019-11-20T05:30:00-05:00",
+        "episodeTitle": "Tina-Rannosaurus Wrecks",
+        "rating": "TV-PG LSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

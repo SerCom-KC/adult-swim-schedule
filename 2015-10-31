@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-10-31T21:00:00-04:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-10-31T21:30:00-04:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-10-31T22:00:00-04:00",
+        "episodeTitle": "Best Little Horror House in Langley Falls",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-10-31T22:30:00-04:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-10-31T23:00:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-10-31T23:30:00-04:00",
+        "episodeTitle": "Fat Guy Strangler",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T00:00:00-04:00",
+        "episodeTitle": "Kill the Grudge",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T00:30:00-04:00",
+        "episodeTitle": "Kill the Imperial Arms User",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T01:00:00-04:00",
+        "episodeTitle": "Kill the Empty Dream",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T01:30:00-04:00",
+        "episodeTitle": "Kill Absolute Justice",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T02:00:00-05:00",
+        "episodeTitle": "Kill the Three Beasts - First Half",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T02:15:00-05:00",
+        "episodeTitle": "Kill the Three Beasts - Second Half",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T02:30:00-05:00",
+        "episodeTitle": "Kill the Lust for Combat",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T02:45:00-05:00",
+        "episodeTitle": "Kill the Seduction",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T03:00:00-05:00",
+        "episodeTitle": "Kill the Mad Scientist",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T03:30:00-05:00",
+        "episodeTitle": "Full Bars",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T04:00:00-05:00",
+        "episodeTitle": "Fort Night",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T04:30:00-05:00",
+        "episodeTitle": "Best Little Horror House in Langley Falls",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T05:00:00-05:00",
+        "episodeTitle": "Poltergasm",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-10-31T00:00:00-04:00",
+        "datetime": "2015-11-01T05:30:00-05:00",
+        "episodeTitle": "Hilloween",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-03T21:00:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-03T21:30:00-04:00",
+        "episodeTitle": "My Affair Lady",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-03T22:00:00-04:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-03T22:30:00-04:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-03T23:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-03T23:30:00-04:00",
+        "episodeTitle": "Secret of the Flushed Footlong",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-03T23:45:00-04:00",
+        "episodeTitle": "Losin' it",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T00:00:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T00:15:00-04:00",
+        "episodeTitle": "Vampirus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 377032,
+        "showTitle": "Aqua Unit Patrol Squad 1"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T00:30:00-04:00",
+        "episodeTitle": "Parent's Day",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T01:00:00-04:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T01:30:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T02:00:00-04:00",
+        "episodeTitle": "My Affair Lady",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T02:30:00-04:00",
+        "episodeTitle": "Brian the Closer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T03:00:00-04:00",
+        "episodeTitle": "Turkey Guys",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T03:30:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T04:00:00-04:00",
+        "episodeTitle": "Secret of the Flushed Footlong",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T04:15:00-04:00",
+        "episodeTitle": "Losin' it",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T04:30:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T04:45:00-04:00",
+        "episodeTitle": "Vampirus",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 377032,
+        "showTitle": "Aqua Unit Patrol Squad 1"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T05:00:00-04:00",
+        "episodeTitle": "Goodbye Normal Jeans",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-07-03T00:00:00-04:00",
+        "datetime": "2016-07-04T05:30:00-04:00",
+        "episodeTitle": "Dances With Dogs",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-23T21:00:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-23T21:30:00-05:00",
+        "episodeTitle": "The Last Gingerbread House on the Left",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-23T22:00:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-23T22:30:00-05:00",
+        "episodeTitle": "How the Griffin Stole Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-23T23:00:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-23T23:30:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T00:00:00-05:00",
+        "episodeTitle": "Tow and Shell",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T00:15:00-05:00",
+        "episodeTitle": "Fowl Flow",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T00:30:00-05:00",
+        "episodeTitle": "The Terminus Mandate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T01:00:00-05:00",
+        "episodeTitle": "Amnesia",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T01:15:00-05:00",
+        "episodeTitle": "Woomba",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T01:30:00-05:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T02:00:00-05:00",
+        "episodeTitle": "How the Griffin Stole Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T02:30:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T03:00:00-05:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T03:30:00-05:00",
+        "episodeTitle": "Tow and Shell",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T03:45:00-05:00",
+        "episodeTitle": "Fowl Flow",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T04:00:00-05:00",
+        "episodeTitle": "The Terminus Mandate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T04:30:00-05:00",
+        "episodeTitle": "Amnesia",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T04:45:00-05:00",
+        "episodeTitle": "Woomba",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T05:00:00-05:00",
+        "episodeTitle": "The Last Gingerbread House on the Left",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-12-23T00:00:00-05:00",
+        "datetime": "2018-12-24T05:30:00-05:00",
+        "episodeTitle": "Bye Bye Greasy",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

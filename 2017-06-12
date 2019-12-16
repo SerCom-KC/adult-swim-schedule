@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-12T21:00:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-12T21:30:00-04:00",
+        "episodeTitle": "LGBSteve",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-12T22:00:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-12T22:30:00-04:00",
+        "episodeTitle": "My Big Fat Greek Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-12T23:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-12T23:30:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T00:00:00-04:00",
+        "episodeTitle": "Rabbot Redux",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T00:15:00-04:00",
+        "episodeTitle": "Rubberman",
+        "rating": "TV-MA V",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T00:30:00-04:00",
+        "episodeTitle": "Ty-Stunned",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T00:45:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T01:00:00-04:00",
+        "episodeTitle": "Cephalo-ectomy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T01:15:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T01:30:00-04:00",
+        "episodeTitle": "Dreaming of a White Porsche Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T02:00:00-04:00",
+        "episodeTitle": "LGBSteve",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T02:30:00-04:00",
+        "episodeTitle": "Seaplane!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T03:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T03:30:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T04:00:00-04:00",
+        "episodeTitle": "Band Together",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T04:15:00-04:00",
+        "episodeTitle": "New-Cronomicon",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T04:30:00-04:00",
+        "episodeTitle": "Ty-Stunned",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T04:45:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T05:00:00-04:00",
+        "episodeTitle": "The Men in Me",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-06-12T00:00:00-04:00",
+        "datetime": "2017-06-13T05:30:00-04:00",
+        "episodeTitle": "Bobby Rae",
+        "rating": "TV-PG ",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

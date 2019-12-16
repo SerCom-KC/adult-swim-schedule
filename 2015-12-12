@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-12T21:00:00-05:00",
+        "episodeTitle": "Peggy Makes the Big Leagues",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-12T21:30:00-05:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-12T22:00:00-05:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-12T22:30:00-05:00",
+        "episodeTitle": "Rodger Codger",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-12T23:00:00-05:00",
+        "episodeTitle": "Mr. Saturday Knight",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-12T23:30:00-05:00",
+        "episodeTitle": "Fish Out of Water",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T00:00:00-05:00",
+        "episodeTitle": "Full-Power Frieza! Shenron, Grant Our Wish!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T00:30:00-05:00",
+        "episodeTitle": "Kill the Dolls",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T01:00:00-05:00",
+        "episodeTitle": "Beyond Good and Evil",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T01:30:00-05:00",
+        "episodeTitle": "Run as You Are",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 419352,
+        "showTitle": "Michiko & Hatchin"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T02:00:00-05:00",
+        "episodeTitle": "Encounter",
+        "rating": "TV-PG DV",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T02:30:00-05:00",
+        "episodeTitle": "The Mysterious Band of Pirates! Sunny and the Dangerous Trap!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T03:00:00-05:00",
+        "episodeTitle": "A Once in a Lifetime Chance",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T03:30:00-05:00",
+        "episodeTitle": "Pins, Spins and Fins",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T04:00:00-05:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T04:30:00-05:00",
+        "episodeTitle": "Rodger Codger",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T05:00:00-05:00",
+        "episodeTitle": "I Don't Want to Wait",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-12-12T00:00:00-05:00",
+        "datetime": "2015-12-13T05:30:00-05:00",
+        "episodeTitle": "Peggy Makes the Big Leagues",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

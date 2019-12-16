@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-11T21:00:00-04:00",
+        "episodeTitle": "Harder, Better, Faster, Browner",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-11T21:30:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-11T22:00:00-04:00",
+        "episodeTitle": "Pickle Rick",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-11T22:30:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-11T23:00:00-04:00",
+        "episodeTitle": "You May Now Kiss the...Uh...Guy Who Receives",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-11T23:30:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T00:00:00-04:00",
+        "episodeTitle": "Catch Me If You Kangaroo Jack",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T00:15:00-04:00",
+        "episodeTitle": "Beastmaster and Commander",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T00:30:00-04:00",
+        "episodeTitle": "Losin' it",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T00:45:00-04:00",
+        "episodeTitle": "Super Sirloin",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T01:00:00-04:00",
+        "episodeTitle": "The Fine Ol' Solution",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T01:15:00-04:00",
+        "episodeTitle": "Offensiveness",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T01:30:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T02:00:00-04:00",
+        "episodeTitle": "You May Now Kiss the...Uh...Guy Who Receives",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T02:30:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T03:00:00-04:00",
+        "episodeTitle": "Daddy Queerest",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T03:30:00-04:00",
+        "episodeTitle": "Weiner of Our Discontent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 8/11/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T04:15:00-04:00",
+        "episodeTitle": "Development Meeting - 8/3/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T04:30:00-04:00",
+        "episodeTitle": "Losin' it",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T04:45:00-04:00",
+        "episodeTitle": "Super Sirloin",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T05:00:00-04:00",
+        "episodeTitle": "Harder, Better, Faster, Browner",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-08-11T00:00:00-04:00",
+        "datetime": "2017-08-12T05:30:00-04:00",
+        "episodeTitle": "Not in My Back Hoe",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

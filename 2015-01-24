@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-24T21:00:00-05:00",
+        "episodeTitle": "Bill's House",
+        "rating": "TV-PG L",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-24T21:30:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-24T22:00:00-05:00",
+        "episodeTitle": "Robot Chicken: DC Comics Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-24T22:30:00-05:00",
+        "episodeTitle": "The Story on Page One",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-24T23:00:00-05:00",
+        "episodeTitle": "Choosey Wives Choose Smith",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-24T23:30:00-05:00",
+        "episodeTitle": "Shenron Appears! The Saiyans Arrive Sooner Than Expected!",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T00:00:00-05:00",
+        "episodeTitle": "Reunion",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T00:30:00-05:00",
+        "episodeTitle": "Mausoleum of Mount Azusa",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T01:00:00-05:00",
+        "episodeTitle": "Obtain the Five Keys! The Straw Hat Pirates vs. CP9!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T01:30:00-05:00",
+        "episodeTitle": "We Will Survive, by Any Means Necessary",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 409612,
+        "showTitle": "Gurren Lagann"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T02:00:00-05:00",
+        "episodeTitle": "Crow Claw",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 387012,
+        "showTitle": "Deadman Wonderland"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T02:30:00-05:00",
+        "episodeTitle": "Episode 293",
+        "rating": "TV-14 LV",
+        "seasonNumber": 0,
+        "showID": 343790,
+        "showTitle": "Bleach"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T03:00:00-05:00",
+        "episodeTitle": "Nobody Knows the Chameleon Alien, Baby",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T03:30:00-05:00",
+        "episodeTitle": "Gateway Shuffle",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T04:00:00-05:00",
+        "episodeTitle": "Another Chance",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T04:30:00-05:00",
+        "episodeTitle": "The Ghost",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 0,
+        "showID": 336811,
+        "showTitle": "IGPX"
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T05:00:00-05:00",
+        "episodeTitle": "L",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 4,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2015-01-24T00:00:00-05:00",
+        "datetime": "2015-01-25T05:30:00-05:00",
+        "episodeTitle": "Bystand Me",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

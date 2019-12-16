@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-18T21:00:00-05:00",
+        "episodeTitle": "Teen-a Witch",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-18T21:30:00-05:00",
+        "episodeTitle": "The Enlightenment of Ragi-Baba",
+        "rating": "TV-14 DL",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-18T22:00:00-05:00",
+        "episodeTitle": "Peter's Def Jam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-18T22:30:00-05:00",
+        "episodeTitle": "The Finer Strings",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-18T23:00:00-05:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-18T23:30:00-05:00",
+        "episodeTitle": "Ext. Forest - Day",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-18T23:45:00-05:00",
+        "episodeTitle": "Zero Vegetables",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T00:00:00-05:00",
+        "episodeTitle": "Soft Focus with Jena Friedman",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 444672,
+        "showTitle": "Soft Focus with Jena Friedman"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T00:15:00-05:00",
+        "episodeTitle": "Eric Andre Does Paris",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T00:30:00-05:00",
+        "episodeTitle": "Got a Minute for Love?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T00:45:00-05:00",
+        "episodeTitle": "Snake Island",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T01:00:00-05:00",
+        "episodeTitle": "Blazarmageddon",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T01:30:00-05:00",
+        "episodeTitle": "Teen-a Witch",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T02:00:00-05:00",
+        "episodeTitle": "The Enlightenment of Ragi-Baba",
+        "rating": "TV-14 DL",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T02:30:00-05:00",
+        "episodeTitle": "Peter's Def Jam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T03:00:00-05:00",
+        "episodeTitle": "The Finer Strings",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T03:30:00-05:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T04:00:00-05:00",
+        "episodeTitle": "Ext. Forest - Day",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T04:15:00-05:00",
+        "episodeTitle": "Zero Vegetables",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T04:30:00-05:00",
+        "episodeTitle": "Soft Focus with Jena Friedman",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 444672,
+        "showTitle": "Soft Focus with Jena Friedman"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T04:45:00-05:00",
+        "episodeTitle": "Eric Andre Does Paris",
+        "rating": "TV-MA LS",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T05:00:00-05:00",
+        "episodeTitle": "I Don't Want to Wait",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-02-18T00:00:00-05:00",
+        "datetime": "2018-02-19T05:30:00-05:00",
+        "episodeTitle": "Peggy Makes the Big Leagues",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

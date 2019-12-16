@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-08T21:00:00-04:00",
+        "episodeTitle": "Bob Actually",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-08T21:30:00-04:00",
+        "episodeTitle": "Death by Dinner Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-08T22:00:00-04:00",
+        "episodeTitle": "Hot Shots",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-08T22:30:00-04:00",
+        "episodeTitle": "High School English",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-08T23:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-08T23:30:00-04:00",
+        "episodeTitle": "Tyson of Arabia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-08T23:45:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T00:00:00-04:00",
+        "episodeTitle": "A Shooting Star Named Gaz Digzy Falls Fast and Hard",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T00:15:00-04:00",
+        "episodeTitle": "With the Burning Spirit of Teamwork in Her Heart",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T00:30:00-04:00",
+        "episodeTitle": "S.H.O.E.S",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T00:45:00-04:00",
+        "episodeTitle": "Telemarketers Are the Devil",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T01:00:00-04:00",
+        "episodeTitle": "Nursery Rhyme Land",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T01:15:00-04:00",
+        "episodeTitle": "Operation: Large and in Charge",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T01:30:00-04:00",
+        "episodeTitle": "Bob Actually",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T02:00:00-04:00",
+        "episodeTitle": "Death by Dinner Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T02:30:00-04:00",
+        "episodeTitle": "Hot Shots",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T03:00:00-04:00",
+        "episodeTitle": "High School English",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T03:30:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T04:00:00-04:00",
+        "episodeTitle": "Tyson of Arabia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T04:15:00-04:00",
+        "episodeTitle": "A Mine Is a Terrible Thing to Waste",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T04:30:00-04:00",
+        "episodeTitle": "A Shooting Star Named Gaz Digzy Falls Fast and Hard",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T04:45:00-04:00",
+        "episodeTitle": "With the Burning Spirit of Teamwork in Her Heart",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T05:00:00-04:00",
+        "episodeTitle": "After the Mold Rush",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-04-08T00:00:00-04:00",
+        "datetime": "2018-04-09T05:30:00-04:00",
+        "episodeTitle": "Rich Hank, Poor Hank",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

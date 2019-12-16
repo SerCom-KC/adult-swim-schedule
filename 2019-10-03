@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-03T21:00:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-03T21:30:00-04:00",
+        "episodeTitle": "Spring Break-Up",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-03T22:00:00-04:00",
+        "episodeTitle": "There's No Business Like Mr. Business Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-03T22:30:00-04:00",
+        "episodeTitle": "A Few 'gurt Men",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-03T23:00:00-04:00",
+        "episodeTitle": "Chick Cancer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-03T23:30:00-04:00",
+        "episodeTitle": "Barely Legal",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T00:00:00-04:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T00:30:00-04:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T00:45:00-04:00",
+        "episodeTitle": "Coma",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T01:00:00-04:00",
+        "episodeTitle": "Ol Drippy",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T01:15:00-04:00",
+        "episodeTitle": "Revenge of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T01:30:00-04:00",
+        "episodeTitle": "There's No Business Like Mr. Business Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T02:00:00-04:00",
+        "episodeTitle": "Chick Cancer",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T02:30:00-04:00",
+        "episodeTitle": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T03:00:00-04:00",
+        "episodeTitle": "Spring Break-Up",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T03:30:00-04:00",
+        "episodeTitle": "Big Trouble in Little Sanchez",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T04:00:00-04:00",
+        "episodeTitle": "Begend The Endginning",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T04:15:00-04:00",
+        "episodeTitle": "Fowl Flow",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 448512,
+        "showTitle": "The Shivering Truth"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T04:30:00-04:00",
+        "episodeTitle": "Grandpa's Night Out",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T04:45:00-04:00",
+        "episodeTitle": "Coma",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T05:00:00-04:00",
+        "episodeTitle": "Barely Legal",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-03T00:00:00-04:00",
+        "datetime": "2019-10-04T05:30:00-04:00",
+        "episodeTitle": "A Few 'gurt Men",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

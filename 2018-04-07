@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-07T21:00:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-07T21:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-07T22:00:00-04:00",
+        "episodeTitle": "Quagmire's Quagmire",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-07T22:30:00-04:00",
+        "episodeTitle": "Zamasu and Black - The Duo's Mystery Deepens",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-07T23:00:00-04:00",
+        "episodeTitle": "Earth Destroyed! The Initial Buu's Nefarious Strike!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-07T23:30:00-04:00",
+        "episodeTitle": "Countdown Supercut",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 447692,
+        "showTitle": "Toonami Countdown"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-07T23:45:00-04:00",
+        "episodeTitle": "Scavengers",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 433992,
+        "showTitle": "Scavengers"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T00:00:00-04:00",
+        "episodeTitle": "Bast's Mariah Part 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T00:30:00-04:00",
+        "episodeTitle": "Scapegoat",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 428833,
+        "showTitle": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T01:00:00-04:00",
+        "episodeTitle": "Destroyer",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T01:30:00-04:00",
+        "episodeTitle": "Interest x and x Curse",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T02:00:00-04:00",
+        "episodeTitle": "The Sixth Hokage Danzo",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T02:30:00-04:00",
+        "episodeTitle": "There's Always Tomorrow, Baby",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T03:00:00-04:00",
+        "episodeTitle": "Asteroid Blues",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T03:30:00-04:00",
+        "episodeTitle": "Fabricate Fog",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 338124,
+        "showTitle": "Ghost in The Shell: Stand Alone Complex 2nd GIG"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T04:00:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T04:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T05:00:00-04:00",
+        "episodeTitle": "The Incredible Hank",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-04-07T00:00:00-04:00",
+        "datetime": "2018-04-08T05:30:00-04:00",
+        "episodeTitle": "Flirting With the Master",
+        "rating": "TV-PG D",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

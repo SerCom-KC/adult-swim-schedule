@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-08T21:00:00-04:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-08T21:30:00-04:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-08T22:00:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-08T22:30:00-04:00",
+        "episodeTitle": "You May Now Kiss the...Uh...Guy Who Receives",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-08T23:00:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-08T23:30:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T00:00:00-04:00",
+        "episodeTitle": "We Are a Humble Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T00:15:00-04:00",
+        "episodeTitle": "Maurice Was Caught",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T00:30:00-04:00",
+        "episodeTitle": "Atone Deaf",
+        "rating": "TV-14 SV",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T00:45:00-04:00",
+        "episodeTitle": "God's Bro",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T01:00:00-04:00",
+        "episodeTitle": "Chapter 6A: Match Point",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T01:30:00-04:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T02:00:00-04:00",
+        "episodeTitle": "You May Now Kiss the...Uh...Guy Who Receives",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T02:30:00-04:00",
+        "episodeTitle": "Petergeist",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T03:00:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T03:30:00-04:00",
+        "episodeTitle": "We Are a Humble Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T03:45:00-04:00",
+        "episodeTitle": "Maurice Was Caught",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Talks You to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T04:15:00-04:00",
+        "episodeTitle": "This House Has People in It",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T04:30:00-04:00",
+        "episodeTitle": "Chapter 6A: Match Point",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 456072,
+        "showTitle": "Gemusetto Machu Picchu"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T05:00:00-04:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-05-08T00:00:00-04:00",
+        "datetime": "2019-05-09T05:30:00-04:00",
+        "episodeTitle": "Tina and the Real Ghost",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

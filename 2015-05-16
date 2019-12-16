@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-16T21:00:00-04:00",
+        "episodeTitle": "It Ain't Over Till The Fat Neighbor Sings",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-16T21:30:00-04:00",
+        "episodeTitle": "Murray Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-16T22:00:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-16T22:30:00-04:00",
+        "episodeTitle": "The Lovely Ebony Brown",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-16T23:00:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-16T23:30:00-04:00",
+        "episodeTitle": "Lottery Fever",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T00:00:00-04:00",
+        "episodeTitle": "Friends Reborn! Zarbon's Hideous Transformation!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T00:30:00-04:00",
+        "episodeTitle": "Don't Stop Me Now",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T01:00:00-04:00",
+        "episodeTitle": "Bullet of Bullets",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T01:30:00-04:00",
+        "episodeTitle": "Naraku: Trap of Light",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T02:00:00-04:00",
+        "episodeTitle": "Everyone's Struggle to the Death",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T02:30:00-04:00",
+        "episodeTitle": "Spandam Frightened! The Hero on the Tower of Law!",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T03:00:00-04:00",
+        "episodeTitle": "I Can Hear His Heartbeat: The Struggle for Trost Part 4",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T03:30:00-04:00",
+        "episodeTitle": "Murray Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T04:00:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T04:30:00-04:00",
+        "episodeTitle": "Phantom of the Telethon",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T05:00:00-04:00",
+        "episodeTitle": "Bobby On Track",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-05-16T00:00:00-04:00",
+        "datetime": "2015-05-17T05:30:00-04:00",
+        "episodeTitle": "It Ain't Over Till The Fat Neighbor Sings",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-21T21:00:00-05:00",
+        "episodeTitle": "Bully for Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-21T21:30:00-05:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-21T22:00:00-05:00",
+        "episodeTitle": "Dawn of the Peck",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-21T22:30:00-05:00",
+        "episodeTitle": "Gayle Makin' Bob Sled",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-21T23:00:00-05:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-21T23:30:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T00:00:00-05:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T00:30:00-05:00",
+        "episodeTitle": "I'm Trapped",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T00:45:00-05:00",
+        "episodeTitle": "In a DVD Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T01:00:00-05:00",
+        "episodeTitle": "Super Squatter",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T01:15:00-05:00",
+        "episodeTitle": "The Good One",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T01:30:00-05:00",
+        "episodeTitle": "Dawn of the Peck",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T02:00:00-05:00",
+        "episodeTitle": "Gayle Makin' Bob Sled",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T02:30:00-05:00",
+        "episodeTitle": "Thanksgiving",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T03:00:00-05:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T03:30:00-05:00",
+        "episodeTitle": "Mortynight Run",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T04:00:00-05:00",
+        "episodeTitle": "Joe Pera Shows You How to Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T04:15:00-05:00",
+        "episodeTitle": "Words",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T04:30:00-05:00",
+        "episodeTitle": "Super Squatter",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T04:45:00-05:00",
+        "episodeTitle": "The Good One",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T05:00:00-05:00",
+        "episodeTitle": "Bully for Steve",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-21T00:00:00-05:00",
+        "datetime": "2018-11-22T05:30:00-05:00",
+        "episodeTitle": "An Incident at Owl Creek",
+        "rating": "TV-14 DV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

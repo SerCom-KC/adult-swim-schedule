@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-13T21:00:00-05:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-13T21:30:00-05:00",
+        "episodeTitle": "How Cleveland Got His Groove Back",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-13T22:00:00-05:00",
+        "episodeTitle": "The Vacation Goo",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-13T22:30:00-05:00",
+        "episodeTitle": "Meter Made",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-13T23:00:00-05:00",
+        "episodeTitle": "Holy Crap",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-13T23:30:00-05:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T00:00:00-05:00",
+        "episodeTitle": "Two Weeks Without Food",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T00:15:00-05:00",
+        "episodeTitle": "Tell My Mom",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T00:30:00-05:00",
+        "episodeTitle": "The Lair",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T00:45:00-05:00",
+        "episodeTitle": "Cold-Blooded",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T01:00:00-05:00",
+        "episodeTitle": "O.S.I. Love You",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T01:30:00-05:00",
+        "episodeTitle": "The Vacation Goo",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T02:00:00-05:00",
+        "episodeTitle": "Meter Made",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T02:30:00-05:00",
+        "episodeTitle": "Holy Crap",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T03:00:00-05:00",
+        "episodeTitle": "Da Boom",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T03:30:00-05:00",
+        "episodeTitle": "Two Weeks Without Food",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T03:45:00-05:00",
+        "episodeTitle": "Tell My Mom",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T04:00:00-05:00",
+        "episodeTitle": "Swords, Knives, Very Sharp Objects and Cutlery",
+        "rating": "TV-14 ",
+        "seasonNumber": 0,
+        "showID": 324534,
+        "showTitle": "SPECIAL:"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T04:15:00-05:00",
+        "episodeTitle": "Comedy",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T04:30:00-05:00",
+        "episodeTitle": "O.S.I. Love You",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T05:00:00-05:00",
+        "episodeTitle": "Cleveland Live!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-13T00:00:00-05:00",
+        "datetime": "2015-01-14T05:30:00-05:00",
+        "episodeTitle": "Daletech",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-29T21:00:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-29T21:30:00-04:00",
+        "episodeTitle": "Weiner of Our Discontent",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-29T22:00:00-04:00",
+        "episodeTitle": "Pro Tiki/Con Tiki",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-29T22:30:00-04:00",
+        "episodeTitle": "Bye Bye Boo Boo",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-29T23:00:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-29T23:30:00-04:00",
+        "episodeTitle": "Mr. Griffin Goes to Washington",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T00:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T00:30:00-04:00",
+        "episodeTitle": "Rodiggity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T00:45:00-04:00",
+        "episodeTitle": "Massage Chair",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T01:00:00-04:00",
+        "episodeTitle": "Kick Me",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T01:15:00-04:00",
+        "episodeTitle": "Wasilla Hills Cop",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T01:30:00-04:00",
+        "episodeTitle": "Pro Tiki/Con Tiki",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T02:00:00-04:00",
+        "episodeTitle": "Bye Bye Boo Boo",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T02:30:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T03:00:00-04:00",
+        "episodeTitle": "Mr. Griffin Goes to Washington",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T03:30:00-04:00",
+        "episodeTitle": "Every Which Way But Lose",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T04:00:00-04:00",
+        "episodeTitle": "Health",
+        "rating": "TV-14 ",
+        "seasonNumber": 8,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T04:15:00-04:00",
+        "episodeTitle": "Earth",
+        "rating": "TV-PG ",
+        "seasonNumber": 7,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T04:30:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T05:00:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-05-29T00:00:00-04:00",
+        "datetime": "2018-05-30T05:30:00-04:00",
+        "episodeTitle": "Doggone Crazy",
+        "rating": "TV-PG L",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

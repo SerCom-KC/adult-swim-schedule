@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-10T21:00:00-04:00",
+        "episodeTitle": "Love Hurts and So Does Art",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-10T21:30:00-04:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-10T22:00:00-04:00",
+        "episodeTitle": "Spring Break-Up",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-10T22:30:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-10T23:00:00-04:00",
+        "episodeTitle": "Peter's Two Dads",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-10T23:30:00-04:00",
+        "episodeTitle": "The Tan Aquatic with Steve Zissou",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T00:00:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T00:15:00-04:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T00:30:00-04:00",
+        "episodeTitle": "Flight of the Deep Fried Pine Booby",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T00:45:00-04:00",
+        "episodeTitle": "An Officer and a Dental Dam",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T01:00:00-04:00",
+        "episodeTitle": "PDA",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T01:15:00-04:00",
+        "episodeTitle": "The Butterfly Effect",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T01:30:00-04:00",
+        "episodeTitle": "Spring Break-Up",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T02:00:00-04:00",
+        "episodeTitle": "The Belchies",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T02:30:00-04:00",
+        "episodeTitle": "Peter's Two Dads",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T03:00:00-04:00",
+        "episodeTitle": "The Tan Aquatic with Steve Zissou",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T03:30:00-04:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T03:45:00-04:00",
+        "episodeTitle": "I Love Her",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T04:00:00-04:00",
+        "episodeTitle": "Robert Louis Stevenson's Belushi!",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T04:15:00-04:00",
+        "episodeTitle": "Monster",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 332263,
+        "showTitle": "Lucy: Daughter of the Devil"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T04:30:00-04:00",
+        "episodeTitle": "PDA",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T04:45:00-04:00",
+        "episodeTitle": "The Butterfly Effect",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 428912,
+        "showTitle": "Decker: Unclassified"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T05:00:00-04:00",
+        "episodeTitle": "Once Upon a Tyne in New York",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-10-10T00:00:00-04:00",
+        "datetime": "2016-10-11T05:30:00-04:00",
+        "episodeTitle": "Love Hurts and So Does Art",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

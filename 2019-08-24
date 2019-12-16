@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-24T21:00:00-04:00",
+        "episodeTitle": "The Ricklantis Mixup",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-24T21:30:00-04:00",
+        "episodeTitle": "Morty's Mind Blowers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-24T22:00:00-04:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-24T22:30:00-04:00",
+        "episodeTitle": "If I'm Dyin', I'm Lyin'",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-24T23:00:00-04:00",
+        "episodeTitle": "A Commanding Presence! The Advent of Top the Destroyer!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-24T23:30:00-04:00",
+        "episodeTitle": "Training Daze",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 458892,
+        "showTitle": "gen:LOCK"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T00:00:00-04:00",
+        "episodeTitle": "Stone World",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 459432,
+        "showTitle": "Dr. Stone"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T00:30:00-04:00",
+        "episodeTitle": "The Battle Begins",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 458812,
+        "showTitle": "Fire Force"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T01:00:00-04:00",
+        "episodeTitle": "A Concerto of Concept and Creation",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T01:30:00-04:00",
+        "episodeTitle": "The Victors",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T02:00:00-04:00",
+        "episodeTitle": "Memories from the Day of Snow",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T02:30:00-04:00",
+        "episodeTitle": "Secrets of the Reanimation Jutsu",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T03:00:00-04:00",
+        "episodeTitle": "Independence of the Principality of Zeon",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 457753,
+        "showTitle": "Mobile Suit Gundam the Origin: Advent of the Red Comet"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T03:30:00-04:00",
+        "episodeTitle": "Get Pablo's Collection",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 457432,
+        "showTitle": "Lupin the 3rd Part 5"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T04:00:00-04:00",
+        "episodeTitle": "Shiketsu High Lurking",
+        "rating": "TV-14 S",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T04:30:00-04:00",
+        "episodeTitle": "Bunny Love (Pilot)",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T04:45:00-04:00",
+        "episodeTitle": "Origin",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 432514,
+        "showTitle": "Apollo Gauntlet"
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T05:00:00-04:00",
+        "episodeTitle": "Hands on a Hamburger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T05:15:00-04:00",
+        "episodeTitle": "Multiple Meat",
+        "rating": "TV-14 LV",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-08-24T00:00:00-04:00",
+        "datetime": "2019-08-25T05:30:00-04:00",
+        "episodeTitle": "Time To Pay The Price",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

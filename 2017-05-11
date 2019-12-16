@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-11T21:00:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-11T21:30:00-04:00",
+        "episodeTitle": "Adventures in Hayleysitting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-11T22:00:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-11T22:30:00-04:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-11T23:00:00-04:00",
+        "episodeTitle": "Amish Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-11T23:30:00-04:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T00:00:00-04:00",
+        "episodeTitle": "Ogopogo!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T00:15:00-04:00",
+        "episodeTitle": "Home Alone",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T00:45:00-04:00",
+        "episodeTitle": "Der Inflatable Fuhrer",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T01:00:00-04:00",
+        "episodeTitle": "Ga-Ga-Ghost",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T01:15:00-04:00",
+        "episodeTitle": "Torture",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T01:30:00-04:00",
+        "episodeTitle": "Why Can't We Be Friends",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T02:00:00-04:00",
+        "episodeTitle": "Adventures in Hayleysitting",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T02:30:00-04:00",
+        "episodeTitle": "Sacred Cow",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T03:00:00-04:00",
+        "episodeTitle": "Sexy Dance Fighting",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T03:30:00-04:00",
+        "episodeTitle": "Cool Hand Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T04:00:00-04:00",
+        "episodeTitle": "Development Meeting - 4/20/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T04:15:00-04:00",
+        "episodeTitle": "Hot Enough for You?",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T04:30:00-04:00",
+        "episodeTitle": "Home Alone",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T05:00:00-04:00",
+        "episodeTitle": "Fat and Wet",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-11T00:00:00-04:00",
+        "datetime": "2017-05-12T05:30:00-04:00",
+        "episodeTitle": "A Rover Runs Through It",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

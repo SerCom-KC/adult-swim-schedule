@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-18T21:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-18T21:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-18T22:00:00-04:00",
+        "episodeTitle": "Hell Comes to Quahog",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-18T22:30:00-04:00",
+        "episodeTitle": "Saving Private Brian",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-18T23:00:00-04:00",
+        "episodeTitle": "XCIII",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-18T23:30:00-04:00",
+        "episodeTitle": "Let's Keep Going Lord Beerus! The Battle of Gods!",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T00:00:00-04:00",
+        "episodeTitle": "Day 1 - Warfare Encounter",
+        "rating": "TV-PG V",
+        "seasonNumber": 1,
+        "showID": 437132,
+        "showTitle": "Sand Whale and Me"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T00:05:00-04:00",
+        "episodeTitle": "Restless Foreboding. A Mysterious Warrior Appears!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T00:30:00-04:00",
+        "episodeTitle": "A Hundred Against Two",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T01:00:00-04:00",
+        "episodeTitle": "Battle at Torrington",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T01:30:00-04:00",
+        "episodeTitle": "A x Shocking x Tragedy",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T02:00:00-04:00",
+        "episodeTitle": "The Forbidden Jutsu Released",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T02:30:00-04:00",
+        "episodeTitle": "Brook's Great Struggle! Is the Path to Becoming a True Comrade Rigorous?",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T03:00:00-04:00",
+        "episodeTitle": "Idolater",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T03:30:00-04:00",
+        "episodeTitle": "The Unbearable Like-Likeness of Gene",
+        "rating": "TV-PG DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T04:00:00-04:00",
+        "episodeTitle": "Rick Potion #9",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T04:30:00-04:00",
+        "episodeTitle": "Raising Gazorpazorp",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T05:00:00-04:00",
+        "episodeTitle": "Hillennium",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-03-18T00:00:00-04:00",
+        "datetime": "2017-03-19T05:30:00-04:00",
+        "episodeTitle": "Old Glory",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

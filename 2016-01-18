@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-18T21:00:00-05:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-18T21:30:00-05:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-18T22:00:00-05:00",
+        "episodeTitle": "American Fung",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-18T22:30:00-05:00",
+        "episodeTitle": "Seizures Suit Stanny",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-18T23:00:00-05:00",
+        "episodeTitle": "The Peanut Butter Kid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-18T23:30:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T00:00:00-05:00",
+        "episodeTitle": "PS: Yes, in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T00:15:00-05:00",
+        "episodeTitle": "Love, Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T00:30:00-05:00",
+        "episodeTitle": "Dirtfoot",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T00:45:00-05:00",
+        "episodeTitle": "Fatal Distraction",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T01:00:00-05:00",
+        "episodeTitle": "Ladies Night",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T01:15:00-05:00",
+        "episodeTitle": "Dethwater",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T01:30:00-05:00",
+        "episodeTitle": "American Fung",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T02:00:00-05:00",
+        "episodeTitle": "Seizures Suit Stanny",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T02:30:00-05:00",
+        "episodeTitle": "The Peanut Butter Kid",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T03:00:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T03:30:00-05:00",
+        "episodeTitle": "PS: Yes, in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T03:45:00-05:00",
+        "episodeTitle": "Love, Maurice",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T04:00:00-05:00",
+        "episodeTitle": "Live Forever as You Are Now with Alan Resnick",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T04:15:00-05:00",
+        "episodeTitle": "Tools/Drawing Comics/Spin Class",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T04:30:00-05:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T05:00:00-05:00",
+        "episodeTitle": "Back to Cool",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-18T00:00:00-05:00",
+        "datetime": "2016-01-19T05:30:00-05:00",
+        "episodeTitle": "Queasy Rider",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

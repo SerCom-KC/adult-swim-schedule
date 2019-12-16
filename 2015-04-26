@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-26T21:00:00-04:00",
+        "episodeTitle": "Something Racist",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-26T21:30:00-04:00",
+        "episodeTitle": "Crazy Train",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-26T22:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-26T22:30:00-04:00",
+        "episodeTitle": "Secondhand Spoke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-26T23:00:00-04:00",
+        "episodeTitle": "Herpe the Love Sore",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-26T23:30:00-04:00",
+        "episodeTitle": "Crow College",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T00:00:00-04:00",
+        "episodeTitle": "The Granite Family",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T00:15:00-04:00",
+        "episodeTitle": "Jose, Can You? S\u00ed!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T00:30:00-04:00",
+        "episodeTitle": "Reggie Dog Bites",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 413632,
+        "showTitle": "Unsupervised"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T01:00:00-04:00",
+        "episodeTitle": "Crazy Train",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T01:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T02:00:00-04:00",
+        "episodeTitle": "Secondhand Spoke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T02:30:00-04:00",
+        "episodeTitle": "Herpe the Love Sore",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T03:00:00-04:00",
+        "episodeTitle": "Crow College",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T03:30:00-04:00",
+        "episodeTitle": "The Granite Family",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T03:45:00-04:00",
+        "episodeTitle": "Jose, Can You? S\u00ed!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T04:00:00-04:00",
+        "episodeTitle": "Reggie Dog Bites",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 413632,
+        "showTitle": "Unsupervised"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T04:30:00-04:00",
+        "episodeTitle": "Something Racist",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 415532,
+        "showTitle": "The Jack & Triumph Show"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T05:00:00-04:00",
+        "episodeTitle": "Night and Deity",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-04-26T00:00:00-04:00",
+        "datetime": "2015-04-27T05:30:00-04:00",
+        "episodeTitle": "Maid in Arlen",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

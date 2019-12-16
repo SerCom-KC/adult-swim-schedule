@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-20T21:00:00-04:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-20T21:30:00-04:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-20T22:00:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-20T22:30:00-04:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-20T23:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-20T23:30:00-04:00",
+        "episodeTitle": "Western Hay Batch",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-20T23:45:00-04:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T00:00:00-04:00",
+        "episodeTitle": "Red Means Stop",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T00:30:00-04:00",
+        "episodeTitle": "Big Bro",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 387072,
+        "showTitle": "Aqua Something You Know Whatever"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T00:45:00-04:00",
+        "episodeTitle": "Tommy's Big Job",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T01:00:00-04:00",
+        "episodeTitle": "Murray Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T01:30:00-04:00",
+        "episodeTitle": "Die Semi-Hard",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T02:00:00-04:00",
+        "episodeTitle": "Stan Goes on the Pill",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T02:30:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T03:00:00-04:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T03:30:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T04:00:00-04:00",
+        "episodeTitle": "Western Hay Batch",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T04:15:00-04:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T04:30:00-04:00",
+        "episodeTitle": "Red Means Stop",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T05:00:00-04:00",
+        "episodeTitle": "Death Picks Cotton",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-03-20T00:00:00-04:00",
+        "datetime": "2016-03-21T05:30:00-04:00",
+        "episodeTitle": "Raise the Steaks",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

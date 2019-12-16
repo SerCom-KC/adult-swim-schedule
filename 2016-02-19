@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-19T21:00:00-05:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-19T21:30:00-05:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-19T22:00:00-05:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-19T22:30:00-05:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-19T23:00:00-05:00",
+        "episodeTitle": "The Show You Watch",
+        "rating": "TV-14 ",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-19T23:15:00-05:00",
+        "episodeTitle": "Strip Club Expos\u00e9; Long Lost Twins",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-19T23:30:00-05:00",
+        "episodeTitle": "Not Earth China",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T00:00:00-05:00",
+        "episodeTitle": "Bird Up!",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T00:15:00-05:00",
+        "episodeTitle": "Snow",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T00:30:00-05:00",
+        "episodeTitle": "Chick Magnet",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T00:45:00-05:00",
+        "episodeTitle": "Stop. Jammertime!",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T01:00:00-05:00",
+        "episodeTitle": "Nightshift",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T01:15:00-05:00",
+        "episodeTitle": "Cleanzo",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T01:30:00-05:00",
+        "episodeTitle": "Moody Foodie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T02:00:00-05:00",
+        "episodeTitle": "Bad Tina",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T02:30:00-05:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T03:00:00-05:00",
+        "episodeTitle": "The Show You Watch",
+        "rating": "TV-14 ",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T03:15:00-05:00",
+        "episodeTitle": "Strip Club Expos\u00e9; Long Lost Twins",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T03:30:00-05:00",
+        "episodeTitle": "Not Earth China",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T04:00:00-05:00",
+        "episodeTitle": "The Newbridge Tourism Board Presents: \"We're Newbridge, We're Comin' To Get Ya!\"",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T04:15:00-05:00",
+        "episodeTitle": "Attitude",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T04:30:00-05:00",
+        "episodeTitle": "Nightshift",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T04:45:00-05:00",
+        "episodeTitle": "Cleanzo",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T05:00:00-05:00",
+        "episodeTitle": "California Dreamin' (All the Cleves Are Brown)",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-02-19T00:00:00-05:00",
+        "datetime": "2016-02-20T05:30:00-05:00",
+        "episodeTitle": "Mutual of OmAbwah",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-11-30T21:00:00-05:00",
+        "episodeTitle": "Father of the Bribe",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-11-30T21:30:00-05:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-11-30T22:00:00-05:00",
+        "episodeTitle": "The Enlightenment of Ragi-Baba",
+        "rating": "TV-14 DL",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-11-30T22:30:00-05:00",
+        "episodeTitle": "Wag the Hog",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-11-30T23:00:00-05:00",
+        "episodeTitle": "High School English",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-11-30T23:30:00-05:00",
+        "episodeTitle": "Amish Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T00:00:00-05:00",
+        "episodeTitle": "Snarfer Image",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T00:15:00-05:00",
+        "episodeTitle": "Up Up and Buffet",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T00:30:00-05:00",
+        "episodeTitle": "Burned And Reburned Again",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T00:45:00-05:00",
+        "episodeTitle": "Terminus Trouble",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T01:00:00-05:00",
+        "episodeTitle": "Global Grilling",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T01:15:00-05:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T01:30:00-05:00",
+        "episodeTitle": "The Enlightenment of Ragi-Baba",
+        "rating": "TV-14 DL",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T02:00:00-05:00",
+        "episodeTitle": "Wag the Hog",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T02:30:00-05:00",
+        "episodeTitle": "High School English",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T03:00:00-05:00",
+        "episodeTitle": "Amish Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T03:30:00-05:00",
+        "episodeTitle": "Snarfer Image",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T03:45:00-05:00",
+        "episodeTitle": "Up Up and Buffet",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T04:00:00-05:00",
+        "episodeTitle": "Hair",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T04:15:00-05:00",
+        "episodeTitle": "El Tornadador",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T04:30:00-05:00",
+        "episodeTitle": "Global Grilling",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T04:45:00-05:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T05:00:00-05:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-11-30T00:00:00-05:00",
+        "datetime": "2016-12-01T05:30:00-05:00",
+        "episodeTitle": "Father of the Bribe",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

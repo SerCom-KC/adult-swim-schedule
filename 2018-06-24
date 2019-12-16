@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-24T21:00:00-04:00",
+        "episodeTitle": "Mom, Lies, and Videotape",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-24T21:30:00-04:00",
+        "episodeTitle": "Klaustastrophe.tv",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-24T22:00:00-04:00",
+        "episodeTitle": "Carter and Tricia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-24T22:30:00-04:00",
+        "episodeTitle": "How the Griffin Stole Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-24T23:00:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-24T23:30:00-04:00",
+        "episodeTitle": "Jew #1 Opens a Treasure Chest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-24T23:45:00-04:00",
+        "episodeTitle": "3 2 1 2 3 3 3, 2 2 2, 3...6 6?",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T00:00:00-04:00",
+        "episodeTitle": "Mr. Neighbor's House 2",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448732,
+        "showTitle": "Mr. Neighbor's House 2"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T00:30:00-04:00",
+        "episodeTitle": "Joe Pera Shows You Iron",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T00:45:00-04:00",
+        "episodeTitle": "Joe Pera Takes You to Breakfast",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T01:00:00-04:00",
+        "episodeTitle": "A Shooting Star Named Gaz Digzy Falls Fast and Hard",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T01:15:00-04:00",
+        "episodeTitle": "With the Burning Spirit of Teamwork in Her Heart",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T01:30:00-04:00",
+        "episodeTitle": "Mom, Lies, and Videotape",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T02:00:00-04:00",
+        "episodeTitle": "Klaustastrophe.tv",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T02:30:00-04:00",
+        "episodeTitle": "Carter and Tricia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T03:00:00-04:00",
+        "episodeTitle": "How the Griffin Stole Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 15,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T03:30:00-04:00",
+        "episodeTitle": "Vindicators 3: The Return of Worldender",
+        "rating": "TV-MA LV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T04:00:00-04:00",
+        "episodeTitle": "Jew #1 Opens a Treasure Chest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T04:15:00-04:00",
+        "episodeTitle": "3 2 1 2 3 3 3, 2 2 2, 3...6 6?",
+        "rating": "TV-MA ",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T04:30:00-04:00",
+        "episodeTitle": "Mr. Neighbor's House 2",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 448732,
+        "showTitle": "Mr. Neighbor's House 2"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T05:00:00-04:00",
+        "episodeTitle": "The Honeymooners",
+        "rating": "TV-PG D",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2018-06-24T00:00:00-04:00",
+        "datetime": "2018-06-25T05:30:00-04:00",
+        "episodeTitle": "Bill Gathers Moss",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

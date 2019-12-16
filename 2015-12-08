@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-08T21:00:00-05:00",
+        "episodeTitle": "Slumber Party",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-08T21:30:00-05:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-08T22:00:00-05:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-08T22:30:00-05:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-08T23:00:00-05:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-08T23:30:00-05:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T00:00:00-05:00",
+        "episodeTitle": "Neon Nights",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T00:30:00-05:00",
+        "episodeTitle": "Super Sirloin",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T00:45:00-05:00",
+        "episodeTitle": "Condition: Demolition!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T01:00:00-05:00",
+        "episodeTitle": "Time-Police 2",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T01:15:00-05:00",
+        "episodeTitle": "Dethecution",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T01:30:00-05:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T02:00:00-05:00",
+        "episodeTitle": "Camp Refoogee",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T02:30:00-05:00",
+        "episodeTitle": "Thin White Line Part 1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T03:00:00-05:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T03:30:00-05:00",
+        "episodeTitle": "Neon Nights",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T04:00:00-05:00",
+        "episodeTitle": "Going Normal",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T04:15:00-05:00",
+        "episodeTitle": "The Image Problem",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T04:30:00-05:00",
+        "episodeTitle": "Purple Rain-Union",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T05:00:00-05:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-12-08T00:00:00-05:00",
+        "datetime": "2015-12-09T05:30:00-05:00",
+        "episodeTitle": "Transnational Amusements Presents: Peggy's Magic Sex Feet",
+        "rating": "TV-PG D",
+        "seasonNumber": 4,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

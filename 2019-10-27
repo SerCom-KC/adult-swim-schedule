@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-27T21:00:00-04:00",
+        "episodeTitle": "The Witches of Langley",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-27T21:30:00-04:00",
+        "episodeTitle": "Teen-a Witch",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-27T22:00:00-04:00",
+        "episodeTitle": "The Wolf of Wharf Street",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-27T22:30:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-27T23:00:00-04:00",
+        "episodeTitle": "Peternormal Activity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-27T23:30:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T00:00:00-04:00",
+        "episodeTitle": "Spike Fraser in: Should I Happen to Back into a Horse",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T00:15:00-04:00",
+        "episodeTitle": "Musya Shakhtyorov in: Honeyboogers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T00:30:00-04:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T00:45:00-04:00",
+        "episodeTitle": "Squash B'Gosh",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T01:00:00-04:00",
+        "episodeTitle": "Boonie Christ",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T01:30:00-04:00",
+        "episodeTitle": "The Witches of Langley",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T02:00:00-04:00",
+        "episodeTitle": "Halloween on Spooner Street",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T02:30:00-04:00",
+        "episodeTitle": "Peternormal Activity",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T03:00:00-04:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T03:30:00-04:00",
+        "episodeTitle": "Spike Fraser in: Should I Happen to Back into a Horse",
+        "rating": "TV-MA ",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T03:45:00-04:00",
+        "episodeTitle": "Musya Shakhtyorov in: Honeyboogers",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T04:00:00-04:00",
+        "episodeTitle": "Beware the Butt-Cutter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T04:15:00-04:00",
+        "episodeTitle": "Squash B'Gosh",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T04:30:00-04:00",
+        "episodeTitle": "Boonie Christ",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 409613,
+        "showTitle": "Black Jesus"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T05:00:00-04:00",
+        "episodeTitle": "Teen-a Witch",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-10-27T00:00:00-04:00",
+        "datetime": "2019-10-28T05:30:00-04:00",
+        "episodeTitle": "The Wolf of Wharf Street",
+        "rating": "TV-14 L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-08T21:00:00-05:00",
+        "episodeTitle": "Faking Bad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-08T21:30:00-05:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-08T22:00:00-05:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-08T22:30:00-05:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-08T23:00:00-05:00",
+        "episodeTitle": "We Love You, Conrad",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-08T23:30:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T00:00:00-05:00",
+        "episodeTitle": "Hurtled from a Helicopter into a Speeding Train",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T00:15:00-05:00",
+        "episodeTitle": "Disemboweled by an Orphan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T00:30:00-05:00",
+        "episodeTitle": "Dirtfoot",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T00:45:00-05:00",
+        "episodeTitle": "Holodeck Redneck",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T01:00:00-05:00",
+        "episodeTitle": "Dead Man's Curve",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T01:15:00-05:00",
+        "episodeTitle": "Negaton",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T01:30:00-05:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T02:00:00-05:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T02:30:00-05:00",
+        "episodeTitle": "We Love You, Conrad",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T03:00:00-05:00",
+        "episodeTitle": "Ricksy Business",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T03:30:00-05:00",
+        "episodeTitle": "Hurtled from a Helicopter into a Speeding Train",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T03:45:00-05:00",
+        "episodeTitle": "Disemboweled by an Orphan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T04:00:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 451372,
+        "showTitle": "Ole Bud's ANU Football Weekly"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T04:15:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 432516,
+        "showTitle": "The Hindenburg Explodes!"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T04:30:00-05:00",
+        "episodeTitle": "Dirtfoot",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T04:45:00-05:00",
+        "episodeTitle": "Holodeck Redneck",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T05:00:00-05:00",
+        "episodeTitle": "Family Fracas",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-01-08T00:00:00-05:00",
+        "datetime": "2019-01-09T05:30:00-05:00",
+        "episodeTitle": "The Kids Run the Restaurant",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

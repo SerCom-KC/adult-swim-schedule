@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-10T21:00:00-04:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-10T21:30:00-04:00",
+        "episodeTitle": "Independent Movie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-10T22:00:00-04:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-10T22:30:00-04:00",
+        "episodeTitle": "Sheesh! Cab, Bob?",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-10T23:00:00-04:00",
+        "episodeTitle": "It's a Trap Part 1 & 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T00:00:00-04:00",
+        "episodeTitle": "Sausage Fest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T00:15:00-04:00",
+        "episodeTitle": "Drippy Pony",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T00:30:00-04:00",
+        "episodeTitle": "The Bard's Curse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T00:45:00-04:00",
+        "episodeTitle": "Robots Everywhere",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T01:00:00-04:00",
+        "episodeTitle": "Planes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T01:15:00-04:00",
+        "episodeTitle": "Jules Verne's Monster Rally Run!",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T01:30:00-04:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T02:00:00-04:00",
+        "episodeTitle": "Sheesh! Cab, Bob?",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T02:30:00-04:00",
+        "episodeTitle": "It's a Trap Part 1 & 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T03:30:00-04:00",
+        "episodeTitle": "Crotchwalkers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T04:00:00-04:00",
+        "episodeTitle": "Sauce Boy",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T04:30:00-04:00",
+        "episodeTitle": "Planes",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T04:45:00-04:00",
+        "episodeTitle": "Jules Verne's Monster Rally Run!",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370612,
+        "showTitle": "Mary Shelley's Frankenhole"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T05:00:00-04:00",
+        "episodeTitle": "Hustle 'N Bros",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-10T00:00:00-04:00",
+        "datetime": "2017-10-11T05:30:00-04:00",
+        "episodeTitle": "Patch Boomhauer",
+        "rating": "TV-PG D",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

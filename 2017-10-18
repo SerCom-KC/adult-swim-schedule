@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-18T21:00:00-04:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-18T21:30:00-04:00",
+        "episodeTitle": "News Glance with Genevieve Vavance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-18T22:00:00-04:00",
+        "episodeTitle": "Synchronized Swimming",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-18T22:30:00-04:00",
+        "episodeTitle": "Burgerboss",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-18T23:00:00-04:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-18T23:30:00-04:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T00:00:00-04:00",
+        "episodeTitle": "Yancy the Yo-Yo- Boy",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T00:15:00-04:00",
+        "episodeTitle": "More Blood, More Chocolate",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T00:30:00-04:00",
+        "episodeTitle": "Foxcroft Academy for Boys",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T00:45:00-04:00",
+        "episodeTitle": "Dummy Love",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T01:00:00-04:00",
+        "episodeTitle": "Waiting to Exhale",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T01:15:00-04:00",
+        "episodeTitle": "WUWPs",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T01:30:00-04:00",
+        "episodeTitle": "Synchronized Swimming",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T02:00:00-04:00",
+        "episodeTitle": "Burgerboss",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T02:30:00-04:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T03:00:00-04:00",
+        "episodeTitle": "Yug Ylimaf",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T03:30:00-04:00",
+        "episodeTitle": "Permanent Record Wrecker",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T04:00:00-04:00",
+        "episodeTitle": "Roommates",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 400612,
+        "showTitle": "Tim & Eric's Bedtime Stories"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T04:30:00-04:00",
+        "episodeTitle": "Waiting to Exhale",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 385014,
+        "showTitle": "Loiter Squad"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T04:45:00-04:00",
+        "episodeTitle": "WUWPs",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 380952,
+        "showTitle": "The Heart She Holler"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T05:00:00-04:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-10-18T00:00:00-04:00",
+        "datetime": "2017-10-19T05:30:00-04:00",
+        "episodeTitle": "Phish and Wildlife",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

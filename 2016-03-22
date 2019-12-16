@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-22T21:00:00-04:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-22T21:30:00-04:00",
+        "episodeTitle": "Ain't Nothin' But Mutton Bustin'",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-22T22:00:00-04:00",
+        "episodeTitle": "The Full Cognitive Redaction of Avery Bullock by the Coward Stan Smith",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-22T22:30:00-04:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-22T23:00:00-04:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-22T23:30:00-04:00",
+        "episodeTitle": "Tom Tucker: The Man and His Dream",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T00:00:00-04:00",
+        "episodeTitle": "Robot Chicken: DC Comics Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T00:30:00-04:00",
+        "episodeTitle": "Balloonenstein",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T00:45:00-04:00",
+        "episodeTitle": "Rebel With a Claus",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T01:00:00-04:00",
+        "episodeTitle": "Maybe No Go",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T01:30:00-04:00",
+        "episodeTitle": "The Full Cognitive Redaction of Avery Bullock by the Coward Stan Smith",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T02:00:00-04:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T02:30:00-04:00",
+        "episodeTitle": "Livin' on a Prayer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T03:00:00-04:00",
+        "episodeTitle": "Tom Tucker: The Man and His Dream",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T03:30:00-04:00",
+        "episodeTitle": "Robot Chicken: DC Comics Special",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 0,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Talks You to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T04:15:00-04:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T04:30:00-04:00",
+        "episodeTitle": "Gene It On",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T05:00:00-04:00",
+        "episodeTitle": "Ain't Nothin' But Mutton Bustin'",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-03-22T00:00:00-04:00",
+        "datetime": "2016-03-23T05:30:00-04:00",
+        "episodeTitle": "The Minh Who Knew Too Much",
+        "rating": "TV-PG LV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

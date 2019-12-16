@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-04T21:00:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-04T21:30:00-04:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-04T22:00:00-04:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-04T22:30:00-04:00",
+        "episodeTitle": "Death Lives",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-04T23:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-04T23:30:00-04:00",
+        "episodeTitle": "Unfortunate Son",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T00:00:00-04:00",
+        "episodeTitle": "Asses To Ashes, Sluts To Dust",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T00:15:00-04:00",
+        "episodeTitle": "Bubba Trubba",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T00:30:00-04:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T00:45:00-04:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T01:00:00-04:00",
+        "episodeTitle": "Con Heir",
+        "rating": "TV-14 DS",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T01:30:00-04:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T02:00:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T02:30:00-04:00",
+        "episodeTitle": "The Land Ship",
+        "rating": "TV-PG V",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T03:00:00-04:00",
+        "episodeTitle": "And the Wiener Is...",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T03:30:00-04:00",
+        "episodeTitle": "Death Lives",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T04:00:00-04:00",
+        "episodeTitle": "Fashion",
+        "rating": "TV-14 V",
+        "seasonNumber": 9,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T04:15:00-04:00",
+        "episodeTitle": "Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T04:30:00-04:00",
+        "episodeTitle": "Three Demons and a Demon Baby",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T04:45:00-04:00",
+        "episodeTitle": "Healy",
+        "rating": "TV-MA LS",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T05:00:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T05:15:00-04:00",
+        "episodeTitle": "Metal Militia",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-04T00:00:00-04:00",
+        "datetime": "2019-09-05T05:30:00-04:00",
+        "episodeTitle": "XVI",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 2,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

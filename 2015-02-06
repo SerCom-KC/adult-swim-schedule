@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-06T21:00:00-05:00",
+        "episodeTitle": "Menace II Secret Society",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-06T21:30:00-05:00",
+        "episodeTitle": "A Vas Deferens Between Men and Women",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-06T22:00:00-05:00",
+        "episodeTitle": "Shallow Vows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-06T22:30:00-05:00",
+        "episodeTitle": "My Morning Straitjacket",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-06T23:00:00-05:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-06T23:30:00-05:00",
+        "episodeTitle": "Brian Wallows and Peter's Swallows",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T00:00:00-05:00",
+        "episodeTitle": "The FMK Killer; Newsreaders:  Behind The Scenes",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T00:15:00-05:00",
+        "episodeTitle": "Jillian Barberie; Victor Ortiz",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T00:30:00-05:00",
+        "episodeTitle": "Dinner With Friends with Brett Gelman and Friends",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 405992,
+        "showTitle": "Dinner With Friends With Brett Gelman and Friends"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T01:00:00-05:00",
+        "episodeTitle": "Ghosts of the Sargasso",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T01:30:00-05:00",
+        "episodeTitle": "Shallow Vows",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T02:00:00-05:00",
+        "episodeTitle": "My Morning Straitjacket",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T02:30:00-05:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T03:00:00-05:00",
+        "episodeTitle": "Brian Wallows and Peter's Swallows",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T03:30:00-05:00",
+        "episodeTitle": "The FMK Killer; Newsreaders:  Behind The Scenes",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T03:45:00-05:00",
+        "episodeTitle": "Jillian Barberie; Victor Ortiz",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T04:00:00-05:00",
+        "episodeTitle": "Falling",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T04:15:00-05:00",
+        "episodeTitle": "Vacation",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T04:30:00-05:00",
+        "episodeTitle": "Ghosts of the Sargasso",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T05:00:00-05:00",
+        "episodeTitle": "Menace II Secret Society",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-06T00:00:00-05:00",
+        "datetime": "2015-02-07T05:30:00-05:00",
+        "episodeTitle": "Bill, Bulk and the Body Buddies",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

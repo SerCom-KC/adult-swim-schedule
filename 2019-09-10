@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-10T21:00:00-04:00",
+        "episodeTitle": "House of 1000 Bounces",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-10T21:30:00-04:00",
+        "episodeTitle": "Stand by Gene",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-10T22:00:00-04:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-10T22:30:00-04:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-10T23:00:00-04:00",
+        "episodeTitle": "The Rickchurian Mortydate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-10T23:30:00-04:00",
+        "episodeTitle": "The Inconceivable Escape of Dr. Devizo",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T00:00:00-04:00",
+        "episodeTitle": "Webnecks",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T00:15:00-04:00",
+        "episodeTitle": "Beast Implants",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T00:30:00-04:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T00:45:00-04:00",
+        "episodeTitle": "Hammerman",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T01:00:00-04:00",
+        "episodeTitle": "Helping Handis",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T01:30:00-04:00",
+        "episodeTitle": "With Friends Like Steve's",
+        "rating": "TV-14 DV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T02:00:00-04:00",
+        "episodeTitle": "House of 1000 Bounces",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T02:30:00-04:00",
+        "episodeTitle": "Stand by Gene",
+        "rating": "TV-PG LV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T03:00:00-04:00",
+        "episodeTitle": "Ready, Willing and Disabled",
+        "rating": "TV-14 DV",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T03:30:00-04:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T04:00:00-04:00",
+        "episodeTitle": "Butchslap",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T04:15:00-04:00",
+        "episodeTitle": "The Debate Part 2",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 344104,
+        "showTitle": "Frisky Dingo"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T04:30:00-04:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T04:45:00-04:00",
+        "episodeTitle": "Hammerman",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T05:00:00-04:00",
+        "episodeTitle": "Drippy Pony",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T05:15:00-04:00",
+        "episodeTitle": "A Day at the Circus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2019-09-10T00:00:00-04:00",
+        "datetime": "2019-09-11T05:30:00-04:00",
+        "episodeTitle": "XX",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 2,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

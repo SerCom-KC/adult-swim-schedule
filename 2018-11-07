@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-07T21:00:00-05:00",
+        "episodeTitle": "Bar Mitzvah Shuffle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-07T21:30:00-05:00",
+        "episodeTitle": "DeLorean Story-An",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-07T22:00:00-05:00",
+        "episodeTitle": "Sexy Dance Healing",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-07T22:30:00-05:00",
+        "episodeTitle": "Sacred Couch",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-07T23:00:00-05:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-07T23:30:00-05:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T00:00:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T00:30:00-05:00",
+        "episodeTitle": "Squaw Bury Shortcake",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T00:45:00-05:00",
+        "episodeTitle": "Rabbits on a Rollercoaster",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T01:00:00-05:00",
+        "episodeTitle": "Dumber Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T01:15:00-05:00",
+        "episodeTitle": "Burned And Reburned Again",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T01:30:00-05:00",
+        "episodeTitle": "Sexy Dance Healing",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T02:00:00-05:00",
+        "episodeTitle": "Sacred Couch",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T02:30:00-05:00",
+        "episodeTitle": "To Love and Die in Dixie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T03:00:00-05:00",
+        "episodeTitle": "Screwed the Pooch",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T03:30:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T04:00:00-05:00",
+        "episodeTitle": "Joe Pera Talks You Back to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 448014,
+        "showTitle": "Joe Pera Talks With You"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T04:15:00-05:00",
+        "episodeTitle": "Church",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T04:30:00-05:00",
+        "episodeTitle": "Dumber Days",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T04:45:00-05:00",
+        "episodeTitle": "Burned And Reburned Again",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T05:00:00-05:00",
+        "episodeTitle": "Bar Mitzvah Shuffle",
+        "rating": "TV-14 DL",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-11-07T00:00:00-05:00",
+        "datetime": "2018-11-08T05:30:00-05:00",
+        "episodeTitle": "DeLorean Story-An",
+        "rating": "TV-14 DV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

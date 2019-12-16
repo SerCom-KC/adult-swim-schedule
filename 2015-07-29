@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-29T21:00:00-04:00",
+        "episodeTitle": "Synchronized Swimming",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-29T21:30:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-29T22:00:00-04:00",
+        "episodeTitle": "The Full Cognitive Redaction of Avery Bullock by the Coward Stan Smith",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-29T22:30:00-04:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-29T23:00:00-04:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-29T23:30:00-04:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T00:00:00-04:00",
+        "episodeTitle": "Massage Chair",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T00:15:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T00:30:00-04:00",
+        "episodeTitle": "The Cubing",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T00:45:00-04:00",
+        "episodeTitle": "Gimmicky Magazine Show Spoof Parody About Dan Halen",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T01:00:00-04:00",
+        "episodeTitle": "The Perfect Lecture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T01:30:00-04:00",
+        "episodeTitle": "Brian Sings and Swings",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T02:00:00-04:00",
+        "episodeTitle": "Patriot Games",
+        "rating": "TV-14 LV",
+        "seasonNumber": 4,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T02:30:00-04:00",
+        "episodeTitle": "Synchronized Swimming",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T03:00:00-04:00",
+        "episodeTitle": "Lost in Space",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T03:30:00-04:00",
+        "episodeTitle": "Massage Chair",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T03:45:00-04:00",
+        "episodeTitle": "password: Swordfish",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T04:00:00-04:00",
+        "episodeTitle": "Trio's Company",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 316907,
+        "showTitle": "Harvey Birdman "
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T04:15:00-04:00",
+        "episodeTitle": "Swimming in Oblivion",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 316903,
+        "showTitle": "Sealab 2021"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T04:30:00-04:00",
+        "episodeTitle": "The Perfect Lecture",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 380074,
+        "showTitle": "China, IL"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T05:00:00-04:00",
+        "episodeTitle": "Ship'rect",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-07-29T00:00:00-04:00",
+        "datetime": "2015-07-30T05:30:00-04:00",
+        "episodeTitle": "I'm with Cupid",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

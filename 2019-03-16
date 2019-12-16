@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-16T21:00:00-04:00",
+        "episodeTitle": "Get Schwifty",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-16T21:30:00-04:00",
+        "episodeTitle": "The Ricks Must Be Crazy",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-16T22:00:00-04:00",
+        "episodeTitle": "Stewie, Chris & Brian's Excellent Adventure",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-16T22:30:00-04:00",
+        "episodeTitle": "Our Idiot Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-16T23:00:00-04:00",
+        "episodeTitle": "The Power of Love Explodes?! The 2nd Universe's Witchy Warriors!!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-16T23:30:00-04:00",
+        "episodeTitle": "Connected Feelings",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T00:00:00-04:00",
+        "episodeTitle": "Kota",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T00:30:00-04:00",
+        "episodeTitle": "Project Alicization",
+        "rating": "TV-PG V",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T01:00:00-04:00",
+        "episodeTitle": "Leap Over the Edge of Death",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 452492,
+        "showTitle": "Megalobox"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T01:30:00-04:00",
+        "episodeTitle": "I'm an Alien",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T02:00:00-04:00",
+        "episodeTitle": "The Promised World",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T02:30:00-04:00",
+        "episodeTitle": "The Word x Is x You",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T03:00:00-04:00",
+        "episodeTitle": "Kakashi, My Eternal Rival!",
+        "rating": "TV-PG D",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T03:30:00-04:00",
+        "episodeTitle": "A Dim Light Amid Despair: Humanity's Comeback Part 1",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T04:00:00-04:00",
+        "episodeTitle": "Ballin",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T04:30:00-04:00",
+        "episodeTitle": "\"Panic on the Player's Ball Express\" or \"That's Influenza!\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T05:00:00-04:00",
+        "episodeTitle": "Past Tense",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-03-16T00:00:00-04:00",
+        "datetime": "2019-03-17T05:30:00-04:00",
+        "episodeTitle": "Mortgages and Marbles",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

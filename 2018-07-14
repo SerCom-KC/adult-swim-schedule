@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-14T21:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-14T21:30:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-14T22:00:00-04:00",
+        "episodeTitle": "Long John Peter",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-14T22:30:00-04:00",
+        "episodeTitle": "Goku Dies! An Assassination That Must Be Executed",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-14T23:00:00-04:00",
+        "episodeTitle": "Encounter with the Unknown",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-14T23:30:00-04:00",
+        "episodeTitle": "RE: Start",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 447434,
+        "showTitle": "FLCL: Progressive"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T00:00:00-04:00",
+        "episodeTitle": "The Documentary",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 449452,
+        "showTitle": "Pop Team Epic"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T00:30:00-04:00",
+        "episodeTitle": "The Miasma of the Void, Cool Ice Part 3",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 440792,
+        "showTitle": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T01:00:00-04:00",
+        "episodeTitle": "Check x and x Mate",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T01:30:00-04:00",
+        "episodeTitle": "The Mirror Mage",
+        "rating": "TV-14 D",
+        "seasonNumber": 1,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T02:00:00-04:00",
+        "episodeTitle": "The Forbidden Visual Jutsu",
+        "rating": "TV-14 V",
+        "seasonNumber": 4,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T02:30:00-04:00",
+        "episodeTitle": "Lovers Are Trendy, Baby",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401472,
+        "showTitle": "Space Dandy"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T03:00:00-04:00",
+        "episodeTitle": "Bohemian Rhapsody",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 319442,
+        "showTitle": "Cowboy Bebop "
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T03:30:00-04:00",
+        "episodeTitle": "Until the Full Moon Passes",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 439732,
+        "showTitle": "Lupin The 3rd Part 4"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T04:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T04:30:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T05:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-07-14T00:00:00-04:00",
+        "datetime": "2018-07-15T05:30:00-04:00",
+        "episodeTitle": "Of Lice And Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

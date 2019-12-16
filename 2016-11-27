@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-27T21:00:00-05:00",
+        "episodeTitle": "Best Burger",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-27T21:30:00-05:00",
+        "episodeTitle": "The Dentist's Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-27T22:00:00-05:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-27T22:30:00-05:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-27T23:00:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-27T23:30:00-05:00",
+        "episodeTitle": "Torture",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-27T23:45:00-05:00",
+        "episodeTitle": "The Leak",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T00:00:00-05:00",
+        "episodeTitle": "The Peep",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T00:15:00-05:00",
+        "episodeTitle": "The Bard's Curse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T00:30:00-05:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T01:00:00-05:00",
+        "episodeTitle": "Best Burger",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T01:30:00-05:00",
+        "episodeTitle": "The Dentist's Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T02:00:00-05:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T02:30:00-05:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T03:00:00-05:00",
+        "episodeTitle": "Meeseeks and Destroy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T03:30:00-05:00",
+        "episodeTitle": "Torture",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T03:45:00-05:00",
+        "episodeTitle": "The Leak",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T04:00:00-05:00",
+        "episodeTitle": "The Peep",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T04:15:00-05:00",
+        "episodeTitle": "The Bard's Curse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T04:30:00-05:00",
+        "episodeTitle": "Work Hard or Die Trying, Girl",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T05:00:00-05:00",
+        "episodeTitle": "Kidney Boy and Hamster Girl: A Love Story",
+        "rating": "TV-PG D",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-11-27T00:00:00-05:00",
+        "datetime": "2016-11-28T05:30:00-05:00",
+        "episodeTitle": "Bobby Goes Nuts",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

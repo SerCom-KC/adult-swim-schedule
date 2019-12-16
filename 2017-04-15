@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-15T21:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-15T21:30:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-15T22:00:00-04:00",
+        "episodeTitle": "Stew-roids",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-15T22:30:00-04:00",
+        "episodeTitle": "We Love You, Conrad",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 7,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-15T23:00:00-04:00",
+        "episodeTitle": "XCVI",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-15T23:30:00-04:00",
+        "episodeTitle": "This Is All the Power I've Got! A Settlement Between Gods",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T00:00:00-04:00",
+        "episodeTitle": "Day 5 - Showdown",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 437132,
+        "showTitle": "Sand Whale and Me"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T00:05:00-04:00",
+        "episodeTitle": "A Creeping Conspiracy! The Target is Gohan",
+        "rating": "TV-PG LV",
+        "seasonNumber": 5,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T00:30:00-04:00",
+        "episodeTitle": "The Birth of a Superbeing",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T01:00:00-04:00",
+        "episodeTitle": "The Ascendant One",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T01:30:00-04:00",
+        "episodeTitle": "Condition x and x Condition",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T02:00:00-04:00",
+        "episodeTitle": "Waiting in Space",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 434393,
+        "showTitle": "Mobile Suit Gundam Unicorn RE:0096"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T02:30:00-04:00",
+        "episodeTitle": "Decryption",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T03:00:00-04:00",
+        "episodeTitle": "Portraitz",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 330847,
+        "showTitle": "Ghost In The Shell"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T03:30:00-04:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T04:00:00-04:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T04:30:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T05:00:00-04:00",
+        "episodeTitle": "Returning Japanese (1)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-04-15T00:00:00-04:00",
+        "datetime": "2017-04-16T05:30:00-04:00",
+        "episodeTitle": "Returning Japanese (2)",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

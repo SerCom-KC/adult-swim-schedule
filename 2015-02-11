@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-11T21:00:00-05:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-11T21:30:00-05:00",
+        "episodeTitle": "A Rodent Like This",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-11T22:00:00-05:00",
+        "episodeTitle": "Cops and Roger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-11T22:30:00-05:00",
+        "episodeTitle": "Merlot Down Dirty Shame",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-11T23:00:00-05:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-11T23:30:00-05:00",
+        "episodeTitle": "When You Wish Upon a Weinstein",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T00:00:00-05:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T00:15:00-05:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T00:30:00-05:00",
+        "episodeTitle": "Super Birthday Snake",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T00:45:00-05:00",
+        "episodeTitle": "Circus",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T01:00:00-05:00",
+        "episodeTitle": "Mephistopheles Traveled Below To A Southern State Whose State Motto Is Wisdom, Justice, & Moderation",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T01:15:00-05:00",
+        "episodeTitle": "Charity",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T01:30:00-05:00",
+        "episodeTitle": "Cops and Roger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T02:00:00-05:00",
+        "episodeTitle": "Merlot Down Dirty Shame",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T02:30:00-05:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T03:00:00-05:00",
+        "episodeTitle": "When You Wish Upon a Weinstein",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T03:30:00-05:00",
+        "episodeTitle": "Executed by the State",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T03:45:00-05:00",
+        "episodeTitle": "Crushed by a Steamroller on My 53rd Birthday",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T04:00:00-05:00",
+        "episodeTitle": "FishCenter 02/11/15",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T04:15:00-05:00",
+        "episodeTitle": "Dolls",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T04:30:00-05:00",
+        "episodeTitle": "Super Birthday Snake",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T04:45:00-05:00",
+        "episodeTitle": "Circus",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T05:00:00-05:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-11T00:00:00-05:00",
+        "datetime": "2015-02-12T05:30:00-05:00",
+        "episodeTitle": "Dream Weaver",
+        "rating": "TV-PG DL",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

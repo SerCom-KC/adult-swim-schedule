@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-16T21:00:00-04:00",
+        "episodeTitle": "Sleeping with the Frenemy",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-16T21:30:00-04:00",
+        "episodeTitle": "The Hurt Soccer",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-16T22:00:00-04:00",
+        "episodeTitle": "The Hall Monitor and the Lunch Lady",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-16T22:30:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-16T23:00:00-04:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-16T23:30:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T00:00:00-04:00",
+        "episodeTitle": "Walla Walla Civil War",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T00:15:00-04:00",
+        "episodeTitle": "Jellystripper",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T00:30:00-04:00",
+        "episodeTitle": "Dying to Eat",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T00:45:00-04:00",
+        "episodeTitle": "That Was Today. This Is Tomorrow.",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T01:00:00-04:00",
+        "episodeTitle": "Conceal and Gary",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T01:15:00-04:00",
+        "episodeTitle": "Fried Alive",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T01:30:00-04:00",
+        "episodeTitle": "The Hall Monitor and the Lunch Lady",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T02:00:00-04:00",
+        "episodeTitle": "Life of Brian",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T02:30:00-04:00",
+        "episodeTitle": "In Harmony's Way",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T03:00:00-04:00",
+        "episodeTitle": "A Rickle in Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T03:30:00-04:00",
+        "episodeTitle": "Walla Walla Civil War",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T03:45:00-04:00",
+        "episodeTitle": "Jellystripper",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T04:00:00-04:00",
+        "episodeTitle": "Dying to Eat",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T04:15:00-04:00",
+        "episodeTitle": "That Was Today. This Is Tomorrow.",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 455552,
+        "showTitle": "Lazor Wulf"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T04:30:00-04:00",
+        "episodeTitle": "Conceal and Gary",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T04:45:00-04:00",
+        "episodeTitle": "Fried Alive",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T05:00:00-04:00",
+        "episodeTitle": "Sleeping with the Frenemy",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-16T00:00:00-04:00",
+        "datetime": "2019-06-17T05:30:00-04:00",
+        "episodeTitle": "The Hurt Soccer",
+        "rating": "TV-PG DL",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

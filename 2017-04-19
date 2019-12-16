@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-19T21:00:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-19T21:30:00-04:00",
+        "episodeTitle": "Whole Slotta Love",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-19T22:00:00-04:00",
+        "episodeTitle": "XCVI",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-19T22:30:00-04:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-19T23:00:00-04:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-19T23:30:00-04:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T00:00:00-04:00",
+        "episodeTitle": "Mite Tyson",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T00:15:00-04:00",
+        "episodeTitle": "The Story of Lando Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T00:45:00-04:00",
+        "episodeTitle": "Couples Skate",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T01:00:00-04:00",
+        "episodeTitle": "Velvet Messiah",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T01:15:00-04:00",
+        "episodeTitle": "Jett Copperhead, Six-Pack Magician",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T01:30:00-04:00",
+        "episodeTitle": "I Am the Walrus",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T02:00:00-04:00",
+        "episodeTitle": "Whole Slotta Love",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T02:30:00-04:00",
+        "episodeTitle": "XCVI",
+        "rating": "TV-PG V",
+        "seasonNumber": 5,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T03:00:00-04:00",
+        "episodeTitle": "Brian's Got a Brand New Bag",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T03:30:00-04:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 4/19/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T04:15:00-04:00",
+        "episodeTitle": "Auraphull",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 359954,
+        "showTitle": "New Looney Tunes"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T04:30:00-04:00",
+        "episodeTitle": "The Story of Lando Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T05:00:00-04:00",
+        "episodeTitle": "Field of Streams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-04-19T00:00:00-04:00",
+        "datetime": "2017-04-20T05:30:00-04:00",
+        "episodeTitle": "Full Metal Dust Jacket",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-16T21:00:00-05:00",
+        "episodeTitle": "Megalo Dale",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-16T21:30:00-05:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-16T22:00:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-16T22:30:00-05:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-16T23:00:00-05:00",
+        "episodeTitle": "Mother Tucker",
+        "rating": "TV-14 DS",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-16T23:30:00-05:00",
+        "episodeTitle": "Hell Comes to Quahog",
+        "rating": "TV-14 DL",
+        "seasonNumber": 5,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T00:00:00-05:00",
+        "episodeTitle": "Goku's Final Attack! Countdown to Planet Namek's Destruction!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T00:30:00-05:00",
+        "episodeTitle": "Kill Fate",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 420152,
+        "showTitle": "Akame Ga Kill!"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T01:00:00-05:00",
+        "episodeTitle": "Kokoro",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 421672,
+        "showTitle": "Parasyte -the maxim-"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T01:30:00-05:00",
+        "episodeTitle": "Hellhounds for Hire Part 1",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 333043,
+        "showTitle": "Samurai Champloo"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T02:00:00-05:00",
+        "episodeTitle": "The Two Charms",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T02:30:00-05:00",
+        "episodeTitle": "The Assassins Attack! The Great Battle on Ice Begins!",
+        "rating": "TV-PG L",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T03:00:00-05:00",
+        "episodeTitle": "Spit Your Sadness Away",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T03:30:00-05:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T04:00:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T04:30:00-05:00",
+        "episodeTitle": "The Magnificent Steven",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T05:00:00-05:00",
+        "episodeTitle": "Pigmalion",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-01-16T00:00:00-05:00",
+        "datetime": "2016-01-17T05:30:00-05:00",
+        "episodeTitle": "Megalo Dale",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

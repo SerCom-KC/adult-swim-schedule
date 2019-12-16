@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-16T21:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-16T21:30:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-16T22:00:00-04:00",
+        "episodeTitle": "The Devil Wears a Lapel Pin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-16T22:30:00-04:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-16T23:00:00-04:00",
+        "episodeTitle": "A Lot Going on Upstairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-16T23:30:00-04:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-16T23:45:00-04:00",
+        "episodeTitle": "Serial Killers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T00:00:00-04:00",
+        "episodeTitle": "Prankklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T00:15:00-04:00",
+        "episodeTitle": "Uh-Oh, It's Magic",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T00:30:00-04:00",
+        "episodeTitle": "Let's Talk About Rex",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T01:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T01:30:00-04:00",
+        "episodeTitle": "M. Night Shaym-Aliens!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T02:00:00-04:00",
+        "episodeTitle": "The Devil Wears a Lapel Pin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T02:30:00-04:00",
+        "episodeTitle": "Underage Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T03:00:00-04:00",
+        "episodeTitle": "A Lot Going on Upstairs",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T03:30:00-04:00",
+        "episodeTitle": "Lee",
+        "rating": "TV-MA S",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T03:45:00-04:00",
+        "episodeTitle": "Serial Killers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T04:00:00-04:00",
+        "episodeTitle": "Prankklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T04:15:00-04:00",
+        "episodeTitle": "Uh-Oh, It's Magic",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T04:30:00-04:00",
+        "episodeTitle": "Let's Talk About Rex",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 433552,
+        "showTitle": "SuperMansion"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T05:00:00-04:00",
+        "episodeTitle": "Get Your Freak Off",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2017-04-16T00:00:00-04:00",
+        "datetime": "2017-04-17T05:30:00-04:00",
+        "episodeTitle": "The Fat and the Furious",
+        "rating": "TV-PG DL",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

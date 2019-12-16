@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-07T21:00:00-04:00",
+        "episodeTitle": "Like a Boss",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-07T21:30:00-04:00",
+        "episodeTitle": "American Fung",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-07T22:00:00-04:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-07T22:30:00-04:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-07T23:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-07T23:30:00-04:00",
+        "episodeTitle": "Vicki",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-07T23:45:00-04:00",
+        "episodeTitle": "For the Jenners",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T00:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T00:30:00-04:00",
+        "episodeTitle": "Save Me!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T00:45:00-04:00",
+        "episodeTitle": "The End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T01:00:00-04:00",
+        "episodeTitle": "How Do You Solve a Problem Like Roberta?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T01:30:00-04:00",
+        "episodeTitle": "American Fung",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T02:00:00-04:00",
+        "episodeTitle": "#JOLO",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T02:30:00-04:00",
+        "episodeTitle": "Once Bitten",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T03:00:00-04:00",
+        "episodeTitle": "Lawnmower Dog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T03:30:00-04:00",
+        "episodeTitle": "Vicki",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T03:45:00-04:00",
+        "episodeTitle": "For the Jenners",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 429712,
+        "showTitle": "Brad Neely's Harg Nallin' Sclopio Peepio"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T04:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T04:30:00-04:00",
+        "episodeTitle": "Save Me!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T04:45:00-04:00",
+        "episodeTitle": "The End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T05:00:00-04:00",
+        "episodeTitle": "Bobby On Track",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-08-07T00:00:00-04:00",
+        "datetime": "2016-08-08T05:30:00-04:00",
+        "episodeTitle": "It Ain't Over Till The Fat Neighbor Sings",
+        "rating": "TV-PG DL",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

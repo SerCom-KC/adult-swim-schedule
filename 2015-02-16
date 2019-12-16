@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-16T21:00:00-05:00",
+        "episodeTitle": "Brown History Month",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-16T21:30:00-05:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-16T22:00:00-05:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-16T22:30:00-05:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-16T23:00:00-05:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-16T23:30:00-05:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T00:00:00-05:00",
+        "episodeTitle": "Disemboweled by an Orphan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T00:15:00-05:00",
+        "episodeTitle": "Hurtled from a Helicopter into a Speeding Train",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T00:30:00-05:00",
+        "episodeTitle": "Carl Wash",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T00:45:00-05:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T01:00:00-05:00",
+        "episodeTitle": "The Good One",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T01:15:00-05:00",
+        "episodeTitle": "The Blessed Union",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 338087,
+        "showTitle": "Moral Orel"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T01:30:00-05:00",
+        "episodeTitle": "Quagmire's Mom",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T02:00:00-05:00",
+        "episodeTitle": "Old Man and the Big C",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T02:30:00-05:00",
+        "episodeTitle": "Great Space Roaster",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T03:00:00-05:00",
+        "episodeTitle": "100 A.D.",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T03:30:00-05:00",
+        "episodeTitle": "Disemboweled by an Orphan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T03:45:00-05:00",
+        "episodeTitle": "Hurtled from a Helicopter into a Speeding Train",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T04:00:00-05:00",
+        "episodeTitle": "February 13, 2015 Part 2",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T04:15:00-05:00",
+        "episodeTitle": "Robin",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T04:30:00-05:00",
+        "episodeTitle": "Carl Wash",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T04:45:00-05:00",
+        "episodeTitle": "Mayhem of the Mooninites",
+        "rating": "TV-14 ",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T05:00:00-05:00",
+        "episodeTitle": "Brown History Month",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-02-16T00:00:00-05:00",
+        "datetime": "2015-02-17T05:30:00-05:00",
+        "episodeTitle": "Six Characters in Search of a House",
+        "rating": "TV-PG L",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

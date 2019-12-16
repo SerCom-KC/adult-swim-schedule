@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-24T21:00:00-05:00",
+        "episodeTitle": "Murray Christmas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-24T21:30:00-05:00",
+        "episodeTitle": "Season's Beatings",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-24T22:00:00-05:00",
+        "episodeTitle": "Christmas in the Car",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-24T22:30:00-05:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-24T23:00:00-05:00",
+        "episodeTitle": "A Very Special Family Guy Freakin' Christmas",
+        "rating": "TV-14 ",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-24T23:30:00-05:00",
+        "episodeTitle": "Christmas Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T00:00:00-05:00",
+        "episodeTitle": "Scavengers",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 433992,
+        "showTitle": "Scavengers"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T00:15:00-05:00",
+        "episodeTitle": "The Dark Knights",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T00:45:00-05:00",
+        "episodeTitle": "Tomorrow's Courage",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T01:15:00-05:00",
+        "episodeTitle": "Sorrowful Successor",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T01:45:00-05:00",
+        "episodeTitle": "Bloody Battle! JoJo & Dio",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T02:15:00-05:00",
+        "episodeTitle": "The Final Ripple!",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T02:45:00-05:00",
+        "episodeTitle": "New York's JoJo",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 432392,
+        "showTitle": "JoJo's Bizarre Adventure"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T03:15:00-05:00",
+        "episodeTitle": "Scavengers",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 433992,
+        "showTitle": "Scavengers"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T03:30:00-05:00",
+        "episodeTitle": "Season's Beatings",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T04:00:00-05:00",
+        "episodeTitle": "Christmas in the Car",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T04:30:00-05:00",
+        "episodeTitle": "Father of the Bob",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T05:00:00-05:00",
+        "episodeTitle": "Pretty, Pretty Dresses",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2016-12-24T00:00:00-05:00",
+        "datetime": "2016-12-25T05:30:00-05:00",
+        "episodeTitle": "'Twas the Nut Before Christmas",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

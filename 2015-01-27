@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-27T21:00:00-05:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-27T21:30:00-05:00",
+        "episodeTitle": "Sex and the Biddy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-27T22:00:00-05:00",
+        "episodeTitle": "Escape from Pearl Bailey",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-27T22:30:00-05:00",
+        "episodeTitle": "Pulling Double Booty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-27T23:00:00-05:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-27T23:30:00-05:00",
+        "episodeTitle": "Fore Father",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T00:00:00-05:00",
+        "episodeTitle": "Terms of Endaredevil",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T00:15:00-05:00",
+        "episodeTitle": "Big Trouble in Little Clerks 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T00:30:00-05:00",
+        "episodeTitle": "Coma",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T00:45:00-05:00",
+        "episodeTitle": "The Budding of the Warbuxx",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T01:00:00-05:00",
+        "episodeTitle": "The Clowning",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T01:15:00-05:00",
+        "episodeTitle": "Burned And Reburned Again",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T01:30:00-05:00",
+        "episodeTitle": "Escape from Pearl Bailey",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T02:00:00-05:00",
+        "episodeTitle": "Pulling Double Booty",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T02:30:00-05:00",
+        "episodeTitle": "Wasted Talent",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T03:00:00-05:00",
+        "episodeTitle": "Fore Father",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T03:30:00-05:00",
+        "episodeTitle": "Terms of Endaredevil",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T03:45:00-05:00",
+        "episodeTitle": "Big Trouble in Little Clerks 2",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T04:00:00-05:00",
+        "episodeTitle": "For-Profit Online University",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 324534,
+        "showTitle": "SPECIAL:"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T04:15:00-05:00",
+        "episodeTitle": "Cats",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T04:30:00-05:00",
+        "episodeTitle": "The Clowning",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T04:45:00-05:00",
+        "episodeTitle": "Burned And Reburned Again",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T05:00:00-05:00",
+        "episodeTitle": "Yemen Party",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-27T00:00:00-05:00",
+        "datetime": "2015-01-28T05:30:00-05:00",
+        "episodeTitle": "Business Is Picking Up",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

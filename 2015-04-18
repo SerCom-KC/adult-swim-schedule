@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-18T21:00:00-04:00",
+        "episodeTitle": "Beer and Loathing",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-18T21:30:00-04:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-18T22:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-18T22:30:00-04:00",
+        "episodeTitle": "Smokin' with Cigarettes",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-18T23:00:00-04:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-18T23:30:00-04:00",
+        "episodeTitle": "Jerome Is the New Black",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T00:00:00-04:00",
+        "episodeTitle": "The Rebellion Against Frieza! Vegeta's Burning Ambition!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 1,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T00:30:00-04:00",
+        "episodeTitle": "I'm Not Your Cute Woman",
+        "rating": "TV-MA LS",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T01:00:00-04:00",
+        "episodeTitle": "GGO",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T01:30:00-04:00",
+        "episodeTitle": "Kohaku's Shard",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 412473,
+        "showTitle": "Inuyasha: The Final Act"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T02:00:00-04:00",
+        "episodeTitle": "The Two Kings",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T02:30:00-04:00",
+        "episodeTitle": "Hunter Sanji Makes an Entrance? Elegy for a Lying Wolf!",
+        "rating": "TV-14 V",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T03:00:00-04:00",
+        "episodeTitle": "The Night of the Closing Ceremony: Humanity's Comeback Part 2",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T03:30:00-04:00",
+        "episodeTitle": "When a Man (Or a Freight Train) Loves His Cookie",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T04:00:00-04:00",
+        "episodeTitle": "Brownsized",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T04:30:00-04:00",
+        "episodeTitle": "Iced, Iced Babies",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T05:00:00-04:00",
+        "episodeTitle": "Dances With Dogs",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-04-18T00:00:00-04:00",
+        "datetime": "2015-04-19T05:30:00-04:00",
+        "episodeTitle": "Beer and Loathing",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

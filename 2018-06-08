@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-08T21:00:00-04:00",
+        "episodeTitle": "Hot Cocoa Bang Bang",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-08T21:30:00-04:00",
+        "episodeTitle": "Return of the Bling",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-08T22:00:00-04:00",
+        "episodeTitle": "Cops and Roger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-08T22:30:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-08T23:00:00-04:00",
+        "episodeTitle": "Road To Europe",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-08T23:30:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T00:00:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T00:30:00-04:00",
+        "episodeTitle": "Tapping a Hero",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T00:45:00-04:00",
+        "episodeTitle": "Shoe",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T01:00:00-04:00",
+        "episodeTitle": "By the Throat",
+        "rating": "TV-14 D",
+        "seasonNumber": 7,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T01:15:00-04:00",
+        "episodeTitle": "TGI Murder",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T01:30:00-04:00",
+        "episodeTitle": "Weekend at Morts",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T02:00:00-04:00",
+        "episodeTitle": "Road To Europe",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T02:30:00-04:00",
+        "episodeTitle": "Family Guy Viewer Mail #1",
+        "rating": "TV-14 D",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T03:00:00-04:00",
+        "episodeTitle": "Return of the Bling",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T03:30:00-04:00",
+        "episodeTitle": "Cops and Roger",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 6/8/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T04:15:00-04:00",
+        "episodeTitle": "Bloodfeast - 6/4/2018",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T04:30:00-04:00",
+        "episodeTitle": "The Rickshank Rickdemption",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T05:00:00-04:00",
+        "episodeTitle": "Hot Cocoa Bang Bang",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-06-08T00:00:00-04:00",
+        "datetime": "2018-06-09T05:30:00-04:00",
+        "episodeTitle": "Life: A Loser's Manual",
+        "rating": "TV-PG LS",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-20T21:00:00-05:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-20T21:30:00-05:00",
+        "episodeTitle": "To Live and Die in VA",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-20T22:00:00-05:00",
+        "episodeTitle": "Oedipal Panties",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-20T22:30:00-05:00",
+        "episodeTitle": "Widowmaker",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-20T23:00:00-05:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-20T23:30:00-05:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T00:00:00-05:00",
+        "episodeTitle": "Unionizing Our Labor",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T00:15:00-05:00",
+        "episodeTitle": "President Hu Forbids it",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T00:30:00-05:00",
+        "episodeTitle": "The Cheeseman",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T00:45:00-05:00",
+        "episodeTitle": "Hotchick",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T01:00:00-05:00",
+        "episodeTitle": "Dia de los Dangerous",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T01:30:00-05:00",
+        "episodeTitle": "Oedipal Panties",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T02:00:00-05:00",
+        "episodeTitle": "Widowmaker",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T02:30:00-05:00",
+        "episodeTitle": "A Picture Is Worth a Thousand Bucks",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T03:00:00-05:00",
+        "episodeTitle": "Fifteen Minutes of Shame",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T03:30:00-05:00",
+        "episodeTitle": "Unionizing Our Labor",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T03:45:00-05:00",
+        "episodeTitle": "President Hu Forbids it",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T04:00:00-05:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 324534,
+        "showTitle": "SPECIAL:"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T04:15:00-05:00",
+        "episodeTitle": "Greene Machine",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 346726,
+        "showTitle": "Tim and Eric Awesome Show, Great Job"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T04:30:00-05:00",
+        "episodeTitle": "Dia de los Dangerous",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T05:00:00-05:00",
+        "episodeTitle": "The Way the Cookie Crumbles",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-01-20T00:00:00-05:00",
+        "datetime": "2015-01-21T05:30:00-05:00",
+        "episodeTitle": "Care-Takin' Care of Business",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

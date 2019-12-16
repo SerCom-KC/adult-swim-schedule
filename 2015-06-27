@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-27T21:00:00-04:00",
+        "episodeTitle": "Three Coaches and a Bobby",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-27T21:30:00-04:00",
+        "episodeTitle": "Squirt's Honor",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-27T22:00:00-04:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-27T22:30:00-04:00",
+        "episodeTitle": "The Trial of Robert Kelly",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-27T23:00:00-04:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-27T23:30:00-04:00",
+        "episodeTitle": "Brian Does Hollywood Part 2",
+        "rating": "TV-14 DS",
+        "seasonNumber": 3,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T00:00:00-04:00",
+        "episodeTitle": "The Nightmare Recoome! Come Out and Play, Vegeta!",
+        "rating": "TV-PG LV",
+        "seasonNumber": 2,
+        "showID": 412472,
+        "showTitle": "Dragon Ball Z Kai: The Final Chapters"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T00:30:00-04:00",
+        "episodeTitle": "Far from the Madding Crowd",
+        "rating": "TV-MA SV",
+        "seasonNumber": 1,
+        "showID": 414992,
+        "showTitle": "KILL la KILL"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T01:00:00-04:00",
+        "episodeTitle": "The Brown Sugar Outlaw",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 419352,
+        "showTitle": "Michiko & Hatchin"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T01:30:00-04:00",
+        "episodeTitle": "Phantom Bullet",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 416312,
+        "showTitle": "Sword Art Online II"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T02:00:00-04:00",
+        "episodeTitle": "The Quietly Approaching Threat",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T02:30:00-04:00",
+        "episodeTitle": "A Mysterious Mermaid Appears? As Consciousness Fades Away...",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 331646,
+        "showTitle": "One Piece"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T03:00:00-04:00",
+        "episodeTitle": "Primal Desire: The Struggle for Trost Part 9",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T03:30:00-04:00",
+        "episodeTitle": "Squirt's Honor",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T04:00:00-04:00",
+        "episodeTitle": "Grave Danger",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T04:30:00-04:00",
+        "episodeTitle": "The Worst Stan",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T05:00:00-04:00",
+        "episodeTitle": "To Spank with Love",
+        "rating": "TV-PG ",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    },
+    {
+        "date": "2015-06-27T00:00:00-04:00",
+        "datetime": "2015-06-28T05:30:00-04:00",
+        "episodeTitle": "Three Coaches and a Bobby",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

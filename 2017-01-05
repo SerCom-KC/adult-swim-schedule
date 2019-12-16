@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-05T21:00:00-05:00",
+        "episodeTitle": "Crazy Train",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-05T21:30:00-05:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-05T22:00:00-05:00",
+        "episodeTitle": "Introducing the Naughty Stewardesses",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-05T22:30:00-05:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-05T23:00:00-05:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-05T23:30:00-05:00",
+        "episodeTitle": "Vestigial Peter",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T00:00:00-05:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T00:15:00-05:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T00:30:00-05:00",
+        "episodeTitle": "Der Inflatable Fuhrer",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T00:45:00-05:00",
+        "episodeTitle": "The Last Last One Forever and Ever",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T01:00:00-05:00",
+        "episodeTitle": "Tichina Arnold; Steve Schirrpa",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T01:15:00-05:00",
+        "episodeTitle": "Fire Drill",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T01:30:00-05:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T02:00:00-05:00",
+        "episodeTitle": "Finders Keepers",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T02:30:00-05:00",
+        "episodeTitle": "Introducing the Naughty Stewardesses",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T03:00:00-05:00",
+        "episodeTitle": "I Ain't No Holodeck Boy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T03:30:00-05:00",
+        "episodeTitle": "Toy Meets Girl",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T03:45:00-05:00",
+        "episodeTitle": "Midnight Snack",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T04:00:00-05:00",
+        "episodeTitle": "Big Grams",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T04:15:00-05:00",
+        "episodeTitle": "M.O.P.Z.",
+        "rating": "TV-14 LSV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T04:30:00-05:00",
+        "episodeTitle": "Tichina Arnold; Steve Schirrpa",
+        "rating": "TV-MA LSV",
+        "seasonNumber": 4,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T04:45:00-05:00",
+        "episodeTitle": "Fire Drill",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T05:00:00-05:00",
+        "episodeTitle": "Crazy Train",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-05T00:00:00-05:00",
+        "datetime": "2017-01-06T05:30:00-05:00",
+        "episodeTitle": "Dale To the Chief",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

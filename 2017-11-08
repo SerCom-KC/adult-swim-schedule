@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-08T21:00:00-05:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-08T21:30:00-05:00",
+        "episodeTitle": "Stannie Get Your Gun",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-08T22:00:00-05:00",
+        "episodeTitle": "Boyz 4 Now",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-08T22:30:00-05:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-08T23:00:00-05:00",
+        "episodeTitle": "Meg Stinks!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-08T23:30:00-05:00",
+        "episodeTitle": "He's Bla-ack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T00:00:00-05:00",
+        "episodeTitle": "We Are a Humble Factory",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T00:15:00-05:00",
+        "episodeTitle": "Maurice Was Caught",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T00:30:00-05:00",
+        "episodeTitle": "Kidnapped!",
+        "rating": "TV-14 LS",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T00:45:00-05:00",
+        "episodeTitle": "Time Machine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T01:00:00-05:00",
+        "episodeTitle": "Double Decker",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 439092,
+        "showTitle": "Decker: Unsealed"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T01:15:00-05:00",
+        "episodeTitle": "The Leak",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T01:30:00-05:00",
+        "episodeTitle": "Boyz 4 Now",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T02:00:00-05:00",
+        "episodeTitle": "Carpe Museum",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T02:30:00-05:00",
+        "episodeTitle": "Meg Stinks!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T03:00:00-05:00",
+        "episodeTitle": "He's Bla-ack!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T03:30:00-05:00",
+        "episodeTitle": "Stan of Arabia Part 2",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T04:00:00-05:00",
+        "episodeTitle": "Wet Shapes",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T04:15:00-05:00",
+        "episodeTitle": "Frank Pierre Presents: Pierre Resort & Casino",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T04:30:00-05:00",
+        "episodeTitle": "Double Decker",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 439092,
+        "showTitle": "Decker: Unsealed"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T04:45:00-05:00",
+        "episodeTitle": "The Leak",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T05:00:00-05:00",
+        "episodeTitle": "Da Doggone Daddy-Daughter Dinner Dance",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-11-08T00:00:00-05:00",
+        "datetime": "2017-11-09T05:30:00-05:00",
+        "episodeTitle": "Hank's On Board",
+        "rating": "TV-PG DL",
+        "seasonNumber": 10,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

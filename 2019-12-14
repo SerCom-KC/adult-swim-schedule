@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-14T21:00:00-05:00",
+        "episodeTitle": "Late Afternoon in the Garden of Bob and Louise",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-14T21:30:00-05:00",
+        "episodeTitle": "The Millie-Churian Candidate",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-14T22:00:00-05:00",
+        "episodeTitle": "Brian's Play",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-14T22:30:00-05:00",
+        "episodeTitle": "The Giggity Wife",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-14T23:00:00-05:00",
+        "episodeTitle": "An Unpleasant Talk",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-14T23:30:00-05:00",
+        "episodeTitle": "Justice Under Siege",
+        "rating": "TV-MA S",
+        "seasonNumber": 2,
+        "showID": 429752,
+        "showTitle": "One-Punch Man"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T00:00:00-05:00",
+        "episodeTitle": "A Tale for the Ages",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 459432,
+        "showTitle": "Dr. Stone"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T00:30:00-05:00",
+        "episodeTitle": "Into the Nether",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458812,
+        "showTitle": "Fire Force"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T01:00:00-05:00",
+        "episodeTitle": "That Which Transcends the Norm",
+        "rating": "TV-MA S",
+        "seasonNumber": 1,
+        "showID": 458272,
+        "showTitle": "Food Wars!"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T01:30:00-05:00",
+        "episodeTitle": "Temari Demon and Arrow Demon",
+        "rating": "TV-MA V",
+        "seasonNumber": 1,
+        "showID": 460432,
+        "showTitle": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T02:00:00-05:00",
+        "episodeTitle": "The Sleeping Lion",
+        "rating": "TV-14 V",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T02:30:00-05:00",
+        "episodeTitle": "Six Bullets Appears Part 1",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 460433,
+        "showTitle": "JoJo's Bizarre Adventure: Golden Wind"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T03:00:00-05:00",
+        "episodeTitle": "Lupin the 3rd: Is Lupin Still Burning?",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 461352,
+        "showTitle": "Lupin the 3rd: Is Lupin Still Burning?"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T03:45:00-05:00",
+        "episodeTitle": "Scavengers",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 433992,
+        "showTitle": "Scavengers"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T04:00:00-05:00",
+        "episodeTitle": "First Battle: The Struggle for Trost Part 1",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T04:30:00-05:00",
+        "episodeTitle": "Ghosts",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T04:45:00-05:00",
+        "episodeTitle": "Breathe Deep to Win! Teamwork Cuts Through the Foul Odor of Obsession!",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 446772,
+        "showTitle": "Ballmastrz: 9009"
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T05:00:00-05:00",
+        "episodeTitle": "Party All the Time",
+        "rating": "TV-14 L",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T05:15:00-05:00",
+        "episodeTitle": "Global Grilling",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2019-12-14T00:00:00-05:00",
+        "datetime": "2019-12-15T05:30:00-05:00",
+        "episodeTitle": "Temporary Blindness",
+        "rating": "TV-PG L",
+        "seasonNumber": 4,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

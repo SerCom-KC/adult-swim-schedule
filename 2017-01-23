@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-23T21:00:00-05:00",
+        "episodeTitle": "The Shrink",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-23T21:30:00-05:00",
+        "episodeTitle": "Holy S***, Jeff's Back!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-23T22:00:00-05:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-23T22:30:00-05:00",
+        "episodeTitle": "Slumber Party",
+        "rating": "TV-PG LV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-23T23:00:00-05:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T00:00:00-05:00",
+        "episodeTitle": "Sausage Fest",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T00:15:00-05:00",
+        "episodeTitle": "Drippy Pony",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T00:30:00-05:00",
+        "episodeTitle": "Circus",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T00:45:00-05:00",
+        "episodeTitle": "Love Mummy",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T01:00:00-05:00",
+        "episodeTitle": "Ryan Kwanten; Beyonce & Jay-Z",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T01:15:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T01:30:00-05:00",
+        "episodeTitle": "The Shrink",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T02:00:00-05:00",
+        "episodeTitle": "Holy S***, Jeff's Back!",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T02:30:00-05:00",
+        "episodeTitle": "Bob and Deliver",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T03:00:00-05:00",
+        "episodeTitle": "Simpsons Guy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T04:00:00-05:00",
+        "episodeTitle": "Dance",
+        "rating": "TV-PG D",
+        "seasonNumber": 1,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T04:15:00-05:00",
+        "episodeTitle": "Vibracaust",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T04:30:00-05:00",
+        "episodeTitle": "Ryan Kwanten; Beyonce & Jay-Z",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T04:45:00-05:00",
+        "episodeTitle": "Pilot",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T05:00:00-05:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-01-23T00:00:00-05:00",
+        "datetime": "2017-01-24T05:30:00-05:00",
+        "episodeTitle": "Grand Theft Arlen",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 11,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-27T21:00:00-04:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-27T21:30:00-04:00",
+        "episodeTitle": "American Prankster",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-27T22:00:00-04:00",
+        "episodeTitle": "American Stepdad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-27T22:30:00-04:00",
+        "episodeTitle": "Why Can't We Be Friends",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-27T23:00:00-04:00",
+        "episodeTitle": "Brothers and Sisters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-27T23:30:00-04:00",
+        "episodeTitle": "The Big Bang Theory",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T00:00:00-04:00",
+        "episodeTitle": "Operation Rich in Spirit",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T00:15:00-04:00",
+        "episodeTitle": "Adultizzle Swizzle",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T00:30:00-04:00",
+        "episodeTitle": "Tent Revival",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T00:45:00-04:00",
+        "episodeTitle": "Hand Banana",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T01:00:00-04:00",
+        "episodeTitle": "Poor Clancy's Almanack",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 346729,
+        "showTitle": "Saul of the Molemen"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T01:15:00-04:00",
+        "episodeTitle": "Young Person's Guide to History Special Part 1",
+        "rating": "TV-MA ",
+        "seasonNumber": 0,
+        "showID": 357230,
+        "showTitle": "Young Person's Guide To History"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T01:30:00-04:00",
+        "episodeTitle": "American Stepdad",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T02:00:00-04:00",
+        "episodeTitle": "Why Can't We Be Friends",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T02:30:00-04:00",
+        "episodeTitle": "Brothers and Sisters",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T03:00:00-04:00",
+        "episodeTitle": "The Big Bang Theory",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T03:30:00-04:00",
+        "episodeTitle": "Operation Rich in Spirit",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T03:45:00-04:00",
+        "episodeTitle": "Adultizzle Swizzle",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T04:00:00-04:00",
+        "episodeTitle": "Joe Pera Talks You to Sleep",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T04:15:00-04:00",
+        "episodeTitle": "Broomshakalaka",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T04:30:00-04:00",
+        "episodeTitle": "Poor Clancy's Almanack",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 346729,
+        "showTitle": "Saul of the Molemen"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T04:45:00-04:00",
+        "episodeTitle": "Young Person's Guide to History Special Part 1",
+        "rating": "TV-MA ",
+        "seasonNumber": 0,
+        "showID": 357230,
+        "showTitle": "Young Person's Guide To History"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T05:00:00-04:00",
+        "episodeTitle": "Das Shrimp Boot",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-09-27T00:00:00-04:00",
+        "datetime": "2017-09-28T05:30:00-04:00",
+        "episodeTitle": "Bad Girls, Bad Girls, Whatcha Gonna Do",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-17T21:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-17T21:30:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-17T22:00:00-04:00",
+        "episodeTitle": "Lincoln Lover",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-17T22:30:00-04:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-17T23:00:00-04:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-17T23:30:00-04:00",
+        "episodeTitle": "Quagmire's Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T00:00:00-04:00",
+        "episodeTitle": "With Great Power . . .",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T00:15:00-04:00",
+        "episodeTitle": "Band Names-R-Us, Put Me in Coach",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T00:30:00-04:00",
+        "episodeTitle": "Ryan Kwanten; Beyonce & Jay-Z",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T00:45:00-04:00",
+        "episodeTitle": "The HP Success Awards",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 398352,
+        "showTitle": "Hot Package"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T01:00:00-04:00",
+        "episodeTitle": "Assassinanny 911",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T01:30:00-04:00",
+        "episodeTitle": "Hannah Banana",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T02:00:00-04:00",
+        "episodeTitle": "Quagmire's Baby",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T02:30:00-04:00",
+        "episodeTitle": "Burger Wars",
+        "rating": "TV-PG DL",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T03:00:00-04:00",
+        "episodeTitle": "Dungeons and Wagons",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T03:30:00-04:00",
+        "episodeTitle": "With Great Power . . .",
+        "rating": "TV-14 DL",
+        "seasonNumber": 6,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T03:45:00-04:00",
+        "episodeTitle": "Band Names-R-Us, Put Me in Coach",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 388835,
+        "showTitle": "Newsreaders"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T04:00:00-04:00",
+        "episodeTitle": "Transportation",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T04:15:00-04:00",
+        "episodeTitle": "Piper Doesn't Live Here Anymore",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T04:30:00-04:00",
+        "episodeTitle": "Assassinanny 911",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T05:00:00-04:00",
+        "episodeTitle": "Mr. and Mrs. Brown",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-04-17T00:00:00-04:00",
+        "datetime": "2015-04-18T05:30:00-04:00",
+        "episodeTitle": "Bad Girls, Bad Girls, Whatcha Gonna Do",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

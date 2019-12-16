@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-01T21:00:00-05:00",
+        "episodeTitle": "The Two Hundred",
+        "rating": "TV-14 V",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-01T21:30:00-05:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-01T22:00:00-05:00",
+        "episodeTitle": "Glued, Where's My Bob?",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-01T22:30:00-05:00",
+        "episodeTitle": "Wharf Horse",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-01T23:00:00-05:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-01T23:30:00-05:00",
+        "episodeTitle": "Brian: Portrait of a Dog",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T00:00:00-05:00",
+        "episodeTitle": "Celebutard Mountain",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T00:15:00-05:00",
+        "episodeTitle": "Moesha Poppins",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T00:30:00-05:00",
+        "episodeTitle": "Super Trivia",
+        "rating": "TV-PG DL",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T00:45:00-05:00",
+        "episodeTitle": "Universal Re-Monster",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T01:00:00-05:00",
+        "episodeTitle": "Pauly D; Rick Springfield",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T01:15:00-05:00",
+        "episodeTitle": "Speck",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T01:30:00-05:00",
+        "episodeTitle": "The Two Hundred",
+        "rating": "TV-14 V",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T02:00:00-05:00",
+        "episodeTitle": "The Unincludeds",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T02:30:00-05:00",
+        "episodeTitle": "Glued, Where's My Bob?",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T03:00:00-05:00",
+        "episodeTitle": "I Am Peter Hear Me Roar",
+        "rating": "TV-14 DS",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T03:30:00-05:00",
+        "episodeTitle": "Brian: Portrait of a Dog",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T04:00:00-05:00",
+        "episodeTitle": "Words",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T04:15:00-05:00",
+        "episodeTitle": "Kharmarabionic Lotion",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 352414,
+        "showTitle": "Xavier: Renegade Angel"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T04:30:00-05:00",
+        "episodeTitle": "Pauly D; Rick Springfield",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T04:45:00-05:00",
+        "episodeTitle": "Speck",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T05:00:00-05:00",
+        "episodeTitle": "You're the Best Man, Cleveland Brown!",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-02-01T00:00:00-05:00",
+        "datetime": "2017-02-02T05:30:00-05:00",
+        "episodeTitle": "The Accidental Terrorist",
+        "rating": "TV-PG DL",
+        "seasonNumber": 12,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-08T21:00:00-04:00",
+        "episodeTitle": "Like a Boss",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-08T21:30:00-04:00",
+        "episodeTitle": "Scents and Sensei-bility",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-08T22:00:00-04:00",
+        "episodeTitle": "The Oeder Games",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-08T22:30:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-08T23:00:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-08T23:30:00-04:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T00:00:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T00:30:00-04:00",
+        "episodeTitle": "Dear Consumer",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T00:45:00-04:00",
+        "episodeTitle": "Robot Chicken's DP Christmas Special",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T01:00:00-04:00",
+        "episodeTitle": "The Guzzle Bumpkin",
+        "rating": "TV-MA LV",
+        "seasonNumber": 11,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T01:15:00-04:00",
+        "episodeTitle": "Reedickyoulus",
+        "rating": "TV-MA V",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T01:30:00-04:00",
+        "episodeTitle": "The Oeder Games",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T02:00:00-04:00",
+        "episodeTitle": "Sliding Bobs",
+        "rating": "TV-PG DV",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T02:30:00-04:00",
+        "episodeTitle": "Baby, You Knock Me Out",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T03:00:00-04:00",
+        "episodeTitle": "Brian Writes a Best Seller",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T03:30:00-04:00",
+        "episodeTitle": "CIAPOW",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T04:00:00-04:00",
+        "episodeTitle": "DavidsonCare",
+        "rating": "TV-14 LV",
+        "seasonNumber": 6,
+        "showID": 439093,
+        "showTitle": "Decker: Mindwipe"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T04:15:00-04:00",
+        "episodeTitle": "Home",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 369632,
+        "showTitle": "Check It Out!"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T04:30:00-04:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T05:00:00-04:00",
+        "episodeTitle": "Rebel Appliance",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T05:15:00-04:00",
+        "episodeTitle": "Legion of Super-Gyros",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-08-08T00:00:00-04:00",
+        "datetime": "2018-08-09T05:30:00-04:00",
+        "episodeTitle": "Like a Boss",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    }
+]

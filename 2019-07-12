@@ -1,0 +1,227 @@
+[
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-12T21:00:00-04:00",
+        "episodeTitle": "Killer Queen",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-12T21:30:00-04:00",
+        "episodeTitle": "Forget Me Not",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-12T22:00:00-04:00",
+        "episodeTitle": "The Passion of Reverend Ruckus",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-12T22:30:00-04:00",
+        "episodeTitle": "...Or Die Trying",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-12T23:00:00-04:00",
+        "episodeTitle": "The Bucket List",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-12T23:15:00-04:00",
+        "episodeTitle": "The Missing Package",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-12T23:30:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T00:00:00-04:00",
+        "episodeTitle": "Milk and Honey",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T00:15:00-04:00",
+        "episodeTitle": "Five-Card Duds",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T00:30:00-04:00",
+        "episodeTitle": "Lou Ferrigno & Downtown Julie Brown",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T00:45:00-04:00",
+        "episodeTitle": "Jodie Sweetin & Vivica A. Fox",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T01:00:00-04:00",
+        "episodeTitle": "Tigtone and the Beautiful War",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T01:15:00-04:00",
+        "episodeTitle": "Tigtone and the Wine Crisis",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T01:30:00-04:00",
+        "episodeTitle": "Hayley Smith, Seal Team Six",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T02:00:00-04:00",
+        "episodeTitle": "Killer Queen",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T02:30:00-04:00",
+        "episodeTitle": "Forget Me Not",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T03:00:00-04:00",
+        "episodeTitle": "Look Who's Purging Now",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T03:30:00-04:00",
+        "episodeTitle": "The Bucket List",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T03:45:00-04:00",
+        "episodeTitle": "The Missing Package",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T04:00:00-04:00",
+        "episodeTitle": "As Seen on Adult Swim - 7/12/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T04:15:00-04:00",
+        "episodeTitle": "Digikiss - 7/12/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449336,
+        "showTitle": "Digikiss"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T04:30:00-04:00",
+        "episodeTitle": "Milk and Honey",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T04:45:00-04:00",
+        "episodeTitle": "Five-Card Duds",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T05:00:00-04:00",
+        "episodeTitle": "N.S.A. (No Snoops Allowed)",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-07-12T00:00:00-04:00",
+        "datetime": "2019-07-13T05:30:00-04:00",
+        "episodeTitle": "XXX",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 3,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

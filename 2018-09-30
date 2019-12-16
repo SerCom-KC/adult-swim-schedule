@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-09-30T21:00:00-04:00",
+        "episodeTitle": "The Grand Mama-Pest Hotel",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-09-30T21:30:00-04:00",
+        "episodeTitle": "The Never-Ending Stories",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-09-30T22:00:00-04:00",
+        "episodeTitle": "Herpe the Love Sore",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-09-30T22:30:00-04:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-09-30T23:00:00-04:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-09-30T23:30:00-04:00",
+        "episodeTitle": "Hi.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-09-30T23:45:00-04:00",
+        "episodeTitle": "What Can You Tell Me About Butt Rashes?",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T00:00:00-04:00",
+        "episodeTitle": "The Forecast Manufacturer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T00:30:00-04:00",
+        "episodeTitle": "Real Bitches of Newport Beach",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T00:45:00-04:00",
+        "episodeTitle": "Squid of the Dead",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T01:00:00-04:00",
+        "episodeTitle": "Tijuana Zebra",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T01:15:00-04:00",
+        "episodeTitle": "Circle Jerk MCMXCVIII",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T01:30:00-04:00",
+        "episodeTitle": "Herpe the Love Sore",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T02:00:00-04:00",
+        "episodeTitle": "The Most Interesting Man in the World",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T02:30:00-04:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T03:00:00-04:00",
+        "episodeTitle": "Hi.",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T03:15:00-04:00",
+        "episodeTitle": "What Can You Tell Me About Butt Rashes?",
+        "rating": "TV-MA L",
+        "seasonNumber": 9,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T03:30:00-04:00",
+        "episodeTitle": "The Forecast Manufacturer",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 7,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T04:00:00-04:00",
+        "episodeTitle": "Real Bitches of Newport Beach",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T04:15:00-04:00",
+        "episodeTitle": "Squid of the Dead",
+        "rating": "TV-14 DSV",
+        "seasonNumber": 1,
+        "showID": 432513,
+        "showTitle": "Hot Streets"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T04:30:00-04:00",
+        "episodeTitle": "Tijuana Zebra",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T04:45:00-04:00",
+        "episodeTitle": "Circle Jerk MCMXCVIII",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T05:00:00-04:00",
+        "episodeTitle": "The Never-Ending Stories",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2018-09-30T00:00:00-04:00",
+        "datetime": "2018-10-01T05:30:00-04:00",
+        "episodeTitle": "The Grand Mama-Pest Hotel",
+        "rating": "TV-PG L",
+        "seasonNumber": 7,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

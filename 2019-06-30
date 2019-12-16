@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-06-30T21:00:00-04:00",
+        "episodeTitle": "Go Tina on the Mountain",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-06-30T21:30:00-04:00",
+        "episodeTitle": "Are You There Bob? It's Me Birthday",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-06-30T22:00:00-04:00",
+        "episodeTitle": "An Irish Goodbye",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-06-30T22:30:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-06-30T23:00:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-06-30T23:30:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T00:00:00-04:00",
+        "episodeTitle": "Time to Fly",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T00:15:00-04:00",
+        "episodeTitle": "Make a Wish and Blow",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T00:30:00-04:00",
+        "episodeTitle": "These Nuts",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T00:45:00-04:00",
+        "episodeTitle": "Crash for Cash",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T01:00:00-04:00",
+        "episodeTitle": "The Party Hole",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T01:15:00-04:00",
+        "episodeTitle": "Trial by Gary",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T01:30:00-04:00",
+        "episodeTitle": "An Irish Goodbye",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 14,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T02:00:00-04:00",
+        "episodeTitle": "Grimm Job",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T02:30:00-04:00",
+        "episodeTitle": "Brian's a Bad Father",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T03:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T03:30:00-04:00",
+        "episodeTitle": "Time to Fly",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T03:45:00-04:00",
+        "episodeTitle": "Make a Wish and Blow",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T04:00:00-04:00",
+        "episodeTitle": "These Nuts",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T04:15:00-04:00",
+        "episodeTitle": "Crash for Cash",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 442432,
+        "showTitle": "The Jellies"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T04:30:00-04:00",
+        "episodeTitle": "The Party Hole",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T04:45:00-04:00",
+        "episodeTitle": "Trial by Gary",
+        "rating": "TV-MA V",
+        "seasonNumber": 4,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T05:00:00-04:00",
+        "episodeTitle": "Go Tina on the Mountain",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2019-06-30T00:00:00-04:00",
+        "datetime": "2019-07-01T05:30:00-04:00",
+        "episodeTitle": "Are You There Bob? It's Me Birthday",
+        "rating": "TV-PG LV",
+        "seasonNumber": 8,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    }
+]

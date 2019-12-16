@@ -1,0 +1,164 @@
+[
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-16T21:00:00-05:00",
+        "episodeTitle": "Rixty Minutes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-16T21:30:00-05:00",
+        "episodeTitle": "Something Ricked This Way Comes",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-16T22:00:00-05:00",
+        "episodeTitle": "No Country Club for Old Men",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-16T22:30:00-05:00",
+        "episodeTitle": "Roads to Vegas",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-16T23:00:00-05:00",
+        "episodeTitle": "Ah, the Uncertainty! A Universe Despairs!!",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 434392,
+        "showTitle": "Dragon Ball Super"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-16T23:30:00-05:00",
+        "episodeTitle": "A Day in The Life of the Uzumaki Family",
+        "rating": "TV-PG ",
+        "seasonNumber": 1,
+        "showID": 451293,
+        "showTitle": "Boruto: Naruto Next Generations"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T00:00:00-05:00",
+        "episodeTitle": "Katsuki Bakugo: Origin",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 448434,
+        "showTitle": "My Hero Academia"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T00:30:00-05:00",
+        "episodeTitle": "The Demon Tree",
+        "rating": "TV-PG L",
+        "seasonNumber": 3,
+        "showID": 453832,
+        "showTitle": "Sword Art Online: Alicization"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T01:00:00-05:00",
+        "episodeTitle": "Deadline of the Dream",
+        "rating": "TV-14 L",
+        "seasonNumber": 1,
+        "showID": 452492,
+        "showTitle": "Megalobox"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T01:30:00-05:00",
+        "episodeTitle": "Heart Attack Part 1",
+        "rating": "TV-MA V",
+        "seasonNumber": 3,
+        "showID": 450032,
+        "showTitle": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T02:00:00-05:00",
+        "episodeTitle": "Infiltration",
+        "rating": "TV-PG ",
+        "seasonNumber": 2,
+        "showID": 443752,
+        "showTitle": "Black Clover"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T02:30:00-05:00",
+        "episodeTitle": "Magic x to x Destroy",
+        "rating": "TV-14 V",
+        "seasonNumber": 3,
+        "showID": 427312,
+        "showTitle": "Hunter x Hunter"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T03:00:00-05:00",
+        "episodeTitle": "Ah, My Hero Lady Tsunade!",
+        "rating": "TV-PG ",
+        "seasonNumber": 5,
+        "showID": 391933,
+        "showTitle": "Naruto:Shippuden"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T03:30:00-05:00",
+        "episodeTitle": "Bystander",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 406152,
+        "showTitle": "Attack on Titan"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T04:00:00-05:00",
+        "episodeTitle": "Stinkmeaner Strikes Back",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T04:30:00-05:00",
+        "episodeTitle": "\"Just Beat It\" or \"Jackson Five Across Yo' Eyes\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T05:00:00-05:00",
+        "episodeTitle": "Ice Station Impossible",
+        "rating": "TV-14 SV",
+        "seasonNumber": 1,
+        "showID": 325518,
+        "showTitle": "The Venture Brothers"
+    },
+    {
+        "date": "2019-02-16T00:00:00-05:00",
+        "datetime": "2019-02-17T05:30:00-05:00",
+        "episodeTitle": "Yoko",
+        "rating": "TV-PG L",
+        "seasonNumber": 1,
+        "showID": 319443,
+        "showTitle": "Home Movies "
+    }
+]

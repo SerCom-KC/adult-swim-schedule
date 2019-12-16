@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-27T21:00:00-04:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-27T21:30:00-04:00",
+        "episodeTitle": "Next of Pin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-27T22:00:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-27T22:30:00-04:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-27T23:00:00-04:00",
+        "episodeTitle": "An Indecent Thanksgiving Proposal",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-27T23:30:00-04:00",
+        "episodeTitle": "The Deepening",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T00:00:00-04:00",
+        "episodeTitle": "G.I. Gogurt",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T00:15:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T00:30:00-04:00",
+        "episodeTitle": "Dummy Love",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T00:45:00-04:00",
+        "episodeTitle": "A Walk to Dignity",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T01:00:00-04:00",
+        "episodeTitle": "Maria Menounos & Eric Balfour",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T01:15:00-04:00",
+        "episodeTitle": "Junk in the Trunk",
+        "rating": "TV-14 DV",
+        "seasonNumber": 1,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T01:30:00-04:00",
+        "episodeTitle": "Vision: Impossible",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T02:00:00-04:00",
+        "episodeTitle": "Next of Pin",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T02:30:00-04:00",
+        "episodeTitle": "Mom's the Word",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T03:00:00-04:00",
+        "episodeTitle": "3 Acts of God",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T03:30:00-04:00",
+        "episodeTitle": "G.I. Gogurt",
+        "rating": "TV-MA L",
+        "seasonNumber": 7,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T03:45:00-04:00",
+        "episodeTitle": "Mental Asylum",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T04:00:00-04:00",
+        "episodeTitle": "Smoothies, Pumpkins & Cookies",
+        "rating": "TV-14 DL",
+        "seasonNumber": 1,
+        "showID": 385754,
+        "showTitle": "You're Whole"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T04:15:00-04:00",
+        "episodeTitle": "Falling",
+        "rating": "TV-PG V",
+        "seasonNumber": 2,
+        "showID": 374155,
+        "showTitle": "Off The Air"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T04:30:00-04:00",
+        "episodeTitle": "An Indecent Thanksgiving Proposal",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T05:00:00-04:00",
+        "episodeTitle": "The Wide World Of The Cleveland Show",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2016-06-27T00:00:00-04:00",
+        "datetime": "2016-06-28T05:30:00-04:00",
+        "episodeTitle": "Sug Night",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

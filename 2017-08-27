@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-27T21:00:00-04:00",
+        "episodeTitle": "My Big Fat Greek Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-27T21:30:00-04:00",
+        "episodeTitle": "Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers",
+        "rating": "TV-14 DL",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-27T22:00:00-04:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-27T22:30:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-27T23:00:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-27T23:30:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T00:00:00-04:00",
+        "episodeTitle": "Tim and Eric Awesome Show, Great Job! Awesome 10 Year Anniversary Version, Great Job?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 440912,
+        "showTitle": "Tim and Eric Awesome Show, Great Job! Awesome 10 Year Anniversary Version, Great Job?"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T00:30:00-04:00",
+        "episodeTitle": "Sonrise",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 439092,
+        "showTitle": "Decker: Unsealed"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T00:45:00-04:00",
+        "episodeTitle": "Promises Kept",
+        "rating": "TV-14 LV",
+        "seasonNumber": 5,
+        "showID": 439092,
+        "showTitle": "Decker: Unsealed"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T01:00:00-04:00",
+        "episodeTitle": "Blackout Window Heat Stroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T01:15:00-04:00",
+        "episodeTitle": "The Unnamed One",
+        "rating": "TV-MA ",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T01:30:00-04:00",
+        "episodeTitle": "My Big Fat Greek Bob",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T02:00:00-04:00",
+        "episodeTitle": "Bahama Mama",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T02:30:00-04:00",
+        "episodeTitle": "Scammed Yankees",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T03:00:00-04:00",
+        "episodeTitle": "An App a Day",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 14,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T03:30:00-04:00",
+        "episodeTitle": "The Whirly Dirly Conspiracy",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T04:00:00-04:00",
+        "episodeTitle": "Rest and Ricklaxation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T04:30:00-04:00",
+        "episodeTitle": "Tim and Eric Awesome Show, Great Job! Awesome 10 Year Anniversary Version, Great Job?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 440912,
+        "showTitle": "Tim and Eric Awesome Show, Great Job! Awesome 10 Year Anniversary Version, Great Job?"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T05:00:00-04:00",
+        "episodeTitle": "Blackout Window Heat Stroke",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T05:15:00-04:00",
+        "episodeTitle": "The Unnamed One",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-08-27T00:00:00-04:00",
+        "datetime": "2017-08-28T05:30:00-04:00",
+        "episodeTitle": "When Cotton Comes Marching Home",
+        "rating": "TV-PG DL",
+        "seasonNumber": 5,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

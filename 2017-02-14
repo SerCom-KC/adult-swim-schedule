@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-14T21:00:00-05:00",
+        "episodeTitle": "Wife Insurance",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-14T21:30:00-05:00",
+        "episodeTitle": "May the Best Stan Win",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-14T22:00:00-05:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-14T22:30:00-05:00",
+        "episodeTitle": "Can't Buy Me Math",
+        "rating": "TV-PG DLSV",
+        "seasonNumber": 5,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-14T23:00:00-05:00",
+        "episodeTitle": "Valentine's Day in Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-14T23:30:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T00:00:00-05:00",
+        "episodeTitle": "Two Weeks Without Food",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T00:15:00-05:00",
+        "episodeTitle": "But Not in That Way",
+        "rating": "TV-MA ",
+        "seasonNumber": 4,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T00:30:00-05:00",
+        "episodeTitle": "Dummy Love",
+        "rating": "TV-MA ",
+        "seasonNumber": 5,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T00:45:00-05:00",
+        "episodeTitle": "Robositter",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T01:00:00-05:00",
+        "episodeTitle": "Wink Martindale & Sarah Burns",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T01:15:00-05:00",
+        "episodeTitle": "Dam",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T01:30:00-05:00",
+        "episodeTitle": "Wife Insurance",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T02:00:00-05:00",
+        "episodeTitle": "May the Best Stan Win",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 5,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T02:30:00-05:00",
+        "episodeTitle": "My Fuzzy Valentine",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T03:00:00-05:00",
+        "episodeTitle": "Valentine's Day in Quahog",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T03:30:00-05:00",
+        "episodeTitle": "Boopa-Dee Bappa Dee",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 12,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T04:00:00-05:00",
+        "episodeTitle": "\"The S*** That Killed the King\" or \"Weekend at Presley's\"",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 379912,
+        "showTitle": "Black Dynamite"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T04:30:00-05:00",
+        "episodeTitle": "Wink Martindale & Sarah Burns",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T04:45:00-05:00",
+        "episodeTitle": "Dam",
+        "rating": "TV-PG ",
+        "seasonNumber": 4,
+        "showID": 304555,
+        "showTitle": "Space Ghost Coast To Coast"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T05:00:00-05:00",
+        "episodeTitle": "Here Comes the Bribe",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-02-14T00:00:00-05:00",
+        "datetime": "2017-02-15T05:30:00-05:00",
+        "episodeTitle": "I'm with Cupid",
+        "rating": "TV-PG DL",
+        "seasonNumber": 6,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

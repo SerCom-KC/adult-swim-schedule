@@ -1,0 +1,200 @@
+[
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-05T21:00:00-04:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-05T21:30:00-04:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-05T22:00:00-04:00",
+        "episodeTitle": "42-Year-Old Virgin",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-05T22:30:00-04:00",
+        "episodeTitle": "Surro-Gate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-05T23:00:00-04:00",
+        "episodeTitle": "And Then There Were Fewer Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T00:00:00-04:00",
+        "episodeTitle": "President Evil",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T00:15:00-04:00",
+        "episodeTitle": "Chirlaxx",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T00:30:00-04:00",
+        "episodeTitle": "Eggball",
+        "rating": "TV-MA ",
+        "seasonNumber": 7,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T00:45:00-04:00",
+        "episodeTitle": "Keeping it in the Family Way",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 6,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T01:00:00-04:00",
+        "episodeTitle": "The Budding of the Warbuxx",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T01:15:00-04:00",
+        "episodeTitle": "Girlfriendklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T01:30:00-04:00",
+        "episodeTitle": "And Then There Were Fewer Part 1 & 2",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 9,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T02:30:00-04:00",
+        "episodeTitle": "Beefsquatch",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T03:00:00-04:00",
+        "episodeTitle": "Surro-Gate",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 3,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T03:30:00-04:00",
+        "episodeTitle": "President Evil",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T03:45:00-04:00",
+        "episodeTitle": "Chirlaxx",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T04:00:00-04:00",
+        "episodeTitle": "In Search of Miracle Man",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 401352,
+        "showTitle": "Infomercials"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T04:15:00-04:00",
+        "episodeTitle": "Family Dies",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 379036,
+        "showTitle": "NTSF:SD:SUV::"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T04:30:00-04:00",
+        "episodeTitle": "The Budding of the Warbuxx",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 347964,
+        "showTitle": "Superjail"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T04:45:00-04:00",
+        "episodeTitle": "Girlfriendklok",
+        "rating": "TV-MA ",
+        "seasonNumber": 1,
+        "showID": 341865,
+        "showTitle": "Metalocalypse"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T05:00:00-04:00",
+        "episodeTitle": "Buried Pleasure",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2015-05-05T00:00:00-04:00",
+        "datetime": "2015-05-06T05:30:00-04:00",
+        "episodeTitle": "Dale Be Not Proud",
+        "rating": "TV-PG L",
+        "seasonNumber": 8,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

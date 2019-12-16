@@ -1,0 +1,236 @@
+[
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-08T21:00:00-05:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-08T21:15:00-05:00",
+        "episodeTitle": "For the Troops",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-08T21:30:00-05:00",
+        "episodeTitle": "Daesong Heavy Industries II: Return to Innocence",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-08T22:00:00-05:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-08T22:30:00-05:00",
+        "episodeTitle": "Tom Tucker: The Man and His Dream",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-08T23:00:00-05:00",
+        "episodeTitle": "Be Careful What You Fish For",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-08T23:30:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T00:00:00-05:00",
+        "episodeTitle": "The Shrimp Gang are Back",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T00:15:00-05:00",
+        "episodeTitle": "The Big Night In",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T00:30:00-05:00",
+        "episodeTitle": "Gabey, Calvin and Stu",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T00:45:00-05:00",
+        "episodeTitle": "Bringing Up Beezor",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 371535,
+        "showTitle": "Eagleheart"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T01:00:00-05:00",
+        "episodeTitle": "Tigtone and His Manless Match",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T01:15:00-05:00",
+        "episodeTitle": "Tigtone and the Cemetery of the Dead",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T01:30:00-05:00",
+        "episodeTitle": "Daesong Heavy Industries II: Return to Innocence",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T02:00:00-05:00",
+        "episodeTitle": "Tom Tucker: The Man and His Dream",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T02:30:00-05:00",
+        "episodeTitle": "Be Careful What You Fish For",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T03:00:00-05:00",
+        "episodeTitle": "Anatomy Park",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 1,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T03:30:00-05:00",
+        "episodeTitle": "The Shrimp Gang are Back",
+        "rating": "TV-MA LV",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T03:45:00-05:00",
+        "episodeTitle": "The Big Night In",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449992,
+        "showTitle": "Tropical Cop Tales"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T04:00:00-05:00",
+        "episodeTitle": "As Seen On Adult Swim - 2/08/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449334,
+        "showTitle": "As Seen on Adult Swim"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T04:15:00-05:00",
+        "episodeTitle": "Development Meeting - 1/31/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 449335,
+        "showTitle": "Development Meeting"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T04:30:00-05:00",
+        "episodeTitle": "Tigtone and His Manless Match",
+        "rating": "TV-14 LV",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T04:45:00-05:00",
+        "episodeTitle": "Tigtone and the Cemetery of the Dead",
+        "rating": "TV-14 V",
+        "seasonNumber": 1,
+        "showID": 448012,
+        "showTitle": "Tigtone"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T05:00:00-05:00",
+        "episodeTitle": "What's That Gnoise?",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T05:15:00-05:00",
+        "episodeTitle": "For the Troops",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-02-08T00:00:00-05:00",
+        "datetime": "2019-02-09T05:30:00-05:00",
+        "episodeTitle": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 11,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    }
+]

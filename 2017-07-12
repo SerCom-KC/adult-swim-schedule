@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-12T21:00:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-12T21:30:00-04:00",
+        "episodeTitle": "Bush Comes to Dinner",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-12T22:00:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-12T22:30:00-04:00",
+        "episodeTitle": "Gayle Makin' Bob Sled",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-12T23:00:00-04:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-12T23:30:00-04:00",
+        "episodeTitle": "He's Too Sexy for His Fat",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T00:00:00-04:00",
+        "episodeTitle": "Auto Erotic Assimilation",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T00:30:00-04:00",
+        "episodeTitle": "The End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T00:45:00-04:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T01:00:00-04:00",
+        "episodeTitle": "Webnecks",
+        "rating": "TV-14 LV",
+        "seasonNumber": 3,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T01:15:00-04:00",
+        "episodeTitle": "Serial Killers",
+        "rating": "TV-MA V",
+        "seasonNumber": 2,
+        "showID": 398292,
+        "showTitle": "Mr. Pickles"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T01:30:00-04:00",
+        "episodeTitle": "The Hauntening",
+        "rating": "TV-PG ",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T02:00:00-04:00",
+        "episodeTitle": "Gayle Makin' Bob Sled",
+        "rating": "TV-PG L",
+        "seasonNumber": 6,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T02:30:00-04:00",
+        "episodeTitle": "There's Something About Paulie",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T03:00:00-04:00",
+        "episodeTitle": "He's Too Sexy for His Fat",
+        "rating": "TV-14 D",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T03:30:00-04:00",
+        "episodeTitle": "The Best Christmas Story Never Told",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T04:00:00-04:00",
+        "episodeTitle": "Bark Bark Yum Yum",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 1,
+        "showID": 422952,
+        "showTitle": "Neon Joe"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T04:30:00-04:00",
+        "episodeTitle": "The End",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 1,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T04:45:00-04:00",
+        "episodeTitle": "Losin' the Wobble",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 331864,
+        "showTitle": "Robot Chicken"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T05:00:00-04:00",
+        "episodeTitle": "Fist and the Furious",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 4,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-07-12T00:00:00-04:00",
+        "datetime": "2017-07-13T05:30:00-04:00",
+        "episodeTitle": "Uh-Oh Canada",
+        "rating": "TV-PG DL",
+        "seasonNumber": 13,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]

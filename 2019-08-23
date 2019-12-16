@@ -1,0 +1,209 @@
+[
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-23T21:00:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-23T21:30:00-04:00",
+        "episodeTitle": "The King Is Dead",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-23T22:00:00-04:00",
+        "episodeTitle": "The Story of Catcher Freeman",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-23T22:30:00-04:00",
+        "episodeTitle": "The Story of Gangstalicious",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-23T23:00:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-23T23:30:00-04:00",
+        "episodeTitle": "Muscadine Wine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T00:00:00-04:00",
+        "episodeTitle": "Accordian Jim",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T00:15:00-04:00",
+        "episodeTitle": "Amnesia",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T00:30:00-04:00",
+        "episodeTitle": "The Hannibal Buress Show",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T00:45:00-04:00",
+        "episodeTitle": "Wiz Khalifa; Aubrey Peeples",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 386452,
+        "showTitle": "Eric Andre Show"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T01:00:00-04:00",
+        "episodeTitle": "Broken Wings",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T01:15:00-04:00",
+        "episodeTitle": "Ring of Fire",
+        "rating": "TV-14 DL",
+        "seasonNumber": 3,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T01:30:00-04:00",
+        "episodeTitle": "Top of the Steve",
+        "rating": "TV-14 DL",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T02:00:00-04:00",
+        "episodeTitle": "Death Is a Bitch",
+        "rating": "TV-14 SV",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T02:30:00-04:00",
+        "episodeTitle": "The King Is Dead",
+        "rating": "TV-14 ",
+        "seasonNumber": 2,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T03:00:00-04:00",
+        "episodeTitle": "Interdimensional Cable 2: Tempting Fate",
+        "rating": "TV-MA L",
+        "seasonNumber": 2,
+        "showID": 401312,
+        "showTitle": "Rick and Morty"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T03:30:00-04:00",
+        "episodeTitle": "Muscadine Wine",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 12,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T04:00:00-04:00",
+        "episodeTitle": "FishCenter - 8/23/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 415552,
+        "showTitle": "FishCenter"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T04:15:00-04:00",
+        "episodeTitle": "Bloodfeast - 8/23/2019",
+        "rating": "TV-MA L",
+        "seasonNumber": 3,
+        "showID": 449332,
+        "showTitle": "Bloodfeast"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T04:30:00-04:00",
+        "episodeTitle": "Accordian Jim",
+        "rating": "TV-14 LV",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T04:45:00-04:00",
+        "episodeTitle": "Amnesia",
+        "rating": "TV-14 DL",
+        "seasonNumber": 2,
+        "showID": 431912,
+        "showTitle": "DREAM CORP LLC"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T05:00:00-04:00",
+        "episodeTitle": "Funnyish Games",
+        "rating": "TV-14 DLV",
+        "seasonNumber": 13,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2019-08-23T00:00:00-04:00",
+        "datetime": "2019-08-24T05:30:00-04:00",
+        "episodeTitle": "VIII",
+        "rating": "TV-Y7-FV ",
+        "seasonNumber": 1,
+        "showID": 318983,
+        "showTitle": "Samurai Jack "
+    }
+]

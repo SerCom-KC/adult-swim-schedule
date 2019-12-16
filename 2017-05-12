@@ -1,0 +1,191 @@
+[
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-12T21:00:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-12T21:30:00-04:00",
+        "episodeTitle": "Finger Lenting Good",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-12T22:00:00-04:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-12T22:30:00-04:00",
+        "episodeTitle": "Sheesh! Cab, Bob?",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-12T23:00:00-04:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-12T23:30:00-04:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T00:00:00-04:00",
+        "episodeTitle": "Life is But a Dream",
+        "rating": "TV-14 DLS",
+        "seasonNumber": 2,
+        "showID": 411252,
+        "showTitle": "Mike Tyson Mysteries"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T00:15:00-04:00",
+        "episodeTitle": "The S Word",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T00:45:00-04:00",
+        "episodeTitle": "The Last Last One Forever and Ever",
+        "rating": "TV-MA ",
+        "seasonNumber": 6,
+        "showID": 316905,
+        "showTitle": "Aqua Teen "
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T01:00:00-04:00",
+        "episodeTitle": "The Inkubator Lives!",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 330849,
+        "showTitle": "Squidbillies"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T01:15:00-04:00",
+        "episodeTitle": "Eddie the Demon",
+        "rating": "TV-MA ",
+        "seasonNumber": 3,
+        "showID": 374612,
+        "showTitle": "Your Pretty Face is Going to Hell"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T01:30:00-04:00",
+        "episodeTitle": "Hamburger Dinner Theater",
+        "rating": "TV-PG DLV",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T02:00:00-04:00",
+        "episodeTitle": "Sheesh! Cab, Bob?",
+        "rating": "TV-PG DLS",
+        "seasonNumber": 1,
+        "showID": 395593,
+        "showTitle": "Bob's Burgers"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T02:30:00-04:00",
+        "episodeTitle": "Grumpy Old Man",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T03:00:00-04:00",
+        "episodeTitle": "Quagmire and Meg",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 10,
+        "showID": 325795,
+        "showTitle": "Family Guy"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T03:30:00-04:00",
+        "episodeTitle": "National Treasure 4: Baby Franny: She's Doing Well: The Hole Story",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 8,
+        "showID": 332142,
+        "showTitle": "American Dad"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T04:00:00-04:00",
+        "episodeTitle": "Toonami - 5/12/2017",
+        "rating": "TV-MA L",
+        "seasonNumber": 1,
+        "showID": 437752,
+        "showTitle": "Williams Stream"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T04:15:00-04:00",
+        "episodeTitle": "The Coffee Machine Paid for Itself",
+        "rating": "TV-14 L",
+        "seasonNumber": 2,
+        "showID": 368653,
+        "showTitle": "Childrens Hospital"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T04:30:00-04:00",
+        "episodeTitle": "The S Word",
+        "rating": "TV-MA ",
+        "seasonNumber": 2,
+        "showID": 336141,
+        "showTitle": "The Boondocks"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T05:00:00-04:00",
+        "episodeTitle": "Beer Walk",
+        "rating": "TV-14 DLSV",
+        "seasonNumber": 2,
+        "showID": 370973,
+        "showTitle": "The Cleveland Show"
+    },
+    {
+        "date": "2017-05-12T00:00:00-04:00",
+        "datetime": "2017-05-13T05:30:00-04:00",
+        "episodeTitle": "Death Buys a Timeshare",
+        "rating": "TV-PG L",
+        "seasonNumber": 9,
+        "showID": 359714,
+        "showTitle": "King Of the Hill"
+    }
+]
