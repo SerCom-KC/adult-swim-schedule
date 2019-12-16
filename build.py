@@ -98,8 +98,8 @@ def generate():
         except Exception:
             continue
     if json_past["status"] != "ok" or json_future["status"] != "ok": return -1
-    json_showings = set(json_past["data"] + json_future["data"])
-    if json_showings == set(): return -1
+    json_showings = frozenset(json_past["data"] + json_future["data"])
+    if json_showings == frozenset(): return -1
     as_schedules = {}
     for json_showing in json_showings:
         title = json_showing["showTitle"].strip()
