@@ -4,7 +4,7 @@
 import requests
 import time
 import os
-from datetime import datetime
+from datetime import datetime, date
 import pytz
 import re
 import json
@@ -94,7 +94,6 @@ def generate():
     if json_past["status"] != "ok" or json_future["status"] != "ok": return -1
     json_showings = json_past["data"] + json_future["data"]
     if json_showings == []: return -1
-    json_showings = {frozenset(json_showing.items()): json_showing for json_showing in json_showings}.values()
     as_schedules = {}
     for json_showing in json_showings:
         title = json_showing["showTitle"].strip()
@@ -106,7 +105,7 @@ def generate():
         date_str = json_showing["date"][:10]
         if date_str not in as_schedules:
             as_schedules[date_str] = [as_show]
-        else:
+        else if as_show not in as_schedules[date_str]:
             as_schedules[date_str].append(as_show)
 
     for date_str in as_schedules.keys():
