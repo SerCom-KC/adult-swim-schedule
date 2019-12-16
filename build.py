@@ -90,40 +90,37 @@ def generate():
     # JSON schedule
     json_days_limit = 30
     url = "https://www.adultswim.com/api/schedule/onair"
-    json_days = 1
-    json_prev = {"status": "ok", "count": 0, "timestamp": 0, "data": []}
-    while json_days <= json_days_limit:
-        print("Fetching %s?days=%s" % (url, json_days))
-        while True:
-            try:
-                json_curr = s.get(url, params={"days": json_days}, timeout=30).json()
-                break
-            except Exception:
-                continue
-        if json_curr["status"] != "ok": break
-        if json_curr["count"] == json_prev["count"]: break
-        json_showings = [showing for showing in json_curr["data"] if showing not in json_prev["data"]]
-        as_shows = []
-        for json_showing in json_showings:
-            title = json_showing["showTitle"].strip()
-            episodeName = json_showing["episodeTitle"]
-            if "rating" in json_showing:
-                rating = json_showing["rating"].replace(" ", "")
-            else: # https://web.archive.org/web/20190113153055id_/https://www.adultswim.com/api/schedule/onair?days=7 (Dragon Ball Super - The Evil Emperor Returns! A Reception from Mysterious Assassins?! at 11pm on Jan 19)
-                rating = ""
-            airtime_dt = pytz.timezone("US/Eastern").localize(datetime.strptime(json_showing["datetime"][:19], '%Y-%m-%dT%H:%M:%S'))
-            airtime = int(airtime_dt.timestamp())
-            as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
-            as_shows.append(as_show)
-        date_str = json_showings[0]["datetime"][:10]
+    while True:
+        try:
+            json_past = s.get(url, params={"days": 0 - json_days_limit}, timeout=30).json()
+            json_future = s.get(url, params={"days": json_days_limit}, timeout=30).json()
+            break
+        except Exception:
+            continue
+    if json_past["status"] != "ok" or json_future["status"] != "ok": break
+    json_showings = set(json_past["data"] + json_future["data"])
+    if json_showings == set(): break
+    as_schedules = {}
+    for json_showing in json_showings:
+        title = json_showing["showTitle"].strip()
+        episodeName = json_showing["episodeTitle"]
+        rating = json_showing.get("rating", "").replace(" ", "") # https://web.archive.org/web/20190113153055id_/https://www.adultswim.com/api/schedule/onair?days=7 (Dragon Ball Super - The Evil Emperor Returns! A Reception from Mysterious Assassins?! at 11pm on Jan 19)
+        airtime_dt = pytz.timezone("US/Eastern").localize(datetime.strptime(json_showing["datetime"][:19], '%Y-%m-%dT%H:%M:%S'))
+        airtime = int(airtime_dt.timestamp())
+        as_show = {"show": title, "episode": episodeName, "rating": rating, "airtime": airtime}
+        date_str = json_showing["date"][:10]
+        if date_str not in as_schedules:
+            as_schedules[date_str] = [as_show]
+        else:
+            as_schedules[date_str].append(as_show)
+
+    for date_str in as_schedules.keys():
+        as_shows = as_schedules[date_str]
         result = {"date": date_str, "data": as_shows}
         print('Writing schedule of %s to file' % (date_str))
-        file = open('master/' + date_str, 'w+')
-        file.write(json.dumps(result))
-        file.close()
+        with open('master/' + date_str, 'w+') as file:
+            json.dump(result, file)
         schedules.append(date_str)
-        json_days += 1
-        json_prev = json_curr
 
     print('\033[32mSchedule generation completed successfully!\033[0m')
     manifest(schedules)
