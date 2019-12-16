@@ -10,7 +10,7 @@ since jan 4, 2019 both cartoon network and \[adult swim\] no longer maintain the
 created by [someone](https://github.com/SerCom-KC) using a little bit of [this](https://www.python.org/) and a little bit of [that](https://travis-ci.org/) on a bored-but-not-halloween evening.  
 since the [original one](https://swimpedia.net/oldsched/) is under manual update mode at the moment, this project aims to make eveything back to automation again... maybe with archives of old schedules* as well?
 
-\* as long as github allows us to do so
+\* as long as github allows us to do so; **please note that any schedule before september 30, 2019 might not be accurate as they don't include possible last-minute changes.**
 
 ## but yours is not a human-readable web page!
 who said that? it's right [there](https://adultswim.sercomkc.org).  
