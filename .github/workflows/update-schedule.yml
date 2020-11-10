@@ -1,0 +1,49 @@
+﻿name: Update schedule data from [adult swim] API
+
+on:
+  push:
+    branches:
+      - source
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - name: Pull Python code
+        uses: actions/checkout@v2
+        with:
+          ref: source
+
+      - name: Pull existing schedule data
+        uses: actions/checkout@v2
+        with:
+          ref: master
+          path: master
+
+      - name: Install Python dependencies
+        run: |
+          pip3 install requests
+          pip3 install datetime
+          pip3 install pytz
+        
+      - name: Fetch latest schedule data
+        run: python3 build.py
+
+      - name: Detect changes
+        id: detect_changes
+        working-directory: master
+        run: if [ -n "$(git status --porcelain)" ]; then echo "::set-output name=changes_detected::yes"; fi
+
+      - name: Push changes back to repository
+        if: steps.detect_changes.outputs.changes_detected == 'yes'
+        working-directory: master
+        run: |
+          git config user.name '[adult swim] schedule API'
+          git config user.email 'turner.info@turner.com'
+          git config push.default simple
+          git add -A
+          git commit -m 'Schedule update'
+          git push
