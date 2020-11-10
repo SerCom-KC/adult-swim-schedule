@@ -3,7 +3,7 @@
 since jan 4, 2019 both cartoon network and \[adult swim\] no longer maintain the good old xml schedule, and they're completely gone on may 6, 2019. r.i.p.
 
 ## travis ci status
-[![Build Status]()](https://github.com/SerCom-KC/adult-swim-schedule/actions)  
+[![Build Status](https://github.com/SerCom-KC/adult-swim-schedule/workflows/Update%20schedule%20data%20from%20%5Badult%20swim%5D%20API/badge.svg?branch=source)](https://github.com/SerCom-KC/adult-swim-schedule/actions)  
 **make sure it says "build passing".** otherwise, you might looking at some outdated data. :P
 
 ## what is this?

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import requests
+import subprocess
 import time
 import os
 from datetime import datetime, date
@@ -155,7 +156,7 @@ def webpage():
             time_str = str(int(time_dt.strftime('%I'))) + time_dt.strftime(':%M') + time_dt.strftime('%p').lower()
             html_schedule += '<tr><td class="col-md-1 text-right vert-align"><b>' + time_str + '</b></td><td>' + show['show'] + '<br><small>"' + show['episode'] + '"</small></td><td class="col-md-2 vert-align">' + show['rating'] + '</td>'
         html_schedule += '</tbody></table></div>'
-    html = '<!DOCTYPE html><html><head><link rel="stylesheet" href="./bootstrap_min.css" media="screen"><script src="./jquery-3.2.1.min.js" type="text/javascript"></script><script src="./bootstrap.min.js" type="text/javascript"></script><title>yet another normal [adult swim] schedule</title></head><div class="container"><div class="page-header" id="banner"><h1>yet another normal [adult swim] schedule</h1><p class="lead">There is no "future" // Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + ' <img src="" alt="Build Status" /></p></div><div class="row"><div class="col-lg-3 col-md-4 col-sm-5"><ul class="nav nav-pills nav-stacked">'
+    html = '<!DOCTYPE html><html><head><link rel="stylesheet" href="./bootstrap_min.css" media="screen"><script src="./jquery-3.2.1.min.js" type="text/javascript"></script><script src="./bootstrap.min.js" type="text/javascript"></script><title>yet another normal [adult swim] schedule</title></head><div class="container"><div class="page-header" id="banner"><h1>yet another normal [adult swim] schedule</h1><p class="lead">There is no "future" // Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + ' <img src="https://github.com/SerCom-KC/adult-swim-schedule/workflows/Update%20schedule%20data%20from%20%5Badult%20swim%5D%20API/badge.svg?branch=source" alt="Build Status" /></p></div><div class="row"><div class="col-lg-3 col-md-4 col-sm-5"><ul class="nav nav-pills nav-stacked">'
     html += html_nav
     html += '</ul></div><div class="col-lg-9 col-md-8 col-sm-7 "><div id="schedule" class="tab-content">'
     html += html_schedule
